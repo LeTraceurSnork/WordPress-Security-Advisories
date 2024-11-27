@@ -181,6 +181,7 @@
         "wpackagist-plugin/wp-dbmanager": "<=2.80.7",
         "wpackagist-plugin/wp-ds-faq-plus": "<1.4.2",
         "wpackagist-plugin/wp-ecommerce-shop-styling": "<=2.9.1",
+        "wpackagist-plugin/wp-event-manager": "<3.1.28",
         "wpackagist-plugin/wp-file-upload": "<4.13.1",
         "wpackagist-plugin/wp-mail-smtp": "<=4.0.1",
         "wpackagist-plugin/wp-security-audit-log": "<4.0.2",
