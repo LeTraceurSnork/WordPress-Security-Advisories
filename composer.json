@@ -86,6 +86,7 @@
         "wpackagist-plugin/font-awesome": "<4.0.0-rc17",
         "wpackagist-plugin/forminator": "<=1.24.1",
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
+        "wpackagist-plugin/gallery-video": "<=2.0.3",
         "wpackagist-plugin/gboutique": "<=1.3",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
         "wpackagist-plugin/gift-voucher": "<=4.3.5",
