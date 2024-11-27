@@ -191,6 +191,7 @@
         "wpackagist-plugin/wpdiscuz": "<=7.6.18",
         "wpackagist-plugin/wpforms-lite": "<1.5.9",
         "wpackagist-plugin/wps-hide-login": "<1.5.5",
+        "wpackagist-plugin/wpstream": "<=4.4.10",
         "wpackagist-plugin/wpvivid-backuprestore": "<0.9.36",
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
         "wpackagist-plugin/yookassa": "<2.3.1",
