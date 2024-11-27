@@ -139,6 +139,7 @@
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/resim-ara": "<=1.0",
         "wpackagist-plugin/responsive-add-ons": "<2.2.6",
+        "wpackagist-plugin/ruven-toolkit": "<=2.0",
         "wpackagist-plugin/search-meter": "<2.13.2",
         "wpackagist-plugin/searchwp": "<=4.2.5",
         "wpackagist-plugin/seo-by-rank-math": "<1.0.41",
