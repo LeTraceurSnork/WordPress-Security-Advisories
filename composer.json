@@ -63,6 +63,7 @@
         "wpackagist-plugin/cookie-law-info": "<1.8.3",
         "wpackagist-plugin/cookiebot": "<3.6.1",
         "wpackagist-plugin/cross-linker": "<=3.0.1.9",
+        "wpackagist-plugin/custom-facebook-feed": "<4.1.1",
         "wpackagist-plugin/custom-post-type-ui": "<1.7.4",
         "wpackagist-plugin/custom-registration-form-builder-with-submission-manager": "<4.6.0.4",
         "wpackagist-plugin/custom-searchable-data-entry-system": "<=1.7.1",
