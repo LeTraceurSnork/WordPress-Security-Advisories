@@ -159,6 +159,7 @@
         "wpackagist-plugin/ultimate-member": "<=2.8.2 || >=2.1.3,<=2.8.2",
         "wpackagist-plugin/user-activity-log": "<=1.4.6",
         "wpackagist-plugin/user-submitted-posts": "<=20240319",
+        "wpackagist-plugin/username-updater": "<=1.0.3",
         "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<1.3.9",
         "wpackagist-plugin/vaultpress": "<=1.9",
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
