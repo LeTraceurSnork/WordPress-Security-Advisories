@@ -100,6 +100,7 @@
         "wpackagist-plugin/ipanorama-360-virtual-tour-builder-lite": "<1.8.0",
         "wpackagist-plugin/iworks-pwa": "<=1.6.3",
         "wpackagist-plugin/jetpack": "<13.9.1",
+        "wpackagist-plugin/kanban": "<=2.5.21",
         "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
         "wpackagist-plugin/learnpress": "<3.2.6.8",
         "wpackagist-plugin/lifterlms": "<3.37.15",
