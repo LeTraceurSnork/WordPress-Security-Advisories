@@ -72,6 +72,7 @@
         "wpackagist-plugin/duplicator": "<1.3.28",
         "wpackagist-plugin/easy-login-woocommerce": ">=2.7.1,<=2.7.2",
         "wpackagist-plugin/easy-property-listings": "<3.4",
+        "wpackagist-plugin/ebook-download": "<1.2",
         "wpackagist-plugin/edit-comments-xt": "<=1.0",
         "wpackagist-plugin/elementor": "<2.9.8",
         "wpackagist-plugin/email-subscribers": "<=4.3.0",
