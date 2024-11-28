@@ -77,6 +77,7 @@
         "wpackagist-plugin/email-subscribers": "<=4.3.0",
         "wpackagist-plugin/envira-gallery-lite": "<1.7.7",
         "wpackagist-plugin/events-manager": "<5.9.7.2",
+        "wpackagist-plugin/ewww-image-optimizer": "<=7.2.3",
         "wpackagist-plugin/export-users": "<=1.4.2",
         "wpackagist-plugin/fastly": "<=0.97",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
