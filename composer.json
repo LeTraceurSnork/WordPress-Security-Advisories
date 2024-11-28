@@ -73,6 +73,7 @@
         "wpackagist-plugin/easy-login-woocommerce": ">=2.7.1,<=2.7.2",
         "wpackagist-plugin/easy-property-listings": "<3.4",
         "wpackagist-plugin/edit-comments-xt": "<=1.0",
+        "wpackagist-plugin/editor-custom-color-palette": "<=3.3.7",
         "wpackagist-plugin/elementor": "<2.9.8",
         "wpackagist-plugin/email-subscribers": "<=4.3.0",
         "wpackagist-plugin/envira-gallery-lite": "<1.7.7",
