@@ -171,6 +171,7 @@
         "wpackagist-plugin/woocommerce": "<=9.1.2",
         "wpackagist-plugin/woocommerce-abandoned-cart": "<1.9",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
+        "wpackagist-plugin/woocommerce-payments": ">=3.9.0,<3.9.4 || >=4.0.0,<4.0.3 || >=4.1.0,<4.1.1 || >=4.2.0,<4.2.2 || >=4.3.0,<4.3.1 || >=4.4.0,<4.4.1 || 4.5.0",
         "wpackagist-plugin/wordfence": "<=7.6.0",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
         "wpackagist-plugin/wordpress-seo": "<=22.6",
