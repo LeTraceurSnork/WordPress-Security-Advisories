@@ -189,6 +189,7 @@
         "wpackagist-plugin/wp-staging": "<3.5.0",
         "wpackagist-plugin/wp-super-cache": "<1.9",
         "wpackagist-plugin/wpdiscuz": "<=7.6.18",
+        "wpackagist-plugin/wpextended": "<=3.0.8",
         "wpackagist-plugin/wpforms-lite": "<1.5.9",
         "wpackagist-plugin/wps-hide-login": "<1.5.5",
         "wpackagist-plugin/wpvivid-backuprestore": "<0.9.36",
