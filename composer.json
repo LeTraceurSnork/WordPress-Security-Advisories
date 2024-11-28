@@ -146,6 +146,7 @@
         "wpackagist-plugin/simple-code-insert-shortcode": "<=1.0",
         "wpackagist-plugin/site-favicon": "<=0.2",
         "wpackagist-plugin/sitepress-multilingual-cms": "<4.3.7",
+        "wpackagist-plugin/smart-forms": "<=2.6.93",
         "wpackagist-plugin/so-widgets-bundle": "<=1.62.2",
         "wpackagist-plugin/spiffy-calendar": "<=4.9.13",
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
