@@ -196,6 +196,7 @@
         "wpackagist-plugin/yookassa": "<2.3.1",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
         "wpackagist-theme/fruitful": "<3.8.2",
-        "wpackagist-theme/realestate-7": "<=3.3.4"
+        "wpackagist-theme/realestate-7": "<=3.3.4",
+        "wpackagist-theme/workreap": "<2.2.2"
     }
 }
