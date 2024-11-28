@@ -195,7 +195,19 @@
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
         "wpackagist-plugin/yookassa": "<2.3.1",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
+        "wpackagist-theme/alltuts": "<2.0",
+        "wpackagist-theme/boldy": "<2.0",
+        "wpackagist-theme/colorbold": "*",
+        "wpackagist-theme/designpile": "*",
+        "wpackagist-theme/diary": "<2.0",
         "wpackagist-theme/fruitful": "<3.8.2",
-        "wpackagist-theme/realestate-7": "<=3.3.4"
+        "wpackagist-theme/journalcrunch": "<2.0",
+        "wpackagist-theme/prosume": "<2.0",
+        "wpackagist-theme/realestate-7": "<=3.3.4",
+        "wpackagist-theme/rockwell": "*",
+        "wpackagist-theme/simplo": "*",
+        "wpackagist-theme/webfolio": "<2.0",
+        "wpackagist-theme/wise": "*",
+        "wpackagist-theme/xmas": "*"
     }
 }
