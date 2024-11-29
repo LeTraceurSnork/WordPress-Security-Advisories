@@ -173,7 +173,7 @@
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/wordfence": "<=7.6.0",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
-        "wpackagist-plugin/wordpress-seo": "<=22.6",
+        "wpackagist-plugin/wordpress-seo": "<=22.6 || <=1.5.6 || >=1.6,<=1.6.3 || >=1.7,<=1.7.3",
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
         "wpackagist-plugin/wp-central": "<1.5.2",
