@@ -177,6 +177,7 @@
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
         "wpackagist-plugin/wp-central": "<1.5.2",
+        "wpackagist-plugin/wp-cerber": "<=9.0",
         "wpackagist-plugin/wp-contact-sidebar-widget": "<=1.0",
         "wpackagist-plugin/wp-dbmanager": "<=2.80.7",
         "wpackagist-plugin/wp-ds-faq-plus": "<1.4.2",
