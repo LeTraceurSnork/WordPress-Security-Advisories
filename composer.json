@@ -108,6 +108,7 @@
         "wpackagist-plugin/login-with-phone-number": "<=1.7.26",
         "wpackagist-plugin/mapster-wp-maps": "<=1.6.0",
         "wpackagist-plugin/meta-box": "<=5.9.10",
+        "wpackagist-plugin/meteor-slides": "<=1.5.6",
         "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<6.24.2",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
         "wpackagist-plugin/mobile-login-woocommerce": "<=2.6.1",
