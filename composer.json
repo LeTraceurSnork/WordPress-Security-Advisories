@@ -102,6 +102,7 @@
         "wpackagist-plugin/jetpack": "<13.9.1",
         "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
         "wpackagist-plugin/learnpress": "<3.2.6.8",
+        "wpackagist-plugin/leenkme": "<=2.16.0",
         "wpackagist-plugin/lifterlms": "<3.37.15",
         "wpackagist-plugin/likebtn-like-button": "<=2.6.53",
         "wpackagist-plugin/live-scores-for-sportspress": "<=1.9.0",
