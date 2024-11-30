@@ -138,6 +138,7 @@
         "wpackagist-plugin/participants-database": "<1.9.5.6",
         "wpackagist-plugin/performance-lab": "<2.3.0",
         "wpackagist-plugin/photo-gallery": "<1.5.46 || <=1.8.21",
+        "wpackagist-plugin/podlove-podcasting-plugin-for-wordpress": "<=3.8.3",
         "wpackagist-plugin/popup-anything-on-click": "<2.2.2",
         "wpackagist-plugin/popup-builder": "<3.65.2",
         "wpackagist-plugin/portfolio-filter-gallery": "<1.1.3",
