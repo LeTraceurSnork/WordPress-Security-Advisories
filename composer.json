@@ -152,6 +152,7 @@
         "wpackagist-plugin/quick-pagepost-redirect-plugin": "<=5.1.9",
         "wpackagist-plugin/related-post": "<2.0.54",
         "wpackagist-plugin/relevanssi": "<=4.22.1",
+        "wpackagist-plugin/relevanssi-live-ajax-search": "<=2.4",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/resim-ara": "<=1.0",
         "wpackagist-plugin/responsive-add-ons": "<2.2.6",
