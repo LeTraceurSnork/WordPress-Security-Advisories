@@ -172,6 +172,10 @@
         "wpackagist-plugin/tabs-for-visual-composer": "<=1.2",
         "wpackagist-plugin/taxonomy-terms-order": "<1.5.3",
         "wpackagist-plugin/testimonial-free": "<2.2.0",
+        "wpackagist-plugin/theme-blvd-layout-builder": "<=2.0.1",
+        "wpackagist-plugin/theme-blvd-shortcodes": "<=1.5.2",
+        "wpackagist-plugin/theme-blvd-sliders": "<=1.2.3",
+        "wpackagist-plugin/theme-blvd-widget-areas": "<=1.2.2",
         "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
         "wpackagist-plugin/titan-framework": "<1.6",
         "wpackagist-plugin/tutor": "<1.5.3",
@@ -222,8 +226,15 @@
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
         "wpackagist-plugin/yookassa": "<2.3.1",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
+        "wpackagist-theme/akita": "<=2.1.4",
+        "wpackagist-theme/alyeska": "<=3.1.4",
+        "wpackagist-theme/arcadian": "<=2.0.5",
+        "wpackagist-theme/barelycorporate": "<=4.1.4",
+        "wpackagist-theme/commodore": "<=3.0.2",
         "wpackagist-theme/flatsome": "<=3.18.7",
         "wpackagist-theme/fruitful": "<3.8.2",
-        "wpackagist-theme/realestate-7": "<=3.3.4"
+        "wpackagist-theme/jumpstart": "<=1.2.4",
+        "wpackagist-theme/realestate-7": "<=3.3.4",
+        "wpackagist-theme/swagger": "<=2.1.4"
     }
 }
