@@ -171,6 +171,7 @@
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
         "wpackagist-plugin/tabs-for-visual-composer": "<=1.2",
         "wpackagist-plugin/taxonomy-terms-order": "<1.5.3",
+        "wpackagist-plugin/td-composer": "<3.5",
         "wpackagist-plugin/testimonial-free": "<2.2.0",
         "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
         "wpackagist-plugin/titan-framework": "<1.6",
@@ -224,6 +225,8 @@
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
         "wpackagist-theme/flatsome": "<=3.18.7",
         "wpackagist-theme/fruitful": "<3.8.2",
+        "wpackagist-theme/newsmag": "<=5.2.1",
+        "wpackagist-theme/newspaper": "<=12",
         "wpackagist-theme/realestate-7": "<=3.3.4"
     }
 }
