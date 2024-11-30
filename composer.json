@@ -94,6 +94,7 @@
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
         "wpackagist-plugin/gift-voucher": "<=4.3.5",
         "wpackagist-plugin/header-footer-code-manager": "<1.1.14",
+        "wpackagist-plugin/header-footer-elementor": "<=1.6.35",
         "wpackagist-plugin/health-check": "<1.6.0",
         "wpackagist-plugin/ht-mega-for-elementor": "<=2.4.6",
         "wpackagist-plugin/htaccess": "<1.8.2",
