@@ -62,6 +62,7 @@
         "wpackagist-plugin/contact-form-7": "<=5.9.4",
         "wpackagist-plugin/contextual-adminbar-color": "<0.3",
         "wpackagist-plugin/conversation-watson": "<0.8.21",
+        "wpackagist-plugin/convertplug": "<=3.5.26",
         "wpackagist-plugin/cookie-law-info": "<1.8.3",
         "wpackagist-plugin/cookiebot": "<3.6.1",
         "wpackagist-plugin/cross-linker": "<=3.0.1.9",
