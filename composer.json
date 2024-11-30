@@ -105,6 +105,7 @@
         "wpackagist-plugin/inline-click-to-tweet": "<=1.0.0",
         "wpackagist-plugin/ipanorama-360-virtual-tour-builder-lite": "<1.8.0",
         "wpackagist-plugin/iworks-pwa": "<=1.6.3",
+        "wpackagist-plugin/iws-geo-form-fields": "<=1.0",
         "wpackagist-plugin/jetpack": "<13.9.1",
         "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
         "wpackagist-plugin/layerslider": "<6.2.1",
