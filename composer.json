@@ -68,6 +68,7 @@
         "wpackagist-plugin/custom-post-type-ui": "<1.7.4",
         "wpackagist-plugin/custom-registration-form-builder-with-submission-manager": "<4.6.0.4",
         "wpackagist-plugin/custom-searchable-data-entry-system": "<=1.7.1",
+        "wpackagist-plugin/custom-twitter-feeds": "<=2.1.2",
         "wpackagist-plugin/data-tables-generator-by-supsystic": "<1.9.92",
         "wpackagist-plugin/disable-comments": "<1.0.4",
         "wpackagist-plugin/donorbox-donation-form": ">=7.1,<7.1.2",
