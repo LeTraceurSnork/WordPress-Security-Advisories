@@ -222,8 +222,13 @@
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
         "wpackagist-plugin/yookassa": "<2.3.1",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
+        "wpackagist-theme/amela": "<=1.0.13",
+        "wpackagist-theme/arendelle": "<=1.1.12",
+        "wpackagist-theme/everse": "<=1.8.10",
         "wpackagist-theme/flatsome": "<=3.18.7",
         "wpackagist-theme/fruitful": "<3.8.2",
+        "wpackagist-theme/medikaid": "<=1.1.2",
+        "wpackagist-theme/nokke": "<=1.2.3",
         "wpackagist-theme/realestate-7": "<=3.3.4"
     }
 }
