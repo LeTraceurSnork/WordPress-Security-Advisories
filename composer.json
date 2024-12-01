@@ -122,6 +122,7 @@
         "wpackagist-plugin/meta-box": "<=5.9.10",
         "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<6.24.2",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
+        "wpackagist-plugin/miwoftp": "<1.0.6",
         "wpackagist-plugin/mobile-login-woocommerce": "<=2.6.1",
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
         "wpackagist-plugin/modula-best-grid-gallery": "<2.2.5",
