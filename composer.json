@@ -41,6 +41,7 @@
         "wpackagist-plugin/awesome-support": "<=5.8.0",
         "wpackagist-plugin/backup-backup": "<1.3.0",
         "wpackagist-plugin/batchmove": "<=1.5",
+        "wpackagist-plugin/bb-ultimate-addon": "<=1.35.14",
         "wpackagist-plugin/bbp-members-only": ">=1,<1.3.1",
         "wpackagist-plugin/bbpress": "<2.6.5",
         "wpackagist-plugin/bbpress-login-register-links-on-forum-topic-pages": ">=2,<2.8.5",
