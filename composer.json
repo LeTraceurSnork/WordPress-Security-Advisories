@@ -39,6 +39,7 @@
         "wpackagist-plugin/async-javascript": "<2.20.02.27",
         "wpackagist-plugin/auth0": "<3.11.3",
         "wpackagist-plugin/awesome-support": "<=5.8.0",
+        "wpackagist-plugin/awesome-weather": "<=3.0.2",
         "wpackagist-plugin/backup-backup": "<1.3.0",
         "wpackagist-plugin/batchmove": "<=1.5",
         "wpackagist-plugin/bbp-members-only": ">=1,<1.3.1",
