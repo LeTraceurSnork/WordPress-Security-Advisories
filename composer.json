@@ -49,6 +49,7 @@
         "wpackagist-plugin/brizy": "<1.0.114",
         "wpackagist-plugin/buddypress": "<14.2.1 || <=7.2.0",
         "wpackagist-plugin/buddypress-component-stats": "<=1.0",
+        "wpackagist-plugin/buddypress-global-search": "<=1.2.1",
         "wpackagist-plugin/button-contact-vr": "<=4.7",
         "wpackagist-plugin/calculated-fields-form": "<1.0.355",
         "wpackagist-plugin/calendar-plugin": "<=1.0",
