@@ -220,6 +220,7 @@
         "wpackagist-plugin/wps-hide-login": "<1.5.5",
         "wpackagist-plugin/wpvivid-backuprestore": "<0.9.36",
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
+        "wpackagist-plugin/yith-woocommerce-compare": "<=2.37.0",
         "wpackagist-plugin/yookassa": "<2.3.1",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
         "wpackagist-theme/flatsome": "<=3.18.7",
