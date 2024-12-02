@@ -66,7 +66,7 @@
         "wpackagist-plugin/cookiebot": "<3.6.1",
         "wpackagist-plugin/cross-linker": "<=3.0.1.9",
         "wpackagist-plugin/custom-post-type-ui": "<1.7.4",
-        "wpackagist-plugin/custom-registration-form-builder-with-submission-manager": "<4.6.0.4",
+        "wpackagist-plugin/custom-registration-form-builder-with-submission-manager": "<4.6.0.4 || <=5.3.0.0",
         "wpackagist-plugin/custom-searchable-data-entry-system": "<=1.7.1",
         "wpackagist-plugin/data-tables-generator-by-supsystic": "<1.9.92",
         "wpackagist-plugin/disable-comments": "<1.0.4",
