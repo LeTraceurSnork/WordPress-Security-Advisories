@@ -213,6 +213,7 @@
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7",
         "wpackagist-plugin/wp-socializer": "<=7.2",
         "wpackagist-plugin/wp-staging": "<3.5.0",
+        "wpackagist-plugin/wp-statistics": "<9.1.3",
         "wpackagist-plugin/wp-super-cache": "<1.9",
         "wpackagist-plugin/wp-travel-engine": "<=5.9.1",
         "wpackagist-plugin/wpdiscuz": "<=7.6.18",
