@@ -44,6 +44,7 @@
         "wpackagist-plugin/bbp-members-only": ">=1,<1.3.1",
         "wpackagist-plugin/bbpress": "<2.6.5",
         "wpackagist-plugin/bbpress-login-register-links-on-forum-topic-pages": ">=2,<2.8.5",
+        "wpackagist-plugin/bft-autoresponder": "*",
         "wpackagist-plugin/blogtopdf": "<=1.0.2",
         "wpackagist-plugin/breadcrumb-navxt": "<=6.1.0",
         "wpackagist-plugin/brizy": "<1.0.114",
