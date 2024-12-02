@@ -179,6 +179,7 @@
         "wpackagist-plugin/ultimate-member": "<=2.8.2 || >=2.1.3,<=2.8.2",
         "wpackagist-plugin/unusedcss": "<=1.7.1",
         "wpackagist-plugin/user-activity-log": "<=1.4.6",
+        "wpackagist-plugin/user-shortcodes-plus": "<=2.0.2",
         "wpackagist-plugin/user-submitted-posts": "<=20240319",
         "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<1.3.9",
         "wpackagist-plugin/vaultpress": "<=1.9",
