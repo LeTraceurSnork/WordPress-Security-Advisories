@@ -224,6 +224,7 @@
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
         "wpackagist-theme/flatsome": "<=3.18.7",
         "wpackagist-theme/fruitful": "<3.8.2",
-        "wpackagist-theme/realestate-7": "<=3.3.4"
+        "wpackagist-theme/realestate-7": "<=3.3.4",
+        "wpackagist-theme/tweaker5": "<=1.2"
     }
 }
