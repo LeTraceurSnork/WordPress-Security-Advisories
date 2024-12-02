@@ -116,6 +116,7 @@
         "wpackagist-plugin/login-with-phone-number": "<=1.7.26",
         "wpackagist-plugin/loginizer": "<1.7.6",
         "wpackagist-plugin/mailin": "<=3.1.82",
+        "wpackagist-plugin/mainwp-child": "<3.4.5",
         "wpackagist-plugin/mainwp-google-analytics-extension": "<=4.0.4",
         "wpackagist-plugin/mapster-wp-maps": "<=1.6.0",
         "wpackagist-plugin/menu-ordering-reservations": "<=2.4.2",
