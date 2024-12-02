@@ -189,6 +189,7 @@
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
         "wpackagist-plugin/widgetshortcode": "<=0.3.5",
         "wpackagist-plugin/woo-checkout-field-editor-pro": "<=2.0.3",
+        "wpackagist-plugin/woo-wallet": "<=1.5.4",
         "wpackagist-plugin/woocommerce": "<=9.1.2",
         "wpackagist-plugin/woocommerce-abandoned-cart": "<1.9",
         "wpackagist-plugin/woocommerce-checkout-manager": "<=5.5.6",
