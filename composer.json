@@ -586,6 +586,7 @@
         "wpackagist-plugin/apa-register-newsletter-form": "<=1.0.0",
         "wpackagist-plugin/aparat": "<=1.7.1",
         "wpackagist-plugin/apexchat": "<=1.3.1",
+        "wpackagist-plugin/aphorismus": "<=1.2.0",
         "wpackagist-plugin/api-bearer-auth": "<20190907",
         "wpackagist-plugin/api-bing-map-2018": "<5.0",
         "wpackagist-plugin/api-info-themes-plugins-wp-org": "<=1.04",
