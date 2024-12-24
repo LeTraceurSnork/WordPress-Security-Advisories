@@ -6506,7 +6506,7 @@
         "wpackagist-plugin/simple-news": "<=2.8",
         "wpackagist-plugin/simple-notification": "<=1.3",
         "wpackagist-plugin/simple-org-chart": "<=2.3.4",
-        "wpackagist-plugin/simple-page-access-restriction": "<=1.0.21",
+        "wpackagist-plugin/simple-page-access-restriction": "<= 1.0.29.0",
         "wpackagist-plugin/simple-page-ordering": "< 2.5.1.0-dev",
         "wpackagist-plugin/simple-page-transition": "<=1.4.1",
         "wpackagist-plugin/simple-pdf-viewer": "<=1.9",
