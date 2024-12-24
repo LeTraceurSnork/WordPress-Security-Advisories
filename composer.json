@@ -2282,6 +2282,7 @@
         "wpackagist-plugin/dssearchagent-wordpress-edition": "<1.0-beta10",
         "wpackagist-plugin/dsubscribers": "<1.2.1",
         "wpackagist-plugin/dtabs": "<=1.4",
+        "wpackagist-plugin/dtc-documents": "<=1.1.05",
         "wpackagist-plugin/dtracker": "<=1.5",
         "wpackagist-plugin/dts-simple-share": "<=0.5.3",
         "wpackagist-plugin/duitku-social-payment-gateway": "<=2.11.6",
