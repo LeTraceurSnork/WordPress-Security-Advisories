@@ -5845,6 +5845,7 @@
         "wpackagist-plugin/re-attacher": "<1.0.9",
         "wpackagist-plugin/reach-us-contact-form": "<=5.0",
         "wpackagist-plugin/react-webcam": "<=1.2.0",
+        "wpackagist-plugin/reactflow-session-replay-heatmap": "<=1.0.10",
         "wpackagist-plugin/read-and-understood": "<2.2",
         "wpackagist-plugin/read-more": "<=1.1.8",
         "wpackagist-plugin/read-more-excerpt-link": "<=1.6.0",
