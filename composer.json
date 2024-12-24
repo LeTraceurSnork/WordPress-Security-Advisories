@@ -2500,6 +2500,7 @@
         "wpackagist-plugin/editorial-calendar": "<= 3.8.0.0",
         "wpackagist-plugin/edoc-easy-tables": "<=1.29",
         "wpackagist-plugin/edoc-employee-application": "<=1.13",
+        "wpackagist-plugin/eduadmin-booking": "<=5.2.0",
         "wpackagist-plugin/edubin": "<=9.2.0",
         "wpackagist-plugin/educare": "<1.4.7",
         "wpackagist-plugin/education-addon": ">=1.0,<=1.3.1",
