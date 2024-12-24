@@ -2122,6 +2122,7 @@
         "wpackagist-plugin/devbuddy-twitter-feed": "<=4.0.0",
         "wpackagist-plugin/devexhub-gallery": "<=2.0.1",
         "wpackagist-plugin/devformatter": "<2013.0.1.41",
+        "wpackagist-plugin/device-detector": "<=4.2.0",
         "wpackagist-plugin/device-theme-switcher": "<=3.0.2",
         "wpackagist-plugin/device-wrapper": "1.1",
         "wpackagist-plugin/devices": "<=1.0.0",
