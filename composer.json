@@ -6745,7 +6745,7 @@
         "wpackagist-plugin/slivery-extender": "<=1.0.2",
         "wpackagist-plugin/slope-widgets": "<= 4.2.12.0",
         "wpackagist-plugin/sloth-logo-customizer": "<=2.0.2",
-        "wpackagist-plugin/slotti-ajanvaraus": "<=1.3.0",
+        "wpackagist-plugin/slotti-ajanvaraus": "<= 1.3.1.0",
         "wpackagist-plugin/slp-extended-data-manager": ">=5.5.1,<=6.1.1",
         "wpackagist-plugin/slp-extenders": ">=5.6.0,<=6.1.1",
         "wpackagist-plugin/slp-gravity-forms-locations": ">=5.5.1,<=6.1.1",
