@@ -6895,7 +6895,7 @@
         "wpackagist-plugin/sp-faq": "<=3.8",
         "wpackagist-plugin/sp-news-and-widget": "<=4.8",
         "wpackagist-plugin/sp-rental-manager": "<=1.5.3",
-        "wpackagist-plugin/spacer": "<=3.0.6",
+        "wpackagist-plugin/spacer": "<= 3.0.7.0",
         "wpackagist-plugin/spam-byebye": "<=2.2.1",
         "wpackagist-plugin/spam-control-xforwc": "<1.5.0",
         "wpackagist-plugin/spam-free-wordpress": "<=1.9.3",
