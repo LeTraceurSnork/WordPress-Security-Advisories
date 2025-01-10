@@ -5036,6 +5036,7 @@
         "wpackagist-plugin/notification-for-telegram": "<=3.3.1",
         "wpackagist-plugin/notificationx": "<=2.9.3",
         "wpackagist-plugin/notifier": "<=2.6",
+        "wpackagist-plugin/notify-odoo": "<=1.0.0",
         "wpackagist-plugin/notifyvisitors-lead-form": "<=1.0",
         "wpackagist-plugin/nova-blocks": "<=2.1.7",
         "wpackagist-plugin/nova-poshta-ttn": "<=1.7.46",
