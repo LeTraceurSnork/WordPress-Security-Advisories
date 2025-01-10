@@ -7363,7 +7363,7 @@
         "wpackagist-plugin/tickera-event-ticketing-system": "<= 3.5.4.8",
         "wpackagist-plugin/ticket-manager": "*",
         "wpackagist-plugin/ticket-tailor": "<=1.10",
-        "wpackagist-plugin/tida-url-screenshot": "<=1.0",
+        "wpackagist-plugin/tida-url-screenshot": "<= 1.0.1.0",
         "wpackagist-plugin/tidio-form": "<=1.0",
         "wpackagist-plugin/tidio-gallery": "<=1.1",
         "wpackagist-plugin/tidio-live-chat": "<= 5.2.0.0",
