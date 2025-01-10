@@ -8251,6 +8251,7 @@
         "wpackagist-plugin/woocommerce-bulk-stock-management": "<=2.2.33",
         "wpackagist-plugin/woocommerce-catalog-enquiry": "<= 5.0.5.0",
         "wpackagist-plugin/woocommerce-chained-products": "<2.12.0",
+        "wpackagist-plugin/woocommerce-check-pincode-zipcode-for-shipping": "<=2.0.4",
         "wpackagist-plugin/woocommerce-checkout-cielo": "<=1.1.0",
         "wpackagist-plugin/woocommerce-checkout-field-editor": "<1.7.5",
         "wpackagist-plugin/woocommerce-checkout-field-editor-pro": "<=3.6.2",
