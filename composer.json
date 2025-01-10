@@ -7706,6 +7706,7 @@
         "wpackagist-plugin/user-photo": "<= 0.9.5.0",
         "wpackagist-plugin/user-private-files": "<=2.1.0",
         "wpackagist-plugin/user-profile": "<=2.0.20",
+        "wpackagist-plugin/user-referral-free": "<=8.0",
         "wpackagist-plugin/user-registration": "<= 3.2.0.1",
         "wpackagist-plugin/user-rights-access-manager": "<=1.1.2",
         "wpackagist-plugin/user-role": "<= 1.6.6.0",
