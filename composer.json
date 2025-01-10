@@ -10097,6 +10097,7 @@
         "wpackagist-theme/kiddo": "*",
         "wpackagist-theme/kingcabs": "<=1.1.5",
         "wpackagist-theme/kingclub-theme": "*",
+        "wpackagist-theme/kleo": "<5.4.4",
         "wpackagist-theme/konzept": "*",
         "wpackagist-theme/kormosala": "<=1.0.22",
         "wpackagist-theme/krste": ">=1.0.0,<=1.0.3",
