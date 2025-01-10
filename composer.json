@@ -7723,7 +7723,7 @@
         "wpackagist-plugin/username-updater": "<=1.0.3",
         "wpackagist-plugin/usernoise": "<3.7.9",
         "wpackagist-plugin/userplus": "<=2.0",
-        "wpackagist-plugin/userpro": "<= 5.1.6.0 || == 5.1.8.0",
+        "wpackagist-plugin/userpro": "<= 5.1.9.0",
         "wpackagist-plugin/users-control": "<=1.0.16",
         "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<= 2.5.3.0",
         "wpackagist-plugin/users-import-export-with-excel-for-wp": "<=1.5",
