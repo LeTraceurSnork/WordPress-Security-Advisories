@@ -743,6 +743,7 @@
         "wpackagist-plugin/auto-youtube-importer": "<=1.0.3",
         "wpackagist-plugin/autocomplete-address-and-location-picker-for-woocommerce": ">=1.0.0,<=1.1.5",
         "wpackagist-plugin/autocomplete-location-field-contact-form-7": "<=2.0",
+        "wpackagist-plugin/autocompleter": "<=1.3.5.2",
         "wpackagist-plugin/autolinks": "<=1.0.1",
         "wpackagist-plugin/autolisticle-automatically-update-numbered-list-articles": "<=1.2.3",
         "wpackagist-plugin/automail": "<=1.0.1",
