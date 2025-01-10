@@ -4283,6 +4283,7 @@
         "wpackagist-plugin/live-news-lite": "<=1.06",
         "wpackagist-plugin/live-scores-for-sportspress": "<= 1.9.2.0",
         "wpackagist-plugin/live-search-xforwc": "<2.1.0",
+        "wpackagist-plugin/live-stock-prices-for-wordpress": "<=1.10.3",
         "wpackagist-plugin/live-support-tickets": "<=1.10.3",
         "wpackagist-plugin/live-weather-station": "<=3.8.12",
         "wpackagist-plugin/livechat-elementor": "<=1.0.13",
