@@ -8929,6 +8929,7 @@
         "wpackagist-plugin/wp-membership": "<= 1.6.2.0",
         "wpackagist-plugin/wp-memory": "<=2.45",
         "wpackagist-plugin/wp-menu-cart": "<=2.11.0",
+        "wpackagist-plugin/wp-menu-image": "<=2.2",
         "wpackagist-plugin/wp-mermaid": "<=1.0.2",
         "wpackagist-plugin/wp-meta-and-date-remover": "<= 2.3.0.0",
         "wpackagist-plugin/wp-meta-data-filter-and-taxonomy-filter": "< 2.2.8.0-dev",
