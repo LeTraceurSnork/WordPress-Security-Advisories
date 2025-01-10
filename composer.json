@@ -6012,7 +6012,7 @@
         "wpackagist-plugin/request-a-quote": "<= 2.4.0.0",
         "wpackagist-plugin/require-taxonomy-image-category-tag": "<=1.26",
         "wpackagist-plugin/required-taxonomies": "<=1.1.7",
-        "wpackagist-plugin/resads": "<1.0.2",
+        "wpackagist-plugin/resads": "<= 2.0.6.0",
         "wpackagist-plugin/rescue-shortcodes": "<= 2.9.0.0",
         "wpackagist-plugin/resend-welcome-email": "<=1.0.1",
         "wpackagist-plugin/resermy": "<=1.0.0",
