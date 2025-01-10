@@ -5310,7 +5310,7 @@
         "wpackagist-plugin/pdq-csv": "<=1.0.0",
         "wpackagist-plugin/pdw-file-browser": "*",
         "wpackagist-plugin/peachpay-for-woocommerce": "<=1.112.0",
-        "wpackagist-plugin/pearl-header-builder": "<= 1.3.7.0",
+        "wpackagist-plugin/pearl-header-builder": "<= 1.3.8.0",
         "wpackagist-plugin/pedalo-connector": "<=2.0.5",
         "wpackagist-plugin/peepso-core": "<= 6.4.6.2",
         "wpackagist-plugin/peepso-photos": "<6.3.1.0",
