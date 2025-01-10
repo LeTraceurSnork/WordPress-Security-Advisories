@@ -9448,6 +9448,7 @@
         "wpackagist-plugin/wpsolr-search-engine": "<=8.6",
         "wpackagist-plugin/wpspx": "<=1.0.2",
         "wpackagist-plugin/wpss": "<= 0.62.0.0",
+        "wpackagist-plugin/wpsso": "<=18.18.1",
         "wpackagist-plugin/wpstickybar-sticky-bar-sticky-header": "<=2.1.0",
         "wpackagist-plugin/wpstorecart": "<=2.5.29",
         "wpackagist-plugin/wpstream": "<= 4.5.4.0",
