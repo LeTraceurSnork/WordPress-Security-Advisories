@@ -3818,6 +3818,7 @@
         "wpackagist-plugin/increase-upload-file-size-maximum-execution-time-limit": "<=2.0",
         "wpackagist-plugin/indeed-affiliate-pro": "<4.0",
         "wpackagist-plugin/indeed-job-importer": "<=1.0.5",
+        "wpackagist-plugin/indeed-learning-pro": "<=3.9",
         "wpackagist-plugin/indeed-membership-pro": "<= 12.7.0.0",
         "wpackagist-plugin/indeed-wp-superbackup": "<=2.3.3",
         "wpackagist-plugin/independent-analytics": "<=1.25.0",
