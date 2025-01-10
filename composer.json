@@ -8383,7 +8383,7 @@
         "wpackagist-plugin/wordapp-mobile-app": ">=1.17.1,<=2.0.3",
         "wpackagist-plugin/wordcamp-talks": "<1.0.0-beta3",
         "wpackagist-plugin/wordfence": "<=7.6.0",
-        "wpackagist-plugin/wordlift": "<=3.37.1",
+        "wpackagist-plugin/wordlift": "<= 3.54.0.0",
         "wpackagist-plugin/wordpress-23-related-posts-plugin": "<= 3.6.4.0",
         "wpackagist-plugin/wordpress-access-control": "<=4.0.13",
         "wpackagist-plugin/wordpress-admanager": "<=1.1.2",
