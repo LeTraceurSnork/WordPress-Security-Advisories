@@ -3364,7 +3364,7 @@
         "wpackagist-plugin/good-bad-comments": "<=1.0.0",
         "wpackagist-plugin/good-reviews-wp": "<=2.3.5",
         "wpackagist-plugin/goodbarber": "<=1.0.23",
-        "wpackagist-plugin/goodlayers-core": "<=2.0.7",
+        "wpackagist-plugin/goodlayers-core": "<= 2.0.9.0",
         "wpackagist-plugin/goodlms": "<=2.1.4",
         "wpackagist-plugin/goodnews5": "<=5.11.1",
         "wpackagist-plugin/goods-catalog": "<=2.4.1",
