@@ -6188,6 +6188,7 @@
         "wpackagist-plugin/s3audible-amazon-s3-music-player": "<=3.5.4",
         "wpackagist-plugin/s3bubble-amazon-s3-audio-streaming": "<4.8",
         "wpackagist-plugin/s3bubble-amazon-s3-html-5-video-with-adverts": "<= 2.0.0.0",
+        "wpackagist-plugin/sa-post-author-filter": "<=1.0",
         "wpackagist-plugin/saan-world-clock": "<=1.8",
         "wpackagist-plugin/sabaisdiscuss": "<=1.4.13",
         "wpackagist-plugin/sabre": "<1.2.2",
