@@ -2621,6 +2621,7 @@
         "wpackagist-plugin/embedplus-for-wordpress": "<5.4",
         "wpackagist-plugin/embedpress": "<= 4.1.3.0",
         "wpackagist-plugin/embedstories": "<=0.7.4",
+        "wpackagist-plugin/emc2-alert-boxes": "<=1.3",
         "wpackagist-plugin/emc2-custom-help-videos": "<=1.2",
         "wpackagist-plugin/emergency-password-reset": "<=8.0",
         "wpackagist-plugin/emoji-shortcode": "<=1.0.0",
