@@ -9637,7 +9637,7 @@
         "wpackagist-plugin/yt-cookie-nonsense": "<=1.2.0",
         "wpackagist-plugin/yt-player": "<= 1.5.1.0",
         "wpackagist-plugin/yummy-recipes": ">=1.1.0,<=1.2.0",
-        "wpackagist-plugin/yumpu-epaper-publishing": "<=2.0.24",
+        "wpackagist-plugin/yumpu-epaper-publishing": "<= 3.0.8.0",
         "wpackagist-plugin/yurl-retwitt": "<=1.4",
         "wpackagist-plugin/yuzo-related-post": "<5.12.94",
         "wpackagist-plugin/z-downloads": "<= 1.11.7.0",
