@@ -5411,6 +5411,7 @@
         "wpackagist-plugin/pixelyoursite": "<= 9.7.1.0",
         "wpackagist-plugin/pixelyoursite-pro": "<= 10.4.2.0",
         "wpackagist-plugin/pixfields": "<=0.7.0",
+        "wpackagist-plugin/pixnet": "<=2.9.10",
         "wpackagist-plugin/pixobe-cartography": "<=1.0.1",
         "wpackagist-plugin/pixtypes": "<= 1.4.15.0",
         "wpackagist-plugin/pj-news-ticker": "<=1.9.5",
