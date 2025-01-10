@@ -46,7 +46,7 @@
         "wpackagist-plugin/3com-asesor-de-cookies": "<=3.4.3",
         "wpackagist-plugin/3d-avatar-user-profile": "<=1.0.0",
         "wpackagist-plugin/3d-cover-carousel": "<=1.0",
-        "wpackagist-plugin/3d-flipbook-dflip-lite": "<=2.3.32",
+        "wpackagist-plugin/3d-flipbook-dflip-lite": "<= 2.3.52.0",
         "wpackagist-plugin/3d-presentation": "<=1.0",
         "wpackagist-plugin/3d-viewer": "<=1.3.3",
         "wpackagist-plugin/3dady-real-time-web-stats": "<=1.0",
