@@ -7920,6 +7920,7 @@
         "wpackagist-plugin/wc-vendors": "<=2.4.7",
         "wpackagist-plugin/wc-venipak-shipping": "<=1.19.5",
         "wpackagist-plugin/wc-zelle": "<=3.1",
+        "wpackagist-plugin/wc1c-main": "<=0.23.0",
         "wpackagist-plugin/wc4bp": "<= 3.4.20.0",
         "wpackagist-plugin/wccp-pro": "<=15.0",
         "wpackagist-plugin/wcfm-marketplace-rest-api": "<=1.5.3",
