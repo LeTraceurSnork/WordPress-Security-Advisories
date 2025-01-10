@@ -9540,7 +9540,7 @@
         "wpackagist-plugin/yesno": "<1.0.12",
         "wpackagist-plugin/yet-another-related-posts-plugin": "<= 5.30.10.0",
         "wpackagist-plugin/yet-another-stars-rating": "<= 3.4.3.0",
-        "wpackagist-plugin/yikes-inc-easy-custom-woocommerce-product-tabs": "<=1.7.9",
+        "wpackagist-plugin/yikes-inc-easy-custom-woocommerce-product-tabs": "<= 1.8.5.0",
         "wpackagist-plugin/yikes-inc-easy-mailchimp-extender": "<= 6.9.0.0",
         "wpackagist-plugin/yith-advanced-refund-system-for-woocommerce": "<=1.0.10",
         "wpackagist-plugin/yith-color-and-label-variations-for-woocommerce": "<= 1.25.0.0",
