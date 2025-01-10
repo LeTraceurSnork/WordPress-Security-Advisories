@@ -7664,6 +7664,7 @@
         "wpackagist-plugin/upload-fields-for-wpforms": "<=1.0.2",
         "wpackagist-plugin/upload-file-type-settings-plugin": "<=1.1",
         "wpackagist-plugin/upload-media-by-url": "<=1.0.7",
+        "wpackagist-plugin/upload-scanner": "<=1.2",
         "wpackagist-plugin/uploadcare": "<=3.0.11",
         "wpackagist-plugin/uploader": "<=1.0.4",
         "wpackagist-plugin/uploadify": "<=1.0",
