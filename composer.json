@@ -3754,6 +3754,7 @@
         "wpackagist-plugin/image-intense": "<=3.2.5",
         "wpackagist-plugin/image-map-pro": "<=6.0.20",
         "wpackagist-plugin/image-map-pro-lite": "<=1.0.0",
+        "wpackagist-plugin/image-mapper": "<=0.2.5.3",
         "wpackagist-plugin/image-metadata-cruncher": "<=1.8",
         "wpackagist-plugin/image-optimizer-wd": "<= 1.0.26.0",
         "wpackagist-plugin/image-over-image-vc-extension": "<3.0",
