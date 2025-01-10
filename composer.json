@@ -8457,7 +8457,7 @@
         "wpackagist-plugin/wp-academic-people": "<=0.4.1",
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-accessibility-helper": "<= 0.6.2.9",
-        "wpackagist-plugin/wp-action-network": "<=1.4.2 || 1.4.3",
+        "wpackagist-plugin/wp-action-network": "<= 1.4.4.0",
         "wpackagist-plugin/wp-ad-guru": "<=2.5.4",
         "wpackagist-plugin/wp-ada-compliance-check-basic": "<=3.1.3",
         "wpackagist-plugin/wp-admin-logo-changer": "<=1.0",
