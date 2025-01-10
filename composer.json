@@ -6189,6 +6189,7 @@
         "wpackagist-plugin/s3bubble-amazon-s3-audio-streaming": "<4.8",
         "wpackagist-plugin/s3bubble-amazon-s3-html-5-video-with-adverts": "<= 2.0.0.0",
         "wpackagist-plugin/saan-world-clock": "<=1.8",
+        "wpackagist-plugin/saaspricing": "<=1.1.3",
         "wpackagist-plugin/sabaisdiscuss": "<=1.4.13",
         "wpackagist-plugin/sabre": "<1.2.2",
         "wpackagist-plugin/safe-editor": "<1.2",
