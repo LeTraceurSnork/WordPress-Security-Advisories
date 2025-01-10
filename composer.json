@@ -3476,6 +3476,7 @@
         "wpackagist-plugin/gs-logo-slider": "<= 3.7.0.0",
         "wpackagist-plugin/gs-pinterest-portfolio": "<= 1.8.8.0",
         "wpackagist-plugin/gs-portfolio": "<=1.6.3",
+        "wpackagist-plugin/gs-projects": "<=1.1.1",
         "wpackagist-plugin/gs-team-members": "<= 2.2.3.0",
         "wpackagist-plugin/gs-testimonial": "<=3.1.4",
         "wpackagist-plugin/gs-woocommerce-products-slider": "<=1.5.8",
