@@ -9205,7 +9205,7 @@
         "wpackagist-plugin/wp-super-popup": "<=1.1.2",
         "wpackagist-plugin/wp-superb-slideshow": "<=2.3",
         "wpackagist-plugin/wp-support-plus-responsive-ticket-system": "< 9.1.2.0-dev",
-        "wpackagist-plugin/wp-survey-and-poll": "<1.2",
+        "wpackagist-plugin/wp-survey-and-poll": "<= 1.7.5.0",
         "wpackagist-plugin/wp-survey-and-quiz-tool": "<=2.9.2",
         "wpackagist-plugin/wp-survey-plus": "<=1.0",
         "wpackagist-plugin/wp-svg": "<=0.9",
