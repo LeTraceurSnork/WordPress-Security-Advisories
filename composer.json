@@ -3987,6 +3987,7 @@
         "wpackagist-plugin/jm-twitter-cards": "<= 14.0.0.0",
         "wpackagist-plugin/joan": "<= 5.6.2.0",
         "wpackagist-plugin/job-board": "<1.1.4",
+        "wpackagist-plugin/job-board-light": "<=1.2.6",
         "wpackagist-plugin/job-board-manager": "<= 2.1.60.0",
         "wpackagist-plugin/job-board-vanilla": "1.0",
         "wpackagist-plugin/job-manager": "<= 0.7.25.0",
