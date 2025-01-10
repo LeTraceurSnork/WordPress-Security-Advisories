@@ -8644,7 +8644,7 @@
         "wpackagist-plugin/wp-dashboard-notes": "<=1.0.11",
         "wpackagist-plugin/wp-data-access": "<= 5.5.7.0",
         "wpackagist-plugin/wp-database-admin": "<=1.0.3",
-        "wpackagist-plugin/wp-database-backup": "<= 5.8.3.0",
+        "wpackagist-plugin/wp-database-backup": "<= 7.3.0.0",
         "wpackagist-plugin/wp-database-error-manager": "<=2.1.6",
         "wpackagist-plugin/wp-datepicker": "<=2.1.1",
         "wpackagist-plugin/wp-db-backup": "<2.5.2",
