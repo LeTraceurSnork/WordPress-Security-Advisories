@@ -3939,7 +3939,7 @@
         "wpackagist-plugin/iubenda-cookie-law-solution": "<= 3.3.2.0",
         "wpackagist-plugin/iva-business-hours-pro": "<=5.5.0",
         "wpackagist-plugin/iworks-pwa": "<=1.6.3",
-        "wpackagist-plugin/iwp-client": "<=1.12.3",
+        "wpackagist-plugin/iwp-client": "<= 1.13.0.0",
         "wpackagist-plugin/iws-geo-form-fields": "<=1.0",
         "wpackagist-plugin/izeechat": "<1.1",
         "wpackagist-plugin/jackmail-newsletters": "<=1.2.22",
