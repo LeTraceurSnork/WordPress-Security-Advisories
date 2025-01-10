@@ -2765,7 +2765,7 @@
         "wpackagist-plugin/explara-events": "<=0.1.3",
         "wpackagist-plugin/exploit-scanner": "<=1.3.3",
         "wpackagist-plugin/export-all-urls": "<=4.5",
-        "wpackagist-plugin/export-import-menus": "<=1.8.0",
+        "wpackagist-plugin/export-import-menus": "<= 1.9.1.0",
         "wpackagist-plugin/export-media-urls": "<=1.0",
         "wpackagist-plugin/export-post-info": "<= 1.2.0.0",
         "wpackagist-plugin/export-to-text": "<=2.4",
