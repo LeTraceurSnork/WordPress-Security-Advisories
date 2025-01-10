@@ -5762,6 +5762,7 @@
         "wpackagist-plugin/provide-forex-signals": "<=1.0",
         "wpackagist-plugin/ps-phpcaptcha": "<=1.1.0",
         "wpackagist-plugin/pt-elementor-addons-lite": "<=2.2",
+        "wpackagist-plugin/pta-member-directory": "<=1.7.0",
         "wpackagist-plugin/ptengine-real-time-web-analytics-and-heatmap": "<1.0.2",
         "wpackagist-plugin/ptoffice-sign-ups": "<=1.0.4",
         "wpackagist-plugin/ptypeconverter": "<=0.2.8.1",
