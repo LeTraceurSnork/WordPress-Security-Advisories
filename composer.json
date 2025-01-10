@@ -2931,7 +2931,7 @@
         "wpackagist-plugin/filebird-document-library": "<=2.0.6",
         "wpackagist-plugin/filedownload": "<= 1.4.0.0",
         "wpackagist-plugin/fileorganizer": "<= 1.1.4.0",
-        "wpackagist-plugin/files-download-delay": "< 1.0.7.0-dev",
+        "wpackagist-plugin/files-download-delay": "<= 1.0.9.0",
         "wpackagist-plugin/filestack-upload": "<=2.0.0",
         "wpackagist-plugin/filester": "<= 1.8.6.0",
         "wpackagist-plugin/fileviewer": "<=2.2",
