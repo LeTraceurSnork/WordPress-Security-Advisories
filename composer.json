@@ -5415,6 +5415,7 @@
         "wpackagist-plugin/pixtypes": "<= 1.4.15.0",
         "wpackagist-plugin/pj-news-ticker": "<=1.9.5",
         "wpackagist-plugin/pjw-mime-config": "<=1.0",
+        "wpackagist-plugin/pkt1-centro-de-envios": "<=1.2.1",
         "wpackagist-plugin/plainview-activity-monitor": "<20180826",
         "wpackagist-plugin/plainview-protect-passwords": "<=1.4",
         "wpackagist-plugin/planaday-api": "<=11.4",
