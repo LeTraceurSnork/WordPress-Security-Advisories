@@ -759,7 +759,7 @@
         "wpackagist-plugin/automatic-youtube-video-posts": "<=5.2.2",
         "wpackagist-plugin/automatically-hierarchic-categories-in-menu": "<=2.0.5",
         "wpackagist-plugin/automation-web-platform": "<3.0.18",
-        "wpackagist-plugin/automatorwp": "<=2.5.8",
+        "wpackagist-plugin/automatorwp": "<= 5.0.9.0",
         "wpackagist-plugin/automizy-gravity-forms": ">=1.0.1,<=1.3.0",
         "wpackagist-plugin/autopilot": "<=1.0.19",
         "wpackagist-plugin/autoptimize": "<= 3.1.6.0",
