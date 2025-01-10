@@ -4887,6 +4887,7 @@
         "wpackagist-plugin/mytreasures": "*",
         "wpackagist-plugin/mytube": "<=2.0.3",
         "wpackagist-plugin/mytweetlinks": "<=1.1.1",
+        "wpackagist-plugin/myweather": "<=2.5.1",
         "wpackagist-plugin/mywebcounter": "<=1.1",
         "wpackagist-plugin/mz-mindbody-api": "<=2.8.2",
         "wpackagist-plugin/n-media-woocommerce-checkout-fields": "<=17.3",
