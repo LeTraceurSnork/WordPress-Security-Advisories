@@ -8586,7 +8586,7 @@
         "wpackagist-plugin/wp-comment-fields": "<= 5.0.0.0",
         "wpackagist-plugin/wp-comment-remix": "<1.4.4",
         "wpackagist-plugin/wp-commentnavi": "<=1.12.1",
-        "wpackagist-plugin/wp-compress-image-optimizer": "<=6.20.13",
+        "wpackagist-plugin/wp-compress-image-optimizer": "<= 6.30.03.0",
         "wpackagist-plugin/wp-concours": "<=1.1",
         "wpackagist-plugin/wp-conditional-post-restrictions": ">=1.0.0,<=1.2.1",
         "wpackagist-plugin/wp-config-file-editor": "<=1.7.1",
