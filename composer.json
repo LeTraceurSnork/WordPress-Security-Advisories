@@ -8696,6 +8696,7 @@
         "wpackagist-plugin/wp-edit-password-protected": "<=1.2.3",
         "wpackagist-plugin/wp-edit-username": "<=1.0.5",
         "wpackagist-plugin/wp-editor": "<= 1.2.9.0",
+        "wpackagist-plugin/wp-editor-bootstrap-blocks": "<=2.5.0",
         "wpackagist-plugin/wp-editormd": "<10.0.4",
         "wpackagist-plugin/wp-education": "<= 1.2.8.0",
         "wpackagist-plugin/wp-eggdrop": "<=0.1",
