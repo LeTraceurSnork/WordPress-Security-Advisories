@@ -6487,7 +6487,7 @@
         "wpackagist-plugin/simpel-reserveren": "<=3.5.2",
         "wpackagist-plugin/simple-301-redirects": "< 2.0.8.0-dev",
         "wpackagist-plugin/simple-301-redirects-addon-bulk-uploader": "<1.2.5",
-        "wpackagist-plugin/simple-add-pages-or-posts": "<1.7",
+        "wpackagist-plugin/simple-add-pages-or-posts": "<= 2.0.0.0",
         "wpackagist-plugin/simple-admin-language-change": "<=2.0.1",
         "wpackagist-plugin/simple-ads-manager": "<= 2.10.0.130",
         "wpackagist-plugin/simple-ajax-chat": "<= 20240318",
