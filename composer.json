@@ -6293,6 +6293,7 @@
         "wpackagist-plugin/secure-files": "<=1.1",
         "wpackagist-plugin/secure-html5-video-player": "<=3.3",
         "wpackagist-plugin/securemoz-security-audit": "<=1.0.5",
+        "wpackagist-plugin/securesubmit": "<=1.5.16",
         "wpackagist-plugin/securimage-wp": "<= 3.6.16.0",
         "wpackagist-plugin/securimage-wp-fixed": "<=3.5.4",
         "wpackagist-plugin/security-antivirus-firewall": "<=2.3.5",
