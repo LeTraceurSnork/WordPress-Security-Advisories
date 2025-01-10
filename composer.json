@@ -9445,6 +9445,7 @@
         "wpackagist-plugin/wpsite-follow-us-badges": "<=3.1.10",
         "wpackagist-plugin/wpslacksync": "<1.8.6",
         "wpackagist-plugin/wpsnapapp": "<=1.5",
+        "wpackagist-plugin/wpsol": "<=1.2.0",
         "wpackagist-plugin/wpsolr-search-engine": "<=8.6",
         "wpackagist-plugin/wpspx": "<=1.0.2",
         "wpackagist-plugin/wpss": "<= 0.62.0.0",
