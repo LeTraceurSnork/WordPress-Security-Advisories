@@ -9486,6 +9486,7 @@
         "wpackagist-plugin/wpml": "<= 4.6.0.0",
         "wpackagist-plugin/wpml-string-translation": "<=3.2.5",
         "wpackagist-plugin/wpmm-memory-meter": ">=1.0.0,<=1.3.0",
+        "wpackagist-plugin/wpmu-prefill-post": "<=1.02",
         "wpackagist-plugin/wpo365-login": "<= 27.2.0.0",
         "wpackagist-plugin/wpoptin": "<=2.0.1",
         "wpackagist-plugin/wppageflip": "<3.0",
