@@ -3214,6 +3214,7 @@
         "wpackagist-plugin/fv-wordpress-flowplayer": "<= 7.5.47.7212",
         "wpackagist-plugin/fw-integration-for-emailoctopus": "<=1.0.7",
         "wpackagist-plugin/fwdmsp": "<=8.0",
+        "wpackagist-plugin/fws-ajax-contact-form": "<=1.2.5.1",
         "wpackagist-plugin/fx-private-site": "<=1.2.1",
         "wpackagist-plugin/fx-toc": "<=1.1.0",
         "wpackagist-plugin/g-auto-hyperlink": "<=1.0.1",
