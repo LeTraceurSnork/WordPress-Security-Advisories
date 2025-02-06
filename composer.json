@@ -1182,6 +1182,7 @@
         "wpackagist-plugin/buffer-my-post": "<=2020.1.0",
         "wpackagist-plugin/bug-library": "<= 2.1.1.0",
         "wpackagist-plugin/build-app-online": "<= 1.0.22.0",
+        "wpackagist-plugin/build-private-store-for-woocommerce": "<=1.0",
         "wpackagist-plugin/builder-contact": "<=1.4.5",
         "wpackagist-plugin/builder-style-manager": "<0.7.7",
         "wpackagist-plugin/builderall-cheetah-for-wp": "<=2.0.1",
