@@ -6440,6 +6440,7 @@
         "wpackagist-plugin/shapepress-dsgvo": "<= 3.1.32.0",
         "wpackagist-plugin/share-and-follow": "<=1.80.3",
         "wpackagist-plugin/share-button": "<=1.19",
+        "wpackagist-plugin/share-buttons": "<=2.7",
         "wpackagist-plugin/share-on-diaspora": "<0.7.2",
         "wpackagist-plugin/share-one-drive": "<1.15.3",
         "wpackagist-plugin/share-print-pdf-woocommerce": "<2.8.0",
