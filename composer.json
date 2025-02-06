@@ -9394,7 +9394,7 @@
         "wpackagist-plugin/wp125": "<=1.5.4",
         "wpackagist-plugin/wp24-domain-check": "<=1.6.2",
         "wpackagist-plugin/wp2android-turn-wp-site-into-android-app": "<=1.1.4",
-        "wpackagist-plugin/wp2leads": "<=3.2.7",
+        "wpackagist-plugin/wp2leads": "<= 3.4.2.0",
         "wpackagist-plugin/wp2speed": "<=1.0.1",
         "wpackagist-plugin/wp2syslog": "<=1.0.5",
         "wpackagist-plugin/wp_estimation_form": "<9.660",
