@@ -4890,7 +4890,7 @@
         "wpackagist-plugin/my-reading-library": "<=1.0",
         "wpackagist-plugin/my-restaurant-menu": "<=0.2.0",
         "wpackagist-plugin/my-shortcodes": "<=2.3",
-        "wpackagist-plugin/my-tickets": "<=1.9.11",
+        "wpackagist-plugin/my-tickets": "<= 2.0.9.0",
         "wpackagist-plugin/my-waze": "<=1.6",
         "wpackagist-plugin/my-wish-list": "<1.4.2",
         "wpackagist-plugin/my-wp": "<1.21.1",
