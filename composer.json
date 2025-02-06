@@ -7714,6 +7714,7 @@
         "wpackagist-plugin/update-theme-and-plugins-from-zip-file": "<=2.0.0",
         "wpackagist-plugin/update-urls": "1.2.1",
         "wpackagist-plugin/updater": "<=1.34",
+        "wpackagist-plugin/updownupdown-postcomment-voting": "<=1.1",
         "wpackagist-plugin/updraft": "<=0.6.1",
         "wpackagist-plugin/updraftcentral": "0.8.23",
         "wpackagist-plugin/updraftplus": "<= 1.24.11.0 || >= 2.22.14.0-dev <= 2.23.2.0",
