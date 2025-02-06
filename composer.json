@@ -3730,6 +3730,7 @@
         "wpackagist-plugin/icons-font-loader": "<= 1.1.4.0",
         "wpackagist-plugin/icons-for-features": "<=1.0.0",
         "wpackagist-plugin/icons-with-links-widget": "*",
+        "wpackagist-plugin/ics-button": "<=0.6",
         "wpackagist-plugin/ics-calendar": "<= 10.12.0.2",
         "wpackagist-plugin/icustomizer": "<=1.4.13",
         "wpackagist-plugin/idbbee": "<=1.0",
