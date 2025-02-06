@@ -1985,6 +1985,7 @@
         "wpackagist-plugin/custom-landing-pages-leadmagic": "<=1.2.7",
         "wpackagist-plugin/custom-layouts": "<=1.4.11",
         "wpackagist-plugin/custom-login": "<=4.1.0",
+        "wpackagist-plugin/custom-login-page": "<=2.8.1",
         "wpackagist-plugin/custom-login-redirect": "<=1.0.0",
         "wpackagist-plugin/custom-map": "<=1.1",
         "wpackagist-plugin/custom-metas": "<=1.5.1",
