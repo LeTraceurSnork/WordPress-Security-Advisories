@@ -202,6 +202,7 @@
         "wpackagist-plugin/add-pinterest-conversion-tags": "<1.0.2",
         "wpackagist-plugin/add-posts-to-pages": "<=1.4.1",
         "wpackagist-plugin/add-ribbon": "<=1.0.1",
+        "wpackagist-plugin/add-rss": "<=1.5",
         "wpackagist-plugin/add-search-to-menu": "<=5.5.6",
         "wpackagist-plugin/add-social-share-buttons": "<1.1",
         "wpackagist-plugin/add-subtitle": "<=1.1.0",
