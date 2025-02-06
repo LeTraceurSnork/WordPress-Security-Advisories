@@ -3139,6 +3139,7 @@
         "wpackagist-plugin/foxypress": "<=0.4.9",
         "wpackagist-plugin/foxyshop": "<= 4.8.1.0",
         "wpackagist-plugin/foyer": "<=1.7.5",
+        "wpackagist-plugin/fp-rss-category-excluder": "<=1.0.0",
         "wpackagist-plugin/fraudlabs-pro-sms-verification": "<=1.10.1",
         "wpackagist-plugin/free-comments-for-wordpress-vuukle": "<=3.4.31",
         "wpackagist-plugin/free-counter": "<=1.1",
