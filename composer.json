@@ -5517,7 +5517,7 @@
         "wpackagist-plugin/polylang": "< 2.5.1.0-dev",
         "wpackagist-plugin/pondol-carousel": "<=1.0",
         "wpackagist-plugin/pondol-formmail": "<=1.1",
-        "wpackagist-plugin/pootle-button": "<=1.1.1",
+        "wpackagist-plugin/pootle-button": "<= 1.2.0.0",
         "wpackagist-plugin/pootle-page-builder": "<= 5.7.1.0",
         "wpackagist-plugin/pop-over-xyz": ">=1.0.0,<=1.0.1",
         "wpackagist-plugin/pop-up": "<=2.1.7",
