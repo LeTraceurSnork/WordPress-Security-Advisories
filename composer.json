@@ -954,6 +954,7 @@
         "wpackagist-plugin/bigcontact": "<= 1.5.8.0",
         "wpackagist-plugin/bigmart-elements": "<=1.0.3",
         "wpackagist-plugin/billingo": "<=3.3.9",
+        "wpackagist-plugin/biltorvet-dealer-tools": "<=1.0.22",
         "wpackagist-plugin/bin-stripe-donation": "<=1.2.5",
         "wpackagist-plugin/bing-site-verification-using-meta-tag": "<=1.0",
         "wpackagist-plugin/biometric-login-for-woocommerce": "<=1.0.3",
