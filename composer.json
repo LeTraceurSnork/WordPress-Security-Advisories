@@ -6363,6 +6363,7 @@
         "wpackagist-plugin/send-email-only-on-reply-to-my-comment": "<=1.0.6",
         "wpackagist-plugin/send-emails-with-mandrill": "<=1.4.1",
         "wpackagist-plugin/send-pdf-for-contact-form-7": "<=1.0.2.3",
+        "wpackagist-plugin/send-to-twitter": "<=1.7.2",
         "wpackagist-plugin/send-users-email": "<=1.5.1",
         "wpackagist-plugin/sender": "<=1.2.0",
         "wpackagist-plugin/sender-net-automated-emails": "<=2.6.18",
