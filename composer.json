@@ -2475,6 +2475,7 @@
         "wpackagist-plugin/easy-textillate": "<= 2.02.0.0",
         "wpackagist-plugin/easy-tiktok-feed": ">=1.0.0,<=1.1.1",
         "wpackagist-plugin/easy-twitter-feeds": "<= 1.2.6.0",
+        "wpackagist-plugin/easy-tynt": "<=0.2.5.1",
         "wpackagist-plugin/easy-under-construction": ">=3.0,<=6.0",
         "wpackagist-plugin/easy-video-player": "<= 1.2.2.10",
         "wpackagist-plugin/easy-video-reviews": "<=1.4.2",
