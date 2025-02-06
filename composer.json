@@ -7751,6 +7751,7 @@
         "wpackagist-plugin/user-domain-whitelist": "<1.5",
         "wpackagist-plugin/user-drop-down-roles-in-registration": "<=1.1",
         "wpackagist-plugin/user-export-with-their-meta-data": "<= 0.6.8.0",
+        "wpackagist-plugin/user-files": "<=2.4.2",
         "wpackagist-plugin/user-ip-and-location": "<=2.2",
         "wpackagist-plugin/user-location-and-ip": "<=1.7",
         "wpackagist-plugin/user-login-history": "1.7.0 || <1.6",
