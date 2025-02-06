@@ -1086,7 +1086,7 @@
         "wpackagist-plugin/bounce-handler-mailpoet": "<=1.3.21",
         "wpackagist-plugin/bp-activity-filter": "<2.8.0",
         "wpackagist-plugin/bp-activity-social-share": "<=3.5.0",
-        "wpackagist-plugin/bp-better-messages": "<=2.4.32",
+        "wpackagist-plugin/bp-better-messages": "<= 2.6.9.0",
         "wpackagist-plugin/bp-check-in": "<1.9.4",
         "wpackagist-plugin/bp-cover": "<=2.1.4.2",
         "wpackagist-plugin/bp-create-group-type": "*",
