@@ -3583,7 +3583,7 @@
         "wpackagist-plugin/hebrewdates": "<=2.1.0",
         "wpackagist-plugin/hello-in-all-languages": "<=1.0.6",
         "wpackagist-plugin/hello-world": "<=2.1.1",
-        "wpackagist-plugin/helloasso": "<=1.1.10",
+        "wpackagist-plugin/helloasso": "<= 1.1.11.0",
         "wpackagist-plugin/helloprint": "<=2.0.4",
         "wpackagist-plugin/helpdeskwp": "<=1.2.0",
         "wpackagist-plugin/helpful": "<= 4.5.25.0",
