@@ -274,7 +274,7 @@
         "wpackagist-plugin/admin-post-navigation": "<=2.1",
         "wpackagist-plugin/admin-renamer-extended": "<=3.2.1",
         "wpackagist-plugin/admin-side-data-storage-for-contact-form-7": "<=1.1.2",
-        "wpackagist-plugin/admin-site-enhancements": "<= 7.5.1.0",
+        "wpackagist-plugin/admin-site-enhancements": "<= 7.6.2.0",
         "wpackagist-plugin/admin-sms-alert": "<=1.1.0",
         "wpackagist-plugin/admin-trim-interface": "<=3.5.1",
         "wpackagist-plugin/admin-word-count-column": "<=2.2",
