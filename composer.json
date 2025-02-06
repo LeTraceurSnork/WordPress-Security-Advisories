@@ -9088,6 +9088,7 @@
         "wpackagist-plugin/wp-post-author": "<= 3.8.1.0",
         "wpackagist-plugin/wp-post-columns": "<=2.2",
         "wpackagist-plugin/wp-post-comment-rating": "*",
+        "wpackagist-plugin/wp-post-corrector": "<=1.0.2",
         "wpackagist-plugin/wp-post-disclaimer": "<=1.0.3",
         "wpackagist-plugin/wp-post-modal": "<=3.7.3",
         "wpackagist-plugin/wp-post-page-clone": "<=1.1",
