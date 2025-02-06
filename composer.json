@@ -3514,6 +3514,7 @@
         "wpackagist-plugin/gtg-advanced-blocks": "<=1.1.3",
         "wpackagist-plugin/gtm-server-side": "<=2.1.19",
         "wpackagist-plugin/gtmetrix-for-wordpress": "<=0.4.7",
+        "wpackagist-plugin/gtpayment-donation": "<=1.0.0",
         "wpackagist-plugin/gtranslate": "<3.0.4",
         "wpackagist-plugin/guardgiant": "<=2.2.6",
         "wpackagist-plugin/guest-author": "<=2.3",
