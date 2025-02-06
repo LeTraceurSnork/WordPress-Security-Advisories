@@ -723,6 +723,7 @@
         "wpackagist-plugin/auto-featured-image": "<=1.2",
         "wpackagist-plugin/auto-featured-image-auto-generated": ">=1.3.7,<=1.5.4",
         "wpackagist-plugin/auto-featured-image-from-title": "<=2.3",
+        "wpackagist-plugin/auto-ftp": "<=1.0.1",
         "wpackagist-plugin/auto-hide-admin-bar": "<=1.6.1",
         "wpackagist-plugin/auto-hyperlink-urls": "<=5.4.1",
         "wpackagist-plugin/auto-iframe": "<=1.7",
