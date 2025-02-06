@@ -1359,7 +1359,7 @@
         "wpackagist-plugin/category-page-icons": "<=0.9.1",
         "wpackagist-plugin/category-post-list-widget": "<=2.0",
         "wpackagist-plugin/category-post-slider": "<=1.4",
-        "wpackagist-plugin/category-posts": "<=4.9.16",
+        "wpackagist-plugin/category-posts": "<= 4.9.17.0",
         "wpackagist-plugin/category-seo-meta-tags": "<=2.5",
         "wpackagist-plugin/category-specific-rss-feed-menu": "<= 2.2.0.0",
         "wpackagist-plugin/caxton": "<=1.30.1",
