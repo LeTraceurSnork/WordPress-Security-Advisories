@@ -9252,6 +9252,7 @@
         "wpackagist-plugin/wp-spamfree": "<=2.1.1.6",
         "wpackagist-plugin/wp-special-textboxes": "<=6.2.4",
         "wpackagist-plugin/wp-spell-check": "<= 9.17.0.0",
+        "wpackagist-plugin/wp-spid-italia": "<=2.9",
         "wpackagist-plugin/wp-splashing-images": "<2.1.1",
         "wpackagist-plugin/wp-sponsors": "<=3.5.1",
         "wpackagist-plugin/wp-spreadplugin": "<=4.8.9",
