@@ -7964,7 +7964,7 @@
         "wpackagist-plugin/wc-place-order-without-payment": "<=2.4",
         "wpackagist-plugin/wc-product-author": "<=1.0.3",
         "wpackagist-plugin/wc-product-customer-list": ">=2.6.7,<=3.1.4",
-        "wpackagist-plugin/wc-product-table-lite": "<= 3.8.6.0",
+        "wpackagist-plugin/wc-product-table-lite": "<= 3.9.4.0",
         "wpackagist-plugin/wc-quantity-plus-minus-button": "<=1.1.9",
         "wpackagist-plugin/wc-recently-viewed-products": "<=1.0.1",
         "wpackagist-plugin/wc-remove-tabs-and-fields": "<=1.68",
