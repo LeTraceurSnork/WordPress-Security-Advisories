@@ -5368,6 +5368,7 @@
         "wpackagist-plugin/perfect-woocommerce-brands": "<=2.0.4",
         "wpackagist-plugin/perfmatters": "< 2.2.0.0-dev",
         "wpackagist-plugin/performance-lab": "<2.3.0",
+        "wpackagist-plugin/permalink-finder": "<=3.4",
         "wpackagist-plugin/permalink-manager": "<= 2.4.4.0",
         "wpackagist-plugin/permalink-manager-pro": "<=2.4.3.1",
         "wpackagist-plugin/permalinks-customizer": "<=2.8.2",
