@@ -6151,7 +6151,7 @@
         "wpackagist-plugin/revslider": "<= 6.7.18.0",
         "wpackagist-plugin/revy": "<=1.18",
         "wpackagist-plugin/rewp": "<=1.0.1",
-        "wpackagist-plugin/rezgo": "<1.8.2 || 4.1.7",
+        "wpackagist-plugin/rezgo": "<= 4.16.0.0",
         "wpackagist-plugin/ricerca-smart-search": "<=1.0.15",
         "wpackagist-plugin/rich-counter": "<1.2.0",
         "wpackagist-plugin/rich-event-timeline": "<=1.1.6",
