@@ -1232,7 +1232,7 @@
         "wpackagist-plugin/buttons-shortcode-and-widget": "<=1.16",
         "wpackagist-plugin/buttons-x": "<=0.8.6",
         "wpackagist-plugin/buy-one-click-woocommerce": "<=2.2.9",
-        "wpackagist-plugin/buying-buddy-idx-crm": "<=1.1.12",
+        "wpackagist-plugin/buying-buddy-idx-crm": "<= 1.2.0.0",
         "wpackagist-plugin/buymeacoffee": "<=3.7",
         "wpackagist-plugin/buzzsprout-podcasting": "<=1.8.4",
         "wpackagist-plugin/bvd-easy-gallery-manager": "<=1.0.6",
