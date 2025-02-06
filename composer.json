@@ -7023,7 +7023,7 @@
         "wpackagist-plugin/staggs": ">=1.1.0,<=1.4.1",
         "wpackagist-plugin/stagtools": "<= 2.3.7.0",
         "wpackagist-plugin/stampedio-product-reviews": "<= 2.3.3.0",
-        "wpackagist-plugin/standard-box-sizes": "<=1.6.12",
+        "wpackagist-plugin/standard-box-sizes": "<= 1.6.13.0",
         "wpackagist-plugin/standout-color-boxes-and-buttons": "<=0.7.0",
         "wpackagist-plugin/star-cloudprnt-for-woocommerce": "<=2.0.3",
         "wpackagist-plugin/starbox": "<= 3.5.2.0",
