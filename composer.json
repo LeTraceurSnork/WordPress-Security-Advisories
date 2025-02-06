@@ -10593,6 +10593,7 @@
         "wpackagist-theme/zigcy-baby": "<=1.0.6",
         "wpackagist-theme/zigcy-cosmetics": "<=1.0.5",
         "wpackagist-theme/zigcy-lite": "<=2.0.9",
-        "wpackagist-theme/zoner": "<4.2"
+        "wpackagist-theme/zoner": "<4.2",
+        "wpackagist-theme/zox-news": "<=3.16.0"
     }
 }
