@@ -3704,6 +3704,7 @@
         "wpackagist-plugin/hurrytimer": "<= 2.10.0.0",
         "wpackagist-plugin/huskerportfolio": "<=0.3",
         "wpackagist-plugin/hybrid-composer": "<=1.4.6",
+        "wpackagist-plugin/hybrid-gallery": "<=1.4.0.2",
         "wpackagist-plugin/hypercomments": "<=1.2.2",
         "wpackagist-plugin/hyperlink-group-block": "<=1.17.5",
         "wpackagist-plugin/hyphenator": "<=5.1.5",
