@@ -494,7 +494,7 @@
         "wpackagist-plugin/alley-elementor-widget": "<=1.0.7",
         "wpackagist-plugin/allow-php-in-posts-and-pages": "<=3.0.4",
         "wpackagist-plugin/allow-svg": "<=1.1",
-        "wpackagist-plugin/allpost-contactform": "<=1.7.8",
+        "wpackagist-plugin/allpost-contactform": "<= 1.7.9.0",
         "wpackagist-plugin/allwebmenus-wordpress-menu-plugin": "< 1.1.9.0-dev",
         "wpackagist-plugin/alma-gateway-for-woocommerce": "<=5.2.0",
         "wpackagist-plugin/alo-easymail": "<2.9.3",
