@@ -3632,6 +3632,7 @@
         "wpackagist-plugin/honeypot": "<= 2.1.13.0",
         "wpackagist-plugin/honeypot-for-wp-comment": "<=2.2.3",
         "wpackagist-plugin/hoo-addons-for-elementor": "<=1.0.6",
+        "wpackagist-plugin/horizontal-line-shortcode": "<=1.0",
         "wpackagist-plugin/horizontal-scroll-image-slideshow": "<=10.1",
         "wpackagist-plugin/horizontal-scrolling-announcement": "<=9.2",
         "wpackagist-plugin/horizontal-scrolling-announcements": "<=2.4",
