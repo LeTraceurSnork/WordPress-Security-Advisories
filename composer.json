@@ -7096,7 +7096,7 @@
         "wpackagist-plugin/streamweasels-kick-integration": "<=1.1.1",
         "wpackagist-plugin/streamweasels-twitch-integration": "<= 1.8.6.0",
         "wpackagist-plugin/streamweasels-youtube-integration": "<=1.3.6",
-        "wpackagist-plugin/string-locator": "<= 2.6.5.0",
+        "wpackagist-plugin/string-locator": "<= 2.6.6.0",
         "wpackagist-plugin/stripe-for-woocommerce": ">=3.0.0,<=3.3.9",
         "wpackagist-plugin/stripe-gateway": "<=2.1.2",
         "wpackagist-plugin/stripe-manager": "<=1.4",
