@@ -2253,7 +2253,7 @@
         "wpackagist-plugin/donate-with-qrcode": "<=1.4.5",
         "wpackagist-plugin/donation-button": "<=4.0.0",
         "wpackagist-plugin/donation-thermometer": "<=2.1.2",
-        "wpackagist-plugin/donations-block": "<=2.1.0",
+        "wpackagist-plugin/donations-block": "<= 2.2.0.0",
         "wpackagist-plugin/donations-for-woocommerce": "<=1.1.9",
         "wpackagist-plugin/doneren-met-mollie": "<=2.10.2",
         "wpackagist-plugin/donorbox-donation-form": "<= 7.1.6.0",
