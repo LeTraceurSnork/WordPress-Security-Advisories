@@ -7538,7 +7538,7 @@
         "wpackagist-plugin/triberr-wordpress-plugin": "<=4.1.1",
         "wpackagist-plugin/tribute-testimonial-gridslider": "<=1.0.4",
         "wpackagist-plugin/tripay-payment-gateway": "<=3.2.7",
-        "wpackagist-plugin/tripetto": "<=8.0.6",
+        "wpackagist-plugin/tripetto": "<= 8.0.8.0",
         "wpackagist-plugin/tripplan": "<=1.0.10",
         "wpackagist-plugin/truebooker-appointment-booking": "<=1.0.3",
         "wpackagist-plugin/truenorth-srcset": "<=1.4",
