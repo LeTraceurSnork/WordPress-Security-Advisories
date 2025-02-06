@@ -8545,6 +8545,7 @@
         "wpackagist-plugin/wp-all-export-pro": "<1.8.6",
         "wpackagist-plugin/wp-all-import": "<= 3.7.3.0",
         "wpackagist-plugin/wp-all-import-pro": "<= 4.9.3.0",
+        "wpackagist-plugin/wp-amaps": "<=1.7",
         "wpackagist-plugin/wp-amasin-the-amazon-affiliate-shop": "<=0.9.6",
         "wpackagist-plugin/wp-amazon-shop": "<=2.1.2",
         "wpackagist-plugin/wp-analytify": "<= 5.4.3.0",
