@@ -690,7 +690,7 @@
         "wpackagist-plugin/attachment-file-icons": "<=1.3",
         "wpackagist-plugin/attendance-manager": "<=0.5.6",
         "wpackagist-plugin/attesa-extra": "<=1.4.2",
-        "wpackagist-plugin/attire-blocks": "<=1.9.5",
+        "wpackagist-plugin/attire-blocks": "<= 1.9.6.0",
         "wpackagist-plugin/attribute-stock-for-woocommerce": "<=1.2.1",
         "wpackagist-plugin/attributes-for-blocks": "<=1.0.6",
         "wpackagist-plugin/auctionplugin": "<=2.0.1.3",
