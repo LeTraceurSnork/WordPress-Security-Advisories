@@ -7903,7 +7903,7 @@
         "wpackagist-plugin/vm-backups": "<=1.0",
         "wpackagist-plugin/vmax-project-manager": "<=1.0",
         "wpackagist-plugin/vn-calendar": "<=1.0",
-        "wpackagist-plugin/vod-infomaniak": "<=1.5.7",
+        "wpackagist-plugin/vod-infomaniak": "<= 1.5.9.0",
         "wpackagist-plugin/vodpod-video-gallery": "<=3.1.7",
         "wpackagist-plugin/void-elementor-post-grid-addon-for-elementor-page-builder": "<=2.3",
         "wpackagist-plugin/void-elementor-whmcs-elements": "<=2.0",
