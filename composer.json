@@ -5586,6 +5586,7 @@
         "wpackagist-plugin/post-list-with-featured-image": "<=1.2",
         "wpackagist-plugin/post-meta-data-manager": "<= 1.2.3.0",
         "wpackagist-plugin/post-new": "<8.6",
+        "wpackagist-plugin/post-page-notes": "<=0.1.1",
         "wpackagist-plugin/post-pay-counter": "<=2.789",
         "wpackagist-plugin/post-pdf-export": "<=1.0.1",
         "wpackagist-plugin/post-plugin-library": "<=2.6.2.1",
