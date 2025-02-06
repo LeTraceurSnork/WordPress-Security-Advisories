@@ -2211,7 +2211,7 @@
         "wpackagist-plugin/display-widgets": "<=2.03",
         "wpackagist-plugin/disqus-comment-system": "< 2.79.0.0-dev",
         "wpackagist-plugin/disqus-conditional-load": "<=11.1.1",
-        "wpackagist-plugin/distance-based-shipping-calculator": "<=2.0.21",
+        "wpackagist-plugin/distance-based-shipping-calculator": "<= 2.0.22.0",
         "wpackagist-plugin/ditty-news-ticker": "<=3.1.46",
         "wpackagist-plugin/divebook": "<=1.1.4",
         "wpackagist-plugin/divi-builder": "<= 4.25.0.0",
