@@ -9528,6 +9528,7 @@
         "wpackagist-plugin/wpstorecart": "<=2.5.29",
         "wpackagist-plugin/wpstream": "<= 4.5.4.0",
         "wpackagist-plugin/wpsynchro": "<= 1.11.2.0",
+        "wpackagist-plugin/wpsyncsheets-elementor": "<=1.4",
         "wpackagist-plugin/wptables": "<=1.3.9",
         "wpackagist-plugin/wptelegram-widget": "<=2.1.27",
         "wpackagist-plugin/wptf-image-gallery": "<=1.0.3",
