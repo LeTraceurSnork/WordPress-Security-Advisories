@@ -9290,6 +9290,7 @@
         "wpackagist-plugin/wp-t-wap": "<=1.13.2",
         "wpackagist-plugin/wp-table": "<=1.43",
         "wpackagist-plugin/wp-table-builder": "<= 1.5.0.0",
+        "wpackagist-plugin/wp-table-editor": "<=1.5.1",
         "wpackagist-plugin/wp-table-manager": "<3.5.3",
         "wpackagist-plugin/wp-table-reloaded": "<=1.9.4",
         "wpackagist-plugin/wp-taxonomy-import": "<=1.0.5",
