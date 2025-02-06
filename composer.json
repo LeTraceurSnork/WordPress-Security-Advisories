@@ -2938,7 +2938,7 @@
         "wpackagist-plugin/fifthsegment-whitelist": "<=3.5",
         "wpackagist-plugin/file-gallery": "<=1.8.5.4",
         "wpackagist-plugin/file-manager": "<= 6.5.7.0",
-        "wpackagist-plugin/file-manager-advanced": "<= 5.2.10.0",
+        "wpackagist-plugin/file-manager-advanced": "<= 5.2.10.0 || >=5.2.12,<=5.2.13",
         "wpackagist-plugin/file-manager-advanced-shortcode": "<=2.5.3",
         "wpackagist-plugin/file-renaming-on-upload": "<=2.5.1",
         "wpackagist-plugin/file-select-control-for-elementor": "<=1.3",
