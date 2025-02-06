@@ -10321,6 +10321,7 @@
         "wpackagist-theme/platform": "< 1.4.4.0-dev",
         "wpackagist-theme/pliska": "<=0.3.5",
         "wpackagist-theme/point": "<=1.1",
+        "wpackagist-theme/polka-dots": "<=1.2",
         "wpackagist-theme/pont": "<=1.5",
         "wpackagist-theme/pool": "<=1.0.7",
         "wpackagist-theme/popularfx": "<=1.2.4",
