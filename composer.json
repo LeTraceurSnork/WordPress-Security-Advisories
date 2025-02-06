@@ -5045,7 +5045,7 @@
         "wpackagist-plugin/nktagcloud": "<=0.99.5",
         "wpackagist-plugin/nm-visitors": "<=1.0",
         "wpackagist-plugin/nmedia-user-file-uploader": "<= 22.7.0.0",
-        "wpackagist-plugin/nmr-strava-activities": "<=1.0.6",
+        "wpackagist-plugin/nmr-strava-activities": "<= 1.0.7.0",
         "wpackagist-plugin/no-api-amazon-affiliate": "<=4.2.2",
         "wpackagist-plugin/no-bot-registration": "<=1.9.1",
         "wpackagist-plugin/no-captcha-recaptcha-for-woocommerce": "<=1.2.6",
