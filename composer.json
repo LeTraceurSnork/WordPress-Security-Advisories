@@ -236,7 +236,7 @@
         "wpackagist-plugin/addify-product-stock-manager": "<1.0.5",
         "wpackagist-plugin/additional-order-filters-for-woocommerce": "<= 1.21.0.0",
         "wpackagist-plugin/additional-product-fields-for-woocommerce": "<=1.2.133",
-        "wpackagist-plugin/addon-elements-for-elementor-page-builder": "<= 1.13.8.0",
+        "wpackagist-plugin/addon-elements-for-elementor-page-builder": "<= 1.13.10.0",
         "wpackagist-plugin/addon-library": "<=1.3.76",
         "wpackagist-plugin/addonify-quick-view": "<=1.2.16",
         "wpackagist-plugin/addons-for-beaver-builder": "<=3.6.1",
