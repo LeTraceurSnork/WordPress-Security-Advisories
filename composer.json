@@ -5843,6 +5843,7 @@
         "wpackagist-plugin/qode-twitter-feed": "<2.0.1",
         "wpackagist-plugin/qodeblock": "<=2.0",
         "wpackagist-plugin/qqworld-auto-save-images": "<=1.9.8",
+        "wpackagist-plugin/qr-code-and-barcode-scanner-reader": "<=1.0.0",
         "wpackagist-plugin/qr-code-composer": "<=2.0.3",
         "wpackagist-plugin/qr-code-tag": "<=1.0",
         "wpackagist-plugin/qr-redirector": "< 1.6.1.0-dev",
