@@ -1712,7 +1712,7 @@
         "wpackagist-plugin/contact-form-submissions": "<1.7.3",
         "wpackagist-plugin/contact-form-to-any-api": "<= 1.2.4.0",
         "wpackagist-plugin/contact-form-to-db": "<= 1.7.2.0",
-        "wpackagist-plugin/contact-form-to-email": "<=1.3.44",
+        "wpackagist-plugin/contact-form-to-email": "<= 1.3.52.0",
         "wpackagist-plugin/contact-form-with-a-meeting-scheduler-by-vcita": "<= 4.10.4.0",
         "wpackagist-plugin/contact-form-with-captcha": "<= 1.6.8.0",
         "wpackagist-plugin/contact-form-x": "<=2.4",
