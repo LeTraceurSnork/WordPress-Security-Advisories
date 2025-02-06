@@ -5266,7 +5266,7 @@
         "wpackagist-plugin/pagination": "<= 1.2.2.0",
         "wpackagist-plugin/pagination-styler-for-woocommerce": "<=3.5.7.6",
         "wpackagist-plugin/paid-member-subscriptions": "<= 2.13.4.0",
-        "wpackagist-plugin/paid-membership": "<=1.9.5",
+        "wpackagist-plugin/paid-membership": "<= 2.9.29.0",
         "wpackagist-plugin/paid-memberships-pro": "<= 3.0.5.0",
         "wpackagist-plugin/panda-pods-repeater-field": "<=1.5.3",
         "wpackagist-plugin/pandavideo": "<=1.4.0",
