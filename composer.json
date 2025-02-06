@@ -2448,6 +2448,7 @@
         "wpackagist-plugin/easy-preloader": "<=1.0.0",
         "wpackagist-plugin/easy-pricing-tables": "<= 3.2.6.0",
         "wpackagist-plugin/easy-property-listings": "<= 3.5.3.0",
+        "wpackagist-plugin/easy-real-estate": "<=2.2.6",
         "wpackagist-plugin/easy-redirect-manager": "<=2.18.18",
         "wpackagist-plugin/easy-registration-forms": "<=2.1.1",
         "wpackagist-plugin/easy-schema-structured-data-rich-snippets": ">=2.0,<=2.2.2",
