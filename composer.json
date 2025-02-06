@@ -9054,7 +9054,7 @@
         "wpackagist-plugin/wp-parsidate": "<=5.1.1",
         "wpackagist-plugin/wp-payeezy-pay": "<2.98",
         "wpackagist-plugin/wp-payment-form": "<=4.2.0",
-        "wpackagist-plugin/wp-paypal": "<=1.2.3.7",
+        "wpackagist-plugin/wp-paypal": "<= 1.2.3.35",
         "wpackagist-plugin/wp-paytm-pay": "<=1.3.2",
         "wpackagist-plugin/wp-pdf-generator": "<=1.2.2",
         "wpackagist-plugin/wp-people": "<=3.4.1",
