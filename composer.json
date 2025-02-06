@@ -9051,6 +9051,7 @@
         "wpackagist-plugin/wp-pagebuilder": "<= 1.2.8.0",
         "wpackagist-plugin/wp-paginate": "< 2.1.9.0-dev",
         "wpackagist-plugin/wp-pagseguro-payments": "<=1.0",
+        "wpackagist-plugin/wp-pano": "<=1.17",
         "wpackagist-plugin/wp-parsidate": "<=5.1.1",
         "wpackagist-plugin/wp-payeezy-pay": "<2.98",
         "wpackagist-plugin/wp-payment-form": "<=4.2.0",
