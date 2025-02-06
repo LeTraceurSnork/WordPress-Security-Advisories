@@ -1646,6 +1646,7 @@
         "wpackagist-plugin/company-updates-for-linkedin": "<=1.5.3",
         "wpackagist-plugin/compare-affiliated-products": ">=2.0.1,<=2.2.0",
         "wpackagist-plugin/comparison-slider": "<=1.0.5",
+        "wpackagist-plugin/competition-form": "<=2.0",
         "wpackagist-plugin/compfight": "<1.5",
         "wpackagist-plugin/complete-gallery-manager": "<3.3.4",
         "wpackagist-plugin/complete-open-graph": "<=3.4.5",
