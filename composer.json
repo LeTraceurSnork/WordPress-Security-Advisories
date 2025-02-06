@@ -9147,6 +9147,7 @@
         "wpackagist-plugin/wp-responsive-preview": "<1.2",
         "wpackagist-plugin/wp-responsive-recent-post-slider": "<=3.4",
         "wpackagist-plugin/wp-responsive-slider-with-lightbox": "<= 1.0.17.0",
+        "wpackagist-plugin/wp-responsive-tabs": "<=1.2.9",
         "wpackagist-plugin/wp-responsive-testimonials-slider-and-widget": "<=1.5",
         "wpackagist-plugin/wp-responsive-thumbnail-slider": "< 1.1.10.0-dev",
         "wpackagist-plugin/wp-responsive-video-gallery-with-lightbox": "<= 1.0.22.0",
