@@ -4519,7 +4519,7 @@
         "wpackagist-plugin/mapwiz": "<=1.0.1",
         "wpackagist-plugin/marekkis-watermark": "<=0.9.4",
         "wpackagist-plugin/mark-new-posts": "<=7.5.1",
-        "wpackagist-plugin/mark-posts": "<2.0.1",
+        "wpackagist-plugin/mark-posts": "<= 2.2.4.0",
         "wpackagist-plugin/mark-user-as-spammer": "<=1.0.1",
         "wpackagist-plugin/markdown-on-save-improved": "<=2.5",
         "wpackagist-plugin/marker-io": "<=1.1.8",
