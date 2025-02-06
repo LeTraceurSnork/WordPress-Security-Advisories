@@ -4446,6 +4446,7 @@
         "wpackagist-plugin/mailchimp-subscribe-sm": "<= 4.0.9.9",
         "wpackagist-plugin/mailchimp-top-bar": "<=1.6.0",
         "wpackagist-plugin/mailchimp-wp": "<=2.5.7",
+        "wpackagist-plugin/mailclient": "<=1.0",
         "wpackagist-plugin/mailcwp": "<=1.100",
         "wpackagist-plugin/mailin": "<= 3.1.87.0",
         "wpackagist-plugin/mailjet-for-wordpress": "<=5.3",
