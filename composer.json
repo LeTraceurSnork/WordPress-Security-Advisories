@@ -5193,7 +5193,7 @@
         "wpackagist-plugin/order-delivery-date": "<=1.2",
         "wpackagist-plugin/order-delivery-date-for-woocommerce": "<= 3.21.0.0",
         "wpackagist-plugin/order-delivery-pickup-location-date-time-free-version": "<=1.1.0",
-        "wpackagist-plugin/order-export-and-more-for-woocommerce": "<=3.23",
+        "wpackagist-plugin/order-export-and-more-for-woocommerce": "<= 3.24.0.0",
         "wpackagist-plugin/order-hours-scheduler-for-woocommerce": "<=4.3.20",
         "wpackagist-plugin/order-import-export-for-woocommerce": "<= 2.4.9.0",
         "wpackagist-plugin/order-notification-for-telegram": "<=1.0.1",
