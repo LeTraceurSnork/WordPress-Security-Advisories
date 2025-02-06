@@ -6261,7 +6261,7 @@
         "wpackagist-plugin/saphali-woocommerce-lite": "<=1.8.13",
         "wpackagist-plugin/saragna-social-stream": "<=1.0",
         "wpackagist-plugin/sassy-social-share": "<= 3.3.69.0",
-        "wpackagist-plugin/sastra-essential-addons-for-elementor": "<=1.0.5",
+        "wpackagist-plugin/sastra-essential-addons-for-elementor": "<= 1.0.14.0",
         "wpackagist-plugin/save-as-image-by-pdfcrowd": "<= 3.2.1.0",
         "wpackagist-plugin/save-as-pdf-by-pdfcrowd": "<= 4.2.1.0",
         "wpackagist-plugin/save-grab": "<=1.0.4",
