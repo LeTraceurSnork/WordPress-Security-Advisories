@@ -3542,6 +3542,7 @@
         "wpackagist-plugin/h5p": "<=1.15.7",
         "wpackagist-plugin/h5p-css-editor": "<=1.0",
         "wpackagist-plugin/hack-info": "<=3.17",
+        "wpackagist-plugin/hack-me-if-you-can": "<=1.2",
         "wpackagist-plugin/hacklog-downloadmanager": "<=2.1.4",
         "wpackagist-plugin/hal": "<=2.1.1",
         "wpackagist-plugin/halfdata-optin-downloads": "<=4.07",
