@@ -2870,6 +2870,7 @@
         "wpackagist-plugin/fast-image-adder": "<=1.1",
         "wpackagist-plugin/fast-index": ">=1.0,<=1.6",
         "wpackagist-plugin/fast-search-powered-by-solr": "<=1.0.2",
+        "wpackagist-plugin/fast-tube": "<=2.3.1",
         "wpackagist-plugin/fast-velocity-minify": "<=2.7.6",
         "wpackagist-plugin/fast-video-and-image-display": "<=2.5.2",
         "wpackagist-plugin/fast-wp": "<=1.0.3",
