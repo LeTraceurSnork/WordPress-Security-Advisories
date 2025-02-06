@@ -705,6 +705,7 @@
         "wpackagist-plugin/audio-video-download-buttons-for-youtube": "<=1.03",
         "wpackagist-plugin/audiocase": "<=1.2.1",
         "wpackagist-plugin/augmented-reality": "<=1.2.0",
+        "wpackagist-plugin/auphonic-importer": "<=1.5.1",
         "wpackagist-plugin/auth0": "<= 4.6.0.0",
         "wpackagist-plugin/authenticator": "<=1.3.0",
         "wpackagist-plugin/authldap": "<=2.6.1",
