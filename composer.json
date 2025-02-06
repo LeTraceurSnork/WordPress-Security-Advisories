@@ -6719,6 +6719,7 @@
         "wpackagist-plugin/site-notes": "<=2.0.0",
         "wpackagist-plugin/site-offline": "<=1.5.6",
         "wpackagist-plugin/site-reviews": "<= 6.11.8.0",
+        "wpackagist-plugin/site-search-360": "<=2.1.6",
         "wpackagist-plugin/sitebuilder-dynamic-components": "<=1.0",
         "wpackagist-plugin/siteguard": "<=1.7.6",
         "wpackagist-plugin/siteimprove": "<=2.0.6",
