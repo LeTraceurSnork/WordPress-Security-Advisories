@@ -3420,6 +3420,7 @@
         "wpackagist-plugin/google-mobile-sitemap": "<=1.6.1",
         "wpackagist-plugin/google-news-sitemap": "<=1.0.16",
         "wpackagist-plugin/google-one": "<1.3.4",
+        "wpackagist-plugin/google-org-chart": "<=1.0.1",
         "wpackagist-plugin/google-pagespeed-insights": "<= 4.0.6.0",
         "wpackagist-plugin/google-picasa-albums-viewer": "<=4.0.2",
         "wpackagist-plugin/google-places-reviews": "<2.0.0",
