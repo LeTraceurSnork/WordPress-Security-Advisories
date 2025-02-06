@@ -408,6 +408,7 @@
         "wpackagist-plugin/ai-auto-tool": "<=2.1.2",
         "wpackagist-plugin/ai-contact-us": "<=1.0",
         "wpackagist-plugin/ai-content": "<=1.0.7",
+        "wpackagist-plugin/ai-content-generation": "<=1.2.5",
         "wpackagist-plugin/ai-content-generator": "<=2.4.9",
         "wpackagist-plugin/ai-content-writing-assistant": "<=1.1.6",
         "wpackagist-plugin/ai-engine": "<= 2.5.0.0",
