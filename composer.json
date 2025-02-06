@@ -1410,6 +1410,7 @@
         "wpackagist-plugin/cf7-telegram": "<=0.8.5",
         "wpackagist-plugin/cf7-widget-elementor": "<= 2.4.1.0",
         "wpackagist-plugin/cf7-zoho": "<=1.2.3",
+        "wpackagist-plugin/cf7save-extension": "<=1",
         "wpackagist-plugin/cforms": "<10.5",
         "wpackagist-plugin/cforms2": "<=15.0.5",
         "wpackagist-plugin/cgc-maintenance-mode": "<=1.2",
