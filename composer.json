@@ -1727,6 +1727,7 @@
         "wpackagist-plugin/content-audit": "<= 1.9.1.0",
         "wpackagist-plugin/content-audit-exporter": "<=1.1",
         "wpackagist-plugin/content-aware-sidebars": "<= 3.19.0.0",
+        "wpackagist-plugin/content-blocks-builder": "<=2.7.6",
         "wpackagist-plugin/content-cards": "<= 0.9.7.0",
         "wpackagist-plugin/content-collector": "<=1.1.1",
         "wpackagist-plugin/content-control": "<=2.1.0",
