@@ -9281,7 +9281,7 @@
         "wpackagist-plugin/wp-survey-and-quiz-tool": "<=2.9.2",
         "wpackagist-plugin/wp-survey-plus": "<=1.0",
         "wpackagist-plugin/wp-svg": "<=0.9",
-        "wpackagist-plugin/wp-svg-images": "<=4.2",
+        "wpackagist-plugin/wp-svg-images": "<= 4.3.0.0",
         "wpackagist-plugin/wp-swimteam": "<=1.44.1077",
         "wpackagist-plugin/wp-symposium": "<= 15.8.1.0",
         "wpackagist-plugin/wp-symposium-pro": "<16.01",
