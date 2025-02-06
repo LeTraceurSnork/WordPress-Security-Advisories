@@ -5166,6 +5166,7 @@
         "wpackagist-plugin/open-user-map": "<=1.3.26",
         "wpackagist-plugin/openbook-book-data": "<=3.5.2",
         "wpackagist-plugin/opencart-product-display": "<=1.0",
+        "wpackagist-plugin/opencart-product-in-wp": "<=1.0.1",
         "wpackagist-plugin/opengraph": "<=1.11.2",
         "wpackagist-plugin/openid": "<=3.6.1",
         "wpackagist-plugin/opening-hours": "<= 1.46.0.0",
