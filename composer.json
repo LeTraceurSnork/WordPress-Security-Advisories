@@ -7490,6 +7490,7 @@
         "wpackagist-plugin/topbar-id-for-elementor": "<=1.0.1",
         "wpackagist-plugin/topquark": "<2.1.1",
         "wpackagist-plugin/tori-ajax": ">=2.0.0,<=2.0.2",
+        "wpackagist-plugin/torod": "<=1.7",
         "wpackagist-plugin/torro-forms": "<=1.0.16",
         "wpackagist-plugin/total-donations": "<=2.0.5",
         "wpackagist-plugin/total-sales-for-woocommerce": "*",
