@@ -9065,6 +9065,7 @@
         "wpackagist-plugin/wp-phone-message": ">=1.1.0,<=1.1.1",
         "wpackagist-plugin/wp-photo-album-plus": "<= 8.8.08.007",
         "wpackagist-plugin/wp-photo-effects": "<1.2.3",
+        "wpackagist-plugin/wp-photo-sphere": "<=3.8",
         "wpackagist-plugin/wp-photo-text-slider-50": "<= 8.1.0.0",
         "wpackagist-plugin/wp-php-widget": "<=1.0.2",
         "wpackagist-plugin/wp-phpmyadmin-extension": "<=5.2.0.3",
