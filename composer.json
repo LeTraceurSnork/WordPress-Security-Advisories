@@ -9262,7 +9262,7 @@
         "wpackagist-plugin/wp-statistics": "<= 14.5.0.0",
         "wpackagist-plugin/wp-stats": "<2.52",
         "wpackagist-plugin/wp-stats-dashboard": "<=2.9.4",
-        "wpackagist-plugin/wp-stats-manager": "<= 6.9.4.0",
+        "wpackagist-plugin/wp-stats-manager": "<= 7.2.0.0",
         "wpackagist-plugin/wp-sticky-social": "1.0.1",
         "wpackagist-plugin/wp-store-locator-extenders": ">=1.1.0,<=1.3.2",
         "wpackagist-plugin/wp-strava": "<=2.12.1",
