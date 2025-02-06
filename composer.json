@@ -1749,7 +1749,7 @@
         "wpackagist-plugin/contentlock": "<=1.0.3",
         "wpackagist-plugin/contentstudio": "<=1.2.5",
         "wpackagist-plugin/contest-code-checker": "<=2.0.3",
-        "wpackagist-plugin/contest-gallery": "<=24.0.7",
+        "wpackagist-plugin/contest-gallery": "<= 25.1.0.0",
         "wpackagist-plugin/contest-gallery-pro": "<= 19.1.5.0",
         "wpackagist-plugin/contests-from-rewards-fuel": "<= 2.0.65.0",
         "wpackagist-plugin/contextual-adminbar-color": "<0.3",
