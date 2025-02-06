@@ -3363,6 +3363,7 @@
         "wpackagist-plugin/gmace": "<=1.5.2",
         "wpackagist-plugin/gmap-embed": "<= 1.8.3.0",
         "wpackagist-plugin/gmap-point-list": "<=1.1.2",
+        "wpackagist-plugin/gmaps-for-visual-composer-free": "<=1.2",
         "wpackagist-plugin/gmo-social-connection": "<=1.2",
         "wpackagist-plugin/gmw-premium-settings": "<3.1",
         "wpackagist-plugin/gn-publisher": "<=1.5.5",
