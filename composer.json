@@ -4204,7 +4204,7 @@
         "wpackagist-plugin/ldap-login-for-intranet-sites": "<=4.1.10",
         "wpackagist-plugin/ldap-wp-login-integration-with-active-directory": "<3.0.2",
         "wpackagist-plugin/ldd-directory-lite": "<=3.5",
-        "wpackagist-plugin/lead-capturing-call-to-actions-by-vcita": "<=2.6.4",
+        "wpackagist-plugin/lead-capturing-call-to-actions-by-vcita": "<= 2.7.1.0",
         "wpackagist-plugin/lead-form-builder": "<= 1.9.7.0",
         "wpackagist-plugin/lead-generated": "<=1.23",
         "wpackagist-plugin/lead-octopus-power": "<1.1.1",
