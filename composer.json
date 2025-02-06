@@ -2038,6 +2038,7 @@
         "wpackagist-plugin/customify": "<=2.10.4",
         "wpackagist-plugin/customify-sites": "<=0.0.9",
         "wpackagist-plugin/customily-v2": "<=1.23.3",
+        "wpackagist-plugin/customizable-captcha-and-contact-us-form": "<=1.0.2",
         "wpackagist-plugin/customize-login": "<=1.1",
         "wpackagist-plugin/customize-login-image": "<=3.4",
         "wpackagist-plugin/customize-my-account-for-woocommerce": "<=2.7.29",
