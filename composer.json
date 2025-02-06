@@ -933,6 +933,7 @@
         "wpackagist-plugin/better-elementor-addons": "<= 1.4.4.0",
         "wpackagist-plugin/better-follow-button-for-jetpack": "<=8.0",
         "wpackagist-plugin/better-font-awesome": "<= 2.0.3.0",
+        "wpackagist-plugin/better-protected-pages": "<=1.0",
         "wpackagist-plugin/better-robots-txt": "<=1.4.5",
         "wpackagist-plugin/better-rss-widget": "<=2.8.1",
         "wpackagist-plugin/better-search": "<= 3.3.0.0",
