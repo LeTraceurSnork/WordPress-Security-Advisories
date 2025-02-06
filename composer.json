@@ -7506,6 +7506,7 @@
         "wpackagist-plugin/tpg-redirect": "<=1.0.7",
         "wpackagist-plugin/tr-easy-google-analytics": "*",
         "wpackagist-plugin/track-geolocation-of-users-using-contact-form-7": "<=2.0",
+        "wpackagist-plugin/track-logins": "<=1.0",
         "wpackagist-plugin/track-that-stat": "<=1.0.8",
         "wpackagist-plugin/track-the-click": "<=0.3.11",
         "wpackagist-plugin/tracked-tweets": "<=0.2.9",
