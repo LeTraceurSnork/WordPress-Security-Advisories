@@ -10352,7 +10352,7 @@
         "wpackagist-theme/real-estate-directory": "<= 1.0.5.0",
         "wpackagist-theme/realestate": "*",
         "wpackagist-theme/realestate-7": "<=3.3.4",
-        "wpackagist-theme/realhomes": "<=4.0.2",
+        "wpackagist-theme/realhomes": "<= 4.3.6.0",
         "wpackagist-theme/reality": "<=2.5.5",
         "wpackagist-theme/reconstruction": "<=1.4.7",
         "wpackagist-theme/redline": "<1.66",
