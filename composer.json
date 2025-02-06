@@ -2858,7 +2858,7 @@
         "wpackagist-plugin/fancyflickr": "*",
         "wpackagist-plugin/fantastic-content-protector-free": "<=2.6",
         "wpackagist-plugin/faq-and-answers": "<=1.1.0",
-        "wpackagist-plugin/faq-builder-ays": "<= 1.7.1.0",
+        "wpackagist-plugin/faq-builder-ays": "<= 1.7.3.0",
         "wpackagist-plugin/faq-for-woocommerce": "<=1.7.0",
         "wpackagist-plugin/faq-manager-with-structured-data": ">=4.0.0,<=5.4.3",
         "wpackagist-plugin/faq-wd": "<=1.0.14",
