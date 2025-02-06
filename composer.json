@@ -2598,6 +2598,7 @@
         "wpackagist-plugin/email-my-posts": "*",
         "wpackagist-plugin/email-newsletter": "<= 20.15.0.0",
         "wpackagist-plugin/email-obfuscate-shortcode": "<=2.0",
+        "wpackagist-plugin/email-on-publish": "<=1.5",
         "wpackagist-plugin/email-posts-to-subscribers": "<=6.2",
         "wpackagist-plugin/email-queue": "<1.1.2",
         "wpackagist-plugin/email-reminders": "<=2.0.4",
