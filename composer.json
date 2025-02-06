@@ -1255,6 +1255,7 @@
         "wpackagist-plugin/cab-fare-calculator": "<=1.1.6",
         "wpackagist-plugin/cab-grid": "<=1.5.15",
         "wpackagist-plugin/cache-images": "<=3.1",
+        "wpackagist-plugin/caching-compatible-cookie-optin-and-javascript": "<=0.0.10",
         "wpackagist-plugin/caddy": "<=1.9.7",
         "wpackagist-plugin/cafe-lite": "<= 2.2.1.0",
         "wpackagist-plugin/calculated-fields-form": "<= 5.2.63.0",
