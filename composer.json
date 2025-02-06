@@ -4337,6 +4337,7 @@
         "wpackagist-plugin/loan-comparison": "<= 1.5.2.0",
         "wpackagist-plugin/local-delivery-drivers-for-woocommerce": "<= 1.9.0.0",
         "wpackagist-plugin/local-development": "<=2.8.2",
+        "wpackagist-plugin/local-sync": "<=1.1.6",
         "wpackagist-plugin/localize-my-post": "<=1.0",
         "wpackagist-plugin/localize-remote-images": "<=1.0.9",
         "wpackagist-plugin/locateandfilter": "<=1.6.14",
