@@ -4575,6 +4575,7 @@
         "wpackagist-plugin/mdc-youtube-downloader": "<=3.0.0",
         "wpackagist-plugin/mdr-webmaster-tools": "<=1.1",
         "wpackagist-plugin/media-alt-renamer": "0.0.1",
+        "wpackagist-plugin/media-category-library": "<=2.7",
         "wpackagist-plugin/media-cleaner": "<=6.7.2",
         "wpackagist-plugin/media-download": "<=1.4",
         "wpackagist-plugin/media-downloader": "<=0.1.992",
