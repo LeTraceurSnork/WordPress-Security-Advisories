@@ -5345,6 +5345,7 @@
         "wpackagist-plugin/pdf-viewer-for-elementor": "<=2.9.3",
         "wpackagist-plugin/pdf24-post-to-pdf": "<=4.2.2",
         "wpackagist-plugin/pdf24-posts-to-pdf": "<=4.2.2",
+        "wpackagist-plugin/pdfjs-shortcode": "<=1.0",
         "wpackagist-plugin/pdfjs-viewer-shortcode": "<=2.1.7",
         "wpackagist-plugin/pdq-csv": "<=1.0.0",
         "wpackagist-plugin/pdw-file-browser": "*",
