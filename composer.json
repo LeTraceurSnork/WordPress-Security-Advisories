@@ -947,6 +947,7 @@
         "wpackagist-plugin/bg-patriarchia-bu": "<=2.2.3",
         "wpackagist-plugin/biagiotti-membership": "<=1.0.2",
         "wpackagist-plugin/bib2html": "<=0.9.3",
+        "wpackagist-plugin/bible-embed": "<=0.0.4",
         "wpackagist-plugin/bible-text": "<=0.2",
         "wpackagist-plugin/bic-media": "<=1.0",
         "wpackagist-plugin/bigbluebutton": "<=3.0.0-beta.4",
