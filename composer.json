@@ -3765,6 +3765,7 @@
         "wpackagist-plugin/image-classify": "<=1.0.0",
         "wpackagist-plugin/image-export": "<=1.1",
         "wpackagist-plugin/image-gallery": "<=1.2.2",
+        "wpackagist-plugin/image-gallery-box-by-crudlab": "<=1.0.3",
         "wpackagist-plugin/image-gallery-with-slideshow": "<=1.5.2",
         "wpackagist-plugin/image-horizontal-reel-scroll-slideshow": "<= 13.4.0.0",
         "wpackagist-plugin/image-hover-effects": "<= 5.5.0.0",
