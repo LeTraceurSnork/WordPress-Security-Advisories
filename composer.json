@@ -281,7 +281,7 @@
         "wpackagist-plugin/adminer": "<=1.4.5",
         "wpackagist-plugin/adminify": "<= 4.0.1.6",
         "wpackagist-plugin/adminimize": "< 1.7.22.0-dev",
-        "wpackagist-plugin/administrator-z": "<= 2024.12.22.0",
+        "wpackagist-plugin/administrator-z": "<= 2025.01.11.0",
         "wpackagist-plugin/adminonline": "*",
         "wpackagist-plugin/adminpad": "<=2.1",
         "wpackagist-plugin/admission-appmanager": "<=1.0.0",
