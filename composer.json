@@ -7524,7 +7524,7 @@
         "wpackagist-plugin/transition-slider-lite": "<=2.20.3",
         "wpackagist-plugin/translatepress-multilingual": "<= 2.7.5.0",
         "wpackagist-plugin/translation-exchange": "<=1.0.14",
-        "wpackagist-plugin/transportersio": "<=2.0.84",
+        "wpackagist-plugin/transportersio": "<= 2.1.1.0",
         "wpackagist-plugin/transposh-translation-filter-for-wordpress": "<=1.0.8.1",
         "wpackagist-plugin/tranzly": "<=2.0.0",
         "wpackagist-plugin/travel-light": "<=1.0",
