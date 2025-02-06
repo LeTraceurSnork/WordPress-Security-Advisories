@@ -2877,6 +2877,7 @@
         "wpackagist-plugin/fastbook-responsive-appointment-booking-and-scheduling-system": "<=1.1",
         "wpackagist-plugin/fastdup": "<=2.1.9",
         "wpackagist-plugin/fastly": "<= 1.2.25.0",
+        "wpackagist-plugin/fat-event-lite": "<=1.1",
         "wpackagist-plugin/fat-rat-collect": "<= 2.7.3.0",
         "wpackagist-plugin/fat-services-booking": "<=5.6",
         "wpackagist-plugin/fatal-error-notify": "<=1.5.2",
