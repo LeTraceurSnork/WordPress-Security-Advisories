@@ -265,6 +265,7 @@
         "wpackagist-plugin/admin-management-xtended": "<= 2.4.6.0",
         "wpackagist-plugin/admin-menu": "<=1.1",
         "wpackagist-plugin/admin-menu-editor": "<=1.12",
+        "wpackagist-plugin/admin-menu-organizer": "<=1.0.1",
         "wpackagist-plugin/admin-menu-restriction": "<=1.0.4",
         "wpackagist-plugin/admin-notices-for-team": "<1.0.4",
         "wpackagist-plugin/admin-notices-manager": "<=1.4.0",
