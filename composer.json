@@ -3929,6 +3929,7 @@
         "wpackagist-plugin/intergeo-maps": "<=2.3.2",
         "wpackagist-plugin/internal-link-building-plugin": "<=1.2.3",
         "wpackagist-plugin/internal-link-flow-topical-authority-topical-map": "1.0.1",
+        "wpackagist-plugin/internal-link-shortcode": "<=1.1.0",
         "wpackagist-plugin/internal-links": "<= 2.24.3.0",
         "wpackagist-plugin/internallink-audit": "0.1.0",
         "wpackagist-plugin/intimate-io-cryptocurrency-payments": "<=1.3.1",
