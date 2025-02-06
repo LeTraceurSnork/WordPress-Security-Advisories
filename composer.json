@@ -2507,6 +2507,7 @@
         "wpackagist-plugin/ecommerce-product-catalog": "<= 3.3.43.0",
         "wpackagist-plugin/ecommerce-two-factor-authentication": "<1.0.5",
         "wpackagist-plugin/ecpay-logistics-for-woocommerce": "<=1.2.181030",
+        "wpackagist-plugin/ect-homepage-products": "<=1.9",
         "wpackagist-plugin/ect-product-carousel": "<=1.9",
         "wpackagist-plugin/ect-social-share": "<=1.3",
         "wpackagist-plugin/ecwid-shopping-cart": "<= 6.12.10.0",
