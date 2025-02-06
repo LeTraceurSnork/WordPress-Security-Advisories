@@ -2827,7 +2827,7 @@
         "wpackagist-plugin/ezpz-one-click-backup": "<=12.03.10",
         "wpackagist-plugin/ezyonlinebookings-online-booking-system": "<=1.3",
         "wpackagist-plugin/f4-improvements": "<= 1.9.0.0",
-        "wpackagist-plugin/f4-tree": ">=1.1.0,<=1.1.14",
+        "wpackagist-plugin/f4-tree": "<= 1.1.18.0",
         "wpackagist-plugin/fabrica-reusable-block-instances": "<=1.0.8",
         "wpackagist-plugin/facebook-button-plugin": "<= 2.73.0.0",
         "wpackagist-plugin/facebook-by-weblizar": "<=2.8.4",
