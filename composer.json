@@ -6562,6 +6562,7 @@
         "wpackagist-plugin/simple-download-button-shortcode": "1.0",
         "wpackagist-plugin/simple-download-counter": "1.6",
         "wpackagist-plugin/simple-download-monitor": "<= 3.9.10.0",
+        "wpackagist-plugin/simple-downloads-list": "<=1.4.2",
         "wpackagist-plugin/simple-dropbox-upload-form": "<1.8.8.1",
         "wpackagist-plugin/simple-e-commerce-shopping-cart": "<=3.1.2",
         "wpackagist-plugin/simple-embed-code": "<=2.5",
