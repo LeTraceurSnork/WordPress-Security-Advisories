@@ -6465,6 +6465,7 @@
         "wpackagist-plugin/ship-to-ecourier": "<=1.0.1",
         "wpackagist-plugin/shipping-labels-for-woo": "<=2.3.8",
         "wpackagist-plugin/shipping-manager-for-woocommerce": ">=1.0.0,<=1.3.0",
+        "wpackagist-plugin/shipworks-e-commerce-bridge": "<=5.2.5",
         "wpackagist-plugin/shipyaari-shipping-managment": "<=1.2",
         "wpackagist-plugin/shmapper-by-teplitsa": "<=1.4.18",
         "wpackagist-plugin/shockingly-simple-favicon": "<=1.8.2",
