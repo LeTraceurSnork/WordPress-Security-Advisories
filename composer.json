@@ -6988,7 +6988,7 @@
         "wpackagist-plugin/spotify-play-button-for-wordpress": "<= 2.11.0.0",
         "wpackagist-plugin/spotim-comments": "<4.0.4",
         "wpackagist-plugin/spotlight-social-photo-feeds": "<=1.6.10",
-        "wpackagist-plugin/spotlightr": "<=0.1.9",
+        "wpackagist-plugin/spotlightr": "<= 0.1.11.0",
         "wpackagist-plugin/spotlightyour": "<=4.7",
         "wpackagist-plugin/sprapid": "*",
         "wpackagist-plugin/spreadr-for-woocomerce": "<=1.0.4",
