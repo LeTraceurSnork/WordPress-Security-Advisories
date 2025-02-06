@@ -5893,6 +5893,7 @@
         "wpackagist-plugin/quiz-tool-lite": "<=2.3.15",
         "wpackagist-plugin/quizlord": "<=2.0",
         "wpackagist-plugin/quote-o-matic": "<=1.0.5",
+        "wpackagist-plugin/quote-post-type-plugin": "<=1.2.2",
         "wpackagist-plugin/quote-press": "1.1.3",
         "wpackagist-plugin/quote-requests-for-woocommerce": ">=1.0.0,<=1.0.4",
         "wpackagist-plugin/quotes-and-tips": "<=1.44",
