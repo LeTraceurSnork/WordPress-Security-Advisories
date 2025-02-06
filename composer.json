@@ -2727,6 +2727,7 @@
         "wpackagist-plugin/event-tickets": "<= 5.11.0.4",
         "wpackagist-plugin/event-tickets-plus": "<=5.9.0",
         "wpackagist-plugin/event-tickets-with-ticket-scanner": "<= 2.4.3.0",
+        "wpackagist-plugin/eventer": "<=3.9.9",
         "wpackagist-plugin/eventify": "<=2.1",
         "wpackagist-plugin/eventon": "<= 4.6.8.0",
         "wpackagist-plugin/eventon-lite": "<= 2.2.16.0",
