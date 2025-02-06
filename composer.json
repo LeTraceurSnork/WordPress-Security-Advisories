@@ -7545,6 +7545,7 @@
         "wpackagist-plugin/truepush-free-web-push-notifications": "<=1.0.8",
         "wpackagist-plugin/trust-form": "<=2.0.0",
         "wpackagist-plugin/trust-payments-gateway-3ds2": "<= 1.2.2.0",
+        "wpackagist-plugin/trustist-reviewer": "<=2.0",
         "wpackagist-plugin/trustmary": "<=1.0.9",
         "wpackagist-plugin/trustmate-io-integration-for-woocommerce": "<=1.8.11",
         "wpackagist-plugin/trustprofile": "<3.25",
