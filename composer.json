@@ -4252,6 +4252,7 @@
         "wpackagist-plugin/lh-add-media-from-url": "<=1.23",
         "wpackagist-plugin/lh-copy-media-file": "<=1.08",
         "wpackagist-plugin/lh-email": "<=1.12",
+        "wpackagist-plugin/lh-login-page": "<=2.14",
         "wpackagist-plugin/lh-password-changer": "<=1.55",
         "wpackagist-plugin/lh-qr-codes": "<=1.06",
         "wpackagist-plugin/library-bookshelves": "<=5.8",
