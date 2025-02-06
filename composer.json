@@ -3856,7 +3856,7 @@
         "wpackagist-plugin/infinite-scroll": "<=2.6.2",
         "wpackagist-plugin/infinite-slider": "<=2.0.1",
         "wpackagist-plugin/infogram": "<=1.6.1",
-        "wpackagist-plugin/infographic-and-list-builder-ilist": "<=4.7.4",
+        "wpackagist-plugin/infographic-and-list-builder-ilist": "<= 4.9.0.0",
         "wpackagist-plugin/infolinks-ad-wrap": "<=1.0.2",
         "wpackagist-plugin/information-for-help": "<=0.0.2",
         "wpackagist-plugin/information-reel": "<=10.0",
