@@ -4532,7 +4532,7 @@
         "wpackagist-plugin/marketking-multivendor-marketplace-for-woocommerce": "<=2.0.0",
         "wpackagist-plugin/marketo-forms-and-tracking": "<=1.0.2",
         "wpackagist-plugin/marketplace-items": "<=1.5.5",
-        "wpackagist-plugin/marmoset-viewer": "<1.9.3",
+        "wpackagist-plugin/marmoset-viewer": "<= 1.9.3.0",
         "wpackagist-plugin/marquee-elementor": "<=1.2.0",
         "wpackagist-plugin/martins-link-network": "<=1.2.29",
         "wpackagist-plugin/mas-addons-for-elementor": "<= 1.1.7.0",
