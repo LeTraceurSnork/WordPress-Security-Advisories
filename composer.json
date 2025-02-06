@@ -3200,6 +3200,7 @@
         "wpackagist-plugin/fullworks-pricing-tables": ">=1.0,<=1.1.3",
         "wpackagist-plugin/fullworks-slack": "1.0.1",
         "wpackagist-plugin/funcaptcha": "<0.3.3",
+        "wpackagist-plugin/fundpress": "<=2.0.6",
         "wpackagist-plugin/funnel-builder": "<= 3.4.6.0",
         "wpackagist-plugin/funnel-builder-pro": "<=3.4.5",
         "wpackagist-plugin/funnelforms-free": "<= 3.7.5.1",
