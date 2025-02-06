@@ -3554,7 +3554,7 @@
         "wpackagist-plugin/happy-scss-compiler": "<=1.3.10",
         "wpackagist-plugin/happyfiles-pro": "<=1.8.1",
         "wpackagist-plugin/happyforms": "<= 1.26.0.0",
-        "wpackagist-plugin/hash-elements": "<=1.4.7",
+        "wpackagist-plugin/hash-elements": "<= 1.4.9.0",
         "wpackagist-plugin/hash-form": "<= 1.2.1.0",
         "wpackagist-plugin/hashbar-wp-notification-bar": "<1.4.2",
         "wpackagist-plugin/hashthemes-demo-importer": "<=1.1.1",
