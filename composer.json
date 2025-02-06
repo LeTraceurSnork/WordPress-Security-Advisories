@@ -5102,6 +5102,7 @@
         "wpackagist-plugin/occasions": "<=1.1",
         "wpackagist-plugin/ocean-extra": "<=2.2.9",
         "wpackagist-plugin/ocim-mp3": "*",
+        "wpackagist-plugin/octrace-support": "<=1.2.7",
         "wpackagist-plugin/od-photogallery-plugin": "<=0.5.3",
         "wpackagist-plugin/oembed-gist": "<=4.9.1",
         "wpackagist-plugin/off-canvas-sidebars": "<=0.5.8.1",
