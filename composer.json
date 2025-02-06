@@ -3585,6 +3585,7 @@
         "wpackagist-plugin/hello-world": "<=2.1.1",
         "wpackagist-plugin/helloasso": "<=1.1.10",
         "wpackagist-plugin/helloprint": "<=2.0.4",
+        "wpackagist-plugin/help-scout": "<=6.5.4",
         "wpackagist-plugin/helpdeskwp": "<=1.2.0",
         "wpackagist-plugin/helpful": "<= 4.5.25.0",
         "wpackagist-plugin/helpie-faq": "<= 1.27.0.0",
