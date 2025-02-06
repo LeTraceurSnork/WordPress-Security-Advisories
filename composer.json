@@ -1524,6 +1524,7 @@
         "wpackagist-plugin/client-power-tools": "<=1.9.0",
         "wpackagist-plugin/clients": "<=1.1.4",
         "wpackagist-plugin/clinicalwp-core": "*",
+        "wpackagist-plugin/clinked-client-portal": "<=1.9",
         "wpackagist-plugin/clio-grow-form": "<=1.0.2",
         "wpackagist-plugin/clipr": "<=1.2.3",
         "wpackagist-plugin/clipta-video-informer": "<=1.0",
