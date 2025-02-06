@@ -2611,6 +2611,7 @@
         "wpackagist-plugin/email-verification-for-woocommerce-pro": "<=1.8.1",
         "wpackagist-plugin/emails-blacklist-everest-forms": "<=1.0.2",
         "wpackagist-plugin/emails-verification-for-woocommerce": "<=2.8.10",
+        "wpackagist-plugin/emailshroud": "<=2.2.1",
         "wpackagist-plugin/embed-any-document": "<=2.7.1",
         "wpackagist-plugin/embed-articles": "<=7.0.3",
         "wpackagist-plugin/embed-calendly-scheduling": "<=3.6",
