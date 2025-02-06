@@ -9131,7 +9131,7 @@
         "wpackagist-plugin/wp-recentcomments": "<= 2.2.7.0",
         "wpackagist-plugin/wp-recipe-maker": "<=9.6.1",
         "wpackagist-plugin/wp-register-profile-with-shortcode": "<= 3.5.9.0",
-        "wpackagist-plugin/wp-registration": "<= 6.1.0.0",
+        "wpackagist-plugin/wp-registration": "<= 6.3.0.0",
         "wpackagist-plugin/wp-related-posts": "<1.1",
         "wpackagist-plugin/wp-relevant-ads": "<=1.0.0",
         "wpackagist-plugin/wp-remote-site-search": "<=1.0.4",
