@@ -8726,6 +8726,7 @@
         "wpackagist-plugin/wp-discord-invite": "<= 2.5.1.0",
         "wpackagist-plugin/wp-discourse": "<=2.5.1",
         "wpackagist-plugin/wp-discussion-board": "<=2.4.8",
+        "wpackagist-plugin/wp-dispensary": "<=4.5.0",
         "wpackagist-plugin/wp-display-users": "<=2.0.0",
         "wpackagist-plugin/wp-docs": "<= 2.2.0.0",
         "wpackagist-plugin/wp-domain-redirect": "<=1.0",
