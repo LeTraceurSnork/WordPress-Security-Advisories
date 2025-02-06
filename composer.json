@@ -965,6 +965,7 @@
         "wpackagist-plugin/bitcoin-payments": "<=1.4.2",
         "wpackagist-plugin/biteship": "<= 2.2.27.0",
         "wpackagist-plugin/bitformpro": "<=2.6.4",
+        "wpackagist-plugin/bitly-linker": "<=1.1",
         "wpackagist-plugin/bitpay-checkout-for-woocommerce": "<=4.1.0",
         "wpackagist-plugin/bizapp-for-woocommerce": "<=2.0.8",
         "wpackagist-plugin/bizcalendar-web": "<=1.1.0.25",
