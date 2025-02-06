@@ -6488,6 +6488,7 @@
         "wpackagist-plugin/shortcode-for-redirection": "<=1.0",
         "wpackagist-plugin/shortcode-gallery-for-matterport-showcase": "<=2.1.9",
         "wpackagist-plugin/shortcode-imdb": "<=6.0.8",
+        "wpackagist-plugin/shortcode-in-comment": "<=1.1.1",
         "wpackagist-plugin/shortcode-menu": "<=3.2",
         "wpackagist-plugin/shortcode-ninja": "<=1.4",
         "wpackagist-plugin/shortcode-redirect": "<=1.0.01",
