@@ -4869,7 +4869,7 @@
         "wpackagist-plugin/mwb-point-of-sale-pos-for-woocommerce": "<=1.0.0",
         "wpackagist-plugin/mwp-countdown": "<=3.1.2",
         "wpackagist-plugin/mwp-forms": "<=3.1.3",
-        "wpackagist-plugin/mwp-herd-effect": "<=5.2.6",
+        "wpackagist-plugin/mwp-herd-effect": "<= 6.2.1.0",
         "wpackagist-plugin/mwp-skype": "<=4.0.3",
         "wpackagist-plugin/mww-disclaimer-buttons": "<=3.0.2",
         "wpackagist-plugin/mx-time-zone-clocks": "<3.4.1",
