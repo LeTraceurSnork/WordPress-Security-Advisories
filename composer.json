@@ -6044,6 +6044,7 @@
         "wpackagist-plugin/remove-slug-from-custom-post-type": "<=1.0.3",
         "wpackagist-plugin/remove-wp-update-nags": "<= 1.4.0.0",
         "wpackagist-plugin/removehide-author-date-category-like-entry-meta": "<=2.1",
+        "wpackagist-plugin/rename-author-slug": "<=1.2.0",
         "wpackagist-plugin/rename-media-files": "<=1.0.1",
         "wpackagist-plugin/rename-wp-login": "<=2.6.0",
         "wpackagist-plugin/rencontre": "<= 3.11.1.0",
