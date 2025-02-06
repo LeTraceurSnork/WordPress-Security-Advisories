@@ -7138,7 +7138,7 @@
         "wpackagist-plugin/super-interactive-maps": "< 2.2.0.0-dev",
         "wpackagist-plugin/super-progressive-web-apps": "<= 2.2.21.0",
         "wpackagist-plugin/super-social-content-locker-lite": "1.2.1",
-        "wpackagist-plugin/super-socializer": "<= 7.13.68.0",
+        "wpackagist-plugin/super-socializer": "<= 7.14.0.0",
         "wpackagist-plugin/super-testimonial": "<=3.0.8",
         "wpackagist-plugin/super-testimonial-pro": "<=1.0.7",
         "wpackagist-plugin/super-transactional-emails-for-woocommerce": ">=1.2.3,<=1.2.4",
