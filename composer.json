@@ -1128,6 +1128,7 @@
         "wpackagist-plugin/bricksbuilder": "<=1.9.8",
         "wpackagist-plugin/brickscore": "<=1.4.2.5",
         "wpackagist-plugin/bricksforge": "<=2.0.17",
+        "wpackagist-plugin/brid-video-easy-publish": "<=3.8.3",
         "wpackagist-plugin/bridge-core": "<= 3.3.0.0",
         "wpackagist-plugin/britetechs-companion": "2.2.7",
         "wpackagist-plugin/brizy": "<= 2.5.1.0",
