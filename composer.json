@@ -677,7 +677,7 @@
         "wpackagist-plugin/astra-bulk-edit": "<1.2.8",
         "wpackagist-plugin/astra-import-export": "<1.0.4",
         "wpackagist-plugin/astra-pro-sites": "<= 3.2.5.0",
-        "wpackagist-plugin/astra-sites": "<= 4.4.0.0",
+        "wpackagist-plugin/astra-sites": "<= 4.4.9.0",
         "wpackagist-plugin/astra-widgets": "<=1.2.14",
         "wpackagist-plugin/async-javascript": "<= 2.20.12.09",
         "wpackagist-plugin/atarapay-woocommerce": "<=2.0.13",
