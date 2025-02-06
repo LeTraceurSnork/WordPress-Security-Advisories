@@ -4202,6 +4202,7 @@
         "wpackagist-plugin/lbstopattack": "<=1.1.2",
         "wpackagist-plugin/ldap-ad-staff-employee-directory-search": "<=1.2.3",
         "wpackagist-plugin/ldap-login-for-intranet-sites": "<=4.1.10",
+        "wpackagist-plugin/ldap-login-password-and-role-manager": "<=1.0.12",
         "wpackagist-plugin/ldap-wp-login-integration-with-active-directory": "<3.0.2",
         "wpackagist-plugin/ldd-directory-lite": "<=3.5",
         "wpackagist-plugin/lead-capturing-call-to-actions-by-vcita": "<=2.6.4",
