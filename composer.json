@@ -10561,7 +10561,7 @@
         "wpackagist-theme/workreap": "<= 2.6.3.0",
         "wpackagist-theme/workscout": "<=2.0.31",
         "wpackagist-theme/workup": "<=2.1.5",
-        "wpackagist-theme/wp-foodbakery": "<=1.9",
+        "wpackagist-theme/wp-foodbakery": "<= 2.1.0.0",
         "wpackagist-theme/wp-forge": "<=6.5.3",
         "wpackagist-theme/wp-moose": ">=0.0.1,<=1.0.6",
         "wpackagist-theme/wp-portfolio": "<=2.4",
