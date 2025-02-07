@@ -4893,7 +4893,7 @@
         "wpackagist-plugin/my-tickets": "<=1.9.11",
         "wpackagist-plugin/my-waze": "<=1.6",
         "wpackagist-plugin/my-wish-list": "<1.4.2",
-        "wpackagist-plugin/my-wp": "<1.21.1",
+        "wpackagist-plugin/my-wp": "<= 1.24.0.0",
         "wpackagist-plugin/my-wp-brand": "<=1.1.2",
         "wpackagist-plugin/my-wp-health-check": "<=1.9.7",
         "wpackagist-plugin/my-wp-responsive-video": "<=1.0",
