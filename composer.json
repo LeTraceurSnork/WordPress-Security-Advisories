@@ -10318,6 +10318,7 @@
         "wpackagist-theme/pixigo": ">=1.0.7,<=1.0.16",
         "wpackagist-theme/pixiv-custom": "<2.1.6",
         "wpackagist-theme/pixova-lite": "<=2.0.5",
+        "wpackagist-theme/plain-post": "<=1.0.3",
         "wpackagist-theme/platform": "< 1.4.4.0-dev",
         "wpackagist-theme/pliska": "<=0.3.5",
         "wpackagist-theme/point": "<=1.1",
