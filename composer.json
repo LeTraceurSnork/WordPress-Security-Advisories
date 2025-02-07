@@ -6352,7 +6352,7 @@
         "wpackagist-plugin/select-all-categories-and-taxonomies-change-checkbox-to-radio-buttons": "<1.3.2",
         "wpackagist-plugin/selection-lite": "<=1.13",
         "wpackagist-plugin/sell-downloads": "< 1.0.8.0-dev",
-        "wpackagist-plugin/sell-media": "<= 2.5.5.0",
+        "wpackagist-plugin/sell-media": "<= 2.5.8.5",
         "wpackagist-plugin/sell-media-file": "<=1.0.6",
         "wpackagist-plugin/sell-photo": "<=1.0.5",
         "wpackagist-plugin/sellkit": "<= 1.9.8.0",
