@@ -7815,7 +7815,7 @@
         "wpackagist-plugin/vendor": "<1.1.1",
         "wpackagist-plugin/venture-event-manager": "<3.2.5",
         "wpackagist-plugin/verbalize-wp": "<=1.0",
-        "wpackagist-plugin/verge3d": "<=4.5.2",
+        "wpackagist-plugin/verge3d": "<= 4.8.0.0",
         "wpackagist-plugin/verification-code-for-comments": "<=2.1.0",
         "wpackagist-plugin/verowa-connect": "<=3.0.1",
         "wpackagist-plugin/verse-o-matic": "<=4.1.1",
