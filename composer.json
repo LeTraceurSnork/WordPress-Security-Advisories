@@ -1897,7 +1897,7 @@
         "wpackagist-plugin/cross-rss": "<=1.7",
         "wpackagist-plugin/crossslide-jquery-plugin-for-wordpress": "<=2.0.5",
         "wpackagist-plugin/crudlab-google-plus": "<=1.0.2",
-        "wpackagist-plugin/cryout-serious-slider": "<=1.2.4",
+        "wpackagist-plugin/cryout-serious-slider": "<= 1.2.6.0",
         "wpackagist-plugin/crypto": "<=2.19",
         "wpackagist-plugin/crypto-converter-widget": "<=1.8.4",
         "wpackagist-plugin/cryptocurrency": "<=0.0.17",
