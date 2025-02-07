@@ -5471,6 +5471,7 @@
         "wpackagist-plugin/plexx-elementor-extension": "<=1.3.6",
         "wpackagist-plugin/plezi": "<=1.0.6",
         "wpackagist-plugin/plg_novana": "*",
+        "wpackagist-plugin/plinks": "<=1.0.2",
         "wpackagist-plugin/plms": "<=1.0",
         "wpackagist-plugin/plugin": "<=1.0.2",
         "wpackagist-plugin/plugin-central": "<2.5.1",
