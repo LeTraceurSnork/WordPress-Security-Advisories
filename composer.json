@@ -8896,6 +8896,7 @@
         "wpackagist-plugin/wp-image-resizer": "*",
         "wpackagist-plugin/wp-image-seo": "<=1.1.4",
         "wpackagist-plugin/wp-image-slideshow": "<=12.0",
+        "wpackagist-plugin/wp-image-uploader": "<=1.0.1",
         "wpackagist-plugin/wp-image-zoooom": "<= 1.46.0.0",
         "wpackagist-plugin/wp-imageflow2": "<= 5.2.3.0",
         "wpackagist-plugin/wp-imagezoom": "<=1.1.0",
