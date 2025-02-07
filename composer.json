@@ -6051,6 +6051,7 @@
         "wpackagist-plugin/rentpress": "<=6.6.4",
         "wpackagist-plugin/replace-image": "<=1.1.10",
         "wpackagist-plugin/replace-word": "<=2.1",
+        "wpackagist-plugin/report-broken-links": "<=2.6.0",
         "wpackagist-plugin/republish-old-posts": "<=1.21",
         "wpackagist-plugin/request-a-quote": "<= 2.4.0.0",
         "wpackagist-plugin/require-taxonomy-image-category-tag": "<=1.26",
