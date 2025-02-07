@@ -8161,7 +8161,7 @@
         "wpackagist-plugin/woo-admin-product-notes": "<=1.0.0",
         "wpackagist-plugin/woo-advance-search": "<1.1",
         "wpackagist-plugin/woo-advanced-extra-fees-lite": ">=1.2.0,<=1.2.9",
-        "wpackagist-plugin/woo-advanced-product-size-chart": ">=2.0.1,<=2.4.3",
+        "wpackagist-plugin/woo-advanced-product-size-chart": "<= 2.4.5.0",
         "wpackagist-plugin/woo-advanced-sales-report-email": "<=2.8.0",
         "wpackagist-plugin/woo-advanced-shipment-tracking": "<= 3.5.2.0",
         "wpackagist-plugin/woo-alidropship": "<=1.0.21",
