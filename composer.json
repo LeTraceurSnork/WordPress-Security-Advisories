@@ -3297,7 +3297,7 @@
         "wpackagist-plugin/genki-pre-publish-reminder": "<=1.4.1",
         "wpackagist-plugin/genoo": "<=6.0.10",
         "wpackagist-plugin/geo-mashup": "<= 1.13.13.0",
-        "wpackagist-plugin/geo-my-wp": "<= 4.5.0.3",
+        "wpackagist-plugin/geo-my-wp": "<= 4.5.0.4",
         "wpackagist-plugin/geo-redirector": "<=1.0.1",
         "wpackagist-plugin/geo-request": "<=0.1.9",
         "wpackagist-plugin/geodatasource-country-region-dropdown": "<=1.0.1",
