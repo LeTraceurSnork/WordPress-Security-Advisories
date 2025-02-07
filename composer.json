@@ -1434,6 +1434,7 @@
         "wpackagist-plugin/chat-bee": "<=1.1.0",
         "wpackagist-plugin/chat-bubble": "<=2.3",
         "wpackagist-plugin/chat-help": "<=1.4.9",
+        "wpackagist-plugin/chat-viber": "<=1.7.3",
         "wpackagist-plugin/chatbot": "<= 5.5.7.0",
         "wpackagist-plugin/chatbot-chatgpt": "<= 2.1.8.0",
         "wpackagist-plugin/chatbot-support-ai": "<=1.0.2",
