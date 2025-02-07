@@ -3293,6 +3293,7 @@
         "wpackagist-plugin/genesis-blocks": "<= 3.1.3.0",
         "wpackagist-plugin/genesis-columns-advanced": "<=2.0.3",
         "wpackagist-plugin/genesis-simple-love": "<=2.0",
+        "wpackagist-plugin/genesis-style-shortcodes": "<=1.0",
         "wpackagist-plugin/genie-wp-favicon": "<=0.5.2",
         "wpackagist-plugin/genki-pre-publish-reminder": "<=1.4.1",
         "wpackagist-plugin/genoo": "<=6.0.10",
