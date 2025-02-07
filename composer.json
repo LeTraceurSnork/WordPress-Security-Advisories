@@ -9544,7 +9544,7 @@
         "wpackagist-plugin/wpzoom-elementor-addons": "<= 1.1.38.0",
         "wpackagist-plugin/wpzoom-portfolio": "<=1.4.4",
         "wpackagist-plugin/wpzoom-shortcodes": "<=1.0.5",
-        "wpackagist-plugin/wr-age-verification": "<=1.0.0",
+        "wpackagist-plugin/wr-age-verification": "<= 2.0.0.0",
         "wpackagist-plugin/wr-contactform": "<1.1.10",
         "wpackagist-plugin/wrapper-link-elementor": ">=1.0.2,<=1.0.3",
         "wpackagist-plugin/wrc-pricing-tables": "<=2.3.7",
