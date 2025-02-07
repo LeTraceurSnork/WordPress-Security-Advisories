@@ -7020,7 +7020,7 @@
         "wpackagist-plugin/staff-directory-pro": "<=3.6",
         "wpackagist-plugin/stafflist": "<=3.1.6",
         "wpackagist-plugin/stageshow": "<5.0.9",
-        "wpackagist-plugin/staggs": ">=1.1.0,<=1.4.1",
+        "wpackagist-plugin/staggs": "<= 2.0.0.0",
         "wpackagist-plugin/stagtools": "<= 2.3.7.0",
         "wpackagist-plugin/stampedio-product-reviews": "<= 2.3.3.0",
         "wpackagist-plugin/standard-box-sizes": "<=1.6.12",
