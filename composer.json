@@ -6004,6 +6004,7 @@
         "wpackagist-plugin/redirect-redirection": "<= 1.1.4.0",
         "wpackagist-plugin/redirection": "<= 3.6.3.0",
         "wpackagist-plugin/redirection-page": "<=1.2",
+        "wpackagist-plugin/redirection-plus": "<=2.0.0",
         "wpackagist-plugin/redirects": "<=1.2.1",
         "wpackagist-plugin/redux-framework": "<= 4.2.12.0 || >= 4.4.12.0-dev <= 4.4.17.0",
         "wpackagist-plugin/refer-a-friend-widget-for-wp": "<=1.4.1",
