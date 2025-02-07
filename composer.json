@@ -2718,7 +2718,7 @@
         "wpackagist-plugin/event-feed-for-eventbrite": ">=1.0.0,<=1.1.0",
         "wpackagist-plugin/event-geek": "<=2.5.2",
         "wpackagist-plugin/event-list": "<= 0.8.7.0",
-        "wpackagist-plugin/event-monster": "<= 1.4.2.0",
+        "wpackagist-plugin/event-monster": "<= 1.4.5.0",
         "wpackagist-plugin/event-notifier": "<=1.2.0",
         "wpackagist-plugin/event-page-templates-addon-for-the-events-calendar": "<=1.5",
         "wpackagist-plugin/event-post": "<= 5.9.8.0",
