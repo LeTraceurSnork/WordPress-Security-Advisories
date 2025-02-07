@@ -2092,6 +2092,7 @@
         "wpackagist-plugin/dc-woocommerce-multi-vendor": "<= 4.2.4.0",
         "wpackagist-plugin/dd-post-carousel": "<=1.4.6",
         "wpackagist-plugin/dd-rating": "<=1.7.1",
+        "wpackagist-plugin/dd-roles": "<=4.1",
         "wpackagist-plugin/deans-fckeditor-with-pwwangs-code-plugin-for-wordpress": "<=1.0.0",
         "wpackagist-plugin/dearpdf-lite": "<=2.0.38",
         "wpackagist-plugin/debounce-io-email-validator": "<=5.6.5",
