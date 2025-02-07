@@ -5314,6 +5314,7 @@
         "wpackagist-plugin/paypal-gift-certificate": "<=1.2.3",
         "wpackagist-plugin/paypal-pay-buy-donation-and-cart-buttons-shortcode": "<=1.7",
         "wpackagist-plugin/paypal-payment-button-by-vcita": "<=3.9.1",
+        "wpackagist-plugin/paypal-promotions-and-insights": "<=1.2",
         "wpackagist-plugin/paypal-responder": "<=1.2",
         "wpackagist-plugin/payplus-payment-gateway": "<= 7.0.7.0",
         "wpackagist-plugin/paytium": "<= 4.4.10.0",
