@@ -412,6 +412,7 @@
         "wpackagist-plugin/ai-content-writing-assistant": "<=1.1.6",
         "wpackagist-plugin/ai-engine": "<= 2.5.0.0",
         "wpackagist-plugin/ai-image": "<=1.5.2",
+        "wpackagist-plugin/ai-image-alt-text-generator-for-wp": "<=1.0.6",
         "wpackagist-plugin/ai-image-generator": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/ai-post-generator": "<= 3.5.0.0",
         "wpackagist-plugin/ai-postpix": "<=1.1.8",
