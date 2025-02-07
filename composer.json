@@ -5005,7 +5005,7 @@
         "wpackagist-plugin/nextcart-woocommerce-migration": "<=3.9.2",
         "wpackagist-plugin/nextcellent-gallery-nextgen-legacy": "<= 1.9.35.0",
         "wpackagist-plugin/nextend-facebook-connect": "<= 3.1.12.0",
-        "wpackagist-plugin/nextend-social-login-pro": "<=3.1.14",
+        "wpackagist-plugin/nextend-social-login-pro": "<= 3.1.16.0",
         "wpackagist-plugin/nextend-twitter-connect": "<=1.5.1",
         "wpackagist-plugin/nexter-extension": "<=2.0.3",
         "wpackagist-plugin/nextgen-cu3er-gallery": "<=0.1",
