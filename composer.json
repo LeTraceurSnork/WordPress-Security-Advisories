@@ -3990,6 +3990,7 @@
         "wpackagist-plugin/jet-popup": "<=2.0.2",
         "wpackagist-plugin/jet-reviews": "<=2.3.2",
         "wpackagist-plugin/jet-search": "<= 3.5.2.0",
+        "wpackagist-plugin/jet-skinner-for-buddypress": "<=1.2.5",
         "wpackagist-plugin/jet-smart-filters": "<=3.2.2",
         "wpackagist-plugin/jet-tabs": "<= 2.2.3.0",
         "wpackagist-plugin/jet-theme-core": "<= 2.2.0.0",
