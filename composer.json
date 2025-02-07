@@ -5211,6 +5211,7 @@
         "wpackagist-plugin/os-our-team": "<=1.7",
         "wpackagist-plugin/os-pricing-tables": "<=1.2",
         "wpackagist-plugin/osd-subscribe": "<=1.2.3",
+        "wpackagist-plugin/oshine-modules": "<3.3.8",
         "wpackagist-plugin/osm": "<= 6.1.2.0",
         "wpackagist-plugin/osm-map-elementor": "<=1.2.2",
         "wpackagist-plugin/osmapper": "<=2.1.5",
