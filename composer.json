@@ -5186,6 +5186,7 @@
         "wpackagist-plugin/option-tree": "<= 2.7.2.0",
         "wpackagist-plugin/options-for-twenty-seventeen": "<=2.5.0",
         "wpackagist-plugin/orange-form": "<=1.0.1",
+        "wpackagist-plugin/orangebox": "<=3.0.0",
         "wpackagist-plugin/orbisius-child-theme-creator": "<= 1.5.5.0",
         "wpackagist-plugin/order-and-inventory-manager-for-woocommerce": "<=1.4.3",
         "wpackagist-plugin/order-attachments-for-woocommerce": ">=2.0,<=2.4.1",
