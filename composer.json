@@ -3798,6 +3798,7 @@
         "wpackagist-plugin/imagemagick-sharpen-resized-images": "<=1.1.7",
         "wpackagist-plugin/imagemapper": "<=1.2.6",
         "wpackagist-plugin/imagements": "<=1.2.5",
+        "wpackagist-plugin/imagenius": "<=1.7",
         "wpackagist-plugin/imagerecycle-pdf-image-compression": "<= 3.1.16.0",
         "wpackagist-plugin/images-asynchronous-load": "<=1.05",
         "wpackagist-plugin/images-lazyload-and-slideshow": "<3.3",
