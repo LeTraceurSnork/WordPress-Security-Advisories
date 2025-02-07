@@ -938,6 +938,7 @@
         "wpackagist-plugin/better-search": "<= 3.3.0.0",
         "wpackagist-plugin/better-search-replace": "<=1.4.4",
         "wpackagist-plugin/better-search-tmc": "<=1.0.52",
+        "wpackagist-plugin/better-wp-login-page": "<=1.1.2",
         "wpackagist-plugin/better-wp-security": "<= 9.3.1.0",
         "wpackagist-plugin/betterdocs": "<= 3.5.8.0",
         "wpackagist-plugin/betterlinks": "<=2.1.7",
