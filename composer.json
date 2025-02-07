@@ -2589,6 +2589,7 @@
         "wpackagist-plugin/email-address-obfuscation": "<=1.0.1",
         "wpackagist-plugin/email-artillery": "<=4.1",
         "wpackagist-plugin/email-before-download": "<= 6.9.7.0",
+        "wpackagist-plugin/email-capture-lead-generation": "<=1.0.2",
         "wpackagist-plugin/email-customizer-for-woocommerce": "<=2.6.0",
         "wpackagist-plugin/email-customizer-woocommerce": "<=1.7.1",
         "wpackagist-plugin/email-download-link": "<=3.7",
