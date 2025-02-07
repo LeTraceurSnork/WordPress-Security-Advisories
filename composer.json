@@ -7050,7 +7050,7 @@
         "wpackagist-plugin/stetic": "<=1.0.6",
         "wpackagist-plugin/sticky-ad-bar": "<=1.3.1",
         "wpackagist-plugin/sticky-banner": "<=1.2.0",
-        "wpackagist-plugin/sticky-buttons": "<=3.2.3",
+        "wpackagist-plugin/sticky-buttons": "<= 4.1.1.0",
         "wpackagist-plugin/sticky-chat-widget": "<=1.1.8",
         "wpackagist-plugin/sticky-header-oceanwp": "<=1.0.8",
         "wpackagist-plugin/sticky-menu-or-anything-on-scroll": "<2.21",
