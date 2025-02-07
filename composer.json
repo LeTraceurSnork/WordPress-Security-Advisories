@@ -1225,7 +1225,7 @@
         "wpackagist-plugin/business-profile": "<=2.1.6",
         "wpackagist-plugin/business-profile-reviews": ">=1.0,<=1.0.2",
         "wpackagist-plugin/button": "<= 1.1.27.0",
-        "wpackagist-plugin/button-block": "<=1.1.4",
+        "wpackagist-plugin/button-block": "<= 1.1.6.0",
         "wpackagist-plugin/button-contact-vr": "<= 4.7.9.1",
         "wpackagist-plugin/button-generation": "<= 2.3.9.0",
         "wpackagist-plugin/buttonizer-multifunctional-button": "<=2.5.4",
