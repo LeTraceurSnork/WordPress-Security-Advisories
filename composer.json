@@ -1785,6 +1785,7 @@
         "wpackagist-plugin/cooked": "<= 1.8.0.0",
         "wpackagist-plugin/cooked-pro": "<1.8.0",
         "wpackagist-plugin/cookie-bar": "< 2.1.0.0-dev",
+        "wpackagist-plugin/cookie-consent-autoblock": "<=1.0.1",
         "wpackagist-plugin/cookie-consent-box": "<=1.1.6",
         "wpackagist-plugin/cookie-law-bar": "<=1.2.1",
         "wpackagist-plugin/cookie-law-info": "<1.8.3",
