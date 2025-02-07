@@ -8995,6 +8995,7 @@
         "wpackagist-plugin/wp-media-library-categories": "<=2.0.0",
         "wpackagist-plugin/wp-media-optimizer-webp": "<=1.4.0",
         "wpackagist-plugin/wp-media-player": "<=0.8",
+        "wpackagist-plugin/wp-mediatagger": "<=4.1.1",
         "wpackagist-plugin/wp-megamenu": "<= 1.4.2.0",
         "wpackagist-plugin/wp-members": "<= 3.4.9.5",
         "wpackagist-plugin/wp-membership": "<= 1.6.2.0",
