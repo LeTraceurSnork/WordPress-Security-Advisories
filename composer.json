@@ -7261,6 +7261,7 @@
         "wpackagist-plugin/tc-custom-javascript": "<1.2.2",
         "wpackagist-plugin/tc-ecommerce": "<=1.3.4",
         "wpackagist-plugin/tc-team-members": "<5.0.4",
+        "wpackagist-plugin/tcbd-auto-refresher": "<=2.0",
         "wpackagist-plugin/tcbd-popover": "<=1.2",
         "wpackagist-plugin/tcd-google-maps": "<=1.8",
         "wpackagist-plugin/tcs3": "*",
