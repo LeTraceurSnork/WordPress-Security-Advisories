@@ -333,6 +333,7 @@
         "wpackagist-plugin/advanced-event-manager": "<=1.1.6",
         "wpackagist-plugin/advanced-facebook-twitter-widget": "<=1.7",
         "wpackagist-plugin/advanced-flamingo": "<=1.0",
+        "wpackagist-plugin/advanced-floating-content": "<=3.8.2",
         "wpackagist-plugin/advanced-floating-content-lite": "<=1.2.5",
         "wpackagist-plugin/advanced-form-integration": "<= 1.95.0.0",
         "wpackagist-plugin/advanced-forms": "<= 1.9.3.2",
