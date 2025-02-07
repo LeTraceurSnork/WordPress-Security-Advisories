@@ -3786,6 +3786,7 @@
         "wpackagist-plugin/image-regenerate-select-crop": "<=7.3.0",
         "wpackagist-plugin/image-slider-widget": "<= 1.1.125.0",
         "wpackagist-plugin/image-source-control-isc": "<= 2.17.0.0",
+        "wpackagist-plugin/image-switcher": "<=1.1",
         "wpackagist-plugin/image-tag-manager": "<=1.5",
         "wpackagist-plugin/image-upload-for-bbpress": "<=1.1.18",
         "wpackagist-plugin/image-vertical-reel-scroll-slideshow": "<=9.0",
