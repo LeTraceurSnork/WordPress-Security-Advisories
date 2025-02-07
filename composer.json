@@ -7233,6 +7233,7 @@
         "wpackagist-plugin/tabs-responsive": "<=2.2.7",
         "wpackagist-plugin/tabs-shortcode": "<=2.0.2",
         "wpackagist-plugin/tabs-shortcode-and-widget": "<=1.17",
+        "wpackagist-plugin/tabulate": "<=2.10.3",
         "wpackagist-plugin/taeggie-feed": "<=0.1.9",
         "wpackagist-plugin/tag-groups": "<=2.0.3",
         "wpackagist-plugin/tagembed-widget": "<=5.8",
