@@ -2862,6 +2862,7 @@
         "wpackagist-plugin/faq-for-woocommerce": "<=1.7.0",
         "wpackagist-plugin/faq-manager-with-structured-data": ">=4.0.0,<=5.4.3",
         "wpackagist-plugin/faq-wd": "<=1.0.14",
+        "wpackagist-plugin/faqs": "<=1.0.2",
         "wpackagist-plugin/faqs-manager": "<=1.0",
         "wpackagist-plugin/far-future-expiry-header": "<=1.4",
         "wpackagist-plugin/fareharbor": "<=3.6.7",
