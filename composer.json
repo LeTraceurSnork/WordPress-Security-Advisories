@@ -4824,6 +4824,7 @@
         "wpackagist-plugin/mshop-naver-talktalk": "<= 1.2.0.0",
         "wpackagist-plugin/mshop-npay": "<=3.3.7",
         "wpackagist-plugin/msmc-redirect-after-comment": "<=2.1.2",
+        "wpackagist-plugin/msstiger": "<=1.1.1",
         "wpackagist-plugin/mstore-api": "<= 4.16.4.0",
         "wpackagist-plugin/msync": "<=1.0.0",
         "wpackagist-plugin/mtouch-quiz": "<=3.1.3",
