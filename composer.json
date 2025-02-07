@@ -6819,6 +6819,7 @@
         "wpackagist-plugin/smart-protect": "1.1",
         "wpackagist-plugin/smart-recent-posts-widget": "<=1.0.4",
         "wpackagist-plugin/smart-seo-tool": "<4.0.2",
+        "wpackagist-plugin/smart-shopify-product": "<=1.0.2",
         "wpackagist-plugin/smart-slide-show": "<= 2.4.0.0",
         "wpackagist-plugin/smart-slider-2": "<2.3.12",
         "wpackagist-plugin/smart-slider-3": "<= 3.5.1.22",
