@@ -3698,7 +3698,7 @@
         "wpackagist-plugin/hummingbird-performance": "<= 3.9.1.0",
         "wpackagist-plugin/hungarian-pickup-points-for-woocommerce": "<=1.9.0.2",
         "wpackagist-plugin/hungred-post-thumbnail": "<=2.1.9",
-        "wpackagist-plugin/hunk-companion": "<=1.8.4",
+        "wpackagist-plugin/hunk-companion": "<= 1.8.5.0",
         "wpackagist-plugin/hunk-external-links": "<=3.0.5",
         "wpackagist-plugin/hurrakify": "<=2.4",
         "wpackagist-plugin/hurrytimer": "<= 2.10.0.0",
