@@ -1362,6 +1362,7 @@
         "wpackagist-plugin/category-posts": "<=4.9.16",
         "wpackagist-plugin/category-seo-meta-tags": "<=2.5",
         "wpackagist-plugin/category-specific-rss-feed-menu": "<= 2.2.0.0",
+        "wpackagist-plugin/categorycustomfields": "<=1.0",
         "wpackagist-plugin/caxton": "<=1.30.1",
         "wpackagist-plugin/cb-logo-slider": "<=4.1.0",
         "wpackagist-plugin/cbcurrencyconverter": "<=3.0.3",
