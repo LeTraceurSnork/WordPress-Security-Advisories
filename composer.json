@@ -3866,6 +3866,7 @@
         "wpackagist-plugin/injection-guard": "<=1.2.1",
         "wpackagist-plugin/ink-official": "<=4.1.2",
         "wpackagist-plugin/inline-click-to-tweet": "<=1.0.0",
+        "wpackagist-plugin/inline-footnotes": "<=2.3.0",
         "wpackagist-plugin/inline-google-spreadsheet-viewer": "<=0.13.2",
         "wpackagist-plugin/inline-svg-elementor": "<=1.2.0",
         "wpackagist-plugin/inline-tweet-sharer": "<=2.5.3",
