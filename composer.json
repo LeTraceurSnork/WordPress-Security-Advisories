@@ -6320,6 +6320,7 @@
         "wpackagist-plugin/search-meter": "< 2.13.3.0-dev",
         "wpackagist-plugin/search-order-by-product-sku-for-woocommerce": "<=0.2",
         "wpackagist-plugin/search-unleashed": "<=0.2.10",
+        "wpackagist-plugin/searchie": "<=1.17.0",
         "wpackagist-plugin/searchiq": "<= 4.6.0.0",
         "wpackagist-plugin/searchpro": "<=2.1.1",
         "wpackagist-plugin/searchterms-tagging-2": "<=1.535",
