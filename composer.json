@@ -220,6 +220,7 @@
         "wpackagist-plugin/addblockblocker": "0.0.1",
         "wpackagist-plugin/addendio": "<=1.2.2",
         "wpackagist-plugin/addfreestats": "<=4.15",
+        "wpackagist-plugin/addfunc-mobile-detect": "<=3.1",
         "wpackagist-plugin/addify-abandoned-cart-recovery": "<1.2.5",
         "wpackagist-plugin/addify-checkout-fields-manager": "<1.0.2",
         "wpackagist-plugin/addify-custom-fields-for-woocommerce": "<1.0.4",
