@@ -1807,6 +1807,7 @@
         "wpackagist-plugin/copify": "<=1.3.0",
         "wpackagist-plugin/copy-delete-posts": "<=1.4.1",
         "wpackagist-plugin/copy-me": "<=1.0.0",
+        "wpackagist-plugin/copy-move-posts": "<=1.6",
         "wpackagist-plugin/copy-or-move-comments": "<=5.0.4",
         "wpackagist-plugin/copy-the-code": "<= 4.0.3.0",
         "wpackagist-plugin/copymatic": "<= 1.9.0.0",
