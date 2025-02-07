@@ -465,7 +465,7 @@
         "wpackagist-plugin/alkubot": "<3.0.0",
         "wpackagist-plugin/all-404-pages-redirect-to-homepage": "<=1.9",
         "wpackagist-plugin/all-404-redirect-to-homepage": "<=2.0",
-        "wpackagist-plugin/all-bootstrap-blocks": "<= 1.3.19.0",
+        "wpackagist-plugin/all-bootstrap-blocks": "<= 1.3.26.0",
         "wpackagist-plugin/all-contact-form-integration-for-elementor": "<=2.9.9.9",
         "wpackagist-plugin/all-custom-fields-groups": "<=1.04",
         "wpackagist-plugin/all-in-one-b2b-for-woocommerce": "<=1.0.3",
