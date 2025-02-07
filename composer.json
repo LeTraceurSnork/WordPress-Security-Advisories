@@ -8700,6 +8700,7 @@
         "wpackagist-plugin/wp-custom-cursors": "<= 3.2.0.0",
         "wpackagist-plugin/wp-custom-field-for-gutenberg-editor": ">=1.3,<=1.7.1",
         "wpackagist-plugin/wp-custom-fields-search": "<= 1.2.35.0",
+        "wpackagist-plugin/wp-custom-google-search": "<=1.0",
         "wpackagist-plugin/wp-custom-login-page": "<=2.0",
         "wpackagist-plugin/wp-custom-pages": "<=0.5.0.1",
         "wpackagist-plugin/wp-custom-post-template": "<=1.0",
