@@ -3970,7 +3970,7 @@
         "wpackagist-plugin/iws-geo-form-fields": "<=1.0",
         "wpackagist-plugin/izeechat": "<1.1",
         "wpackagist-plugin/jackmail-newsletters": "<=1.2.22",
-        "wpackagist-plugin/jalbum-bridge": "<=2.0.15",
+        "wpackagist-plugin/jalbum-bridge": "<= 2.0.16.0",
         "wpackagist-plugin/jayj-quicktag": "<1.3.2",
         "wpackagist-plugin/jazz-popups": "<=1.8.7",
         "wpackagist-plugin/jazzcash-woocommerce-gateway": "<=2.0",
