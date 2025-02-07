@@ -4539,6 +4539,7 @@
         "wpackagist-plugin/mas-static-content": "<=1.0.8",
         "wpackagist-plugin/mas-wp-job-manager-company": "<=1.0.13",
         "wpackagist-plugin/mashsharer": "<= 4.0.47.0",
+        "wpackagist-plugin/mass-custom-fields-manager": "<=1.5",
         "wpackagist-plugin/mass-delete-tags": "<=3.0.0",
         "wpackagist-plugin/mass-delete-unused-tags": "<=2.0.0",
         "wpackagist-plugin/mass-email-to-users": "<=1.1.4",
