@@ -8323,7 +8323,7 @@
         "wpackagist-plugin/woocommerce-checkout-manager": "<= 7.3.0.0",
         "wpackagist-plugin/woocommerce-cloak-affiliate-links": "<=1.0.33",
         "wpackagist-plugin/woocommerce-collections": "<1.7.0",
-        "wpackagist-plugin/woocommerce-compare-products": "<=2.8.2",
+        "wpackagist-plugin/woocommerce-compare-products": "<= 3.2.1.0",
         "wpackagist-plugin/woocommerce-composite-products": "<=8.7.5",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<= 2.0.11.0",
         "wpackagist-plugin/woocommerce-country-based-payments": ">=1.2.0,<=1.4.3",
