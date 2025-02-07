@@ -3250,7 +3250,7 @@
         "wpackagist-plugin/game-server-status": "<=1.0",
         "wpackagist-plugin/game-tabs": "<=0.4.0",
         "wpackagist-plugin/gamepress": "<=1.1.0",
-        "wpackagist-plugin/gamipress": "<= 7.1.5.0",
+        "wpackagist-plugin/gamipress": "<= 7.2.1.0",
         "wpackagist-plugin/gamipress-button": "<=1.0.7",
         "wpackagist-plugin/gamipress-link": "<=1.1.4",
         "wpackagist-plugin/gamipress-vimeo-integration": "<=1.0.8",
