@@ -8011,6 +8011,7 @@
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
         "wpackagist-plugin/web-stat": "<=1.4.0",
         "wpackagist-plugin/web-stories": "<1.32.0",
+        "wpackagist-plugin/web-testimonials": "<=1.2",
         "wpackagist-plugin/web3-authentication": "<=2.8.0",
         "wpackagist-plugin/web3-coin-gate": "1.0.0",
         "wpackagist-plugin/web3-token-gate": ">=1.0.0,<=1.0.4",
