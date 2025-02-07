@@ -3069,6 +3069,7 @@
         "wpackagist-plugin/font-farsi": "<=1.6.6",
         "wpackagist-plugin/font-organizer": "<=2.1.1",
         "wpackagist-plugin/font-uploader": "<=1.3",
+        "wpackagist-plugin/fontawesomeio-shortcodes": "<=1.0",
         "wpackagist-plugin/fontific": "<=0.1.6",
         "wpackagist-plugin/fontiran": "<=2.1",
         "wpackagist-plugin/fontmeister": "<=1.08",
