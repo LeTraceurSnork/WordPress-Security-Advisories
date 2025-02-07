@@ -4063,7 +4063,7 @@
         "wpackagist-plugin/jupiterx-core": "<= 4.8.5.0",
         "wpackagist-plugin/just-custom-fields": "<=3.3.2",
         "wpackagist-plugin/just-tables": "<=1.4.9",
-        "wpackagist-plugin/just-writing-statistics": "<=4.5",
+        "wpackagist-plugin/just-writing-statistics": "<= 4.7.0.0",
         "wpackagist-plugin/justified-gallery": "<= 1.7.3.0",
         "wpackagist-plugin/justified-image-grid": "<=4.6.1",
         "wpackagist-plugin/jvm-rich-text-icons": "<=1.2.6",
