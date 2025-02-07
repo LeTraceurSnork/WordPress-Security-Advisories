@@ -5847,6 +5847,7 @@
         "wpackagist-plugin/qr-code-tag": "<=1.0",
         "wpackagist-plugin/qr-redirector": "< 1.6.1.0-dev",
         "wpackagist-plugin/qr-twitter-widget": "<=0.2.3",
+        "wpackagist-plugin/qrcode-wprhe": "<=1.2.6",
         "wpackagist-plugin/qrmenu-lite": "<=1.0.3",
         "wpackagist-plugin/qs-dark-mode": "<=2.9",
         "wpackagist-plugin/qt-kentharadio": "<2.0.2",
