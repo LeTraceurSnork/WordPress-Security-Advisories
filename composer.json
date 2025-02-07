@@ -7238,6 +7238,7 @@
         "wpackagist-plugin/tagembed-widget": "<=5.8",
         "wpackagist-plugin/taggator": "<= 1.54.0.0",
         "wpackagist-plugin/taggbox-widget": "<= 3.3.0.0",
+        "wpackagist-plugin/tagmaker": "<=0.2.2",
         "wpackagist-plugin/tagregator": "<=0.6",
         "wpackagist-plugin/tags-cloud-manager": "<=1.0.0",
         "wpackagist-plugin/tailored-tools": "<=1.8.4",
