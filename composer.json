@@ -5040,7 +5040,7 @@
         "wpackagist-plugin/ninjateam-telegram": "<=1.0",
         "wpackagist-plugin/nirweb-support": "<=2.7.9",
         "wpackagist-plugin/nitek-carousel-cool-transitions": "<=1.1.0",
-        "wpackagist-plugin/nitropack": "<=1.16.7",
+        "wpackagist-plugin/nitropack": "<= 1.17.0.0",
         "wpackagist-plugin/nix-anti-spam-light": "<=0.0.4",
         "wpackagist-plugin/nktagcloud": "<=0.99.5",
         "wpackagist-plugin/nm-visitors": "<=1.0",
