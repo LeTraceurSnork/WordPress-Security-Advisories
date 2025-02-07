@@ -3955,6 +3955,7 @@
         "wpackagist-plugin/iq-block-country": "<= 1.2.18.0",
         "wpackagist-plugin/iq-testimonials": "<=2.2.7",
         "wpackagist-plugin/issues-tracker": ">=1.0.3,<=1.2.2",
+        "wpackagist-plugin/issuu-panel": "<=2.1.1",
         "wpackagist-plugin/itempropwp": "<=3.5.201706131",
         "wpackagist-plugin/iteras": "<=1.7.0",
         "wpackagist-plugin/ithemeland-bulk-posts-editing-lite": "<=4.2.3",
