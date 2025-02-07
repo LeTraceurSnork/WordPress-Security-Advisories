@@ -6373,7 +6373,7 @@
         "wpackagist-plugin/sensei-lms": "<= 4.24.1.0",
         "wpackagist-plugin/seo-301-meta": "<=1.9.1",
         "wpackagist-plugin/seo-alert": "<=1.5.9",
-        "wpackagist-plugin/seo-automated-link-building": "<=2.1.0",
+        "wpackagist-plugin/seo-automated-link-building": "<= 2.5.2.0",
         "wpackagist-plugin/seo-automatic-links": "<=3.0.1",
         "wpackagist-plugin/seo-automatic-wp-core-tweaks": "<=4.1",
         "wpackagist-plugin/seo-backlink-monitor": "<=1.5.0",
