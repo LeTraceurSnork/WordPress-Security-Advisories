@@ -8408,7 +8408,7 @@
         "wpackagist-plugin/woocommerce-store-toolkit": "<2.3.2",
         "wpackagist-plugin/woocommerce-subscriptions": "< 5.8.0.0-dev",
         "wpackagist-plugin/woocommerce-superfaktura": "<=1.40.3",
-        "wpackagist-plugin/woocommerce-support-ticket-system": "<=17.7",
+        "wpackagist-plugin/woocommerce-support-ticket-system": "<= 17.8.0.0",
         "wpackagist-plugin/woocommerce-ultimate-gift-card": "<2.9.1",
         "wpackagist-plugin/woocommerce-upcoming-product": "<=1.5.9.2",
         "wpackagist-plugin/woocommerce-upload-files": "<=84.3",
