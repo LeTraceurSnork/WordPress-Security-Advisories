@@ -9489,6 +9489,7 @@
         "wpackagist-plugin/wpmu-prefill-post": "<=1.02",
         "wpackagist-plugin/wpo365-login": "<= 27.2.0.0",
         "wpackagist-plugin/wpoptin": "<=2.0.1",
+        "wpackagist-plugin/wpp-customization": "<=2.2",
         "wpackagist-plugin/wppageflip": "<3.0",
         "wpackagist-plugin/wppdf": "<=1.0.0",
         "wpackagist-plugin/wpperformancetester": "<=2.0.0",
