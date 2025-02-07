@@ -2603,7 +2603,7 @@
         "wpackagist-plugin/email-reminders": "<=2.0.4",
         "wpackagist-plugin/email-subscribe": "<= 1.2.22.0",
         "wpackagist-plugin/email-subscriber": "<=1.1",
-        "wpackagist-plugin/email-subscribers": "<= 5.7.34.0",
+        "wpackagist-plugin/email-subscribers": "<= 5.7.43.0",
         "wpackagist-plugin/email-template-customizer-for-woo": "<=1.2.9.1",
         "wpackagist-plugin/email-templates": "<=1.4.2",
         "wpackagist-plugin/email-tracker": "<= 5.3.8.0",
