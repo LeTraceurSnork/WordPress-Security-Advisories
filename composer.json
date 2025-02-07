@@ -4398,6 +4398,7 @@
         "wpackagist-plugin/lpagery": ">=1.0,<=1.2.5",
         "wpackagist-plugin/lu-radioplayer": "<=6.24.11.07",
         "wpackagist-plugin/lucas-string-replace": "<=2.0.5",
+        "wpackagist-plugin/lucidlms": "<=1.0.5",
         "wpackagist-plugin/luckywp-scripts-control": "<=1.2.1",
         "wpackagist-plugin/luckywp-table-of-contents": "<=2.1.5",
         "wpackagist-plugin/luzuk-slider": "<=0.1.5",
