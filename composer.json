@@ -8955,6 +8955,7 @@
         "wpackagist-plugin/wp-live-chat-support-pro": "<=8.0.26",
         "wpackagist-plugin/wp-live-tv": "<=1.0.5",
         "wpackagist-plugin/wp-livephp": "<=1.2.1",
+        "wpackagist-plugin/wp-load-gallery": "<=2.1.6",
         "wpackagist-plugin/wp-log-action": "<=0.51",
         "wpackagist-plugin/wp-log-viewer": "<=1.2.1",
         "wpackagist-plugin/wp-login-and-logout-redirect": "<=1.2",
