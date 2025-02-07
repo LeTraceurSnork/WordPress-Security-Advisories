@@ -8426,7 +8426,7 @@
         "wpackagist-plugin/woolementor": "<=4.4.1",
         "wpackagist-plugin/woolentor-addons": "<= 2.9.8.0",
         "wpackagist-plugin/woolook": "<=1.7.0",
-        "wpackagist-plugin/woomotiv": "<=3.4.3",
+        "wpackagist-plugin/woomotiv": "<= 3.6.1.0",
         "wpackagist-plugin/woopra": "< 1.4.3.2-dev",
         "wpackagist-plugin/wooreviews-importer": "<=2.2.1",
         "wpackagist-plugin/woorewards": "<=5.3.0",
