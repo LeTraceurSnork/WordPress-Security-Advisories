@@ -3636,6 +3636,7 @@
         "wpackagist-plugin/horizontal-scrolling-announcement": "<=9.2",
         "wpackagist-plugin/horizontal-scrolling-announcements": "<=2.4",
         "wpackagist-plugin/host-analyticsjs-local": "<= 4.7.14.0",
+        "wpackagist-plugin/host-php-info": "<=1.0.4",
         "wpackagist-plugin/host-webfonts-local": "<= 5.7.9.0",
         "wpackagist-plugin/hostel": "<= 1.1.5.3",
         "wpackagist-plugin/hostfact-bestelformulier-integratie": "<=1.1",
