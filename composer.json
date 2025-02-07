@@ -5591,7 +5591,7 @@
         "wpackagist-plugin/post-plugin-library": "<=2.6.2.1",
         "wpackagist-plugin/post-shortcode": "<=2.0.9",
         "wpackagist-plugin/post-slider-carousel": "<=1.0.20",
-        "wpackagist-plugin/post-smtp": "<= 2.9.9.0",
+        "wpackagist-plugin/post-smtp": "<= 2.9.11.0",
         "wpackagist-plugin/post-snippets": "<= 4.0.3.0",
         "wpackagist-plugin/post-state-tags": "<=2.0.6",
         "wpackagist-plugin/post-status-notifier": "<=1.11.6",
