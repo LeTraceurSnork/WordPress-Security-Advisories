@@ -1037,6 +1037,7 @@
         "wpackagist-plugin/bodi0s-easy-cache": "<=0.8",
         "wpackagist-plugin/boilerplate-extension": "<=4.1",
         "wpackagist-plugin/bold-page-builder": "<= 5.2.1.0",
+        "wpackagist-plugin/bold-pagos-en-linea": "<=3.1.4",
         "wpackagist-plugin/bold-timeline-lite": "<= 1.2.0.0",
         "wpackagist-plugin/boldgrid-backup": "<= 1.16.6.0",
         "wpackagist-plugin/boldgrid-easy-seo": "<= 1.6.14.0",
