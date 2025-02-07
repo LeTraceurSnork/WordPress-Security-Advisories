@@ -8459,6 +8459,7 @@
         "wpackagist-plugin/wordpress-console": "<=0.3.9",
         "wpackagist-plugin/wordpress-countdown-widget": "<= 3.1.9.2",
         "wpackagist-plugin/wordpress-country-selector": "<=1.6.5",
+        "wpackagist-plugin/wordpress-data-guards": "<=8",
         "wpackagist-plugin/wordpress-database-reset": "<= 3.22.0.0",
         "wpackagist-plugin/wordpress-easy-paypal-payment-or-donation-accept-plugin": "<= 4.9.10.0",
         "wpackagist-plugin/wordpress-ecommerce": "<=3.2.6",
