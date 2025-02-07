@@ -619,6 +619,7 @@
         "wpackagist-plugin/appointments": "<2.2.2",
         "wpackagist-plugin/appointmind": "<=4.0.0",
         "wpackagist-plugin/apppresser": "<= 4.4.6.0",
+        "wpackagist-plugin/appsplate": "<=2.1.3",
         "wpackagist-plugin/apptha-banner": "*",
         "wpackagist-plugin/apptha-slider-gallery": "*",
         "wpackagist-plugin/apptivo-business-site": "<=3.0.12",
