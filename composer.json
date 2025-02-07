@@ -2360,6 +2360,7 @@
         "wpackagist-plugin/dynamically-register-sidebars": "<=1.0.1",
         "wpackagist-plugin/dynamictags": "<=1.4.0",
         "wpackagist-plugin/dyslexiefont": "<= 1.0.0.0",
+        "wpackagist-plugin/dzs-enable-debug": "<=1.0.13",
         "wpackagist-plugin/dzs-videogallery": "<= 9.63.0.0",
         "wpackagist-plugin/dzs-zoomsounds": "<= 6.45.0.0",
         "wpackagist-plugin/e-search": "<=1.0",
