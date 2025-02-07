@@ -2555,6 +2555,7 @@
         "wpackagist-plugin/eg-attachments": "<=2.1.3",
         "wpackagist-plugin/ehive-account-details": "<2.1.3",
         "wpackagist-plugin/ehive-object-details": "<2.1.7",
+        "wpackagist-plugin/ehive-objects-image-grid": "<=2.4.1",
         "wpackagist-plugin/eid-easy-qualified-electonic-signature": "<=3.3.0",
         "wpackagist-plugin/ekc-tournament-manager": "<=2.2.1",
         "wpackagist-plugin/ekiline-block-collection": "<=1.0.5",
