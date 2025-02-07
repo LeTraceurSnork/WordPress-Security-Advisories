@@ -1437,6 +1437,7 @@
         "wpackagist-plugin/chatbot": "<= 5.5.7.0",
         "wpackagist-plugin/chatbot-chatgpt": "<= 2.1.8.0",
         "wpackagist-plugin/chatbot-support-ai": "<=1.0.2",
+        "wpackagist-plugin/chative-live-chat-and-chatbot": "<=1.1",
         "wpackagist-plugin/chatplusjp": "<=1.02",
         "wpackagist-plugin/chatpressai": "<=1.0.0",
         "wpackagist-plugin/chatter": "<=1.0.1",
