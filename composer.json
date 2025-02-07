@@ -8285,6 +8285,7 @@
         "wpackagist-plugin/woo-tools": "<=1.2.9",
         "wpackagist-plugin/woo-total-sales": "<=3.1.4",
         "wpackagist-plugin/woo-tranzila-gateway": "<=1.0.8",
+        "wpackagist-plugin/woo-tuner": "<=0.1.2",
         "wpackagist-plugin/woo-ukrposhta": "<= 1.17.11.0",
         "wpackagist-plugin/woo-variation-gallery": "<1.1.29",
         "wpackagist-plugin/woo-variation-swatches": "<1.0.62",
