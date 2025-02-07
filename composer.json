@@ -7870,7 +7870,7 @@
         "wpackagist-plugin/vikinghammer-tweet": "<=0.2.4",
         "wpackagist-plugin/vikrentcar": "<= 1.4.0.0",
         "wpackagist-plugin/vimeo-video-autoplay-automute": "<=1.0",
-        "wpackagist-plugin/vimeography": "<=2.4.1",
+        "wpackagist-plugin/vimeography": "<= 2.4.4.0",
         "wpackagist-plugin/viral-signup": "<=2.1",
         "wpackagist-plugin/virim": "<=0.4",
         "wpackagist-plugin/virtual-robotstxt-littlebizzy": "<=1.9",
