@@ -8697,6 +8697,7 @@
         "wpackagist-plugin/wp-custom-admin-interface": "<7.33",
         "wpackagist-plugin/wp-custom-author-url": "<1.0.5",
         "wpackagist-plugin/wp-custom-body-class": "<=0.6.0",
+        "wpackagist-plugin/wp-custom-countdown": "<=2.8",
         "wpackagist-plugin/wp-custom-cursors": "<= 3.2.0.0",
         "wpackagist-plugin/wp-custom-field-for-gutenberg-editor": ">=1.3,<=1.7.1",
         "wpackagist-plugin/wp-custom-fields-search": "<= 1.2.35.0",
