@@ -6706,6 +6706,7 @@
         "wpackagist-plugin/sina-extension-for-elementor": "<= 3.5.91.0",
         "wpackagist-plugin/single-post-exporter": "<=1.1.1",
         "wpackagist-plugin/single-sign-on-client": "<=4.1.1",
+        "wpackagist-plugin/single-user-chat": "<=0.5",
         "wpackagist-plugin/sinking-dropdowns": "<=1.25",
         "wpackagist-plugin/sintic_gallery": "*",
         "wpackagist-plugin/sip-calculator": "<=1.0",
