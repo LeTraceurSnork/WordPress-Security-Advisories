@@ -6107,7 +6107,7 @@
         "wpackagist-plugin/restaurant-solutions-checklist": "1.0.0",
         "wpackagist-plugin/restaurantconnect-reswidget": "<=1.0",
         "wpackagist-plugin/restrict-categories": "<=2.6.4",
-        "wpackagist-plugin/restrict-content": "<=3.2.8",
+        "wpackagist-plugin/restrict-content": "<= 3.2.13.0",
         "wpackagist-plugin/restrict-for-elementor": "<=1.0.7",
         "wpackagist-plugin/restrict-user-access": "<=2.5",
         "wpackagist-plugin/restrict-usernames-emails-characters": "<3.1.4",
