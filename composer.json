@@ -1716,7 +1716,7 @@
         "wpackagist-plugin/contact-form-with-a-meeting-scheduler-by-vcita": "<= 4.10.4.0",
         "wpackagist-plugin/contact-form-with-captcha": "<= 1.6.8.0",
         "wpackagist-plugin/contact-form-x": "<=2.4",
-        "wpackagist-plugin/contact-forms": "<=1.9.2",
+        "wpackagist-plugin/contact-forms": "<= 1.9.4.0",
         "wpackagist-plugin/contact-forms-anti-spam": "<= 2.2.7.0",
         "wpackagist-plugin/contact-forms-builder": "<=2.1.7",
         "wpackagist-plugin/contact-list": "<= 2.9.87.0",
