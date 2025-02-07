@@ -9452,7 +9452,7 @@
         "wpackagist-plugin/wpextended": "<= 3.0.9.0",
         "wpackagist-plugin/wpfavicon": "<=2.1.1",
         "wpackagist-plugin/wpforms": "<= 1.8.1.2 || >= 1.8.4.0-dev <= 1.8.5.3",
-        "wpackagist-plugin/wpforms-lite": "<= 1.9.2.2",
+        "wpackagist-plugin/wpforms-lite": "<= 1.9.3.1",
         "wpackagist-plugin/wpforms-user-registration": "<=2.1.0",
         "wpackagist-plugin/wpforo": "<= 2.3.4.0",
         "wpackagist-plugin/wpfrom-email": "<=1.8.8",
