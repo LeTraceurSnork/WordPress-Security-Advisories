@@ -6424,6 +6424,7 @@
         "wpackagist-plugin/server-status-by-hostnameip": "<=4.6",
         "wpackagist-plugin/service": "<=1.0.4",
         "wpackagist-plugin/service-area-postcode-checker": "<=2.0.8",
+        "wpackagist-plugin/service-provider-profile-cpt": "<=1.1",
         "wpackagist-plugin/set-admin-colour-on-staging-and-dev": ">=2.2,<=4.0.0",
         "wpackagist-plugin/setka-editor": "<= 2.1.20.0",
         "wpackagist-plugin/seur": "<= 2.2.11.0",
