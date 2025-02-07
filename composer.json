@@ -9007,6 +9007,7 @@
         "wpackagist-plugin/wp-meta-seo": "<= 4.5.13.0",
         "wpackagist-plugin/wp-meteor": "<= 3.4.3.0",
         "wpackagist-plugin/wp-microblogs": "<=0.4.0",
+        "wpackagist-plugin/wp-migrate-2-aws": "<=5.2.1",
         "wpackagist-plugin/wp-migrate-db-pro": "<=2.6.10",
         "wpackagist-plugin/wp-migration-duplicator": "<=1.4.8",
         "wpackagist-plugin/wp-mini-program": "<=1.4.5",
