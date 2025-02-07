@@ -69,7 +69,7 @@
         "wpackagist-plugin/5280-bootstrap-modal-contact-form": "<=1.0",
         "wpackagist-plugin/59sec-lite-contact-form-7-push-notifications-on-ios-and-android": "<=3.4.1",
         "wpackagist-plugin/8-degree-notification-bar": "<=1.1.8",
-        "wpackagist-plugin/99fy-core": "<=1.2.7",
+        "wpackagist-plugin/99fy-core": "<= 1.2.8.0",
         "wpackagist-plugin/99robots-header-footer-code-manager-pro": "<=1.0.16",
         "wpackagist-plugin/a-forms": "<=1.4.2",
         "wpackagist-plugin/a-staff": "<=1.2.2",
