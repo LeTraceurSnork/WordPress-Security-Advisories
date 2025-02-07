@@ -3282,6 +3282,7 @@
         "wpackagist-plugin/gdpr-cookie-consent": "<= 3.6.5.0",
         "wpackagist-plugin/gdpr-data-request-form": "<=1.6",
         "wpackagist-plugin/gdreseller": "<=1.6",
+        "wpackagist-plugin/gdy-modular-content": "<=0.9.92",
         "wpackagist-plugin/gecka-terms-thumbnails": "<=1.1",
         "wpackagist-plugin/genealogical-tree": "<=2.2.0.8",
         "wpackagist-plugin/generate-child-theme": "<= 2.0.0.0",
