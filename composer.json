@@ -4279,7 +4279,7 @@
         "wpackagist-plugin/limit-login-attempts": "<=1.7.1",
         "wpackagist-plugin/limit-login-attempts-plus": "<= 1.1.0.0",
         "wpackagist-plugin/limit-login-attempts-reloaded": "<= 2.25.26.0",
-        "wpackagist-plugin/linear": "<=2.7.12",
+        "wpackagist-plugin/linear": "<= 2.8.1.0",
         "wpackagist-plugin/lingotek-translation": "<=1.1.8",
         "wpackagist-plugin/link-checker": "<1.17.0",
         "wpackagist-plugin/link-juice-keeper": "<=2.0.2",
