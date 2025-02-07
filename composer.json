@@ -6326,6 +6326,7 @@
         "wpackagist-plugin/searchwp": "<=4.2.5",
         "wpackagist-plugin/searchwp-live-ajax-search": "<= 1.6.2.0",
         "wpackagist-plugin/seatgeek-affiliate-tickets": "*",
+        "wpackagist-plugin/seatreg": "<=1.56.0",
         "wpackagist-plugin/second-street-promotion": "<=3.1.6",
         "wpackagist-plugin/secondary-title": "<=2.0.9.1",
         "wpackagist-plugin/section-slider": "*",
