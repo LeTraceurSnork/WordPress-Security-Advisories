@@ -3888,6 +3888,7 @@
         "wpackagist-plugin/insight-core": "<=1.0",
         "wpackagist-plugin/inspirational-quote-rotator": "<=1.0.0",
         "wpackagist-plugin/insta-gallery": "<= 4.3.9.0",
+        "wpackagist-plugin/instabot": "<=1.10",
         "wpackagist-plugin/instagram-feed": "< 1.12.0.0-dev",
         "wpackagist-plugin/instagram-for-wordpress": "<=2.1.6",
         "wpackagist-plugin/instagram-slider-widget": "<= 2.2.2.0",
