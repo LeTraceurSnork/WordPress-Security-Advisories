@@ -2453,6 +2453,7 @@
         "wpackagist-plugin/easy-schema-structured-data-rich-snippets": ">=2.0,<=2.2.2",
         "wpackagist-plugin/easy-set-favicon": "<=1.1",
         "wpackagist-plugin/easy-settings-for-learndash": ">=1.1.0,<=1.3.0",
+        "wpackagist-plugin/easy-shortcode-buttons": "<=1.2",
         "wpackagist-plugin/easy-sign-up": "<=3.4.1",
         "wpackagist-plugin/easy-slider-revolution": "<=1.0.0",
         "wpackagist-plugin/easy-social-icons": "<= 3.2.4.0",
