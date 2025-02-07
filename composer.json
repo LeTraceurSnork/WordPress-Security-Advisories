@@ -6420,6 +6420,7 @@
         "wpackagist-plugin/sermonaudio-widgets": "<=1.9.3",
         "wpackagist-plugin/sermone-online-sermons-management": "<=1.0.0",
         "wpackagist-plugin/serp-rank": "<=1.0.7",
+        "wpackagist-plugin/serped-net": "<=4.4",
         "wpackagist-plugin/server-info": ">=2.5.1,<=2.5.3",
         "wpackagist-plugin/server-status-by-hostnameip": "<=4.6",
         "wpackagist-plugin/service": "<=1.0.4",
