@@ -2000,6 +2000,7 @@
         "wpackagist-plugin/custom-post-type-cpt-cusom-taxonomy-ct-manager": "<=1.1",
         "wpackagist-plugin/custom-post-type-generator": "<=2.4.2",
         "wpackagist-plugin/custom-post-type-list-shortcode": "<=1.4.4",
+        "wpackagist-plugin/custom-post-type-lockdown": "<=1.11",
         "wpackagist-plugin/custom-post-type-page-template": "<=1.1",
         "wpackagist-plugin/custom-post-type-pdf-attachment": "<=3.4.5",
         "wpackagist-plugin/custom-post-type-relations": "<=1.0",
