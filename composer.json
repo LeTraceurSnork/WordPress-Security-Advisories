@@ -2061,6 +2061,7 @@
         "wpackagist-plugin/daily-image": "<=1.0",
         "wpackagist-plugin/daily-inspiration-generator": "<=2.0",
         "wpackagist-plugin/daily-prayer-time-for-mosques": "<=2024.08.26",
+        "wpackagist-plugin/daily-proverb": "<=2.0.3",
         "wpackagist-plugin/dancepress-trwa": "<=3.1.11",
         "wpackagist-plugin/dandyid-services": "<=1.5.9",
         "wpackagist-plugin/dans-gcal": "<=1.2",
