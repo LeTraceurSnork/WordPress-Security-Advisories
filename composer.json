@@ -5031,7 +5031,7 @@
         "wpackagist-plugin/nimble-builder": "<3.2.2",
         "wpackagist-plugin/nimble-portfolio": "<=3.0.1",
         "wpackagist-plugin/ninja-beaver-lite-addons-for-beaver-builder": "<=2.4.5",
-        "wpackagist-plugin/ninja-forms": "<= 3.8.22.0",
+        "wpackagist-plugin/ninja-forms": "<= 3.8.24.0",
         "wpackagist-plugin/ninja-forms-uploads": "<= 3.3.16.0",
         "wpackagist-plugin/ninja-gdpr-compliance": "<= 2.7.0.0",
         "wpackagist-plugin/ninja-job-board": "<=1.3.2",
