@@ -3751,6 +3751,7 @@
         "wpackagist-plugin/iframe-forms": "<=1.0",
         "wpackagist-plugin/iframe-popup": "<=3.3",
         "wpackagist-plugin/iframe-shortcode": "<=2.0",
+        "wpackagist-plugin/iframe-to-embed": "<=1.2",
         "wpackagist-plugin/igniteup": "<= 3.4.1.0",
         "wpackagist-plugin/ignitiondeck": "<=1.9.8",
         "wpackagist-plugin/iksweb": "<=3.7",
