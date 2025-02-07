@@ -565,6 +565,7 @@
         "wpackagist-plugin/animated-svg": "<=2.2.0",
         "wpackagist-plugin/animated-typed-js-shortcode": "<=2.0",
         "wpackagist-plugin/animated-typing-effect": "<=1.3.6",
+        "wpackagist-plugin/animategl": "<=1.4.23",
         "wpackagist-plugin/animation-addons-for-elementor": "<=1.1.6",
         "wpackagist-plugin/annasta-woocommerce-product-filters": ">=1.0.5,<=1.6.3",
         "wpackagist-plugin/annonces": "<=1.2.0.1",
