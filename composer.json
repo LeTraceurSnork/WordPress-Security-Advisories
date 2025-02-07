@@ -7510,6 +7510,7 @@
         "wpackagist-plugin/track-the-click": "<=0.3.11",
         "wpackagist-plugin/tracked-tweets": "<=0.2.9",
         "wpackagist-plugin/tracking-code-manager": "<= 2.3.0.0",
+        "wpackagist-plugin/trackserver": "<=5.0.2",
         "wpackagist-plugin/trackship-for-woocommerce": "<=1.7.5",
         "wpackagist-plugin/tradedoubler-affiliate-tracker": "<=2.0.21",
         "wpackagist-plugin/trademe-widget": "<=1.2",
