@@ -7385,7 +7385,7 @@
         "wpackagist-plugin/theplus_elementor_addon": "<=5.5.6",
         "wpackagist-plugin/thesis-openhook": "<=4.3.0",
         "wpackagist-plugin/thesography": "<=1.3.1",
-        "wpackagist-plugin/thim-elementor-kit": "<=1.1.9",
+        "wpackagist-plugin/thim-elementor-kit": "<= 1.2.9.0",
         "wpackagist-plugin/thinkific-uploader": "<=1.0.0",
         "wpackagist-plugin/thinkit-wp-contact-form": "<0.3",
         "wpackagist-plugin/thinktwit": "<1.7.1",
