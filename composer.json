@@ -9042,6 +9042,7 @@
         "wpackagist-plugin/wp-opt-in": "<=1.4.1",
         "wpackagist-plugin/wp-optimize": "< 3.2.13.0-dev",
         "wpackagist-plugin/wp-optin-wheel": "<=1.4.2",
+        "wpackagist-plugin/wp-order-by": "<=1.4.2",
         "wpackagist-plugin/wp-original-media-path": "<=2.4.0",
         "wpackagist-plugin/wp-orphanage-extended": "<=1.2",
         "wpackagist-plugin/wp-page-duplicator": "<=0.1.1",
