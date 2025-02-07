@@ -4467,7 +4467,7 @@
         "wpackagist-plugin/mainwp-branding-extension": "<=4.1.1",
         "wpackagist-plugin/mainwp-broken-links-checker-extension": "<=4.0",
         "wpackagist-plugin/mainwp-buddy-extension": "<=4.0.1",
-        "wpackagist-plugin/mainwp-child": "<= 5.2.0.0",
+        "wpackagist-plugin/mainwp-child": "<= 5.3.3.0",
         "wpackagist-plugin/mainwp-child-reports": "<= 2.2.0.0",
         "wpackagist-plugin/mainwp-clone-extension": "<=4.0.2",
         "wpackagist-plugin/mainwp-code-snippets-extension": "<=4.0.2",
