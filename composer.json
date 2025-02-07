@@ -4499,6 +4499,7 @@
         "wpackagist-plugin/mangboard": "<= 1.9.9.0",
         "wpackagist-plugin/mantenimiento-web": "<=0.13",
         "wpackagist-plugin/manual-image-crop": "<1.11",
+        "wpackagist-plugin/manycontacts-bar": "<=3.0.4",
         "wpackagist-plugin/map-addons-for-elementor-waze-map": "<=1.1.5",
         "wpackagist-plugin/map-block-gutenberg": "<1.32",
         "wpackagist-plugin/map-location-picker-at-checkout-for-woocommerce": "<= 1.8.9.0",
