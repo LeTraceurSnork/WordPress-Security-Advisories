@@ -1930,7 +1930,7 @@
         "wpackagist-plugin/cta": "< 2.5.1.0-dev",
         "wpackagist-plugin/ctt-expresso-para-woocommerce": "<=3.2.12",
         "wpackagist-plugin/cube-slider": "<=1.2",
-        "wpackagist-plugin/cubewp-forms": "<=1.1.1",
+        "wpackagist-plugin/cubewp-forms": "<= 1.1.5.0",
         "wpackagist-plugin/cubewp-framework": "<=1.1.15",
         "wpackagist-plugin/culqi-checkout": "<=3.0.14",
         "wpackagist-plugin/cultbooking-booking-engine": "<=2.1",
