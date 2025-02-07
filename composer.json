@@ -5327,6 +5327,7 @@
         "wpackagist-plugin/pb-seo-friendly-images": "<=4.0.5",
         "wpackagist-plugin/pdf-block": "<=1.1.0",
         "wpackagist-plugin/pdf-builder-for-wpforms": "<=1.2.116",
+        "wpackagist-plugin/pdf-catalog-woocommerce": "<=2.0",
         "wpackagist-plugin/pdf-embedder": "<=4.6.4",
         "wpackagist-plugin/pdf-embedder-fay": "<=1.10.1",
         "wpackagist-plugin/pdf-generator-addon-for-elementor-page-builder": "<=2.0.0",
