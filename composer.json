@@ -636,7 +636,7 @@
         "wpackagist-plugin/archivist-custom-archive-templates": "<=1.7.5",
         "wpackagist-plugin/arconix-faq": "<=1.9.4",
         "wpackagist-plugin/arconix-shortcodes": "<= 2.1.13.0",
-        "wpackagist-plugin/arena-liveblog-and-chat-tool": "<=0.3.0",
+        "wpackagist-plugin/arena-liveblog-and-chat-tool": "<= 0.4.1.0",
         "wpackagist-plugin/arforms": "<= 6.5.0.0",
         "wpackagist-plugin/arforms-form-builder": "<= 1.7.1.0",
         "wpackagist-plugin/ari-adminer": "<=1.1.14",
