@@ -4811,6 +4811,7 @@
         "wpackagist-plugin/moveto": "<=6.2",
         "wpackagist-plugin/movie-database": "<=1.0.11",
         "wpackagist-plugin/movies": "<=0.6",
+        "wpackagist-plugin/moving-users": "<=1.05",
         "wpackagist-plugin/mp-restaurant-menu": "<2.4.2",
         "wpackagist-plugin/mp-timetable": "<=2.4.13",
         "wpackagist-plugin/mp3-jplayer": "<=2.7.3",
