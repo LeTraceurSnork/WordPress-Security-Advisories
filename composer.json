@@ -4984,6 +4984,7 @@
         "wpackagist-plugin/newsletter-by-supsystic": "<=1.5.6",
         "wpackagist-plugin/newsletter-manager": "<= 1.5.1.0",
         "wpackagist-plugin/newsletter-optin-box": "<= 3.4.2.0",
+        "wpackagist-plugin/newsletter-page-redirects": "<=1.0.4",
         "wpackagist-plugin/newsletter-popup": "<=1.2",
         "wpackagist-plugin/newsletter-subscriptions": "<=2.1",
         "wpackagist-plugin/newsletter2go": "<=4.0.14",
