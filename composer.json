@@ -1282,6 +1282,7 @@
         "wpackagist-plugin/candidate-application-form": "<=1.3",
         "wpackagist-plugin/canto": "<= 3.0.8.0",
         "wpackagist-plugin/canva": "<=1.2.4",
+        "wpackagist-plugin/canvasflow": "<=1.5.5",
         "wpackagist-plugin/canvasio3d-light": "<=2.5.0",
         "wpackagist-plugin/capa": "<=0.5.8.2",
         "wpackagist-plugin/capabilities-pro": "<=2.5.1",
