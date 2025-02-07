@@ -7857,7 +7857,7 @@
         "wpackagist-plugin/videojs-html5-video-player-for-wordpress": "<=4.5.0",
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
         "wpackagist-plugin/videowall": "*",
-        "wpackagist-plugin/videowhisper-live-streaming-integration": "<=5.5.15",
+        "wpackagist-plugin/videowhisper-live-streaming-integration": "<= 6.1.9.0",
         "wpackagist-plugin/videowhisper-video-conference-integration": "<=4.91.8",
         "wpackagist-plugin/videowhisper-video-presentation": "<= 4.1.4.0",
         "wpackagist-plugin/viet-affiliate-link": "<=1.2",
