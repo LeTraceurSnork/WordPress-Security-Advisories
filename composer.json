@@ -5290,7 +5290,7 @@
         "wpackagist-plugin/password-protected": "<= 2.6.6.0",
         "wpackagist-plugin/password-protected-woo-store": "<=2.2",
         "wpackagist-plugin/passwordless-login": "<=1.1.2",
-        "wpackagist-plugin/passwords-manager": "<=1.4.4",
+        "wpackagist-plugin/passwords-manager": "<= 1.4.8.0",
         "wpackagist-plugin/past-events-extension": "<=1.0.1",
         "wpackagist-plugin/pathomation": "<=2.5.1",
         "wpackagist-plugin/patreon-connect": "<= 1.9.0.0",
