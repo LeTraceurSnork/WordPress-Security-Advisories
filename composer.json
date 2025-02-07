@@ -1131,7 +1131,7 @@
         "wpackagist-plugin/bridge-core": "<= 3.3.0.0",
         "wpackagist-plugin/britetechs-companion": "2.2.7",
         "wpackagist-plugin/brizy": "<= 2.5.1.0",
-        "wpackagist-plugin/broken-link-checker": "<= 2.4.0.0",
+        "wpackagist-plugin/broken-link-checker": "<= 2.4.1.0",
         "wpackagist-plugin/broken-link-checker-for-youtube": "<=1.3",
         "wpackagist-plugin/broken-link-finder": "<= 2.5.0.0",
         "wpackagist-plugin/broken-link-manager": "<=0.6.5",
