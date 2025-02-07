@@ -8264,6 +8264,7 @@
         "wpackagist-plugin/woo-producttables-pro": "<=1.9.4",
         "wpackagist-plugin/woo-quick-cart-for-multiple-variations": ">=1.1.6,<=1.2.0",
         "wpackagist-plugin/woo-quick-reports": ">=2.6,<=2.7.1",
+        "wpackagist-plugin/woo-quick-view": "<=1.1.1",
         "wpackagist-plugin/woo-quote-calculator-order": "<=1.1",
         "wpackagist-plugin/woo-razorpay": "<=4.5.6",
         "wpackagist-plugin/woo-recent-purchases": "<=1.0.1",
