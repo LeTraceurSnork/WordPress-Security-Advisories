@@ -9196,6 +9196,7 @@
         "wpackagist-plugin/wp-ses": "< 1.6.4.0-dev",
         "wpackagist-plugin/wp-setup-wizard": "<=1.0.8.1",
         "wpackagist-plugin/wp-shamsi": "<= 4.3.3.0",
+        "wpackagist-plugin/wp-shapes": "1.0.0",
         "wpackagist-plugin/wp-share-buttons-analytics-by-getsocial": "<=4.3.12",
         "wpackagist-plugin/wp-sheet-editor-bulk-spreadsheet-editor-for-posts-and-pages": ">=1.4.3,<=2.25.2",
         "wpackagist-plugin/wp-sheet-editor-edd-downloads": ">=1.0.1,<=1.0.60",
