@@ -2203,6 +2203,7 @@
         "wpackagist-plugin/display-a-meta-field-as-block": "<=1.2.13",
         "wpackagist-plugin/display-admin-page-on-frontend": ">=1.0.0,<=1.20.0",
         "wpackagist-plugin/display-custom-post": "<=2.2.1",
+        "wpackagist-plugin/display-future-posts": "<=0.2.3",
         "wpackagist-plugin/display-medium-posts": "<=5.0.1",
         "wpackagist-plugin/display-metadata": "<=1.0.0",
         "wpackagist-plugin/display-post-metadata": "<1.5.0",
