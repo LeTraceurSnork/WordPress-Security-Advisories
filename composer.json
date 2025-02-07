@@ -2695,6 +2695,7 @@
         "wpackagist-plugin/essential-grid": "<= 3.1.1.0",
         "wpackagist-plugin/essential-real-estate": "<= 5.1.6.0",
         "wpackagist-plugin/essential-widgets": "<1.9",
+        "wpackagist-plugin/essential-wp-real-estate": "<=1.1.3",
         "wpackagist-plugin/estatik": "<= 4.1.0.0",
         "wpackagist-plugin/estatik-mortgage-calculator": "<=2.0.11",
         "wpackagist-plugin/et-core-plugin": "<=5.3.8",
