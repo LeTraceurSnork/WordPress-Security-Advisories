@@ -3259,7 +3259,7 @@
         "wpackagist-plugin/gantry": "<= 4.1.21.0",
         "wpackagist-plugin/gappointments": "<=1.9.7",
         "wpackagist-plugin/garagesale": "<1.2.3",
-        "wpackagist-plugin/garden-gnome-package": "<=2.2.9",
+        "wpackagist-plugin/garden-gnome-package": "<= 2.3.0.0",
         "wpackagist-plugin/garees-flickr-feed": "<=0.8",
         "wpackagist-plugin/gaxx-keywords": "<=0.2",
         "wpackagist-plugin/gb-gallery-slideshow": "<1.6",
