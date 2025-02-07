@@ -8256,7 +8256,7 @@
         "wpackagist-plugin/woo-product-reviews-shortcode": "<= 1.01.5.0",
         "wpackagist-plugin/woo-product-slider": "<=2.6.3",
         "wpackagist-plugin/woo-product-slider-and-carousel-with-category": "<=2.7.1",
-        "wpackagist-plugin/woo-product-table": "<=3.5.1",
+        "wpackagist-plugin/woo-product-table": "<= 3.5.6.0",
         "wpackagist-plugin/woo-product-tables": "<=2.0.1",
         "wpackagist-plugin/woo-product-variation-gallery": "<=2.3.3",
         "wpackagist-plugin/woo-product-variation-swatches": "<=2.3.7",
