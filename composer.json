@@ -1922,7 +1922,7 @@
         "wpackagist-plugin/csv-import": "<=1.0",
         "wpackagist-plugin/csv-import-export": "<=1.1",
         "wpackagist-plugin/csv-importer": "<=0.3.8",
-        "wpackagist-plugin/csv-to-html": "<=3.06",
+        "wpackagist-plugin/csv-to-html": "<= 3.26.0.0",
         "wpackagist-plugin/csv-wc-product-import-export": "<=1.0.0",
         "wpackagist-plugin/csv2wpec-coupon": "<=1.1",
         "wpackagist-plugin/ct-commerce": "<=2.0.1",
