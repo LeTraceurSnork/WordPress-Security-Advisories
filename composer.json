@@ -2835,7 +2835,7 @@
         "wpackagist-plugin/facebook-conversion-pixel": "<= 3.0.5.0",
         "wpackagist-plugin/facebook-fan-page-widget": "<=2.0",
         "wpackagist-plugin/facebook-for-woocommerce": "<=1.9.12",
-        "wpackagist-plugin/facebook-like-send-button": "<=1.1.5",
+        "wpackagist-plugin/facebook-like-send-button": "<= 1.2.0.0",
         "wpackagist-plugin/facebook-likebox-widget-and-shortcode": "<=1.2.0",
         "wpackagist-plugin/facebook-members": "<5.0.5",
         "wpackagist-plugin/facebook-messenger-customer-chat": "<1.6",
