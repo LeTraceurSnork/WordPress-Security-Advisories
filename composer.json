@@ -8420,6 +8420,7 @@
         "wpackagist-plugin/woodiscuz-woocommerce-comments": "<= 2.3.0.0",
         "wpackagist-plugin/woodmart-core": "<=1.0.36",
         "wpackagist-plugin/wooemailreport": "<=2.4",
+        "wpackagist-plugin/wooexim": "<=5.0.0",
         "wpackagist-plugin/wooframework-branding": "<=1.0.1",
         "wpackagist-plugin/wooframework-tweaks": "<=1.0.1",
         "wpackagist-plugin/woofunnels-aero-checkout": "<=3.10.3",
