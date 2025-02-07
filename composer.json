@@ -6084,6 +6084,7 @@
         "wpackagist-plugin/responsive-google-maps": "<=1.2.5",
         "wpackagist-plugin/responsive-header-image-slider": "<=3.2.1",
         "wpackagist-plugin/responsive-horizontal-vertical-and-accordion-tabs": "<=1.1.17",
+        "wpackagist-plugin/responsive-jquery-slider": "<=1.1.1",
         "wpackagist-plugin/responsive-lightbox": "<= 2.4.8.0",
         "wpackagist-plugin/responsive-lightbox2": "<=1.0.3",
         "wpackagist-plugin/responsive-logo-slideshow": "<1.2",
