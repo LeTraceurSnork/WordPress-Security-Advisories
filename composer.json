@@ -1268,7 +1268,7 @@
         "wpackagist-plugin/calendar-plugin": "<=1.0",
         "wpackagist-plugin/calendarista": "<=15.5.7",
         "wpackagist-plugin/calendarista-basic-edition": "<= 3.0.5.0",
-        "wpackagist-plugin/call-now-button": "<=1.4.6",
+        "wpackagist-plugin/call-now-button": "<= 1.4.13.0",
         "wpackagist-plugin/call-now-icon-animate": "<=0.1.0",
         "wpackagist-plugin/callbook-mobile-bar": "<=1.2.2",
         "wpackagist-plugin/callrail-phone-call-tracking": "<=0.5.2",
