@@ -3916,6 +3916,7 @@
         "wpackagist-plugin/integromat-connector": "<= 1.5.2.0",
         "wpackagist-plugin/intelligence": "<=1.4.0",
         "wpackagist-plugin/intelliwidget-elements": "<=2.2.7",
+        "wpackagist-plugin/intelly-posts-footer-manager": "<=2.1.0",
         "wpackagist-plugin/intelly-related-posts": "<=3.7.0",
         "wpackagist-plugin/intelly-welcome-bar": "<=2.0.3",
         "wpackagist-plugin/interact-quiz-embed": "<=3.0.7",
