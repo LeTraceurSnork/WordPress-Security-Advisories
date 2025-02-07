@@ -3727,6 +3727,7 @@
         "wpackagist-plugin/icon-widget-with-links": "<=1.1.0",
         "wpackagist-plugin/iconic-woothumbs": "<=5.5.3",
         "wpackagist-plugin/iconize": "<=1.2.4",
+        "wpackagist-plugin/icons-enricher": "<=1.0.8",
         "wpackagist-plugin/icons-font-loader": "<= 1.1.4.0",
         "wpackagist-plugin/icons-for-features": "<=1.0.0",
         "wpackagist-plugin/icons-with-links-widget": "*",
