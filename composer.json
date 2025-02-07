@@ -5955,7 +5955,7 @@
         "wpackagist-plugin/real-estate-listing-realtyna-wpl": "<= 4.14.13.0",
         "wpackagist-plugin/real-estate-manager": "<=7.2",
         "wpackagist-plugin/real-estate-pro": "<1.7.1",
-        "wpackagist-plugin/real-kit": "<=5.1.0",
+        "wpackagist-plugin/real-kit": "<= 5.1.1.0",
         "wpackagist-plugin/real-media-library-lite": "<= 4.22.11.0",
         "wpackagist-plugin/real-time-auto-find-and-replace": "<=1.6.1",
         "wpackagist-plugin/real-time-find-and-replace": "<= 3.9.0.0",
