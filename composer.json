@@ -4423,6 +4423,7 @@
         "wpackagist-plugin/magee-shortcodes": "<= 2.1.1.0",
         "wpackagist-plugin/magic-action-box": "<=2.17.2",
         "wpackagist-plugin/magic-fields": "<=1.7.1",
+        "wpackagist-plugin/magic-google-maps": "<=1.0.4",
         "wpackagist-plugin/magic-post-thumbnail": "<= 5.2.9.0",
         "wpackagist-plugin/magic-post-voice": "<=1.2",
         "wpackagist-plugin/magic-slider": "<=1.3",
