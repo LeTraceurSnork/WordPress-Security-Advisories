@@ -771,7 +771,7 @@
         "wpackagist-plugin/autosave-net": ">=1.3.0,<=1.3.4",
         "wpackagist-plugin/autoshare-for-twitter": "<=1.2.1",
         "wpackagist-plugin/autotitle-for-wordpress": "<=1.0.3",
-        "wpackagist-plugin/auxin-elements": "<= 2.16.4.0",
+        "wpackagist-plugin/auxin-elements": "<= 2.17.2.0",
         "wpackagist-plugin/auxin-portfolio": "<= 2.3.4.0",
         "wpackagist-plugin/auxin-shop": "<=2.0.0",
         "wpackagist-plugin/auyautochat-for-wp": "<=1.1.9",
