@@ -8360,6 +8360,7 @@
         "wpackagist-plugin/woocommerce-menu-extension": "<=1.6.2",
         "wpackagist-plugin/woocommerce-mercadopago": ">=7.3.0,<=7.6.1 || <=6.6.0",
         "wpackagist-plugin/woocommerce-multi-currency": "<=2.1.17",
+        "wpackagist-plugin/woocommerce-multi-locations-inventory-management": "<=4.1.11",
         "wpackagist-plugin/woocommerce-multilingual": "<=5.3.7",
         "wpackagist-plugin/woocommerce-multiple-customer-addresses": "<21.7",
         "wpackagist-plugin/woocommerce-multiple-free-gift": "<=1.2.3",
