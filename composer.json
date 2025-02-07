@@ -3449,7 +3449,7 @@
         "wpackagist-plugin/gp-unique-id": "<=1.5.5",
         "wpackagist-plugin/gplus-comments": "<=1.6.3",
         "wpackagist-plugin/gps-plotter": "<=5.3.0",
-        "wpackagist-plugin/gpt3-ai-content-generator": "<= 1.8.89.0",
+        "wpackagist-plugin/gpt3-ai-content-generator": "<= 1.8.96.0",
         "wpackagist-plugin/gpx-viewer": "<=2.2.9",
         "wpackagist-plugin/gracemedia-media-player": "<=1.0",
         "wpackagist-plugin/gradient-text-widget-for-elementor": "<=1.0.1",
