@@ -662,6 +662,7 @@
         "wpackagist-plugin/aryo-activity-log": "<= 2.11.1.0",
         "wpackagist-plugin/as-create-pinterest-pinboard-pages": "<=1.0",
         "wpackagist-plugin/asf-allow-svg-files": "<= 1.1.0.0",
+        "wpackagist-plugin/asgard": "<=0.7",
         "wpackagist-plugin/asgaros-forum": "<= 2.8.0.0",
         "wpackagist-plugin/ashe-extra": "<=1.2.91",
         "wpackagist-plugin/askapache-firefox-adsense": "<=3.0",
