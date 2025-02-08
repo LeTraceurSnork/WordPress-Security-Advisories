@@ -1046,6 +1046,7 @@
         "wpackagist-plugin/book-appointment-online": "<=1.38",
         "wpackagist-plugin/book-buyback-prices": ">=1.0.2,<=1.0.9",
         "wpackagist-plugin/book-press": "<=1.2.4",
+        "wpackagist-plugin/bookalet": "<=1.0.3",
         "wpackagist-plugin/booked": "<=2.4",
         "wpackagist-plugin/booking": "<= 10.6.4.0",
         "wpackagist-plugin/booking-activities": "<=1.15.19",
