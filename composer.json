@@ -4456,6 +4456,7 @@
         "wpackagist-plugin/mailrelay": "<=2.1.1",
         "wpackagist-plugin/mailster": "<= 4.0.9.0",
         "wpackagist-plugin/mailtree-log-mail": "<=1.0.0",
+        "wpackagist-plugin/mailup-auto-subscribtion": "<=1.1.0",
         "wpackagist-plugin/maintenance": "<4.03",
         "wpackagist-plugin/maintenance-and-noindex-nofollow": "<=2.1",
         "wpackagist-plugin/maintenance-coming-soon-redirect-animation": "<=2.1.3",
