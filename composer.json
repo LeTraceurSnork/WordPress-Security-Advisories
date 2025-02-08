@@ -2348,6 +2348,7 @@
         "wpackagist-plugin/dx-delete-attached-media": "<= 2.0.5.1",
         "wpackagist-plugin/dx-share-selection": "<=1.4",
         "wpackagist-plugin/dx-watermark": "<=1.0.4",
+        "wpackagist-plugin/dyn-business-panel": "<=1.0.0",
         "wpackagist-plugin/dynamic-content-for-elementor": "<2.12.5",
         "wpackagist-plugin/dynamic-elementor-addons": "<=1.0.0",
         "wpackagist-plugin/dynamic-featured-image": "<=3.7.0",
