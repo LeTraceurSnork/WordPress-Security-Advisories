@@ -249,7 +249,7 @@
         "wpackagist-plugin/addthis": "<5.0.13",
         "wpackagist-plugin/adfoxly": "<=1.8.5",
         "wpackagist-plugin/adicons": "<=1.2",
-        "wpackagist-plugin/adirectory": "<=1.3",
+        "wpackagist-plugin/adirectory": "<= 1.6.5.0",
         "wpackagist-plugin/adl-post-slider": "<=1.6.7",
         "wpackagist-plugin/adl-team": "<=1.2.6",
         "wpackagist-plugin/admin-and-client-message-after-order-for-woocommerce": "<=12.4",
