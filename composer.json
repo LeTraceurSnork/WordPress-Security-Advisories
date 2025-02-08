@@ -9449,7 +9449,7 @@
         "wpackagist-plugin/wpe-indoshipping": "<=2.5.0",
         "wpackagist-plugin/wpematico": "<2.6.12",
         "wpackagist-plugin/wpexperts-square-for-give": "<=1.3",
-        "wpackagist-plugin/wpextended": "<= 3.0.9.0",
+        "wpackagist-plugin/wpextended": "<= 3.0.12.0",
         "wpackagist-plugin/wpfavicon": "<=2.1.1",
         "wpackagist-plugin/wpforms": "<= 1.8.1.2 || >= 1.8.4.0-dev <= 1.8.5.3",
         "wpackagist-plugin/wpforms-lite": "<= 1.9.2.2",
