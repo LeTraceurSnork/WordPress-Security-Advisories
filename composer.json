@@ -1043,6 +1043,7 @@
         "wpackagist-plugin/bonus-for-woo": "<=5.8.2",
         "wpackagist-plugin/bonuspressx": "*",
         "wpackagist-plugin/bonway-static-block-editor": "<=1.1.0",
+        "wpackagist-plugin/book-a-place": "<=0.7.1",
         "wpackagist-plugin/book-appointment-online": "<=1.38",
         "wpackagist-plugin/book-buyback-prices": ">=1.0.2,<=1.0.9",
         "wpackagist-plugin/book-press": "<=1.2.4",
