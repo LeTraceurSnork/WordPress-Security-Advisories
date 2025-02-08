@@ -4752,6 +4752,7 @@
         "wpackagist-plugin/mobile-domain": "<=1.5.2",
         "wpackagist-plugin/mobile-events-manager": "<= 1.4.7.0",
         "wpackagist-plugin/mobile-friendly-app-builder-by-easytouch": "<=3.0",
+        "wpackagist-plugin/mobile-friendly-flickr-slideshow": "<=2.6.0",
         "wpackagist-plugin/mobile-kiosk": "<=1.3.0",
         "wpackagist-plugin/mobile-login-woocommerce": "<=2.6.1",
         "wpackagist-plugin/mobile-menu": "<=2.8.4.4",
