@@ -5618,6 +5618,7 @@
         "wpackagist-plugin/posti-shipping": "<= 3.10.3.0",
         "wpackagist-plugin/postie": "< 1.9.41.0-dev",
         "wpackagist-plugin/postify-for-elementor": "<=1.0.1",
+        "wpackagist-plugin/postlists": "<=2.0.2",
         "wpackagist-plugin/postmagthemes-demo-import": "<= 1.0.7.0",
         "wpackagist-plugin/postman-smtp": "<=1.7.2",
         "wpackagist-plugin/postman-widget": "<=1.14",
