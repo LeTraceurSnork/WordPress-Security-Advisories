@@ -1678,6 +1678,7 @@
         "wpackagist-plugin/consulting-elementor-widgets": "<=1.3.0",
         "wpackagist-plugin/contact-bank": "<= 3.0.30.0",
         "wpackagist-plugin/contact-form-7": "<=5.9.4",
+        "wpackagist-plugin/contact-form-7-anti-spambot": "<=1.0.1",
         "wpackagist-plugin/contact-form-7-campaign-monitor-extension": "<=0.4.67",
         "wpackagist-plugin/contact-form-7-datepicker": "<=2.6.0",
         "wpackagist-plugin/contact-form-7-designer": ">=2.0,<=2.2",
