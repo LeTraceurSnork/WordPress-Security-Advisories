@@ -1154,7 +1154,7 @@
         "wpackagist-plugin/buddyboss-media": "<=3.2.3",
         "wpackagist-plugin/buddyboss-platform": "<=2.5.91",
         "wpackagist-plugin/buddydrive": "<=2.1.1",
-        "wpackagist-plugin/buddyforms": "<= 2.8.12.0",
+        "wpackagist-plugin/buddyforms": "<= 2.8.13.0",
         "wpackagist-plugin/buddyforms-acf": "<= 1.3.8.0",
         "wpackagist-plugin/buddyforms-anonymous-author": "<=1.0",
         "wpackagist-plugin/buddyforms-attach-posts-to-groups-extension": "<=1.2.2",
