@@ -8333,6 +8333,7 @@
         "wpackagist-plugin/woocommerce-customers-manager": "<= 30.1.0.0",
         "wpackagist-plugin/woocommerce-cvr-payment-gateway": "<6.1.0",
         "wpackagist-plugin/woocommerce-delivery-notes": "<= 4.8.1.0",
+        "wpackagist-plugin/woocommerce-digital-content-delivery-with-drm-flickrocket": "<=4.74",
         "wpackagist-plugin/woocommerce-discounts-plus": "<3.4.5",
         "wpackagist-plugin/woocommerce-dropshipping": "<= 5.0.4.0",
         "wpackagist-plugin/woocommerce-dynamic-gallery": "<=3.0.1",
