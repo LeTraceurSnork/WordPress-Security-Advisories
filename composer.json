@@ -8714,6 +8714,7 @@
         "wpackagist-plugin/wp-database-admin": "<=1.0.3",
         "wpackagist-plugin/wp-database-backup": "<= 7.3.0.0",
         "wpackagist-plugin/wp-database-error-manager": "<=2.1.6",
+        "wpackagist-plugin/wp-datatable": "<=0.2.6",
         "wpackagist-plugin/wp-datepicker": "<=2.1.1",
         "wpackagist-plugin/wp-db-backup": "<2.5.2",
         "wpackagist-plugin/wp-db-backup.php": "<=1.7",
