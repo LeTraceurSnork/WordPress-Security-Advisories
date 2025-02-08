@@ -6858,6 +6858,7 @@
         "wpackagist-plugin/snapshot-backup": "<=2.1.1",
         "wpackagist-plugin/snazzy-maps": "<=1.1.4",
         "wpackagist-plugin/snazzyadmin-wp-admin-theme": "<=1.0.2",
+        "wpackagist-plugin/snipe-nginx-cache": "<=1.0.4.2",
         "wpackagist-plugin/sniplets": "<1.2.3",
         "wpackagist-plugin/snow-monkey-forms": "<=5.1.1",
         "wpackagist-plugin/so-audible": "<=0.9",
