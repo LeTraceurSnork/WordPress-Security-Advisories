@@ -1688,6 +1688,7 @@
         "wpackagist-plugin/contact-form-7-multi-step-module": "<3.0.9",
         "wpackagist-plugin/contact-form-7-newsletter": "<=2.2",
         "wpackagist-plugin/contact-form-7-paypal-add-on": "<= 2.3.1.0",
+        "wpackagist-plugin/contact-form-7-round-robin-lead-distribution": "<=1.2.1",
         "wpackagist-plugin/contact-form-7-simple-recaptcha": "<=0.1.1",
         "wpackagist-plugin/contact-form-7-skins": "<= 2.5.0.0",
         "wpackagist-plugin/contact-form-7-sms-addon": "< 2.4.1.0-dev",
