@@ -2232,6 +2232,7 @@
         "wpackagist-plugin/docket-cache": "<=21.08.01",
         "wpackagist-plugin/docollipics-faustball-de": "<=2.0.4",
         "wpackagist-plugin/doctor-listing": "<1.3.6",
+        "wpackagist-plugin/document": "<=1.1.0",
         "wpackagist-plugin/document-data-automation": "<=1.6.1",
         "wpackagist-plugin/document-emberdder": "< 1.7.9.0-dev",
         "wpackagist-plugin/documentor-lite": "<=1.5.3",
