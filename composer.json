@@ -4294,6 +4294,7 @@
         "wpackagist-plugin/linked-orders-for-woocommerce": ">=1.0.0,<=1.2.2",
         "wpackagist-plugin/linked-variation-for-woocommerce": "<=1.0.5",
         "wpackagist-plugin/linker": "<=1.2.1",
+        "wpackagist-plugin/linkid": "<=0.1.2",
         "wpackagist-plugin/linkify-text": "<=1.9.1",
         "wpackagist-plugin/linklaunder-seo-plugin": "<=0.92.1",
         "wpackagist-plugin/linkworth-wp-plugin": "<=3.3.3",
