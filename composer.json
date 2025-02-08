@@ -9965,7 +9965,7 @@
         "wpackagist-theme/couponis-demo": "<2.2",
         "wpackagist-theme/cover-wp": "<=1.6.5",
         "wpackagist-theme/covertvideopress": "*",
-        "wpackagist-theme/cozipress": "<=1.0.31",
+        "wpackagist-theme/cozipress": "<= 1.0.32.0",
         "wpackagist-theme/craft-blog": "<=1.0.7",
         "wpackagist-theme/cream-blog": "<=2.1.3",
         "wpackagist-theme/create": "<=2.9.1",
