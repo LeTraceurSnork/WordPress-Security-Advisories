@@ -6207,6 +6207,7 @@
         "wpackagist-plugin/rss-import": "<=4.6.1",
         "wpackagist-plugin/rss-includes-pages": "<3.7",
         "wpackagist-plugin/rsv-360-view": "<=1.0",
+        "wpackagist-plugin/rsv-google-maps": "<=1.5",
         "wpackagist-plugin/rsv-pdf-preview": "<=1.0",
         "wpackagist-plugin/rsvp": "<=2.7.7",
         "wpackagist-plugin/rsvp-me": "<=1.9.9",
