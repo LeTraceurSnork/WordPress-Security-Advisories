@@ -7241,7 +7241,7 @@
         "wpackagist-plugin/tagregator": "<=0.6",
         "wpackagist-plugin/tags-cloud-manager": "<=1.0.0",
         "wpackagist-plugin/tailored-tools": "<=1.8.4",
-        "wpackagist-plugin/tainacan": "<= 0.21.10.0",
+        "wpackagist-plugin/tainacan": "<= 0.21.12.0",
         "wpackagist-plugin/tajer": "<=1.0.5",
         "wpackagist-plugin/taketin-to-wp-membership": "<=2.8.1",
         "wpackagist-plugin/talkback-secure-linkback-protocol": "<=1.0",
