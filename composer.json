@@ -4934,6 +4934,7 @@
         "wpackagist-plugin/name-directory": "<= 1.29.0.0",
         "wpackagist-plugin/narnoo-commerce-manager": "<=1.6.0",
         "wpackagist-plugin/narnoo-distributor": "<=2.5.1",
+        "wpackagist-plugin/navayan-csv-export": "<=1.0.9",
         "wpackagist-plugin/naver-blog-api": "<=1.0",
         "wpackagist-plugin/naver-map": "<=1.1.0",
         "wpackagist-plugin/navigation-menu-as-dropdown-widget": "<=1.3.4",
