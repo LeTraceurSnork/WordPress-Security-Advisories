@@ -1611,6 +1611,7 @@
         "wpackagist-plugin/coming-soons": "<=1.2.0",
         "wpackagist-plugin/comment-attachment": "<=1.5.5",
         "wpackagist-plugin/comment-blacklist-updater": "<1.2.0",
+        "wpackagist-plugin/comment-emailer": "<=1.0.5",
         "wpackagist-plugin/comment-engine-pro": "<=1.0",
         "wpackagist-plugin/comment-extra-field": "<=1.7",
         "wpackagist-plugin/comment-form": "<=1.2.0",
