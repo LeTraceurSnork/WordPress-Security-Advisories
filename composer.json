@@ -4662,7 +4662,7 @@
         "wpackagist-plugin/meta-box": "<=5.9.10",
         "wpackagist-plugin/meta-slider-and-carousel-with-lightbox": "<= 2.0.1.0",
         "wpackagist-plugin/meta-store-elements": "<=1.0.9",
-        "wpackagist-plugin/meta-tag-manager": "<= 3.0.2.0",
+        "wpackagist-plugin/meta-tag-manager": "<= 3.1.0.0",
         "wpackagist-plugin/metasync": "<=1.8.2",
         "wpackagist-plugin/meteor-slides": "<= 1.5.7.0",
         "wpackagist-plugin/metform": "<= 3.8.8.0",
