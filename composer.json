@@ -8693,6 +8693,7 @@
         "wpackagist-plugin/wp-csv-to-database": "<=2.6",
         "wpackagist-plugin/wp-cufon": "<=1.6.10",
         "wpackagist-plugin/wp-cumulus": "<= 1.22.0.0",
+        "wpackagist-plugin/wp-currency-exchange-rates": "<=1.2.0",
         "wpackagist-plugin/wp-curriculo-vitae": "<=6.3",
         "wpackagist-plugin/wp-custom-admin-interface": "<7.33",
         "wpackagist-plugin/wp-custom-author-url": "<1.0.5",
