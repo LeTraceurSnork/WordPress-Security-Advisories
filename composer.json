@@ -5775,6 +5775,7 @@
         "wpackagist-plugin/profit-products-tables-for-woocommerce": "<= 1.0.6.5",
         "wpackagist-plugin/progress-bar": "<=2.1.6",
         "wpackagist-plugin/progress-planner": "<= 0.9.2.0",
+        "wpackagist-plugin/progress-tracker": "<=0.9.3",
         "wpackagist-plugin/progressive-license": "<=1.1.0",
         "wpackagist-plugin/progressive-wp": "<=2.1.13",
         "wpackagist-plugin/project-app": "*",
