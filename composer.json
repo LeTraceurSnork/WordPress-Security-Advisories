@@ -9720,6 +9720,7 @@
         "wpackagist-plugin/z-downloads": "<= 1.11.7.0",
         "wpackagist-plugin/z-url-preview": "<2.0.0",
         "wpackagist-plugin/zajax-ajax-navigation": "<=0.4",
+        "wpackagist-plugin/zarinpal-paid-downloads": "<=2.3",
         "wpackagist-plugin/zarzadzanie_kontem": "*",
         "wpackagist-plugin/zd-youtube-flv-player": "<=1.2.6",
         "wpackagist-plugin/zdstats": "<=2.0.1",
