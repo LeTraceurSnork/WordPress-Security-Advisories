@@ -5068,6 +5068,7 @@
         "wpackagist-plugin/notibar": "<=2.1.4",
         "wpackagist-plugin/notice-bar": "<=3.1.0",
         "wpackagist-plugin/notice-board": "<=1.1",
+        "wpackagist-plugin/notice-board-by-towkir": "<=3.1",
         "wpackagist-plugin/notices": "<=6.1",
         "wpackagist-plugin/notification": "<= 7.2.4.0",
         "wpackagist-plugin/notification-for-telegram": "<=3.3.1",
