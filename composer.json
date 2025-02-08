@@ -9323,7 +9323,7 @@
         "wpackagist-plugin/wp-tradingview": "<=1.7",
         "wpackagist-plugin/wp-transactions": "<=1.0.9",
         "wpackagist-plugin/wp-translate": "<=5.3.0",
-        "wpackagist-plugin/wp-travel": "<= 10.0.0.0",
+        "wpackagist-plugin/wp-travel": "<= 10.1.0.0",
         "wpackagist-plugin/wp-travel-blocks": "<= 3.6.0.0",
         "wpackagist-plugin/wp-travel-engine": "<= 6.2.1.0",
         "wpackagist-plugin/wp-trending-post-slider-and-widget": "<=1.6",
