@@ -124,6 +124,7 @@
         "wpackagist-plugin/accordion-image-menu": "<=3.1.3",
         "wpackagist-plugin/accordion-shortcodes": "<=2.4.2",
         "wpackagist-plugin/accordion-slider": "<= 1.9.12.0",
+        "wpackagist-plugin/accordion-slider-lite": "<=1.5.1",
         "wpackagist-plugin/accordion-title-for-elementor": "<=1.2.1",
         "wpackagist-plugin/accordions": "<= 2.2.99.0",
         "wpackagist-plugin/accordions-or-faqs": "<= 2.3.5.0",
