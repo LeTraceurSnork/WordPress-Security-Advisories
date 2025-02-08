@@ -62,7 +62,7 @@
         "wpackagist-plugin/404like": "<=1.0",
         "wpackagist-plugin/404page": "<=11.4.7",
         "wpackagist-plugin/404s": "<=3.4.9",
-        "wpackagist-plugin/4ecps-webforms": "<=0.2.17",
+        "wpackagist-plugin/4ecps-webforms": "<= 0.2.18.0",
         "wpackagist-plugin/4k-icon-fonts-for-visual-composer": "*",
         "wpackagist-plugin/5-anker-connect": "<=1.2.6",
         "wpackagist-plugin/5-stars-rating-funnel": "<= 1.4.01.0",
