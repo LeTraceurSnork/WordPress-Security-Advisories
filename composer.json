@@ -1511,6 +1511,7 @@
         "wpackagist-plugin/clickbank-ads-clickbank-widget": "< 1.31.0.0-dev",
         "wpackagist-plugin/clickbank-storefront": "<=1.7",
         "wpackagist-plugin/clickcease-click-fraud-protection": "<= 3.2.7.0",
+        "wpackagist-plugin/clickdesigns": "<=1.8.0",
         "wpackagist-plugin/clickdesk-live-support-chat-plugin": "<=4.3",
         "wpackagist-plugin/clickfunnels": "<=3.1.1",
         "wpackagist-plugin/clicksend-lead-capture-form": "<=1.1.0",
