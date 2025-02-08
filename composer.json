@@ -8592,6 +8592,7 @@
         "wpackagist-plugin/wp-baidu-map": "<=1.2.2",
         "wpackagist-plugin/wp-baidu-submit": "<=1.2.1",
         "wpackagist-plugin/wp-ban": "<=1.69",
+        "wpackagist-plugin/wp-ban-user": "<=1.0",
         "wpackagist-plugin/wp-bannerize": ">=2.0.0,<=4.0.2",
         "wpackagist-plugin/wp-bannerize-pro": "<=1.9.0",
         "wpackagist-plugin/wp-banners-lite": "1.29 || 1.31 || 1.40",
