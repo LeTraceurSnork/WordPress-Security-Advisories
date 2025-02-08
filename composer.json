@@ -8384,7 +8384,7 @@
         "wpackagist-plugin/woocommerce-product-addons": "<=6.1.3",
         "wpackagist-plugin/woocommerce-product-category-selection-widget": "<=2.0",
         "wpackagist-plugin/woocommerce-product-importer": "<=1.5.2",
-        "wpackagist-plugin/woocommerce-product-payments": "< 3.2.8.0-dev",
+        "wpackagist-plugin/woocommerce-product-payments": "<= 3.5.8.0",
         "wpackagist-plugin/woocommerce-product-recommendations": "<2.3.0",
         "wpackagist-plugin/woocommerce-product-sort-and-display": "<= 2.4.1.0",
         "wpackagist-plugin/woocommerce-product-stock-alert": "<2.0.2",
