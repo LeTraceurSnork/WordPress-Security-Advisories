@@ -5172,6 +5172,7 @@
         "wpackagist-plugin/openinviter-for-wordpress": "<=1.7.0",
         "wpackagist-plugin/openpgp-form-encryption": "<=1.5.0",
         "wpackagist-plugin/opensea": "<= 1.1.0.0",
+        "wpackagist-plugin/opentracker-analytics": "<=1.3",
         "wpackagist-plugin/ops-robots-txt": "<=1.0.1",
         "wpackagist-plugin/opt-in-hound": "<=1.4.3",
         "wpackagist-plugin/opt-in-panda": "<=2.6.2",
