@@ -395,6 +395,7 @@
         "wpackagist-plugin/age-verification": "<=0.4",
         "wpackagist-plugin/age-verification-screen-for-woocommerce": ">=1.0.1,<=1.0.2",
         "wpackagist-plugin/age-verify": "<=0.2.8",
+        "wpackagist-plugin/agency-toolkit": "<=1.0.23",
         "wpackagist-plugin/agendapress": "<= 1.0.8.0",
         "wpackagist-plugin/agenteasy-properties": "<=1.0.4",
         "wpackagist-plugin/aggregator-advanced-settings": "<=1.2.1",
