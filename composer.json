@@ -2964,6 +2964,7 @@
         "wpackagist-plugin/find-any-think": "<=1.0.1",
         "wpackagist-plugin/find-duplicates": "<=1.4.6",
         "wpackagist-plugin/find-my-blocks": "<3.4.0",
+        "wpackagist-plugin/find-your-reps": "<=1.2",
         "wpackagist-plugin/findeo": "<1.2.4",
         "wpackagist-plugin/fintelligence-calculator": "<=1.0.3",
         "wpackagist-plugin/firestats": "<1.6.2",
