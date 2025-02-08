@@ -6394,6 +6394,7 @@
         "wpackagist-plugin/seo-landing-page-generator": "<=1.66.2",
         "wpackagist-plugin/seo-local-rank": "<=2.2.2",
         "wpackagist-plugin/seo-manager": "<=1.9",
+        "wpackagist-plugin/seo-meta": "<=0.2",
         "wpackagist-plugin/seo-optimized-images": "2.0 || 2.1.2",
         "wpackagist-plugin/seo-rank-reporter": "<=2.2.2",
         "wpackagist-plugin/seo-redirection": "<= 8.9.0.0",
