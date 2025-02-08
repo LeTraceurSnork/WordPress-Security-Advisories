@@ -647,6 +647,7 @@
         "wpackagist-plugin/arkhe-blocks": "<= 2.27.0.0",
         "wpackagist-plugin/armember": "<=6.7",
         "wpackagist-plugin/armember-membership": "<= 4.0.51.0",
+        "wpackagist-plugin/arprice": "<=4.0.3",
         "wpackagist-plugin/arprice-responsive-pricing-table": "<=3.6",
         "wpackagist-plugin/arscode-ninja-popups": "<=4.7.5",
         "wpackagist-plugin/art-decoration-shortcode": "<=1.5.6",
