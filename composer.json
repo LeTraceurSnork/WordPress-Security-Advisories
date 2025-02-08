@@ -6356,6 +6356,7 @@
         "wpackagist-plugin/sell-media-file": "<=1.0.6",
         "wpackagist-plugin/sell-photo": "<=1.0.5",
         "wpackagist-plugin/sellkit": "<= 1.9.8.0",
+        "wpackagist-plugin/sellsy": "<=2.3.3",
         "wpackagist-plugin/sem-wysiwyg": "<=1.0",
         "wpackagist-plugin/sema-api": "<= 5.27.0.0",
         "wpackagist-plugin/semalt": "<=1.1.3",
