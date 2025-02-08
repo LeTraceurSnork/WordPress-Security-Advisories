@@ -4130,7 +4130,7 @@
         "wpackagist-plugin/knight-lab-timelinejs": "<=3.9.3.4",
         "wpackagist-plugin/knowledge-center": "<2.8",
         "wpackagist-plugin/knowledgebase": "<= 2.2.0.0",
-        "wpackagist-plugin/knr-author-list-widget": "<3.0.0",
+        "wpackagist-plugin/knr-author-list-widget": "<= 3.1.1.0",
         "wpackagist-plugin/ko-fi-button": "<=1.3.2",
         "wpackagist-plugin/koalendar-free-booking-widget": "<=1.0.2",
         "wpackagist-plugin/kodex-posts-likes": "<=2.5.0",
