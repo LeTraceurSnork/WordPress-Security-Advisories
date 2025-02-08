@@ -2816,6 +2816,7 @@
         "wpackagist-plugin/external-url-as-post-featured-image-thumbnail": "<=2.02",
         "wpackagist-plugin/external-video-for-everybody": "<2.1",
         "wpackagist-plugin/external-videos": "<=2.0.1",
+        "wpackagist-plugin/extra-options-favicons": "<=1.1.0",
         "wpackagist-plugin/extra-privacy-for-elementor": "<=0.1.3",
         "wpackagist-plugin/extra-product-options-for-woocommerce": "<=3.0.8",
         "wpackagist-plugin/extra-user-details": "<=0.5",
