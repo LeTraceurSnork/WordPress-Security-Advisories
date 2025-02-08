@@ -5644,6 +5644,7 @@
         "wpackagist-plugin/powies-whois": "<=0.9.31",
         "wpackagist-plugin/powr-pack": "<=2.1.0",
         "wpackagist-plugin/ppc-fraud-detctor": "<=2.0",
+        "wpackagist-plugin/ppo-call-to-actions": "<=0.1.3",
         "wpackagist-plugin/pramadillo-activecampaign-email-preference-center": ">=1.0.0,<=2.0.11",
         "wpackagist-plugin/pray-for-me": "<=1.0.4",
         "wpackagist-plugin/prdctfltr": "<8.2.0",
