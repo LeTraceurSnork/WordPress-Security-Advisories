@@ -7755,7 +7755,7 @@
         "wpackagist-plugin/user-location-and-ip": "<=1.7",
         "wpackagist-plugin/user-login-history": "1.7.0 || <1.6",
         "wpackagist-plugin/user-login-log": "<=2.2.2",
-        "wpackagist-plugin/user-management": "<=1.1",
+        "wpackagist-plugin/user-management": "<= 1.2.0.0",
         "wpackagist-plugin/user-meta": "<= 3.1.0.0",
         "wpackagist-plugin/user-meta-manager": "<= 3.4.9.0",
         "wpackagist-plugin/user-meta-shortcodes": "<=0.5",
