@@ -9019,7 +9019,7 @@
         "wpackagist-plugin/wp-monalisa": "<= 6.4.0.0",
         "wpackagist-plugin/wp-mpdf": "<= 3.7.1.0",
         "wpackagist-plugin/wp-mui-mass-user-input": "<=1.8",
-        "wpackagist-plugin/wp-multi-store-locator": "<= 2.4.1.0",
+        "wpackagist-plugin/wp-multi-store-locator": "<= 2.4.7.0",
         "wpackagist-plugin/wp-multisite-content-copier": "<=2.0.0",
         "wpackagist-plugin/wp-multisite-content-copier-pro": "<2.1.2",
         "wpackagist-plugin/wp-multitasking": "<=0.1.17",
