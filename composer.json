@@ -5235,6 +5235,7 @@
         "wpackagist-plugin/oxyextras": "<=1.4.4",
         "wpackagist-plugin/oxygen": "<4.4",
         "wpackagist-plugin/oxygenbuilder": "<=4.8.3",
+        "wpackagist-plugin/oz-canonical": "<=0.5",
         "wpackagist-plugin/p3": "<=4.7.3",
         "wpackagist-plugin/p3-profiler": "<1.5.3.9",
         "wpackagist-plugin/package-quantity-xforwc": "<1.2.0",
