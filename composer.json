@@ -5430,7 +5430,7 @@
         "wpackagist-plugin/picsmize": "<=1.0.0",
         "wpackagist-plugin/pictobrowser-gallery": "<=0.3.1",
         "wpackagist-plugin/pictpress": "<=0.91",
-        "wpackagist-plugin/picture-gallery": "<=1.5.11",
+        "wpackagist-plugin/picture-gallery": "<= 1.5.22.0",
         "wpackagist-plugin/picturesurf-gallery": "<=1.2",
         "wpackagist-plugin/pie-forms-for-wp": "<=1.4.19",
         "wpackagist-plugin/pie-register": "<= 3.8.3.4",
