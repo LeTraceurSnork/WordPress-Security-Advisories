@@ -5568,7 +5568,7 @@
         "wpackagist-plugin/post-category-image-with-grid-and-slider": "<=1.4.7",
         "wpackagist-plugin/post-connector": "<=1.0.9",
         "wpackagist-plugin/post-content-xmlrpc": "<=1.0",
-        "wpackagist-plugin/post-duplicator": "<= 2.31.0.0",
+        "wpackagist-plugin/post-duplicator": "<= 2.35.0.0",
         "wpackagist-plugin/post-expirator": "<=2.5.1",
         "wpackagist-plugin/post-from-frontend": "<=1.0.0",
         "wpackagist-plugin/post-gallery": "<=1.0.6",
