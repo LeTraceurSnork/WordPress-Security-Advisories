@@ -7340,7 +7340,7 @@
         "wpackagist-plugin/the-moneytizer": "<=9.6.3",
         "wpackagist-plugin/the-pack-addon": "<= 2.1.0.0",
         "wpackagist-plugin/the-permalinker": "<=1.8.1",
-        "wpackagist-plugin/the-plus-addons-for-block-editor": "<=3.3.3",
+        "wpackagist-plugin/the-plus-addons-for-block-editor": "<= 4.0.4.0",
         "wpackagist-plugin/the-plus-addons-for-elementor-page-builder": "<= 6.0.3.0",
         "wpackagist-plugin/the-post-grid": "<= 7.7.11.0",
         "wpackagist-plugin/the-sorter": "<=1.0",
