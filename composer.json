@@ -8590,6 +8590,7 @@
         "wpackagist-plugin/wp-best-quiz": "<=1.0",
         "wpackagist-plugin/wp-better-emails": "<=0.4",
         "wpackagist-plugin/wp-better-permalinks": "<3.0.5",
+        "wpackagist-plugin/wp-bibtex": "<=3.0.1",
         "wpackagist-plugin/wp-bitly": "<= 2.7.2.0",
         "wpackagist-plugin/wp-blipbot": "<=3.0.9",
         "wpackagist-plugin/wp-bliss-gallery": "<2.3",
