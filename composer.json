@@ -517,6 +517,7 @@
         "wpackagist-plugin/amazon-einzeltitellinks": "<=1.3.3",
         "wpackagist-plugin/amazon-link": "<=3.2.10",
         "wpackagist-plugin/amazon-product-in-a-post-plugin": "<3.5.3",
+        "wpackagist-plugin/amazon-product-price": "<=1.1",
         "wpackagist-plugin/amazon-s3-and-cloudfront": "<3.2.2",
         "wpackagist-plugin/amazonify": "<=0.8.1",
         "wpackagist-plugin/amazonjs": "<=0.10",
