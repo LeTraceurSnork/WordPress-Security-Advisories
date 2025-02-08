@@ -6739,7 +6739,7 @@
         "wpackagist-plugin/skip-to": "<=2.0.0",
         "wpackagist-plugin/sksdev-toolkit": "<=1.0.0",
         "wpackagist-plugin/skt-addons-for-elementor": "<= 3.3.0.0",
-        "wpackagist-plugin/skt-blocks": "<=1.6",
+        "wpackagist-plugin/skt-blocks": "<= 1.7.0.0",
         "wpackagist-plugin/skt-builder": "<=4.1",
         "wpackagist-plugin/skt-nurcaptcha": "<=3.5.0",
         "wpackagist-plugin/skt-skill-bar": "<=2.0",
