@@ -6595,7 +6595,7 @@
         "wpackagist-plugin/simple-jwt-login": "<3.3.0",
         "wpackagist-plugin/simple-ldap-login": "<=1.6.0",
         "wpackagist-plugin/simple-lightbox-gallery": "<=1.10.1",
-        "wpackagist-plugin/simple-link-directory": "<= 8.4.0.0",
+        "wpackagist-plugin/simple-link-directory": "<= 8.4.5.0",
         "wpackagist-plugin/simple-load-more": "<=1.0",
         "wpackagist-plugin/simple-local-avatars": "<= 2.7.11.0",
         "wpackagist-plugin/simple-locator": "<=2.0.3",
