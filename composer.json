@@ -5189,6 +5189,7 @@
         "wpackagist-plugin/orbisius-child-theme-creator": "<= 1.5.5.0",
         "wpackagist-plugin/order-and-inventory-manager-for-woocommerce": "<=1.4.3",
         "wpackagist-plugin/order-attachments-for-woocommerce": ">=2.0,<=2.4.1",
+        "wpackagist-plugin/order-audit-log-for-woocommerce": "<=2.0",
         "wpackagist-plugin/order-auto-complete-for-woocommerce": "<=1.2.0",
         "wpackagist-plugin/order-delivery-date": "<=1.2",
         "wpackagist-plugin/order-delivery-date-for-woocommerce": "<= 3.21.0.0",
