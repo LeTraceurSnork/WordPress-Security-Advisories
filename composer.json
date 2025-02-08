@@ -2997,6 +2997,7 @@
         "wpackagist-plugin/flexi-quote-rotator": "<=0.9.4",
         "wpackagist-plugin/flexible-captcha": "<=4.1",
         "wpackagist-plugin/flexible-checkout-fields": "<= 4.1.2.0",
+        "wpackagist-plugin/flexible-coupons": "<=1.10.2",
         "wpackagist-plugin/flexible-custom-post-type": "<0.1.7",
         "wpackagist-plugin/flexible-elementor-panel": "<=2.3.8",
         "wpackagist-plugin/flexible-faqs": ">=0.5.5,<=0.5.11",
