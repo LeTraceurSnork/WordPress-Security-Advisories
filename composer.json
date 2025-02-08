@@ -1877,6 +1877,7 @@
         "wpackagist-plugin/create-block-theme": "<=1.2.1",
         "wpackagist-plugin/create-custom-dashboard-widget": "<=1.0.0",
         "wpackagist-plugin/create-flipbook-from-pdf": "<=1.2",
+        "wpackagist-plugin/create-with-code": "<=1.4",
         "wpackagist-plugin/creative-addons-for-elementor": "<=1.5.12",
         "wpackagist-plugin/creative-blocks": "<=1.0.1",
         "wpackagist-plugin/creative-image-slider": "<=2.1.3",
