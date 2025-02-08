@@ -3770,6 +3770,7 @@
         "wpackagist-plugin/image-hover-effects": "<= 5.5.0.0",
         "wpackagist-plugin/image-hover-effects-addon-for-elementor": "<= 1.4.3.0",
         "wpackagist-plugin/image-hover-effects-css3": "<=4.5",
+        "wpackagist-plugin/image-hover-effects-elementor-addon": "<=1.0.2.3",
         "wpackagist-plugin/image-hover-effects-ultimate": "<= 9.7.3.0 || >=9.8.1,<=9.8.4",
         "wpackagist-plugin/image-hover-effects-ultimate-visual-composer": "<=2.6.0",
         "wpackagist-plugin/image-hover-effects-visual-composer-extension": "<=4.0",
