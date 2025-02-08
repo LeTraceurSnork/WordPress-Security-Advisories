@@ -332,6 +332,7 @@
         "wpackagist-plugin/advanced-dynamic-pricing-for-woocommerce": "<=4.1.5",
         "wpackagist-plugin/advanced-event-manager": "<=1.1.6",
         "wpackagist-plugin/advanced-facebook-twitter-widget": "<=1.7",
+        "wpackagist-plugin/advanced-fancybox": "<=1.1.1",
         "wpackagist-plugin/advanced-flamingo": "<=1.0",
         "wpackagist-plugin/advanced-floating-content-lite": "<=1.2.5",
         "wpackagist-plugin/advanced-form-integration": "<= 1.95.0.0",
