@@ -8542,7 +8542,7 @@
         "wpackagist-plugin/wp-ajax-contact-form": "<=2.2.2",
         "wpackagist-plugin/wp-all-backup": "<=2.4.3",
         "wpackagist-plugin/wp-all-export": "< 1.4.1.0-dev",
-        "wpackagist-plugin/wp-all-export-pro": "<1.8.6",
+        "wpackagist-plugin/wp-all-export-pro": "<= 1.9.1.0",
         "wpackagist-plugin/wp-all-import": "<= 3.7.3.0",
         "wpackagist-plugin/wp-all-import-pro": "<= 4.9.3.0",
         "wpackagist-plugin/wp-amasin-the-amazon-affiliate-shop": "<=0.9.6",
