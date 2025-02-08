@@ -4630,6 +4630,7 @@
         "wpackagist-plugin/meks-video-importer": "<= 1.0.12.0",
         "wpackagist-plugin/melapress-login-security": "<=1.3.0",
         "wpackagist-plugin/melhor-envio-cotacao": "<=2.11.19",
+        "wpackagist-plugin/member-access": "<=1.1.6",
         "wpackagist-plugin/member-approval": "<=131109",
         "wpackagist-plugin/member-database": "<=1.0",
         "wpackagist-plugin/member-hero": "<=1.0.9",
