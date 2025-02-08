@@ -7701,7 +7701,7 @@
         "wpackagist-plugin/unlimited-addons-for-wpbakery-page-builder": "<=1.0.42",
         "wpackagist-plugin/unlimited-blocks": "<= 1.2.8.0",
         "wpackagist-plugin/unlimited-elementor-inner-sections-by-boomdevs": "<=1.0.4",
-        "wpackagist-plugin/unlimited-elements-for-elementor": "<=1.5.126",
+        "wpackagist-plugin/unlimited-elements-for-elementor": "<= 1.5.135.0",
         "wpackagist-plugin/unlimited-popups": "<= 4.5.3.0",
         "wpackagist-plugin/unlimited-theme-addons": "<=1.1.9",
         "wpackagist-plugin/unlock-addons-for-elementor": "<= 2.0.0.0",
