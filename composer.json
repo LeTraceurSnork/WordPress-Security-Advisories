@@ -2030,6 +2030,7 @@
         "wpackagist-plugin/custom-user-css": "<=0.2",
         "wpackagist-plugin/custom-user-guide": "<=1.0.1",
         "wpackagist-plugin/custom-welcome-guide": "<=1.0.8",
+        "wpackagist-plugin/custom-widget-classes": "<=1.1",
         "wpackagist-plugin/custom-wp-rest-api": "<=2.2.2",
         "wpackagist-plugin/customer-area": "<= 8.2.2.0",
         "wpackagist-plugin/customer-chat-facebook": "<=1.1.1",
