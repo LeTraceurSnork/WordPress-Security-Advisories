@@ -5443,7 +5443,7 @@
         "wpackagist-plugin/piotnet-addons-for-elementor": "<= 2.4.31.0",
         "wpackagist-plugin/piotnet-addons-for-elementor-pro": "<=7.1.17",
         "wpackagist-plugin/piotnetforms": "<= 1.0.29.0",
-        "wpackagist-plugin/pirate-forms": "<2.5.2",
+        "wpackagist-plugin/pirate-forms": "<= 2.6.0.0",
         "wpackagist-plugin/piwik-pro": ">=0.2.35,<=0.4.3",
         "wpackagist-plugin/pixabay-images": "< 2.4.0.0-dev",
         "wpackagist-plugin/pixcodes": "<=2.3.6",
