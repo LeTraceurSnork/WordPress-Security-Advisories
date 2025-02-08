@@ -7798,7 +7798,7 @@
         "wpackagist-plugin/utubevideo-gallery": "<=2.0.7",
         "wpackagist-plugin/uw-freelancer": "<=0.1",
         "wpackagist-plugin/ux-flat": "<=4.4",
-        "wpackagist-plugin/v-form": "<=2.1.5",
+        "wpackagist-plugin/v-form": "<= 3.0.0.0",
         "wpackagist-plugin/validated": "<=1.0.2",
         "wpackagist-plugin/vanguard": "<=2.1",
         "wpackagist-plugin/variable-inspector": "<=2.3.0",
