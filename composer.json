@@ -2746,7 +2746,7 @@
         "wpackagist-plugin/ever-compare": "<=1.2.3",
         "wpackagist-plugin/everest-backup": "<= 2.2.13.0",
         "wpackagist-plugin/everest-forms": "<= 3.0.4.1",
-        "wpackagist-plugin/evergreen-content-poster": "<=1.4.2",
+        "wpackagist-plugin/evergreen-content-poster": "<= 1.4.4.0",
         "wpackagist-plugin/everse-starter-sites": ">=1.0.0,<=1.2.1",
         "wpackagist-plugin/ewww-image-optimizer": "<=7.2.3",
         "wpackagist-plugin/exam-matrix": "<=1.5",
