@@ -1450,7 +1450,7 @@
         "wpackagist-plugin/checklist": "<=1.1.8",
         "wpackagist-plugin/checkout-fees-for-woocommerce": "<=2.12.1",
         "wpackagist-plugin/checkout-files-upload-woocommerce": "<=2.1.2",
-        "wpackagist-plugin/checkout-for-paypal": "<=1.0.13",
+        "wpackagist-plugin/checkout-for-paypal": "<= 1.0.32.0",
         "wpackagist-plugin/checkout-mestres-wp": "<=8.6",
         "wpackagist-plugin/checkout-plugins-stripe-woo": "<=1.9.1",
         "wpackagist-plugin/cheetaho-image-optimizer": "<=1.4.3",
