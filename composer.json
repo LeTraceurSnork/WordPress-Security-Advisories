@@ -5447,7 +5447,7 @@
         "wpackagist-plugin/piwik-pro": ">=0.2.35,<=0.4.3",
         "wpackagist-plugin/pixabay-images": "< 2.4.0.0-dev",
         "wpackagist-plugin/pixcodes": "<=2.3.6",
-        "wpackagist-plugin/pixelyoursite": "<= 9.7.1.0",
+        "wpackagist-plugin/pixelyoursite": "<= 10.0.1.2",
         "wpackagist-plugin/pixelyoursite-pro": "<= 10.4.2.0",
         "wpackagist-plugin/pixfields": "<=0.7.0",
         "wpackagist-plugin/pixnet": "<=2.9.10",
