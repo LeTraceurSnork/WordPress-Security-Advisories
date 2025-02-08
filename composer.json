@@ -9558,6 +9558,7 @@
         "wpackagist-plugin/wsecure": "<=2.5",
         "wpackagist-plugin/wsify-widget": "<=1.0",
         "wpackagist-plugin/wsm-downloader": "<=1.4.0",
+        "wpackagist-plugin/wt-woocommerce-wishlist": "<=2.1.2",
         "wpackagist-plugin/wti-like-post": "<= 1.4.6.0",
         "wpackagist-plugin/wtyczka-seopilot-dla-wp": "<=3.3.091",
         "wpackagist-plugin/wufoo-shortcode": "<=1.51",
