@@ -3504,6 +3504,7 @@
         "wpackagist-plugin/gsheetconnector-caldera-forms": "<=1.3",
         "wpackagist-plugin/gsheetconnector-for-elementor-forms": "<=1.0.6",
         "wpackagist-plugin/gsheetconnector-for-elementor-forms-pro": "<=1.0.6",
+        "wpackagist-plugin/gsheetconnector-forminator": "<=1.0.11",
         "wpackagist-plugin/gsheetconnector-gravity-forms": "<=1.3.4",
         "wpackagist-plugin/gsheetconnector-ninja-forms": "<=1.2.7",
         "wpackagist-plugin/gsheetconnector-ninja-forms-pro": "<=1.4",
