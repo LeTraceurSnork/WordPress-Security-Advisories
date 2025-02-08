@@ -4542,6 +4542,7 @@
         "wpackagist-plugin/mass-delete-tags": "<=3.0.0",
         "wpackagist-plugin/mass-delete-unused-tags": "<=2.0.0",
         "wpackagist-plugin/mass-email-to-users": "<=1.1.4",
+        "wpackagist-plugin/mass-messaging-in-buddypress": "<=2.2.1",
         "wpackagist-plugin/mass-pagesposts-creator": ">=2.0.0,<=2.1.6 || <=1.2.2",
         "wpackagist-plugin/master-addons": "<= 2.0.6.7",
         "wpackagist-plugin/master-bar": "<=1.0",
