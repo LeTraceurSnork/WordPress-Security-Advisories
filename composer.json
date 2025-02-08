@@ -4050,6 +4050,7 @@
         "wpackagist-plugin/js-multihotel": "<=2.2.1",
         "wpackagist-plugin/js-restaurant": "*",
         "wpackagist-plugin/js-support-ticket": "<= 2.8.7.0",
+        "wpackagist-plugin/js-twentytwenty": "<=1.0",
         "wpackagist-plugin/js_composer": "<= 7.7.0.0",
         "wpackagist-plugin/jsmol2wp": "<=1.07",
         "wpackagist-plugin/json-api-user": "<=3.9.3",
