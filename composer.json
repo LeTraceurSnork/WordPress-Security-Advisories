@@ -1720,6 +1720,7 @@
         "wpackagist-plugin/contact-forms-anti-spam": "<= 2.2.7.0",
         "wpackagist-plugin/contact-forms-builder": "<=2.1.7",
         "wpackagist-plugin/contact-list": "<= 2.9.87.0",
+        "wpackagist-plugin/contact-manager": "<=8.6.4",
         "wpackagist-plugin/contact-page-with-google-map": "<=1.6.1",
         "wpackagist-plugin/contact-us-page-contact-people": "<= 3.7.0.0",
         "wpackagist-plugin/contactme": "<=2.3",
