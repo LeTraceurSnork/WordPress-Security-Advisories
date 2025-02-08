@@ -4577,7 +4577,7 @@
         "wpackagist-plugin/media-alt-renamer": "0.0.1",
         "wpackagist-plugin/media-cleaner": "<=6.7.2",
         "wpackagist-plugin/media-download": "<=1.4",
-        "wpackagist-plugin/media-downloader": "<=0.1.992",
+        "wpackagist-plugin/media-downloader": "<= 0.4.7.4",
         "wpackagist-plugin/media-element-html5-video-and-audio-player": "<=4.2.8",
         "wpackagist-plugin/media-file-manager": "<=1.4.2",
         "wpackagist-plugin/media-file-manager-advanced": "<=1.1.5",
