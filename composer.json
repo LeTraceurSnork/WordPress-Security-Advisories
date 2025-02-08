@@ -3407,6 +3407,7 @@
         "wpackagist-plugin/google-listings-and-ads": "<=2.8.6",
         "wpackagist-plugin/google-map-generator": "<=1.3.1",
         "wpackagist-plugin/google-map-locations": "<=1.0",
+        "wpackagist-plugin/google-map-professional": "<=1.0",
         "wpackagist-plugin/google-map-shortcode": "<=3.1.2",
         "wpackagist-plugin/google-map-wp": "<2.2.6",
         "wpackagist-plugin/google-maps": "<=2.1.3",
