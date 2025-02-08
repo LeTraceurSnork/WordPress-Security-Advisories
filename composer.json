@@ -4903,6 +4903,7 @@
         "wpackagist-plugin/myaliceai": "<=1.2.7",
         "wpackagist-plugin/mybb-cross-poster": "<=1.0",
         "wpackagist-plugin/myblogu": "<0.0.8",
+        "wpackagist-plugin/mybookprogress": "<=1.0.8",
         "wpackagist-plugin/mybooktable": "<= 3.4.0.0",
         "wpackagist-plugin/mycred": "<= 2.7.5.2",
         "wpackagist-plugin/mycred-for-elementor": "<=1.2.6",
