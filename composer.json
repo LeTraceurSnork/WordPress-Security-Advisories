@@ -7834,6 +7834,7 @@
         "wpackagist-plugin/video-conferencing-with-zoom-api": "<= 4.4.5.0",
         "wpackagist-plugin/video-contest": "<=3.2",
         "wpackagist-plugin/video-embed-box": "<=1.0",
+        "wpackagist-plugin/video-embed-optimizer": "<=1.0.0",
         "wpackagist-plugin/video-embed-privacy": "<=1.2",
         "wpackagist-plugin/video-embed-thumbnail-generator": "<4.1",
         "wpackagist-plugin/video-grid": "<=1.21",
