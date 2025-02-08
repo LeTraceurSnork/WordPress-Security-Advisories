@@ -2683,6 +2683,7 @@
         "wpackagist-plugin/error-log-monitor": "<= 1.7.6.0",
         "wpackagist-plugin/error-log-viewer": "<=1.1.2",
         "wpackagist-plugin/error-log-viewer-wp": "<=1.0.1.3",
+        "wpackagist-plugin/error-notification": "<=0.2.7",
         "wpackagist-plugin/esb-testimonials": "<=1.0.0",
         "wpackagist-plugin/eshop": "<= 6.3.14.0",
         "wpackagist-plugin/eshop-magic": "<0.2",
