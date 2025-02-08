@@ -5038,7 +5038,7 @@
         "wpackagist-plugin/ninja-tables": "<= 5.0.12.0",
         "wpackagist-plugin/ninjafirewall": "<4.3.4",
         "wpackagist-plugin/ninjateam-telegram": "<=1.0",
-        "wpackagist-plugin/nirweb-support": "<=2.7.9",
+        "wpackagist-plugin/nirweb-support": "<= 3.0.3.0",
         "wpackagist-plugin/nitek-carousel-cool-transitions": "<=1.1.0",
         "wpackagist-plugin/nitropack": "<=1.16.7",
         "wpackagist-plugin/nix-anti-spam-light": "<=0.0.4",
