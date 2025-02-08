@@ -4443,7 +4443,7 @@
         "wpackagist-plugin/mailchimp-for-woocommerce": "<=2.7.1",
         "wpackagist-plugin/mailchimp-for-wp": "<= 4.9.16.0",
         "wpackagist-plugin/mailchimp-forms-by-mailmunch": "<= 3.2.3.0",
-        "wpackagist-plugin/mailchimp-subscribe-sm": "<= 4.0.9.9",
+        "wpackagist-plugin/mailchimp-subscribe-sm": "<= 4.1.0.0",
         "wpackagist-plugin/mailchimp-top-bar": "<=1.6.0",
         "wpackagist-plugin/mailchimp-wp": "<=2.5.7",
         "wpackagist-plugin/mailcwp": "<=1.100",
