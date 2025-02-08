@@ -8423,7 +8423,7 @@
         "wpackagist-plugin/wooframework-branding": "<=1.0.1",
         "wpackagist-plugin/wooframework-tweaks": "<=1.0.1",
         "wpackagist-plugin/woofunnels-aero-checkout": "<=3.10.3",
-        "wpackagist-plugin/woolementor": "<=4.4.1",
+        "wpackagist-plugin/woolementor": "<= 4.7.17.3",
         "wpackagist-plugin/woolentor-addons": "<= 2.9.8.0",
         "wpackagist-plugin/woolook": "<=1.7.0",
         "wpackagist-plugin/woomotiv": "<=3.4.3",
