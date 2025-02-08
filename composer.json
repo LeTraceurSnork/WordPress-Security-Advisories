@@ -8172,6 +8172,7 @@
         "wpackagist-plugin/woo-auto-coupons": "<=3.0.14",
         "wpackagist-plugin/woo-availability-date": "*",
         "wpackagist-plugin/woo-billingo-plus": "<=4.4.5.3",
+        "wpackagist-plugin/woo-binary-mlm": "<=2.0",
         "wpackagist-plugin/woo-blocker-lite-prevent-fake-orders-and-blacklist-fraud-customers": "<= 2.1.5.0",
         "wpackagist-plugin/woo-bookings-calendar": "<=1.0.36",
         "wpackagist-plugin/woo-bought-together": "<=7.1.9",
