@@ -1148,6 +1148,7 @@
         "wpackagist-plugin/bsk-gravityforms-blacklist": "<= 3.8.1.0",
         "wpackagist-plugin/bsk-pdf-manager": "<= 3.6.0.0",
         "wpackagist-plugin/bstone-demo-importer": "<=1.0.1",
+        "wpackagist-plugin/bu-section-editing": "<=0.9.9",
         "wpackagist-plugin/bu-slideshow": "<=2.3.10",
         "wpackagist-plugin/bubble-menu": "< 3.0.5.0-dev",
         "wpackagist-plugin/buddybadges": "<=1.0.0",
