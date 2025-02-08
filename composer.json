@@ -5895,6 +5895,7 @@
         "wpackagist-plugin/quote-o-matic": "<=1.0.5",
         "wpackagist-plugin/quote-press": "1.1.3",
         "wpackagist-plugin/quote-requests-for-woocommerce": ">=1.0.0,<=1.0.4",
+        "wpackagist-plugin/quote-tweet": "<=0.7",
         "wpackagist-plugin/quotes-and-tips": "<=1.44",
         "wpackagist-plugin/quotes-collection": "<= 2.5.2.0",
         "wpackagist-plugin/quotes-for-woocommerce": "<=2.0.1",
