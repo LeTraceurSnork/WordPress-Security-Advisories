@@ -3020,6 +3020,7 @@
         "wpackagist-plugin/float-menu": "<=6.0",
         "wpackagist-plugin/float-to-top-button": "<=2.3.6",
         "wpackagist-plugin/floating-action-button": "<=1.2.1",
+        "wpackagist-plugin/floating-action-buttons": "<=0.9.1",
         "wpackagist-plugin/floating-button": "<=6.0",
         "wpackagist-plugin/floating-cart-xforwc": "<1.3.0",
         "wpackagist-plugin/floating-contact": "<=2.7",
