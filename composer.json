@@ -6378,6 +6378,7 @@
         "wpackagist-plugin/seo-automatic-wp-core-tweaks": "<=4.1",
         "wpackagist-plugin/seo-backlink-monitor": "<=1.5.0",
         "wpackagist-plugin/seo-backlinks": "<=4.0.1",
+        "wpackagist-plugin/seo-blogger-to-wordpress-301-redirector": "<=0.4.8",
         "wpackagist-plugin/seo-booster": "<=3.8.9",
         "wpackagist-plugin/seo-by-10web": "<= 1.2.9.0",
         "wpackagist-plugin/seo-by-rank-math": "<= 1.0.231.0",
