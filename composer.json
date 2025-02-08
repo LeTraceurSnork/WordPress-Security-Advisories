@@ -2593,6 +2593,7 @@
         "wpackagist-plugin/email-customizer-woocommerce": "<=1.7.1",
         "wpackagist-plugin/email-download-link": "<=3.7",
         "wpackagist-plugin/email-encoder-bundle": "<= 2.2.1.0",
+        "wpackagist-plugin/email-form-under-post": "<=1.0.5",
         "wpackagist-plugin/email-header-footer": ">=1.1,<=1.2.1",
         "wpackagist-plugin/email-log": "<= 2.4.8.0",
         "wpackagist-plugin/email-my-posts": "*",
