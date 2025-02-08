@@ -5391,7 +5391,7 @@
         "wpackagist-plugin/pf-timer": "<=1.0.0",
         "wpackagist-plugin/pgall-for-woocommerce": "<= 5.2.2.0",
         "wpackagist-plugin/phastpress": "<=1.110",
-        "wpackagist-plugin/philantro": "<=5.2",
+        "wpackagist-plugin/philantro": "<= 5.3.0.0",
         "wpackagist-plugin/phoenix-media-rename": "<=3.4.2",
         "wpackagist-plugin/phone-orders-for-woocommerce": "<=3.7.1",
         "wpackagist-plugin/phonepe-payment-solutions": "<=1.0.15",
