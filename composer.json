@@ -7588,6 +7588,7 @@
         "wpackagist-plugin/twitter-plugin": "<2.55",
         "wpackagist-plugin/twitter-posts": "<=1.0.2",
         "wpackagist-plugin/twitter-real-time-search-scrolling": "<=7.0",
+        "wpackagist-plugin/twitter-shortcode": "<=0.9",
         "wpackagist-plugin/twitterdash": "<=2.1",
         "wpackagist-plugin/twl-easy-call": "<1.1.0",
         "wpackagist-plugin/two-factor-authentication": "<1.3.13",
