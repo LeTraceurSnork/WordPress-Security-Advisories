@@ -8489,6 +8489,7 @@
         "wpackagist-plugin/wordpress-sentinel": "<=1.0.0",
         "wpackagist-plugin/wordpress-seo": "<=22.6",
         "wpackagist-plugin/wordpress-seo-premium": "<=20.4",
+        "wpackagist-plugin/wordpress-signature": "<=0.1",
         "wpackagist-plugin/wordpress-simple-paypal-shopping-cart": "<= 4.7.1.0",
         "wpackagist-plugin/wordpress-simple-shout-box": "<=2.0.2",
         "wpackagist-plugin/wordpress-social-login": "<= 3.0.4.0",
