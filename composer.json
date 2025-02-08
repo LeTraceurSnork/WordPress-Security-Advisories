@@ -3025,6 +3025,7 @@
         "wpackagist-plugin/floating-contact": "<=2.7",
         "wpackagist-plugin/floating-div": "<=3.0",
         "wpackagist-plugin/floating-links": ">=3.4.0,<=3.6.0",
+        "wpackagist-plugin/floating-player": "<=1.0",
         "wpackagist-plugin/floating-social-bar": "< 1.1.7.0-dev",
         "wpackagist-plugin/floating-social-buttons": "<=1.5",
         "wpackagist-plugin/floating-social-media-icon": "<=4.3.5",
