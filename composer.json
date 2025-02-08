@@ -824,6 +824,7 @@
         "wpackagist-plugin/back-link-tracker": "<=1.0.0",
         "wpackagist-plugin/back-to-the-top-button": "<=2.1.6",
         "wpackagist-plugin/backend-designer": "<=1.3",
+        "wpackagist-plugin/background-control": "<=1.0.5",
         "wpackagist-plugin/backup": "<= 2.0.9.7",
         "wpackagist-plugin/backup-and-restore-for-wp": "<=1.0.3",
         "wpackagist-plugin/backup-backup": "<= 1.4.3.0",
