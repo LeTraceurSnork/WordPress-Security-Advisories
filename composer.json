@@ -5355,6 +5355,7 @@
         "wpackagist-plugin/peepso-photos": "<6.3.1.0",
         "wpackagist-plugin/pegapoll": "<=1.0.2",
         "wpackagist-plugin/penci-data-migrator": "<=1.3.0",
+        "wpackagist-plugin/people-lists": "<=1.3.10",
         "wpackagist-plugin/peoplepond": "<=1.1.9",
         "wpackagist-plugin/pepro-bacs-receipt-upload-for-woocommerce": "<=2.6.9",
         "wpackagist-plugin/pepro-cf7-database": "<= 1.8.0.0",
