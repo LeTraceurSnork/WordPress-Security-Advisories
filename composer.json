@@ -8980,6 +8980,7 @@
         "wpackagist-plugin/wp-maintenance": "<= 6.1.9.2",
         "wpackagist-plugin/wp-maintenance-mode": "<= 2.6.8.0",
         "wpackagist-plugin/wp-maintenance-mode-site-under-construction": "<= 1.8.2.0",
+        "wpackagist-plugin/wp-management-controller": "<=3.2.0",
         "wpackagist-plugin/wp-manutencao": "<=1.0.6",
         "wpackagist-plugin/wp-map-block": "<1.2.3",
         "wpackagist-plugin/wp-mapa-politico-spain": "<3.7.0",
