@@ -9089,6 +9089,7 @@
         "wpackagist-plugin/wp-post-columns": "<=2.2",
         "wpackagist-plugin/wp-post-comment-rating": "*",
         "wpackagist-plugin/wp-post-disclaimer": "<=1.0.3",
+        "wpackagist-plugin/wp-post-list-table": "<=1.0.3",
         "wpackagist-plugin/wp-post-modal": "<=3.7.3",
         "wpackagist-plugin/wp-post-page-clone": "<=1.1",
         "wpackagist-plugin/wp-post-real-time-statistics": "<=2.5",
