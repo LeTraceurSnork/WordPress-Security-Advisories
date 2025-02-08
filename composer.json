@@ -6619,6 +6619,7 @@
         "wpackagist-plugin/simple-pdf-viewer": "<=1.9",
         "wpackagist-plugin/simple-personal-message": "<2.0.0",
         "wpackagist-plugin/simple-photo-gallery": "<=1.8.1",
+        "wpackagist-plugin/simple-photo-sphere": "<=0.0.10",
         "wpackagist-plugin/simple-photoswipe": "<=0.1",
         "wpackagist-plugin/simple-podcasting": "<=1.4.0",
         "wpackagist-plugin/simple-popup": "<=1.8.6",
