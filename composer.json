@@ -8476,6 +8476,7 @@
         "wpackagist-plugin/wordpress-https": "<=3.4.0",
         "wpackagist-plugin/wordpress-instagram-feed": "<=1.3.0",
         "wpackagist-plugin/wordpress-language": "<=1.2.1",
+        "wpackagist-plugin/wordpress-logging-service": "<=1.5.4",
         "wpackagist-plugin/wordpress-member-private-conversation": "<1.4",
         "wpackagist-plugin/wordpress-meta-robots": "<=2.1",
         "wpackagist-plugin/wordpress-mobile-pack": "<=3.4.1",
