@@ -7212,6 +7212,7 @@
         "wpackagist-plugin/sync-qcloud-cos": "<2.0.1",
         "wpackagist-plugin/syncee-for-suppliers": "<=1.0.5",
         "wpackagist-plugin/syncee-global-dropshipping": "<=1.0.9",
+        "wpackagist-plugin/syncfields": "<=2.1",
         "wpackagist-plugin/syndication-links": "<1.3",
         "wpackagist-plugin/syntaxhighlighter": "< 3.5.1.0-dev",
         "wpackagist-plugin/synved-shortcodes": "<=1.6.36",
