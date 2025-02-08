@@ -7465,6 +7465,7 @@
         "wpackagist-plugin/tito": "<=2.3",
         "wpackagist-plugin/tk-event-weather": ">=1.0,<=1.6.6",
         "wpackagist-plugin/tk-google-fonts": "<=2.2.11",
+        "wpackagist-plugin/tlp-food-menu": "<=5.1.4",
         "wpackagist-plugin/tlp-portfolio": "<= 2.8.10.0",
         "wpackagist-plugin/tlp-team": "<=4.1.1",
         "wpackagist-plugin/tm-islamic-helper": "<=1.0.1",
