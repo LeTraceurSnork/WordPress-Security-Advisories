@@ -4065,6 +4065,7 @@
         "wpackagist-plugin/just-tables": "<=1.4.9",
         "wpackagist-plugin/just-writing-statistics": "<=4.5",
         "wpackagist-plugin/justified-gallery": "<= 1.7.3.0",
+        "wpackagist-plugin/justified-image-gallery": "<=1.0",
         "wpackagist-plugin/justified-image-grid": "<=4.6.1",
         "wpackagist-plugin/jvm-rich-text-icons": "<=1.2.6",
         "wpackagist-plugin/jvm-woocommerce-wishlist": "<=1.2.6",
