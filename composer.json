@@ -6699,6 +6699,7 @@
         "wpackagist-plugin/simply-exclude": "<=2.0.6.6",
         "wpackagist-plugin/simply-gallery-block": "<= 3.2.4.2",
         "wpackagist-plugin/simply-poll": "<=1.4.1",
+        "wpackagist-plugin/simply-rets": "<=2.11.3",
         "wpackagist-plugin/simply-schedule-appointments": "<= 1.6.7.53",
         "wpackagist-plugin/simply-show-hooks": ">=1.2.1,<=1.2.2",
         "wpackagist-plugin/simply-static": "<=3.1.3",
