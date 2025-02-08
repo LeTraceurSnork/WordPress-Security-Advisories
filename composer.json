@@ -2779,6 +2779,7 @@
         "wpackagist-plugin/expire-tags": "<=1.1",
         "wpackagist-plugin/expivi": "<=1.0.5",
         "wpackagist-plugin/explara-events": "<=0.1.3",
+        "wpackagist-plugin/explara-membership": "<=0.0.7",
         "wpackagist-plugin/exploit-scanner": "<=1.3.3",
         "wpackagist-plugin/export-all-urls": "<=4.5",
         "wpackagist-plugin/export-import-menus": "<= 1.9.1.0",
