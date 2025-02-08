@@ -3093,6 +3093,7 @@
         "wpackagist-plugin/force-first-last": "<=1.2",
         "wpackagist-plugin/force-sell-for-woocommerce": "<=3.5.7.6",
         "wpackagist-plugin/forcefield": ">=1.0.1,<=1.0.6",
+        "wpackagist-plugin/forge": "<=1.4.6",
         "wpackagist-plugin/forget-about-shortcode-buttons": "<=2.1.2",
         "wpackagist-plugin/form-block": "<1.0.2",
         "wpackagist-plugin/form-data-collector": "<=2.2.3",
