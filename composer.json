@@ -6726,7 +6726,7 @@
         "wpackagist-plugin/sitemap": "<=4.3",
         "wpackagist-plugin/sitemap-by-click5": "<=1.0.35",
         "wpackagist-plugin/sitemap-index": "<=1.2.3",
-        "wpackagist-plugin/siteorigin-panels": "<= 2.29.15.0",
+        "wpackagist-plugin/siteorigin-panels": "<= 2.31.0.0",
         "wpackagist-plugin/sitepact-klaviyo-contact-form-7": "<=1.0.5",
         "wpackagist-plugin/sitepress-multilingual-cms": "<= 4.6.12.0",
         "wpackagist-plugin/sites-monitor": ">=0.0.7,<=0.0.8",
