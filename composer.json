@@ -7716,7 +7716,7 @@
         "wpackagist-plugin/updater": "<=1.34",
         "wpackagist-plugin/updraft": "<=0.6.1",
         "wpackagist-plugin/updraftcentral": "0.8.23",
-        "wpackagist-plugin/updraftplus": "<= 1.24.11.0 || >= 2.22.14.0-dev <= 2.23.2.0",
+        "wpackagist-plugin/updraftplus": "<= 1.24.12.0 || >= 2.22.14.0-dev <= 2.23.2.0",
         "wpackagist-plugin/updraftplus-pro": "<2.22.3",
         "wpackagist-plugin/upload-fields-for-wpforms": "<=1.0.2",
         "wpackagist-plugin/upload-file-type-settings-plugin": "<=1.1",
