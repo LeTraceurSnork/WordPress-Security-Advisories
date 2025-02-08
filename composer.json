@@ -5969,7 +5969,7 @@
         "wpackagist-plugin/really-simple-facebook-twitter-share-buttons": "<2.10.5",
         "wpackagist-plugin/really-simple-google-tag-manager": "<=1.0.6",
         "wpackagist-plugin/really-simple-guest-post": "<=1.0.6",
-        "wpackagist-plugin/really-simple-ssl": "<=7.2.3 || >=9.0.0,<=9.1.1.1",
+        "wpackagist-plugin/really-simple-ssl": "<= 9.1.4.0",
         "wpackagist-plugin/really-simple-ssl-pro": ">=9.0.0,<=9.1.1.1",
         "wpackagist-plugin/really-simple-ssl-pro-multisite": ">=9.0.0,<=9.1.1.1",
         "wpackagist-plugin/realty": "<=1.1.5",
