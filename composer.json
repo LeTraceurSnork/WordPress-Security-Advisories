@@ -8920,6 +8920,7 @@
         "wpackagist-plugin/wp-jobhunt": "<2.4",
         "wpackagist-plugin/wp-jobs": "<1.7",
         "wpackagist-plugin/wp-jobsearch": "<=2.6.7",
+        "wpackagist-plugin/wp-joomag": "<=2.5.2",
         "wpackagist-plugin/wp-jquery-datatable": "<=4.0.1",
         "wpackagist-plugin/wp-jquery-lightbox": "<=1.5.4",
         "wpackagist-plugin/wp-js": "<=2.0.6",
