@@ -7596,7 +7596,7 @@
         "wpackagist-plugin/typea-ftc-disclosure": "<=2.0",
         "wpackagist-plugin/typebot": "<=3.6.0",
         "wpackagist-plugin/types": "<=3.4.17",
-        "wpackagist-plugin/typing-text": "<=1.2.5",
+        "wpackagist-plugin/typing-text": "<= 1.2.7.0",
         "wpackagist-plugin/typofr": "<=0.11",
         "wpackagist-plugin/ua-marketplace": "<=1.4.4",
         "wpackagist-plugin/uber-grid": "<=1.1.7",
