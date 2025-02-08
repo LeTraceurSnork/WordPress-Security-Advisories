@@ -2075,6 +2075,7 @@
         "wpackagist-plugin/dashing-memberships": "<=1.1",
         "wpackagist-plugin/dashylite": ">=2.0.1,<=2.1.8",
         "wpackagist-plugin/data-tables-generator-by-supsystic": "<= 1.10.36.0",
+        "wpackagist-plugin/database-backup": "<=2.32",
         "wpackagist-plugin/database-backups": "<=1.2.2.6",
         "wpackagist-plugin/database-browser": "<=1.4.4",
         "wpackagist-plugin/database-cleaner": "<= 1.0.5.0",
