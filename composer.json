@@ -7240,6 +7240,7 @@
         "wpackagist-plugin/taggbox-widget": "<= 3.3.0.0",
         "wpackagist-plugin/tagregator": "<=0.6",
         "wpackagist-plugin/tags-cloud-manager": "<=1.0.0",
+        "wpackagist-plugin/tags-to-meta-keywords": "<=1.0.1",
         "wpackagist-plugin/tailored-tools": "<=1.8.4",
         "wpackagist-plugin/tainacan": "<= 0.21.10.0",
         "wpackagist-plugin/tajer": "<=1.0.5",
