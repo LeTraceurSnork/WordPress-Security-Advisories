@@ -1007,6 +1007,7 @@
         "wpackagist-plugin/blog-sidebar-widget": "<=1.0.5",
         "wpackagist-plugin/blog2social": "<= 7.5.4.0",
         "wpackagist-plugin/blogger-301-redirect": "<=2.5.3",
+        "wpackagist-plugin/blogger-image-import": "2.1",
         "wpackagist-plugin/blogger-importer": "<=0.5",
         "wpackagist-plugin/blogintroduction-wordpress-plugin": "<=0.3.0",
         "wpackagist-plugin/bloglentor-for-elementor": "<=1.0.9",
