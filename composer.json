@@ -5560,7 +5560,7 @@
         "wpackagist-plugin/porto-functionality": "<= 3.1.0.0",
         "wpackagist-plugin/portrait-archiv-shop": "<3.2",
         "wpackagist-plugin/portugal-ctt-tracking-woocommerce": "<=2.1",
-        "wpackagist-plugin/post-and-page-builder": "<=1.26.6",
+        "wpackagist-plugin/post-and-page-builder": "<= 1.27.5.0",
         "wpackagist-plugin/post-block": "<=5.3.1",
         "wpackagist-plugin/post-by-email": "<=1.0.4b",
         "wpackagist-plugin/post-carousel": "<= 3.0.0.0",
