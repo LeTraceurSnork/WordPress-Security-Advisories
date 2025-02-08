@@ -10252,6 +10252,7 @@
         "wpackagist-theme/news": "<=0.1",
         "wpackagist-theme/news-flash": "<=1.1.0",
         "wpackagist-theme/newscard": "<=1.3",
+        "wpackagist-theme/newsdaily": "<=1.0.64",
         "wpackagist-theme/newsmag": "< 5.0.0.0-dev",
         "wpackagist-theme/newsmash": "<=1.0.71",
         "wpackagist-theme/newsmatic": "<= 1.3.4.0",
