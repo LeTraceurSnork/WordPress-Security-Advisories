@@ -2407,7 +2407,7 @@
         "wpackagist-plugin/easy-facebook-likebox-premium": "<= 6.6.2.0",
         "wpackagist-plugin/easy-fancybox": "<= 2.3.3.0",
         "wpackagist-plugin/easy-form": "< 1.3.9.0-dev",
-        "wpackagist-plugin/easy-form-builder": "<=3.7.4",
+        "wpackagist-plugin/easy-form-builder": "<= 3.8.8.0",
         "wpackagist-plugin/easy-form-builder-by-bitware": "<=1.0",
         "wpackagist-plugin/easy-gallery-slideshow": "*",
         "wpackagist-plugin/easy-google-analytics-for-wordpress": "<=1.6.0",
