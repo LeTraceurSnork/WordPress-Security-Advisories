@@ -8710,7 +8710,7 @@
         "wpackagist-plugin/wp-d3": "<=2.4.1",
         "wpackagist-plugin/wp-dark-mode": "<= 5.0.4.0",
         "wpackagist-plugin/wp-dashboard-notes": "<=1.0.11",
-        "wpackagist-plugin/wp-data-access": "<= 5.5.7.0",
+        "wpackagist-plugin/wp-data-access": "<= 5.5.22.0",
         "wpackagist-plugin/wp-database-admin": "<=1.0.3",
         "wpackagist-plugin/wp-database-backup": "<= 7.3.0.0",
         "wpackagist-plugin/wp-database-error-manager": "<=2.1.6",
