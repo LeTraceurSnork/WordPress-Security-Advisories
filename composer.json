@@ -5452,6 +5452,7 @@
         "wpackagist-plugin/pixfields": "<=0.7.0",
         "wpackagist-plugin/pixnet": "<=2.9.10",
         "wpackagist-plugin/pixobe-cartography": "<=1.0.1",
+        "wpackagist-plugin/pixproof": "<=2.0.1",
         "wpackagist-plugin/pixtypes": "<= 1.4.15.0",
         "wpackagist-plugin/pj-news-ticker": "<=1.9.5",
         "wpackagist-plugin/pjw-mime-config": "<=1.0",
