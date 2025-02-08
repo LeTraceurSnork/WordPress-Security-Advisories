@@ -3294,6 +3294,7 @@
         "wpackagist-plugin/genesis-columns-advanced": "<=2.0.3",
         "wpackagist-plugin/genesis-simple-love": "<=2.0",
         "wpackagist-plugin/genie-wp-favicon": "<=0.5.2",
+        "wpackagist-plugin/genki-announcement": "<=1.4.1",
         "wpackagist-plugin/genki-pre-publish-reminder": "<=1.4.1",
         "wpackagist-plugin/genoo": "<=6.0.10",
         "wpackagist-plugin/geo-mashup": "<= 1.13.13.0",
