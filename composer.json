@@ -4428,7 +4428,7 @@
         "wpackagist-plugin/magic-slider": "<=1.3",
         "wpackagist-plugin/magical-addons-for-elementor": "<= 1.2.6.0",
         "wpackagist-plugin/magical-posts-display": "<= 1.2.38.0",
-        "wpackagist-plugin/magicform": "<=0.1",
+        "wpackagist-plugin/magicform": "<= 1.6.2.0",
         "wpackagist-plugin/magicpost": "<=1.2.1",
         "wpackagist-plugin/magn-html5-drag-and-drop-media-uploader": "<=1.2.0",
         "wpackagist-plugin/mail-boxes-etc": "<= 2.2.4.0",
