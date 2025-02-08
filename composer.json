@@ -5299,6 +5299,7 @@
         "wpackagist-plugin/pay-per-media-player": "<=1.24",
         "wpackagist-plugin/pay-with-tweet": "<=1.1",
         "wpackagist-plugin/payflex-payment-gateway": "<=2.6.1",
+        "wpackagist-plugin/payform": "<=2.0",
         "wpackagist-plugin/paygreen-woocommerce": "<=4.10.2",
         "wpackagist-plugin/payhere-payment-gateway": "<=2.2.11",
         "wpackagist-plugin/payment-form-for-paypal-pro": "< 1.1.65.0-dev",
