@@ -6961,7 +6961,7 @@
         "wpackagist-plugin/sparkpost": "<=3.2.7",
         "wpackagist-plugin/sparrow": "2.0.2",
         "wpackagist-plugin/spatialmatch-free-lifestyle-search": "<=3.0.9",
-        "wpackagist-plugin/speakout": "<=4.0.3",
+        "wpackagist-plugin/speakout": "<= 4.4.2.0",
         "wpackagist-plugin/special-box-for-content": "<=1",
         "wpackagist-plugin/special-feed-items": "<=1.0.1",
         "wpackagist-plugin/specific-content-for-mobile": "<=0.1.9.5",
