@@ -8928,6 +8928,7 @@
         "wpackagist-plugin/wp-jump-menu": "<=3.6.4",
         "wpackagist-plugin/wp-keyword-link": "<=1.7",
         "wpackagist-plugin/wp-knowledgebase": "<=1.3.4",
+        "wpackagist-plugin/wp-krpano": "<=1.2.1",
         "wpackagist-plugin/wp-last-modified-info": "<=1.9.0",
         "wpackagist-plugin/wp-latest-posts": "<=5.0.7",
         "wpackagist-plugin/wp-lead-stream": ">=1.1,<=1.2",
