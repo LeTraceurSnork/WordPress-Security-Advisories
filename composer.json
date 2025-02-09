@@ -1706,6 +1706,7 @@
         "wpackagist-plugin/contact-form-lite": "<=4.0.1",
         "wpackagist-plugin/contact-form-maker": "<= 1.13.23.0",
         "wpackagist-plugin/contact-form-manager": "<=1.6",
+        "wpackagist-plugin/contact-form-master": "<=1.0.7",
         "wpackagist-plugin/contact-form-multi": "<1.2.1",
         "wpackagist-plugin/contact-form-plugin": "<= 4.2.8.0",
         "wpackagist-plugin/contact-form-ready": "<=2.0.11",
