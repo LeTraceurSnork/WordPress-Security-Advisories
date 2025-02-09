@@ -5489,6 +5489,7 @@
         "wpackagist-plugin/plugmatter-optin-feature-box-lite": "<2.0.14",
         "wpackagist-plugin/plugmatter-pricing-table": "<=1.0.32",
         "wpackagist-plugin/plugnedit": "<6.2.0",
+        "wpackagist-plugin/plugversions": "<=0.0.7",
         "wpackagist-plugin/pluscaptcha": "<=2.0.6",
         "wpackagist-plugin/pmpro-ccbill": "<=0.3",
         "wpackagist-plugin/pmpro-courses": "< 1.2.5.0-dev",
