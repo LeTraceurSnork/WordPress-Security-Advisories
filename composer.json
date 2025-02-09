@@ -6442,6 +6442,7 @@
         "wpackagist-plugin/sg-helper": "1.0",
         "wpackagist-plugin/sg-security": "<= 1.5.0.0",
         "wpackagist-plugin/sh-slideshow": "<=4.3",
+        "wpackagist-plugin/shabbos-and-yom-tov": "<=1.9",
         "wpackagist-plugin/shantz-wordpress-qotd": "<=1.2.2",
         "wpackagist-plugin/shapely-companion": "<=1.2.6",
         "wpackagist-plugin/shapepress-dsgvo": "<= 3.1.32.0",
