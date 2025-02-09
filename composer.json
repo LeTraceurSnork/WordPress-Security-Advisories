@@ -571,6 +571,7 @@
         "wpackagist-plugin/announce-from-the-dashboard": "<= 1.5.2.0",
         "wpackagist-plugin/announcekit": "<=2.0.9",
         "wpackagist-plugin/announcer": "<=6.0",
+        "wpackagist-plugin/anonymize-links": "<=1.1",
         "wpackagist-plugin/anonymous-restricted-content": "<=1.6.5",
         "wpackagist-plugin/another-wordpress-classifieds-plugin": "<= 4.3.1.0",
         "wpackagist-plugin/answer-my-question": "<=1.3",
