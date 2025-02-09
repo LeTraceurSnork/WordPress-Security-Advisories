@@ -186,6 +186,7 @@
         "wpackagist-plugin/add-comments": "<=1.0.1",
         "wpackagist-plugin/add-custom-body-class": "<=1.4.1",
         "wpackagist-plugin/add-custom-css-and-js": "<=1.20",
+        "wpackagist-plugin/add-custom-google-tag-manager": "<=1.0.3",
         "wpackagist-plugin/add-customer-for-woocommerce": "<=1.7",
         "wpackagist-plugin/add-edit-delete-listing-for-member-module": "<=1.0",
         "wpackagist-plugin/add-expires-headers": "<= 2.7.3.0",
