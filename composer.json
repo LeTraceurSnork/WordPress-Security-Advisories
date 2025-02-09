@@ -1381,6 +1381,7 @@
         "wpackagist-plugin/ceceppa-multilingua": "<=1.5.17",
         "wpackagist-plugin/cf-geoplugin": "<= 8.7.3.0",
         "wpackagist-plugin/cf7-antispam": "<=0.6.0",
+        "wpackagist-plugin/cf7-cc-avenue-add-on": "<=1.0",
         "wpackagist-plugin/cf7-conditional-fields": "<= 2.4.15.0",
         "wpackagist-plugin/cf7-constant-contact": "<= 1.1.5.0",
         "wpackagist-plugin/cf7-constant-contact-fields-mapping": "1.0.0",
