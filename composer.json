@@ -2724,7 +2724,7 @@
         "wpackagist-plugin/event-page-templates-addon-for-the-events-calendar": "<=1.5",
         "wpackagist-plugin/event-post": "<= 5.9.8.0",
         "wpackagist-plugin/event-registration": "<=6.02.02",
-        "wpackagist-plugin/event-registration-calendar-by-vcita": "<=1.3.1",
+        "wpackagist-plugin/event-registration-calendar-by-vcita": "<= 1.4.0.0",
         "wpackagist-plugin/event-tickets": "<= 5.11.0.4",
         "wpackagist-plugin/event-tickets-plus": "<=5.9.0",
         "wpackagist-plugin/event-tickets-with-ticket-scanner": "<= 2.4.3.0",
