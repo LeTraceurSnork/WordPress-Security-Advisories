@@ -9125,7 +9125,7 @@
         "wpackagist-plugin/wp-product-review": "<3.7.6",
         "wpackagist-plugin/wp-propagator": "<=0.1",
         "wpackagist-plugin/wp-property": "<1.38.4",
-        "wpackagist-plugin/wp-publications": "<=0.0",
+        "wpackagist-plugin/wp-publications": "<= 1.2.0.0",
         "wpackagist-plugin/wp-qrcode-me-v-card": "<=1.6.0",
         "wpackagist-plugin/wp-query-console": "<=1.0",
         "wpackagist-plugin/wp-quick-front-end-editor": "<=5.5",
