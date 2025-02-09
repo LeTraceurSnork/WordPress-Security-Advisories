@@ -4604,7 +4604,7 @@
         "wpackagist-plugin/mediavine-control-panel": "<= 2.10.4.0",
         "wpackagist-plugin/mediavine-create": "<= 1.9.8.0",
         "wpackagist-plugin/medibazar-core": "<=1.2.3",
-        "wpackagist-plugin/medical-addon-for-elementor": "<=1.6.1",
+        "wpackagist-plugin/medical-addon-for-elementor": "<= 1.6.2.0",
         "wpackagist-plugin/medma-matix": "<=1.0.0",
         "wpackagist-plugin/meenews": "<=5.1.0",
         "wpackagist-plugin/meet-my-team": "<=2.0.5",
