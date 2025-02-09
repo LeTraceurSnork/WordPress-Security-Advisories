@@ -1634,6 +1634,7 @@
         "wpackagist-plugin/comments-ratings": "<= 1.1.7.0",
         "wpackagist-plugin/commenttweets": "<=0.6",
         "wpackagist-plugin/commerce-coinbase-for-woocommerce": "<=1.4.14",
+        "wpackagist-plugin/common-ninja": "<=1.1.0",
         "wpackagist-plugin/common-tools-for-site": "<=1.0.2",
         "wpackagist-plugin/commons-booking": "<=0.9.4.18",
         "wpackagist-plugin/commonsbooking": "<2.6.8",
