@@ -962,6 +962,7 @@
         "wpackagist-plugin/bit-assist": "<1.2",
         "wpackagist-plugin/bit-form": "<= 2.15.2.0",
         "wpackagist-plugin/bitcoin-faucet": "<=1.6.0",
+        "wpackagist-plugin/bitcoin-lightning-publisher": "<=1.4.1",
         "wpackagist-plugin/bitcoin-payments": "<=1.4.2",
         "wpackagist-plugin/biteship": "<= 2.2.27.0",
         "wpackagist-plugin/bitformpro": "<=2.6.4",
