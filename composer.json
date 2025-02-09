@@ -2332,6 +2332,7 @@
         "wpackagist-plugin/duplicate-page-or-post": "<=1.5.0",
         "wpackagist-plugin/duplicate-post": "< 3.2.4.0-dev",
         "wpackagist-plugin/duplicate-post-page-menu-custom-post-type": "<=2.3.1",
+        "wpackagist-plugin/duplicate-pp": "<=3.5.5",
         "wpackagist-plugin/duplicate-theme": "<=0.1.6",
         "wpackagist-plugin/duplicate-title-validate": "<=1.0",
         "wpackagist-plugin/duplicate-wp-page-post": "<=2.7",
