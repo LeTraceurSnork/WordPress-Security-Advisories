@@ -410,7 +410,7 @@
         "wpackagist-plugin/ai-content": "<=1.0.7",
         "wpackagist-plugin/ai-content-generator": "<=2.4.9",
         "wpackagist-plugin/ai-content-writing-assistant": "<=1.1.6",
-        "wpackagist-plugin/ai-engine": "<= 2.5.0.0",
+        "wpackagist-plugin/ai-engine": "<= 2.6.3.0",
         "wpackagist-plugin/ai-image": "<=1.5.2",
         "wpackagist-plugin/ai-image-generator": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/ai-post-generator": "<= 3.5.0.0",
