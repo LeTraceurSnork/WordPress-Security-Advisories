@@ -2857,6 +2857,7 @@
         "wpackagist-plugin/fancybox-for-wordpress": "<= 3.3.4.0",
         "wpackagist-plugin/fancyflickr": "*",
         "wpackagist-plugin/fantastic-content-protector-free": "<=2.6",
+        "wpackagist-plugin/fantastic-elasticsearch": "<=4.1.0",
         "wpackagist-plugin/faq-and-answers": "<=1.1.0",
         "wpackagist-plugin/faq-builder-ays": "<= 1.7.1.0",
         "wpackagist-plugin/faq-for-woocommerce": "<=1.7.0",
