@@ -8685,6 +8685,7 @@
         "wpackagist-plugin/wp-cookie-law-info": "<=1.1",
         "wpackagist-plugin/wp-cookie-user-info": "<1.0.9",
         "wpackagist-plugin/wp-cookiechoise": "<=1.1.0",
+        "wpackagist-plugin/wp-cookies-alert": "<=1.1.1",
         "wpackagist-plugin/wp-cookies-enabler": "<=1.0.1",
         "wpackagist-plugin/wp-copyprotect": "<= 3.1.0.0",
         "wpackagist-plugin/wp-copysafe-web": "<= 3.15.0.0",
