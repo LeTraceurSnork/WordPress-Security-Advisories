@@ -9031,6 +9031,7 @@
         "wpackagist-plugin/wp-news-magazine": "<=1.1.9",
         "wpackagist-plugin/wp-newsletter-subscription": "<=1.1",
         "wpackagist-plugin/wp-next-post-navi": "<=1.8.3",
+        "wpackagist-plugin/wp-nice-loader": "<=0.1.0.4",
         "wpackagist-plugin/wp-noexternallinks": "<3.5.19",
         "wpackagist-plugin/wp-not-login-hide-wpnlh": "<=1.0",
         "wpackagist-plugin/wp-nssuser-register": "<=1.0.0",
