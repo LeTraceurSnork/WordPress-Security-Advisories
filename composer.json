@@ -4777,7 +4777,7 @@
         "wpackagist-plugin/modern-footnotes": "<= 1.4.16.0",
         "wpackagist-plugin/modify-comment-fields": "<=1.03",
         "wpackagist-plugin/modify-profile-fields-dashboard-menu-buttons": "<=1.03",
-        "wpackagist-plugin/modula-best-grid-gallery": "< 2.7.5.0-dev",
+        "wpackagist-plugin/modula-best-grid-gallery": "<= 2.11.10.0",
         "wpackagist-plugin/mojoplug-slide-panel": "<=1.1.2",
         "wpackagist-plugin/moka-get-posts": "<=1.0",
         "wpackagist-plugin/molie-instructure-canvas-linking-tool": "<=0.5",
