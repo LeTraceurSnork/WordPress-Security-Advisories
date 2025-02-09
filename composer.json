@@ -537,6 +537,7 @@
         "wpackagist-plugin/amp-wp": "<=1.5.15",
         "wpackagist-plugin/ampedsense-adsense-split-tester": "<=4.68",
         "wpackagist-plugin/amr-ical-events-list": "<=6.6",
+        "wpackagist-plugin/amr-personalise": "<=2.10",
         "wpackagist-plugin/amr-shortcode-any-widget": "<=4.0",
         "wpackagist-plugin/amr-shortcodes": "<=1.7",
         "wpackagist-plugin/amr-users": "<=4.59.4",
