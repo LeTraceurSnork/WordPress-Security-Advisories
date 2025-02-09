@@ -6521,6 +6521,7 @@
         "wpackagist-plugin/show-visitor-ip-address": "<=0.2",
         "wpackagist-plugin/show-website-content-in-wordpress-page-or-post": "<=2024.03.27",
         "wpackagist-plugin/showbizpro": "<=1.7.1",
+        "wpackagist-plugin/showhide-shortcode": "<=1.0.0",
         "wpackagist-plugin/si-captcha-for-wordpress": "<2.7.6",
         "wpackagist-plugin/si-contact-form": "<=4.0.37",
         "wpackagist-plugin/side-cart-woocommerce": "<= 2.2.0.0 || == 2.5.0.0",
