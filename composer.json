@@ -3819,7 +3819,7 @@
         "wpackagist-plugin/import-social-statistics": "<=1.0.2",
         "wpackagist-plugin/import-spreadsheets-from-microsoft-excel": "<=10.1.4",
         "wpackagist-plugin/import-users-from-csv": "<=1.2",
-        "wpackagist-plugin/import-users-from-csv-with-meta": "<= 1.27.5.0",
+        "wpackagist-plugin/import-users-from-csv-with-meta": "<= 1.27.12.0",
         "wpackagist-plugin/import-woocommerce": "<1.1",
         "wpackagist-plugin/import-xml-feed": "<= 2.1.5.0",
         "wpackagist-plugin/importify": "<=1.0.4",
