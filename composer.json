@@ -5886,7 +5886,7 @@
         "wpackagist-plugin/quicksand-jquery-post-filter": "<=3.1.1",
         "wpackagist-plugin/quickswish": "<=1.0.9",
         "wpackagist-plugin/quietly-insights": "<=1.2.2",
-        "wpackagist-plugin/quillforms": "<=3.7.0",
+        "wpackagist-plugin/quillforms": "<= 3.10.0.0",
         "wpackagist-plugin/quiz-expert": "<=1.5.0",
         "wpackagist-plugin/quiz-maker": "<= 6.5.8.3",
         "wpackagist-plugin/quiz-master-next": "<= 9.1.2.0",
