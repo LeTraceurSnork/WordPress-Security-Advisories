@@ -7076,7 +7076,7 @@
         "wpackagist-plugin/stock-quotes-list": "<=2.9.11",
         "wpackagist-plugin/stock-sync-for-woocommerce": "<=2.4.0",
         "wpackagist-plugin/stock-ticker": "<= 3.24.4.0",
-        "wpackagist-plugin/stockdio-historical-chart": "<2.8.1",
+        "wpackagist-plugin/stockdio-historical-chart": "<= 2.8.18.0",
         "wpackagist-plugin/stockholm-core": "<=2.4.1",
         "wpackagist-plugin/stockists-manager": "<=1.0.2.1",
         "wpackagist-plugin/stop-referrer-spam": "<=1.3.0",
