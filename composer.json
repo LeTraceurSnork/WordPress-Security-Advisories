@@ -6179,6 +6179,7 @@
         "wpackagist-plugin/rocket-maintenance-mode": "<=4.3",
         "wpackagist-plugin/rockhoist-badges": "<=1.2.2",
         "wpackagist-plugin/rockhoist-ratings": "<1.2.3",
+        "wpackagist-plugin/roi-calculator": "<=1.0",
         "wpackagist-plugin/role-and-customer-based-pricing-for-woocommerce": ">=1.0.0,<=1.4.0",
         "wpackagist-plugin/role-based-bulk-quantity-pricing": ">=1.1.4,<=1.1.6",
         "wpackagist-plugin/role-based-pricing-for-woocommerce": "<= 1.6.2.0",
