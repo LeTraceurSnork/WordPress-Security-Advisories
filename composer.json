@@ -4105,6 +4105,7 @@
         "wpackagist-plugin/keyring": "<=1.5",
         "wpackagist-plugin/keyword-meta": "<=3.0",
         "wpackagist-plugin/keyword-strategy-internal-links": "<=2.0",
+        "wpackagist-plugin/kh-easy-user-settings": "<=1.0.0",
         "wpackagist-plugin/kimili-flash-embed": "<=2.5.3",
         "wpackagist-plugin/kindeditor-for-wordpress": "<=1.3.7",
         "wpackagist-plugin/kineticpay-for-woocommerce": "<=2.0.8",
