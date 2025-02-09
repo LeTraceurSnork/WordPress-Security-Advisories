@@ -8237,7 +8237,7 @@
         "wpackagist-plugin/woo-min-max-quantity-step-control-single": "<=4.5",
         "wpackagist-plugin/woo-mini-cart-drawer": "<=4.0.0",
         "wpackagist-plugin/woo-moneybird": "<=2.1.2",
-        "wpackagist-plugin/woo-multi-currency": "<= 2.2.3.0",
+        "wpackagist-plugin/woo-multi-currency": "<= 2.2.5.0",
         "wpackagist-plugin/woo-myghpay-payment-gateway": "<=3.0",
         "wpackagist-plugin/woo-nmi-three-step": "<=1.6.11",
         "wpackagist-plugin/woo-one-click-upsell-funnel": "<=3.4.9",
