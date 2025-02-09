@@ -6300,6 +6300,7 @@
         "wpackagist-plugin/scripts-organizer": "<3.0",
         "wpackagist-plugin/scroll-baner": "<=1.0",
         "wpackagist-plugin/scroll-post-excerpt": "<=8.0",
+        "wpackagist-plugin/scroll-styler": "<=1.1",
         "wpackagist-plugin/scroll-top": "<=1.4.0",
         "wpackagist-plugin/scroll-triggered-animations": "<=3.0.13",
         "wpackagist-plugin/scrollbar-by-webxapp": "<=1.3.0",
