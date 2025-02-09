@@ -1669,6 +1669,7 @@
         "wpackagist-plugin/configure-login-timeout": "<=1.0",
         "wpackagist-plugin/configure-smtp": "<=3.1",
         "wpackagist-plugin/connatix-video-embed": "<=1.0.5",
+        "wpackagist-plugin/connect-contact-form-7-to-constant-contact-v3": "<=1.4",
         "wpackagist-plugin/connect-daily-web-calendar": "<=1.4.4",
         "wpackagist-plugin/connected-sermons": "<=1.2.1",
         "wpackagist-plugin/connections": "<= 10.4.36.0",
