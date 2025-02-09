@@ -6279,6 +6279,7 @@
         "wpackagist-plugin/sb-random-posts-widget": "<=1.0",
         "wpackagist-plugin/sb-uploader": "<=4.8",
         "wpackagist-plugin/scalable-vector-graphics-svg": "<=3.4",
+        "wpackagist-plugin/scan-external-links": "<=1.0",
         "wpackagist-plugin/scancircle": "<=2.9.2",
         "wpackagist-plugin/schedule-posts-calendar": "<=5.2",
         "wpackagist-plugin/scheduled-announcements-widget": "<=0.2",
