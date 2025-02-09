@@ -1261,6 +1261,7 @@
         "wpackagist-plugin/calculatorpro-calculators": "<=1.1.7",
         "wpackagist-plugin/caldera-forms": "< 1.9.7.0-dev",
         "wpackagist-plugin/caldera-forms-pro": "<=1.7.6 || >=1.8,<1.8.2",
+        "wpackagist-plugin/caldera-smtp-mailer": "<=1.0.1",
         "wpackagist-plugin/calderawp-license-manager": "<=1.2.11",
         "wpackagist-plugin/calendar": "<=1.3.14",
         "wpackagist-plugin/calendar-booking": "<=3.5.10",
