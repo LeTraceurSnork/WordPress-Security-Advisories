@@ -1373,6 +1373,7 @@
         "wpackagist-plugin/cc-bmi-calculator": "<=2.0.1",
         "wpackagist-plugin/cc-canadian-mortgage-calculator": "<=2.1.0",
         "wpackagist-plugin/cc-child-pages": "<=1.42",
+        "wpackagist-plugin/cc-circle-progress-bar": "<=1.0.0",
         "wpackagist-plugin/cc-coming-soon": "<=2.2.4",
         "wpackagist-plugin/cc-custom-taxonmy": "<=1.0.1",
         "wpackagist-plugin/cdnvote": "<0.4.2",
