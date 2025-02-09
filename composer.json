@@ -6208,7 +6208,7 @@
         "wpackagist-plugin/rss-includes-pages": "<3.7",
         "wpackagist-plugin/rsv-360-view": "<=1.0",
         "wpackagist-plugin/rsv-pdf-preview": "<=1.0",
-        "wpackagist-plugin/rsvp": "<=2.7.7",
+        "wpackagist-plugin/rsvp": "<= 2.7.13.0",
         "wpackagist-plugin/rsvp-me": "<=1.9.9",
         "wpackagist-plugin/rsvpmaker": "<= 10.6.6.0",
         "wpackagist-plugin/rsvpmaker-excel": "<=1.1",
