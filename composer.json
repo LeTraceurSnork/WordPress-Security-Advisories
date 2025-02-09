@@ -4288,7 +4288,7 @@
         "wpackagist-plugin/lingotek-translation": "<=1.1.8",
         "wpackagist-plugin/link-checker": "<1.17.0",
         "wpackagist-plugin/link-juice-keeper": "<=2.0.2",
-        "wpackagist-plugin/link-library": "<= 7.7.1.0",
+        "wpackagist-plugin/link-library": "<= 7.7.2.0",
         "wpackagist-plugin/link-list-manager": "<=1.0",
         "wpackagist-plugin/link-log": "<= 5.0.2.0",
         "wpackagist-plugin/link-optimizer-lite": "<=1.4.5",
