@@ -4893,6 +4893,7 @@
         "wpackagist-plugin/my-link-order": "<=4.3",
         "wpackagist-plugin/my-page-order": "<=4.3",
         "wpackagist-plugin/my-reading-library": "<=1.0",
+        "wpackagist-plugin/my-related-posts": "<=1.1",
         "wpackagist-plugin/my-restaurant-menu": "<=0.2.0",
         "wpackagist-plugin/my-shortcodes": "<=2.3",
         "wpackagist-plugin/my-tickets": "<=1.9.11",
