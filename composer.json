@@ -4303,7 +4303,7 @@
         "wpackagist-plugin/lis-video-gallery": "<=0.2.1",
         "wpackagist-plugin/list-all-posts-by-authors-nested-categories-and-titles": "<=2.8.2",
         "wpackagist-plugin/list-categories": "<=0.4",
-        "wpackagist-plugin/list-category-posts": "<= 0.89.6.0",
+        "wpackagist-plugin/list-category-posts": "<= 0.90.2.0",
         "wpackagist-plugin/list-custom-taxonomy-widget": "<=4.1",
         "wpackagist-plugin/list-pages-shortcode": "<=1.7.5",
         "wpackagist-plugin/listapp-mobile-manager": "<=1.7.7",
