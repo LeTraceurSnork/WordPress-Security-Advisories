@@ -3466,7 +3466,7 @@
         "wpackagist-plugin/gravity-forms-sms-notifications": "<=2.2",
         "wpackagist-plugin/gravity-forms-sticky-list": "<=1.5.2",
         "wpackagist-plugin/gravity-forms-toolbar": "<=1.7.0",
-        "wpackagist-plugin/gravityforms": "<= 2.7.4.0",
+        "wpackagist-plugin/gravityforms": "<= 2.7.4.0 || >=2.9.0.1,<=2.9.1.3",
         "wpackagist-plugin/great-quotes": "<=1.0.0",
         "wpackagist-plugin/greeklish-permalink": "<=3.3",
         "wpackagist-plugin/green-wp-telegram-bot-by-teplitsa": "<=1.3",
