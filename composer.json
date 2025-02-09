@@ -160,7 +160,7 @@
         "wpackagist-plugin/activity-log-mainwp": "<=1.7.1",
         "wpackagist-plugin/activity-reactions-for-buddypress": "<=1.0.22",
         "wpackagist-plugin/activitypub": "<=1.0.5",
-        "wpackagist-plugin/activitytime": "<=1.0.9",
+        "wpackagist-plugin/activitytime": "<= 1.1.1.0",
         "wpackagist-plugin/acumbamail-signup-forms": "<1.0.4.1",
         "wpackagist-plugin/acurax-social-media-widget": "< 3.2.6.0-dev",
         "wpackagist-plugin/acymailing": "<=9.7.2",
