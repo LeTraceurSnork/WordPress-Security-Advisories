@@ -857,7 +857,7 @@
         "wpackagist-plugin/bannerlid": "<=1.1.0",
         "wpackagist-plugin/bannerman": "<=0.2.4",
         "wpackagist-plugin/barclaycart": "*",
-        "wpackagist-plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders": "<= 1.6.1.0",
+        "wpackagist-plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders": "<= 1.6.7.0",
         "wpackagist-plugin/bard-extra": "<=1.2.7",
         "wpackagist-plugin/base64-encoderdecoder": "<=0.9.2",
         "wpackagist-plugin/basepress": "<=2.16.3.3",
