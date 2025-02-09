@@ -725,7 +725,7 @@
         "wpackagist-plugin/auto-featured-image-from-title": "<=2.3",
         "wpackagist-plugin/auto-hide-admin-bar": "<=1.6.1",
         "wpackagist-plugin/auto-hyperlink-urls": "<=5.4.1",
-        "wpackagist-plugin/auto-iframe": "<=1.7",
+        "wpackagist-plugin/auto-iframe": "<= 1.9.0.0",
         "wpackagist-plugin/auto-keyword-backlink": ">=1.0,<=1.3",
         "wpackagist-plugin/auto-limit-posts-reloaded": "<=2.5",
         "wpackagist-plugin/auto-listings": "<=2.6.5",
