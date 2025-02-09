@@ -10004,6 +10004,7 @@
         "wpackagist-theme/doko": "<=1.0.27",
         "wpackagist-theme/dt-chocolate": "*",
         "wpackagist-theme/dt-the7": "<= 11.13.0.0",
+        "wpackagist-theme/dwt-listing": "<=3.3.3",
         "wpackagist-theme/easybook": "<1.2.2",
         "wpackagist-theme/ebiz": "<=1.2",
         "wpackagist-theme/echelon": "*",
