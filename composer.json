@@ -7856,7 +7856,7 @@
         "wpackagist-plugin/video-playlist-for-youtube": "<=6.1",
         "wpackagist-plugin/video-popup": "<=1.1.3",
         "wpackagist-plugin/video-posts-webcam-recorder": "< 3.2.4.0-dev",
-        "wpackagist-plugin/video-share-vod": "<=2.6.30",
+        "wpackagist-plugin/video-share-vod": "<= 2.6.31.0",
         "wpackagist-plugin/video-sidebar-widgets": "<=6.1",
         "wpackagist-plugin/video-slider-with-thumbnails": "<=1.0.10",
         "wpackagist-plugin/video-synchro-pdf": "<=1.7.4",
