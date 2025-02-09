@@ -4196,6 +4196,7 @@
         "wpackagist-plugin/lazy-load-videos-and-sticky-control": "<=3.0.0",
         "wpackagist-plugin/lazyest-backup": "<0.2.2",
         "wpackagist-plugin/lazyest-gallery": "<1.1.21",
+        "wpackagist-plugin/lazyload-background-images": "<=1.0.7",
         "wpackagist-plugin/lb-mixed-slideshow": "<=1.0",
         "wpackagist-plugin/lb-tube-video": "*",
         "wpackagist-plugin/lbg_zoominoutslider": "*",
