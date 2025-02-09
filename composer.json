@@ -6675,6 +6675,7 @@
         "wpackagist-plugin/simple-urls": "<= 120.0.0.0",
         "wpackagist-plugin/simple-user-listing": "<=1.9.2",
         "wpackagist-plugin/simple-video-embedder": "<=2.2",
+        "wpackagist-plugin/simple-video-management-system": "<=1.0.4",
         "wpackagist-plugin/simple-visitor-stat": "<=1.0",
         "wpackagist-plugin/simple-woocommerce-csv-loader": "<=2.0",
         "wpackagist-plugin/simple-wp-sitemap": "<=1.2.1",
