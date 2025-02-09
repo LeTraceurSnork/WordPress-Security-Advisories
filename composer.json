@@ -5299,7 +5299,7 @@
         "wpackagist-plugin/passwords-manager": "<=1.4.4",
         "wpackagist-plugin/past-events-extension": "<=1.0.1",
         "wpackagist-plugin/pathomation": "<=2.5.1",
-        "wpackagist-plugin/patreon-connect": "<= 1.9.0.0",
+        "wpackagist-plugin/patreon-connect": "<= 1.9.1.0",
         "wpackagist-plugin/patron-button-and-widgets-by-codebard": "<= 2.2.0.0",
         "wpackagist-plugin/pay-addons-for-elementor": ">=1.0.0,<=1.2.0",
         "wpackagist-plugin/pay-per-media-player": "<=1.24",
