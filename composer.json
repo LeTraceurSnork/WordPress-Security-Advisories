@@ -8787,7 +8787,7 @@
         "wpackagist-plugin/wp-events": "<=2.3.4",
         "wpackagist-plugin/wp-events-manager": "<=2.1.11",
         "wpackagist-plugin/wp-expand-tabs-free": "<= 2.2.0.0",
-        "wpackagist-plugin/wp-experiments-free": "<9.0.1",
+        "wpackagist-plugin/wp-experiments-free": "<= 9.0.4.0",
         "wpackagist-plugin/wp-express-checkout": "<=2.3.7",
         "wpackagist-plugin/wp-extended": "*",
         "wpackagist-plugin/wp-extended-search": "<=2.1.1",
