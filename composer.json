@@ -135,6 +135,7 @@
         "wpackagist-plugin/aceide": "<=2.6.2",
         "wpackagist-plugin/acf-better-search": "<3.3.1",
         "wpackagist-plugin/acf-blocks": ">=1.0.0,<=2.6.9",
+        "wpackagist-plugin/acf-city-selector": "<=1.14.0",
         "wpackagist-plugin/acf-extended": "<= 0.8.9.3",
         "wpackagist-plugin/acf-for-woocommerce-product": ">=0.1,<=1.8.1",
         "wpackagist-plugin/acf-front-end-editor": "<=2.0.2",
