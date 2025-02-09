@@ -240,7 +240,7 @@
         "wpackagist-plugin/addon-library": "<=1.3.76",
         "wpackagist-plugin/addonify-quick-view": "<=1.2.16",
         "wpackagist-plugin/addons-for-beaver-builder": "<=3.6.1",
-        "wpackagist-plugin/addons-for-divi": "<=3.6.6",
+        "wpackagist-plugin/addons-for-divi": "<= 4.1.0.0",
         "wpackagist-plugin/addons-for-elementor": "<= 8.5.0.0",
         "wpackagist-plugin/addons-for-visual-composer": "<= 3.9.0.0",
         "wpackagist-plugin/address-autocomplete-using-google-place-api": "<=1.0.0",
