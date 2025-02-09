@@ -6912,7 +6912,7 @@
         "wpackagist-plugin/social-slider": "<7.4.2",
         "wpackagist-plugin/social-stickers": "<=2.2.9",
         "wpackagist-plugin/social-tape": "<=1.0",
-        "wpackagist-plugin/social-testimonials-and-reviews-widget": "<=5.01",
+        "wpackagist-plugin/social-testimonials-and-reviews-widget": "<= 5.20.0.0",
         "wpackagist-plugin/social-warfare": "<=4.4.6.1 || >=4.4.6.4,<=4.4.7.1",
         "wpackagist-plugin/social-web-suite": "<=4.1.11",
         "wpackagist-plugin/socialdriver": "<2024",
