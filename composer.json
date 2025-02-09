@@ -5329,6 +5329,7 @@
         "wpackagist-plugin/pdf-builder-for-wpforms": "<=1.2.116",
         "wpackagist-plugin/pdf-embedder": "<=4.6.4",
         "wpackagist-plugin/pdf-embedder-fay": "<=1.10.1",
+        "wpackagist-plugin/pdf-for-woocommerce": "<=4.6.0",
         "wpackagist-plugin/pdf-generator-addon-for-elementor-page-builder": "<=2.0.0",
         "wpackagist-plugin/pdf-generator-for-wp": "<=1.1.1",
         "wpackagist-plugin/pdf-image-generator": "<=1.5.6",
