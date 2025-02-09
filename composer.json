@@ -2769,6 +2769,7 @@
         "wpackagist-plugin/exclusive-content-password-protect": "<=1.1.0",
         "wpackagist-plugin/exclusive-divi": "<=1.4",
         "wpackagist-plugin/exclusive-team-for-elementor": "<=1.2.4",
+        "wpackagist-plugin/exhibit-to-wp-gallery": "<=0.0.2",
         "wpackagist-plugin/exit-intent-popups-by-optimonk": "<=2.0.4",
         "wpackagist-plugin/exit-notifier": "<=1.10.4",
         "wpackagist-plugin/exit-popup-show": "*",
