@@ -2989,6 +2989,7 @@
         "wpackagist-plugin/flash-player-widget": "*",
         "wpackagist-plugin/flash-show-and-hide-box": "<=1.6",
         "wpackagist-plugin/flash-video-player": "<=5.0.4",
+        "wpackagist-plugin/flashnews-fading-effect-pearlbells": "<=4.1",
         "wpackagist-plugin/flat-preloader": "<1.5.5",
         "wpackagist-plugin/flat-ui-button": "1.0",
         "wpackagist-plugin/flatpm-wp": "<3.1.05",
