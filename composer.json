@@ -1569,6 +1569,7 @@
         "wpackagist-plugin/code-manager": ">=1.0.0,<=1.0.25",
         "wpackagist-plugin/code-snippets": "< 3.6.0.0-dev",
         "wpackagist-plugin/code-snippets-extended": "<=1.4.7",
+        "wpackagist-plugin/codebard-help-desk": "<=1.1.1",
         "wpackagist-plugin/codecolorer": "<=0.10.0",
         "wpackagist-plugin/codeflavors-vimeo-video-post-lite": "<=2.2.1",
         "wpackagist-plugin/codelights-shortcodes-and-widgets": "<=1.4",
