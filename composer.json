@@ -3534,6 +3534,7 @@
         "wpackagist-plugin/gutenslider": "<= 5.10.1.0",
         "wpackagist-plugin/gutentor": "<=3.3.9",
         "wpackagist-plugin/gutenverse": "<= 1.9.4.0",
+        "wpackagist-plugin/gwebpro-store-locator": "<=2.1",
         "wpackagist-plugin/gwolle-gb": "<= 4.1.2.0",
         "wpackagist-plugin/gwp-histats": "<=1.0",
         "wpackagist-plugin/gwyns-imagemap-selector": "<=0.3.3",
