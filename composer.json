@@ -9244,6 +9244,7 @@
         "wpackagist-plugin/wp-smart-export": ">=1.4.2,<=1.4.2.3",
         "wpackagist-plugin/wp-smart-import": "<= 1.1.2.0",
         "wpackagist-plugin/wp-smart-preloader": "<=1.15",
+        "wpackagist-plugin/wp-smart-tv": "<=2.1.8",
         "wpackagist-plugin/wp-smiley": "<=1.4.1",
         "wpackagist-plugin/wp-sms": "<= 6.9.3.0",
         "wpackagist-plugin/wp-smtp": ">=1.2,<=1.2.6",
