@@ -5543,6 +5543,7 @@
         "wpackagist-plugin/popup-manager": "<=1.6.6",
         "wpackagist-plugin/popup-modal-for-youtube": "*",
         "wpackagist-plugin/popup-more": "<= 2.3.2.0",
+        "wpackagist-plugin/popup-surveys": "<=1.36",
         "wpackagist-plugin/popup-with-fancybox": "<=3.5",
         "wpackagist-plugin/popup-zyrex": "<=1.0",
         "wpackagist-plugin/popup4phone": "<=1.3.2",
