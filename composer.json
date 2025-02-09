@@ -29,7 +29,7 @@
         "wpackagist-plugin/1-jquery-photo-gallery-slideshow-flash": "<=1.11",
         "wpackagist-plugin/1003-mortgage-application": "<=1.75",
         "wpackagist-plugin/10to8-online-booking": "<=1.0.9",
-        "wpackagist-plugin/12-step-meeting-list": "<=3.14.33",
+        "wpackagist-plugin/12-step-meeting-list": "<= 3.16.5.0",
         "wpackagist-plugin/123-chat-videochat": "<= 1.3.1.0",
         "wpackagist-plugin/123contactform-for-wordpress": "<=1.5.6",
         "wpackagist-plugin/1app-business-forms": "<=1.0.0",
