@@ -6516,6 +6516,7 @@
         "wpackagist-plugin/shortpixel-image-optimiser": "<=5.6.3",
         "wpackagist-plugin/shoutcast-icecast-html5-radio-player": "<=2.1.6",
         "wpackagist-plugin/show-all-comments-in-one-page": "<=7.0.0",
+        "wpackagist-plugin/show-google-analytics-widget": "<=1.5.4",
         "wpackagist-plugin/show-hidecollapse-expand": "<= 1.2.6.0",
         "wpackagist-plugin/show-posts": "<=1.6",
         "wpackagist-plugin/show-visitor-ip-address": "<=0.2",
