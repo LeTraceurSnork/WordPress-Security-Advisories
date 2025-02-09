@@ -953,6 +953,7 @@
         "wpackagist-plugin/bigcommerce": "<=5.1.1",
         "wpackagist-plugin/bigcontact": "<= 1.5.8.0",
         "wpackagist-plugin/bigmart-elements": "<=1.0.3",
+        "wpackagist-plugin/bilingual-linker": "<=2.4",
         "wpackagist-plugin/billingo": "<=3.3.9",
         "wpackagist-plugin/bin-stripe-donation": "<=1.2.5",
         "wpackagist-plugin/bing-site-verification-using-meta-tag": "<=1.0",
