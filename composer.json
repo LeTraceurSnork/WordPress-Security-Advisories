@@ -7105,6 +7105,7 @@
         "wpackagist-plugin/strong-testimonials": "<= 3.1.16.0",
         "wpackagist-plugin/structured-content": "<= 1.6.2.0",
         "wpackagist-plugin/studiocart": ">=1.0.2,<=2.5.11",
+        "wpackagist-plugin/style-admin": "<=1.4.3",
         "wpackagist-plugin/style-it": "<=1.0",
         "wpackagist-plugin/styler-for-ninja-forms-lite": "<=3.3.4",
         "wpackagist-plugin/stylish-cost-calculator": "<= 7.3.6.0",
