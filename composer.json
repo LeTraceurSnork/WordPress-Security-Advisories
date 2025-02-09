@@ -3371,6 +3371,7 @@
         "wpackagist-plugin/gnu-mailman-integration": "<=1.0.6",
         "wpackagist-plugin/gnucommerce": "<1.4.2",
         "wpackagist-plugin/go-fetch-jobs-jobengine": "<=1.0",
+        "wpackagist-plugin/go-social": "<=1.0",
         "wpackagist-plugin/go-viral": ">=1.0.0,<=1.8.2",
         "wpackagist-plugin/go_pricing": "<=3.3.19",
         "wpackagist-plugin/goal-tracker-ga": ">=1.0.1,<=1.0.10",
