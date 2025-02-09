@@ -2920,6 +2920,7 @@
         "wpackagist-plugin/feed-them-social": "<= 4.2.0.0",
         "wpackagist-plugin/feedback-suite": "<=1.0.5",
         "wpackagist-plugin/feedburner-feedsmith": "<=2.2",
+        "wpackagist-plugin/feedburner-optin-form": "<=0.2.8",
         "wpackagist-plugin/feedfocal": "<=1.2.2",
         "wpackagist-plugin/feedlist": "<=2.61.03",
         "wpackagist-plugin/feedpress-generator": "<= 1.2.1.0",
