@@ -8583,6 +8583,7 @@
         "wpackagist-plugin/wp-awesome-faq": ">=4.1.5,<=4.1.8",
         "wpackagist-plugin/wp-awesome-login": "<=0.4.0",
         "wpackagist-plugin/wp-back-button": "<=1.1.3",
+        "wpackagist-plugin/wp-background-tile": "<=1.0",
         "wpackagist-plugin/wp-backgrounds-lite": "<=2.3",
         "wpackagist-plugin/wp-backitup": "<=1.50",
         "wpackagist-plugin/wp-backpack": "<=2.1",
