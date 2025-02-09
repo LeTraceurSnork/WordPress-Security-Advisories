@@ -2852,7 +2852,7 @@
         "wpackagist-plugin/fancy-elementor-flipbox": "<=2.5.1",
         "wpackagist-plugin/fancy-facebook-comments": "<=1.2.14",
         "wpackagist-plugin/fancy-gallery": "<= 1.6.58.0",
-        "wpackagist-plugin/fancy-product-designer": "< 6.1.81.0-dev",
+        "wpackagist-plugin/fancy-product-designer": "<= 6.4.3.0",
         "wpackagist-plugin/fancy-user-listing": "<=3.1",
         "wpackagist-plugin/fancybox-for-wordpress": "<= 3.3.4.0",
         "wpackagist-plugin/fancyflickr": "*",
