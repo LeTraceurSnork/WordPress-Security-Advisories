@@ -3391,7 +3391,7 @@
         "wpackagist-plugin/google-adsense-and-hotel-booking": "<=1.05",
         "wpackagist-plugin/google-analyticator": "<= 6.5.5.0",
         "wpackagist-plugin/google-analytics-dashboard": "<=2.1.1",
-        "wpackagist-plugin/google-analytics-dashboard-for-wp": "<=7.14.1",
+        "wpackagist-plugin/google-analytics-dashboard-for-wp": "<= 8.1.0.0",
         "wpackagist-plugin/google-analytics-for-wordpress": "<= 8.21.0.0",
         "wpackagist-plugin/google-analytics-mu": "<=2.3.1",
         "wpackagist-plugin/google-analytics-opt-out": "<=2.3.4",
