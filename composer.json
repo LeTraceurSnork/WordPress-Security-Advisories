@@ -9600,7 +9600,7 @@
         "wpackagist-plugin/xpd-reduce-image-filesize": "<=1.0",
         "wpackagist-plugin/xpinner-lite": "<=2.2",
         "wpackagist-plugin/xpresslane-integration-for-woocommerce": "<=1.0.0",
-        "wpackagist-plugin/xpro-elementor-addons": "<=1.4.6.1",
+        "wpackagist-plugin/xpro-elementor-addons": "<= 1.4.6.2",
         "wpackagist-plugin/xqueue-maileon": "<=2.16.0",
         "wpackagist-plugin/xserver-migrator": "<=1.6.2",
         "wpackagist-plugin/xserver-typesquare-webfonts": "<=2.0.7",
