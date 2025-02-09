@@ -610,7 +610,7 @@
         "wpackagist-plugin/app-builder": "<= 5.3.7.0",
         "wpackagist-plugin/appexperts": "<=1.4.0",
         "wpackagist-plugin/appizy-app-embed": "<=2.3.2",
-        "wpackagist-plugin/apply-online": "<=2.6.2",
+        "wpackagist-plugin/apply-online": "<= 2.6.7.1",
         "wpackagist-plugin/appmaker-woocommerce-mobile-app-manager": "<=1.36.12",
         "wpackagist-plugin/appmysite": "<=3.11.0",
         "wpackagist-plugin/appointment-booking-calendar": "<= 1.3.82.0",
