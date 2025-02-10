@@ -9730,6 +9730,7 @@
         "wpackagist-plugin/yurl-retwitt": "<=1.4",
         "wpackagist-plugin/yuzo-related-post": "<5.12.94",
         "wpackagist-plugin/z-downloads": "<= 1.11.7.0",
+        "wpackagist-plugin/z-inventory-manager": "<=3.1.6",
         "wpackagist-plugin/z-url-preview": "<2.0.0",
         "wpackagist-plugin/zajax-ajax-navigation": "<=0.4",
         "wpackagist-plugin/zarzadzanie_kontem": "*",
