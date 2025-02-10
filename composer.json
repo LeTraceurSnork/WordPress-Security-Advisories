@@ -1071,6 +1071,7 @@
         "wpackagist-plugin/bookster": "<=1.1.0",
         "wpackagist-plugin/bookx": "<=1.7",
         "wpackagist-plugin/boombox-shortcode": "<=1.0.0",
+        "wpackagist-plugin/boombox-theme-extensions": "<=1.8.0",
         "wpackagist-plugin/booqable-rental-reservations": "<=2.4.15",
         "wpackagist-plugin/booster-elite-for-woocommerce": "<= 7.1.7.0",
         "wpackagist-plugin/booster-extension": "<=1.2.0",
