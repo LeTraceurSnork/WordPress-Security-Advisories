@@ -3302,6 +3302,7 @@
         "wpackagist-plugin/geo-my-wp": "<= 4.5.0.3",
         "wpackagist-plugin/geo-redirector": "<=1.0.1",
         "wpackagist-plugin/geo-request": "<=0.1.9",
+        "wpackagist-plugin/geo-targetly-geo-content": "<=6.0",
         "wpackagist-plugin/geodatasource-country-region-dropdown": "<=1.0.1",
         "wpackagist-plugin/geodir_location_manager": "<2.1.0.10",
         "wpackagist-plugin/geodirectory": "<= 2.3.80.0",
