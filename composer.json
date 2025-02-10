@@ -6074,7 +6074,7 @@
         "wpackagist-plugin/resmushit-image-optimizer": "<=0.4.6",
         "wpackagist-plugin/responsive-accordion-tabs": "<=1.4.1",
         "wpackagist-plugin/responsive-add-ons": "<= 3.0.5.0",
-        "wpackagist-plugin/responsive-addons-for-elementor": "<=1.5.4",
+        "wpackagist-plugin/responsive-addons-for-elementor": "<= 1.6.4.0",
         "wpackagist-plugin/responsive-block-editor-addons": "<= 1.9.7.0",
         "wpackagist-plugin/responsive-category-slider": "*",
         "wpackagist-plugin/responsive-client-logo-carousel-slider": "<=1.2.0",
