@@ -346,6 +346,7 @@
         "wpackagist-plugin/advanced-most-recent-posts-mod": "<=1.6.5.2",
         "wpackagist-plugin/advanced-nocaptcha-recaptcha": "<= 7.0.6.1",
         "wpackagist-plugin/advanced-online-ordering-and-delivery-platform": "<=2.0.0",
+        "wpackagist-plugin/advanced-options-editor": "<=1.0",
         "wpackagist-plugin/advanced-page-visit-counter": "<= 8.0.6.0",
         "wpackagist-plugin/advanced-pdf-generator": "<=0.4.0",
         "wpackagist-plugin/advanced-popups": "<=1.1.1",
