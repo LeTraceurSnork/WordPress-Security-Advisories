@@ -7702,6 +7702,7 @@
         "wpackagist-plugin/tx-onepager": "<=2.4.1",
         "wpackagist-plugin/typea-ftc-disclosure": "<=2.0",
         "wpackagist-plugin/typebot": "<=3.6.0",
+        "wpackagist-plugin/typer-core": "<=1.9.6",
         "wpackagist-plugin/types": "<=3.4.17",
         "wpackagist-plugin/typing-text": "<=1.2.5",
         "wpackagist-plugin/typofr": "<=0.11",
