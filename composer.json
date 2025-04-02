@@ -4945,6 +4945,7 @@
         "wpackagist-plugin/my-instagram-feed": ">=1.0.0,<=3.1.1",
         "wpackagist-plugin/my-link-order": "<=4.3",
         "wpackagist-plugin/my-page-order": "<=4.3",
+        "wpackagist-plugin/my-quota": "<=1.0.8",
         "wpackagist-plugin/my-reading-library": "<=1.0",
         "wpackagist-plugin/my-related-posts": "<=1.1",
         "wpackagist-plugin/my-restaurant-menu": "<=0.2.0",
