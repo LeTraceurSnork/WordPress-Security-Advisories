@@ -4716,6 +4716,7 @@
         "wpackagist-plugin/menu-swapper": "<=1.1.0.2",
         "wpackagist-plugin/menubar": "<= 5.8.2.0",
         "wpackagist-plugin/menukaart": "<=1.3",
+        "wpackagist-plugin/menus-plus": "<=1.9.6",
         "wpackagist-plugin/meow-gallery": "<= 5.1.3.0",
         "wpackagist-plugin/mercadolibre-integration": "<=1.1",
         "wpackagist-plugin/merge-minify-refresh": "<1.10.8",
