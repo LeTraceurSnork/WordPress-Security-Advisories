@@ -1937,6 +1937,7 @@
         "wpackagist-plugin/cryptocurrency": "<=0.0.17",
         "wpackagist-plugin/cryptocurrency-donation-box": "<=2.2.7",
         "wpackagist-plugin/cryptocurrency-price-ticker-widget": "<= 2.8.0.0",
+        "wpackagist-plugin/cryptocurrency-price-widget": "<=1.2.3",
         "wpackagist-plugin/cryptocurrency-prices": "<=3.0.19",
         "wpackagist-plugin/cryptocurrency-pricing-list": "<=1.5",
         "wpackagist-plugin/cryptocurrency-product-for-woocommerce": "<=3.16.9",
