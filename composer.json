@@ -168,7 +168,7 @@
         "wpackagist-plugin/acumbamail-signup-forms": "<1.0.4.1",
         "wpackagist-plugin/acurax-social-media-widget": "< 3.2.6.0-dev",
         "wpackagist-plugin/acymailing": "<=9.7.2",
-        "wpackagist-plugin/ad-blocking-detector": "<=1.2.1",
+        "wpackagist-plugin/ad-blocking-detector": "<= 3.6.0.0",
         "wpackagist-plugin/ad-buttons": "<2.3.2",
         "wpackagist-plugin/ad-injection": "<=1.2.0.19",
         "wpackagist-plugin/ad-inserter": "<= 2.7.37.0",
