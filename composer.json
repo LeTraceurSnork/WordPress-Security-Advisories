@@ -4053,7 +4053,7 @@
         "wpackagist-plugin/jet-woo-product-gallery": "<=2.1.13.1",
         "wpackagist-plugin/jetformbuilder": "<=3.3.4.1",
         "wpackagist-plugin/jetgridbuilder": "<=1.1.2",
-        "wpackagist-plugin/jetpack": "<13.9.1",
+        "wpackagist-plugin/jetpack": "<= 14.0.0.0",
         "wpackagist-plugin/jetpack-boost": "<=3.4.6",
         "wpackagist-plugin/jetwidgets-for-elementor": "<= 1.0.18.0",
         "wpackagist-plugin/jetwoo-widgets-for-elementor": "<=1.1.7",
