@@ -5861,7 +5861,7 @@
         "wpackagist-plugin/project-source-code-download": "<=1.0.0",
         "wpackagist-plugin/project-status": "<=1.6",
         "wpackagist-plugin/projecthuddle-child-site": "<=1.0.34",
-        "wpackagist-plugin/projectopia-core": "<=5.1.4",
+        "wpackagist-plugin/projectopia-core": "<= 5.1.7.0",
         "wpackagist-plugin/promobar": "<1.1.1",
         "wpackagist-plugin/promolayer-popup-builder": "<=1.1.0",
         "wpackagist-plugin/promotion-slider": "<=3.3.4",
