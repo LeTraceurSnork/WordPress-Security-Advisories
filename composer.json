@@ -10023,6 +10023,7 @@
         "wpackagist-theme/bootstrap-coach": ">=1.1.0,<=1.1.1",
         "wpackagist-theme/bootstrap-fitness": "1.0.5",
         "wpackagist-theme/bootstrap-photography": "<=1.0.5",
+        "wpackagist-theme/bootstrap-ultimate": "<=1.4.9",
         "wpackagist-theme/bordeaux-theme": "*",
         "wpackagist-theme/brain-power": "*",
         "wpackagist-theme/brand": "<=1.9.1",
