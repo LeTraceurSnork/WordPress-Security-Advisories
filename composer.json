@@ -3275,6 +3275,7 @@
         "wpackagist-plugin/galleria": "<=1.0.3",
         "wpackagist-plugin/gallerio": "<=1.01",
         "wpackagist-plugin/gallery-album": "<= 2.0.3.0",
+        "wpackagist-plugin/gallery-and-lightbox": "<=1.0.14",
         "wpackagist-plugin/gallery-bank": "<= 4.0.50.0",
         "wpackagist-plugin/gallery-box": "<=1.7.33",
         "wpackagist-plugin/gallery-by-supsystic": "<=1.15.16",
