@@ -8911,6 +8911,7 @@
         "wpackagist-plugin/wp-embed-facebook": "<=3.1.1",
         "wpackagist-plugin/wp-emember": "< 10.7.0.0-dev",
         "wpackagist-plugin/wp-emoji-one": "<=0.6.0",
+        "wpackagist-plugin/wp-enable-svg": "<=0.7",
         "wpackagist-plugin/wp-estimation-form": "<= 10.1.76.0",
         "wpackagist-plugin/wp-etracker": "<=1.0.2",
         "wpackagist-plugin/wp-event-aggregator": "<=1.7.9",
