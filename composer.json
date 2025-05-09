@@ -8794,6 +8794,7 @@
         "wpackagist-plugin/wp-construction-mode": "<=1.91",
         "wpackagist-plugin/wp-consultant": "<=1.0",
         "wpackagist-plugin/wp-contact-form": "<=1.6",
+        "wpackagist-plugin/wp-contact-form7-email-spam-blocker": "<=1.0.0",
         "wpackagist-plugin/wp-contact-sidebar-widget": "<=1.0",
         "wpackagist-plugin/wp-contact-slider": "<= 2.4.8.0",
         "wpackagist-plugin/wp-contactform": "<=1.5.1",
