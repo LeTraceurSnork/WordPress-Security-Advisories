@@ -3333,6 +3333,7 @@
         "wpackagist-plugin/gdpr-data-request-form": "<=1.6",
         "wpackagist-plugin/gdpr-personal-data-reports": "<=1.0.5",
         "wpackagist-plugin/gdreseller": "<=1.6",
+        "wpackagist-plugin/gdy-modular-content": "<=0.9.92",
         "wpackagist-plugin/gecka-terms-thumbnails": "<=1.1",
         "wpackagist-plugin/genealogical-tree": "<=2.2.0.8",
         "wpackagist-plugin/generate-child-theme": "<= 2.0.0.0",
