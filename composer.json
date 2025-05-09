@@ -1090,6 +1090,7 @@
         "wpackagist-plugin/bookshelf": "<=2.0.4",
         "wpackagist-plugin/bookster": "<=1.1.0",
         "wpackagist-plugin/bookx": "<=1.7",
+        "wpackagist-plugin/boom-fest": "<=2.2.1",
         "wpackagist-plugin/boombox-shortcode": "<=1.0.0",
         "wpackagist-plugin/boombox-theme-extensions": "<=1.8.0",
         "wpackagist-plugin/booqable-rental-reservations": "<=2.4.15",
