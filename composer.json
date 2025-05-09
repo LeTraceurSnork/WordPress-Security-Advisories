@@ -6324,6 +6324,7 @@
         "wpackagist-plugin/saaspricing": "<=1.1.3",
         "wpackagist-plugin/sabaisdiscuss": "<=1.4.13",
         "wpackagist-plugin/sabre": "<1.2.2",
+        "wpackagist-plugin/safe-ai-malware-protection-for-wp": "<=1.0.17",
         "wpackagist-plugin/safe-editor": "<1.2",
         "wpackagist-plugin/safe-redirect-manager": "<=1.11.1",
         "wpackagist-plugin/safe-svg": "<= 2.2.5.0",
