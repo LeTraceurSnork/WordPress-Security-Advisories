@@ -10169,6 +10169,7 @@
         "wpackagist-plugin/user-role": "<= 1.6.6.0",
         "wpackagist-plugin/user-role-editor": "<=4.64.3",
         "wpackagist-plugin/user-roles": "<=1.0",
+        "wpackagist-plugin/user-roles-and-capabilities": "<=1.2.6",
         "wpackagist-plugin/user-session-synchronizer": "<=1.4.0",
         "wpackagist-plugin/user-shortcodes-plus": "<=2.0.2",
         "wpackagist-plugin/user-spam-remover": "<=1.0",
