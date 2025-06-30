@@ -8425,7 +8425,7 @@
         "wpackagist-plugin/seur": "<= 2.2.23.0",
         "wpackagist-plugin/sexbundle": "<=1.4",
         "wpackagist-plugin/sexy-author-bio": "<=1.5.5",
-        "wpackagist-plugin/sexy-contact-form": "<1.0.0",
+        "wpackagist-plugin/sexy-contact-form": "<= 1.0.0.0",
         "wpackagist-plugin/sexybookmarks": "<=6.1.4.0",
         "wpackagist-plugin/seznam-webmaster": "<=1.4.7",
         "wpackagist-plugin/sf-booking": "<= 5.1.0.0",
