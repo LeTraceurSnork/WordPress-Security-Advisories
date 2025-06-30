@@ -104,6 +104,7 @@
         "wpackagist-plugin/ab-google-map-travel": "<= 4.6.0.0",
         "wpackagist-plugin/ab-press-optimizer-lite": "<=1.1.1",
         "wpackagist-plugin/ab-rankings-testing-tool": "<=0.9.83",
+        "wpackagist-plugin/ab-testing-for-wp": "<=1.18.2",
         "wpackagist-plugin/aba-payway-woocommerce-payment-gateway": "<=2.1.4",
         "wpackagist-plugin/abbie-expander": "<=1.0.1",
         "wpackagist-plugin/abbs-bing-search": "<=0.3.3",
