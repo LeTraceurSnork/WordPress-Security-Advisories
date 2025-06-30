@@ -12172,6 +12172,7 @@
         "wpackagist-plugin/wp-user-merger": "<=1.5.2",
         "wpackagist-plugin/wp-user-profile-avatar": "<= 1.0.5.0",
         "wpackagist-plugin/wp-user-profiles": "<=2.6.2",
+        "wpackagist-plugin/wp-user-stylesheet-switcher": "<=v2.2.0",
         "wpackagist-plugin/wp-user-switch": "<=1.1.0",
         "wpackagist-plugin/wp-useronline": "<= 2.88.2.0",
         "wpackagist-plugin/wp-users-disable": "<=1.0.1",
