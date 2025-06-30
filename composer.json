@@ -12061,7 +12061,7 @@
         "wpackagist-plugin/wp-statistics": "<= 14.13.3.0",
         "wpackagist-plugin/wp-stats": "<2.52",
         "wpackagist-plugin/wp-stats-dashboard": "<=2.9.4",
-        "wpackagist-plugin/wp-stats-manager": "<= 7.5.0.0",
+        "wpackagist-plugin/wp-stats-manager": "<= 7.8.0.0",
         "wpackagist-plugin/wp-sticky-side-buttons": "<=2.1",
         "wpackagist-plugin/wp-sticky-social": "1.0.1",
         "wpackagist-plugin/wp-store-locator-extenders": ">=1.1.0,<=1.3.2",
