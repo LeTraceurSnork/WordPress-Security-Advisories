@@ -1583,6 +1583,7 @@
         "wpackagist-plugin/bulk-term-editor": "<=1.1.4",
         "wpackagist-plugin/bulk-user-editor": "<=1.8.0",
         "wpackagist-plugin/bulk-woocommerce-category-creator": "<=2.3",
+        "wpackagist-plugin/bulk-youtube-post-creator": "<=1.0",
         "wpackagist-plugin/bulkpress": "<=0.3.5",
         "wpackagist-plugin/bulletin-announcements": "<=3.11.7",
         "wpackagist-plugin/bulletproof-security": "< 6.1.0.0-dev",
