@@ -13236,7 +13236,7 @@
         "wpackagist-theme/holding_pattern": "<=0.6",
         "wpackagist-theme/home-services": "<=1.2.6",
         "wpackagist-theme/homesweet": "<=1.4",
-        "wpackagist-theme/homevillas-real-estate": "<=2.2",
+        "wpackagist-theme/homevillas-real-estate": "<= 2.8.0.0",
         "wpackagist-theme/homey": "<= 2.4.4.0",
         "wpackagist-theme/honeypress": "<2.3.6",
         "wpackagist-theme/hostiko": "<30.1",
