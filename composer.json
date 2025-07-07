@@ -7223,6 +7223,7 @@
         "wpackagist-plugin/plugin": "<=1.0.2",
         "wpackagist-plugin/plugin-central": "<= 2.5.1.0",
         "wpackagist-plugin/plugin-groups": "<=2.0.6",
+        "wpackagist-plugin/plugin-inspector": "<=1.5",
         "wpackagist-plugin/plugin-logic": "<=1.0.7",
         "wpackagist-plugin/plugin-newsletter": "<=1.5",
         "wpackagist-plugin/plugin-notes-plus": "<= 1.2.7.0",
