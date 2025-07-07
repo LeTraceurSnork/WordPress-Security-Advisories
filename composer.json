@@ -3280,6 +3280,7 @@
         "wpackagist-plugin/ebook-downloader": "<=1.0",
         "wpackagist-plugin/ebook-store": "<= 5.8009.0.0",
         "wpackagist-plugin/ec-authorizenet": "<=0.3.3",
+        "wpackagist-plugin/ec-stars-rating": "<=1.0.11",
         "wpackagist-plugin/ecab-taxi-booking-manager": "<= 1.2.1.0",
         "wpackagist-plugin/ecava-diot-scada": "<=1.0.5.1",
         "wpackagist-plugin/echo-knowledge-base": "<=11.30.2",
