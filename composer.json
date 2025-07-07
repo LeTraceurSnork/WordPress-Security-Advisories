@@ -11848,6 +11848,7 @@
         "wpackagist-plugin/wp-opensearch": "<=1.0",
         "wpackagist-plugin/wp-opt-in": "<=1.4.1",
         "wpackagist-plugin/wp-optimize": "<= 4.1.1.0",
+        "wpackagist-plugin/wp-optimize-by-xtraffic": "<=5.1.6",
         "wpackagist-plugin/wp-optin-wheel": "<= 1.4.7.0",
         "wpackagist-plugin/wp-options-editor": "<=1.1",
         "wpackagist-plugin/wp-order-by": "<=1.4.2",
