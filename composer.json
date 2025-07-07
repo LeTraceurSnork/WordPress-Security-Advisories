@@ -6448,7 +6448,7 @@
         "wpackagist-plugin/my-waze": "<=1.6",
         "wpackagist-plugin/my-wish-list": "<1.4.2",
         "wpackagist-plugin/my-wp": "<= 1.24.0.0",
-        "wpackagist-plugin/my-wp-brand": "<=1.1.2",
+        "wpackagist-plugin/my-wp-brand": "<= 1.1.3.0",
         "wpackagist-plugin/my-wp-health-check": "<=1.9.7",
         "wpackagist-plugin/my-wp-responsive-video": "<=1.0",
         "wpackagist-plugin/my-wp-tabs": "<=2.2.6",
