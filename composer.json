@@ -2521,6 +2521,7 @@
         "wpackagist-plugin/cta": "< 2.5.1.0-dev",
         "wpackagist-plugin/ctabs": "<=1.3",
         "wpackagist-plugin/ctt-expresso-para-woocommerce": "<=3.2.12",
+        "wpackagist-plugin/ctuser": "<=1.0.0",
         "wpackagist-plugin/cube-slider": "<=1.2",
         "wpackagist-plugin/cubepm": "<=1.0",
         "wpackagist-plugin/cubepoints": "<=3.2.1",
