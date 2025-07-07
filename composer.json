@@ -7248,6 +7248,7 @@
         "wpackagist-plugin/podamibe-twilio-private-call": "<=1.0.1",
         "wpackagist-plugin/podcast-box": ">=1.0.0,<=1.0.2",
         "wpackagist-plugin/podcast-channels": "<0.21",
+        "wpackagist-plugin/podcast-feed-player-widget": "<=2.2.0",
         "wpackagist-plugin/podcast-importer-secondline": "<1.3.8",
         "wpackagist-plugin/podcast-subscribe-buttons": "<=1.4.8",
         "wpackagist-plugin/podcasting": "<=3.0.4.1",
