@@ -2982,7 +2982,7 @@
         "wpackagist-plugin/download-media": "<=1.4.2",
         "wpackagist-plugin/download-monitor": "<= 5.0.22.0",
         "wpackagist-plugin/download-now-for-woocommerce": "<=3.5.8.2",
-        "wpackagist-plugin/download-plugin": "<= 2.2.0.0",
+        "wpackagist-plugin/download-plugin": "<= 2.2.8.0",
         "wpackagist-plugin/download-plugins-dashboard": "<= 1.9.1.0",
         "wpackagist-plugin/download-shortcode": "<=0.2.3",
         "wpackagist-plugin/download-theme": "<=1.0.9",
