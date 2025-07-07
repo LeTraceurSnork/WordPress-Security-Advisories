@@ -172,7 +172,7 @@
         "wpackagist-plugin/acf-for-woocommerce-product": ">=0.1,<=1.8.1",
         "wpackagist-plugin/acf-front-end-editor": "<=2.0.2",
         "wpackagist-plugin/acf-frontend-display": "<=2.0.6",
-        "wpackagist-plugin/acf-frontend-form-element": "<= 3.25.17.0",
+        "wpackagist-plugin/acf-frontend-form-element": "<= 3.28.7.0",
         "wpackagist-plugin/acf-google-font-selector-field": "<=3.0.1",
         "wpackagist-plugin/acf-image-crop-add-on": "<=1.4.12",
         "wpackagist-plugin/acf-images-search-and-insert": "<=1.1.4",
