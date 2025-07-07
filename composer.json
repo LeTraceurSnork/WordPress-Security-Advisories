@@ -10607,7 +10607,7 @@
         "wpackagist-plugin/webtoffee-gdpr-cookie-consent": "<=2.6.0",
         "wpackagist-plugin/webtoffee-product-feed": "<=2.2.8",
         "wpackagist-plugin/webwinkelkeur": "<3.25",
-        "wpackagist-plugin/wecantrack": "<=1.4.9",
+        "wpackagist-plugin/wecantrack": "<= 2.0.0.0",
         "wpackagist-plugin/wechat-broadcast": "<=1.2.0",
         "wpackagist-plugin/wechat-reward": "<=1.7",
         "wpackagist-plugin/wechat-social-login": "<=1.3.0",
