@@ -7810,6 +7810,7 @@
         "wpackagist-plugin/rb-internal-links": "<=2.0.16",
         "wpackagist-plugin/rbxgallery": "<3.1",
         "wpackagist-plugin/rccp-free": "<=1.6.1",
+        "wpackagist-plugin/rd-wapp": "<=1.4",
         "wpackagist-plugin/rd-wc-order-modifier": "<=1.0.5",
         "wpackagist-plugin/rdfa-breadcrumb": "<=2.3",
         "wpackagist-plugin/rdp-ingroups": "<=1.0.6",
