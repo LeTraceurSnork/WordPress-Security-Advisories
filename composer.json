@@ -4095,7 +4095,7 @@
         "wpackagist-plugin/formularios-de-contacto-salesup": "<=1.0.14",
         "wpackagist-plugin/formzu-wp": "<=1.6.7",
         "wpackagist-plugin/forty-four": "<=1.4",
-        "wpackagist-plugin/forum-server": "< 1.7.5.0-dev",
+        "wpackagist-plugin/forum-server": "<= 1.8.2.0",
         "wpackagist-plugin/forumwp": "<=2.1.2",
         "wpackagist-plugin/forym": "<=1.5.8",
         "wpackagist-plugin/fossura-tag-miner": "<1.1.5",
