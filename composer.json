@@ -11947,6 +11947,7 @@
         "wpackagist-plugin/wp-proposals": "<=2.3",
         "wpackagist-plugin/wp-ptviewer": "<=2.0.2",
         "wpackagist-plugin/wp-publications": "<= 1.2.0.0",
+        "wpackagist-plugin/wp-push-notification-firebase": "<=1.2.0",
         "wpackagist-plugin/wp-qrcode-me-v-card": "<=1.6.0",
         "wpackagist-plugin/wp-query-console": "<=1.0",
         "wpackagist-plugin/wp-query-creator": "<=1.0",
