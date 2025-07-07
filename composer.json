@@ -12265,6 +12265,7 @@
         "wpackagist-plugin/wp-voting-contest": "<= 5.8.0.0",
         "wpackagist-plugin/wp-vr-view": "<=1.6",
         "wpackagist-plugin/wp-w3all-phpbb-integration": "<=2.9.7",
+        "wpackagist-plugin/wp-wall": "<=1.7.3",
         "wpackagist-plugin/wp-wc-affiliate-program": "<=8.4.1",
         "wpackagist-plugin/wp-webauthn": "<= 1.3.3.0",
         "wpackagist-plugin/wp-webinarsystem": "<= 1.33.27.0",
