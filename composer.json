@@ -11417,7 +11417,7 @@
         "wpackagist-plugin/wp-database-backup": "<= 7.3.0.0",
         "wpackagist-plugin/wp-database-error-manager": "<=2.1.6",
         "wpackagist-plugin/wp-database-optimizer": "<=1.2.1.3",
-        "wpackagist-plugin/wp-datatable": "<=0.2.6",
+        "wpackagist-plugin/wp-datatable": "<= 0.2.7.0",
         "wpackagist-plugin/wp-date-and-time-shortcode": "<=2.6.7",
         "wpackagist-plugin/wp-datepicker": "<= 2.1.4.0",
         "wpackagist-plugin/wp-db-backup": "<2.5.2",
