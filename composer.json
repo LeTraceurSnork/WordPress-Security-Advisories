@@ -3193,7 +3193,7 @@
         "wpackagist-plugin/easy-paypal-donation": "<= 1.4.5.0",
         "wpackagist-plugin/easy-paypal-events-tickets": "<= 1.2.2.0",
         "wpackagist-plugin/easy-paypal-shopping-cart": "<= 1.1.10.0",
-        "wpackagist-plugin/easy-pdf-restaurant-menu-upload": "<=1.1.2",
+        "wpackagist-plugin/easy-pdf-restaurant-menu-upload": "<= 2.0.1.0",
         "wpackagist-plugin/easy-photo-album": "<=1.1.5",
         "wpackagist-plugin/easy-pie-coming-soon": "<=1.0.73",
         "wpackagist-plugin/easy-pie-maintenance-mode": "<=1.0.1",
