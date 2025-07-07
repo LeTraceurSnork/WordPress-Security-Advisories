@@ -8976,6 +8976,7 @@
         "wpackagist-plugin/smart-cookie-kit": "<2.3.2",
         "wpackagist-plugin/smart-countdown-fx": "<=1.5.5",
         "wpackagist-plugin/smart-custom-fields": "<= 5.0.0.0",
+        "wpackagist-plugin/smart-docs": "<=1.1.0",
         "wpackagist-plugin/smart-dofollow": "<=1.0.2",
         "wpackagist-plugin/smart-donations": "<=4.0.12",
         "wpackagist-plugin/smart-email-alerts": "<=1.0.10",
