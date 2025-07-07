@@ -905,6 +905,7 @@
         "wpackagist-plugin/audio-and-video-player": "<=1.1.3",
         "wpackagist-plugin/audio-comments": "<=1.0.4",
         "wpackagist-plugin/audio-comparison-lite": "<=3.4",
+        "wpackagist-plugin/audio-editor-recorder": "<=2.2.3",
         "wpackagist-plugin/audio-merchant": "<=5.0.4",
         "wpackagist-plugin/audio-player": "<2.0.4.6",
         "wpackagist-plugin/audio-player-with-playlist-ultimate": "<=1.2.2",
