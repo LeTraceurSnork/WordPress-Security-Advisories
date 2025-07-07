@@ -762,7 +762,7 @@
         "wpackagist-plugin/ap-custom-testimonial": "<= 1.4.7.0",
         "wpackagist-plugin/ap-google-maps": "<=1.0.9",
         "wpackagist-plugin/ap-mega-menu": "<3.0.8",
-        "wpackagist-plugin/ap-plugin-scripteo": "<=4.88",
+        "wpackagist-plugin/ap-plugin-scripteo": "<= 4.89.0.0",
         "wpackagist-plugin/ap-pricing-tables-lite": "<=1.1.6",
         "wpackagist-plugin/ap-twig-bridge": "<=1.0",
         "wpackagist-plugin/apa-banner-slider": "<=1.0.0",
