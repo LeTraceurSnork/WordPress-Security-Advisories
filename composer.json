@@ -4526,6 +4526,7 @@
         "wpackagist-plugin/gotowp": "<=5.1.1",
         "wpackagist-plugin/gou-wc-account-tabs": "<=1.0.1.8",
         "wpackagist-plugin/gourl-bitcoin-payment-gateway-paid-downloads-membership": "<=1.4.13",
+        "wpackagist-plugin/gozen-forms": "<=1.1.5",
         "wpackagist-plugin/gp-back-to-top": "<=3.0",
         "wpackagist-plugin/gp-notification-bar": "<=1.1",
         "wpackagist-plugin/gp-premium": "<=2.4.0",
