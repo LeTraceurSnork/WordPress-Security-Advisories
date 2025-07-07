@@ -4719,6 +4719,7 @@
         "wpackagist-plugin/hestia-nginx-cache": "<=2.4.0",
         "wpackagist-plugin/heureka": "<=1.0.8",
         "wpackagist-plugin/hide-admin-bar-based-on-user-roles": "<3.1.0",
+        "wpackagist-plugin/hide-admin-bar-from-front-end": "<=1.0.0",
         "wpackagist-plugin/hide-category-by-user-role-for-woocommerce": "<=2.1.1",
         "wpackagist-plugin/hide-it": "<=1.0.1",
         "wpackagist-plugin/hide-links": "<=1.4.2",
