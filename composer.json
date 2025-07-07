@@ -10829,7 +10829,7 @@
         "wpackagist-plugin/woo-oscommerce-sync": "<=2.0.20",
         "wpackagist-plugin/woo-parcel-pro": "<=1.8.4",
         "wpackagist-plugin/woo-payment-gateway-for-piraeus-bank": "<=1.6.5.1",
-        "wpackagist-plugin/woo-pdf-invoice-builder": "<= 1.2.136.0",
+        "wpackagist-plugin/woo-pdf-invoice-builder": "<= 1.2.148.0",
         "wpackagist-plugin/woo-pdf-invoices-bulk-download": "<=1.0.0",
         "wpackagist-plugin/woo-pensopay": "<=6.3.1",
         "wpackagist-plugin/woo-permalink-manager": "<=2.3.10",
