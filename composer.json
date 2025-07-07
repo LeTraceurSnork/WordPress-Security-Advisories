@@ -4998,6 +4998,7 @@
         "wpackagist-plugin/import-eventbrite-events": "<=1.7.4",
         "wpackagist-plugin/import-export-for-woocommerce": "<=1.6.2",
         "wpackagist-plugin/import-export-with-custom-rest-api": ">=1.0.0,<=2.0.3",
+        "wpackagist-plugin/import-external-attachments": "<=1.5.12",
         "wpackagist-plugin/import-external-images": "<=1.4",
         "wpackagist-plugin/import-facebook-events": "<=1.8.5",
         "wpackagist-plugin/import-legacy-media": "<=0.1",
