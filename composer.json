@@ -9015,7 +9015,7 @@
         "wpackagist-plugin/smartifw": "<=1.0.4",
         "wpackagist-plugin/smartkit": "<=1.0",
         "wpackagist-plugin/smartlink-dinamic-urls": "<=1.1.0",
-        "wpackagist-plugin/smartpay": ">=1.1.0,<=2.7.13",
+        "wpackagist-plugin/smartpay": "<= 2.7.13.0",
         "wpackagist-plugin/smartsearchwp": "<= 2.4.5.0",
         "wpackagist-plugin/smartsoftbutton-widget-de-botones-de-chat": "<=1.0.1",
         "wpackagist-plugin/smartsupp-live-chat": "<=3.6",
