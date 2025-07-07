@@ -12431,6 +12431,7 @@
         "wpackagist-plugin/wppm": "<=1.6.4.b",
         "wpackagist-plugin/wppricing-builder-lite-responsive-pricing-table-builder": "<=1.5.0",
         "wpackagist-plugin/wpqa": "<= 6.1.0.0",
+        "wpackagist-plugin/wpquiz": "<=0.4.2",
         "wpackagist-plugin/wpr-admin-amplify": "<=1.3.0",
         "wpackagist-plugin/wpradio": "<=1.0.4",
         "wpackagist-plugin/wpremote": "<=4.64",
