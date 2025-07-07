@@ -4959,6 +4959,7 @@
         "wpackagist-plugin/image-protector": "<=1.1",
         "wpackagist-plugin/image-regenerate-select-crop": "<=7.3.0",
         "wpackagist-plugin/image-resizer-on-the-fly": "<=1.1",
+        "wpackagist-plugin/image-shadow": "<=1.1.0",
         "wpackagist-plugin/image-sizes-controller": "<=1.0.10",
         "wpackagist-plugin/image-slider-widget": "<= 1.1.125.0",
         "wpackagist-plugin/image-source-control-isc": "<= 2.29.0.0",
