@@ -6294,7 +6294,7 @@
         "wpackagist-plugin/moka-get-posts": "<=1.0",
         "wpackagist-plugin/molie-instructure-canvas-linking-tool": "<=0.5",
         "wpackagist-plugin/mollie-forms": "<= 2.7.12.0",
-        "wpackagist-plugin/mollie-payments-for-woocommerce": "<=7.7.0",
+        "wpackagist-plugin/mollie-payments-for-woocommerce": "<= 8.0.2.0",
         "wpackagist-plugin/molongui-authorship": "<=4.7.7",
         "wpackagist-plugin/moloni": "<=4.7.4",
         "wpackagist-plugin/momo-venmo": "<=4.1",
