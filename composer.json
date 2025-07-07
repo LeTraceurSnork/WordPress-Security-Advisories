@@ -1399,6 +1399,7 @@
         "wpackagist-plugin/booking-system-trafft": "<=1.0.6",
         "wpackagist-plugin/booking-ultra-pro": "<= 1.1.20.0",
         "wpackagist-plugin/booking-weir": ">=1.0.0,<=1.0.11",
+        "wpackagist-plugin/booking-x": ">=1.0,<=1.1.2",
         "wpackagist-plugin/bookingcom-banner-creator": "<=1.4.6",
         "wpackagist-plugin/bookingcom-product-helper": "<1.0.2",
         "wpackagist-plugin/bookingor": "<=1.0.7",
