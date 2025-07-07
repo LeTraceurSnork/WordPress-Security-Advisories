@@ -7960,6 +7960,7 @@
         "wpackagist-plugin/rentpress": "<=6.6.4",
         "wpackagist-plugin/rentsyst": "<=2.0.92",
         "wpackagist-plugin/repayment-calculator": "<=1.3",
+        "wpackagist-plugin/replace": "<=0.2.1",
         "wpackagist-plugin/replace-default-words": "<=1.3",
         "wpackagist-plugin/replace-image": "<=1.1.10",
         "wpackagist-plugin/replace-word": "<=2.1",
