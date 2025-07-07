@@ -10991,6 +10991,7 @@
         "wpackagist-plugin/woocommerce-order-searching": "<=1.1.0",
         "wpackagist-plugin/woocommerce-order-status-change-notifier": "<=1.1.0",
         "wpackagist-plugin/woocommerce-orders-customers-exporter": "<=5.0",
+        "wpackagist-plugin/woocommerce-paymaster-gateway-019": "<=0.4.31",
         "wpackagist-plugin/woocommerce-payments": "<= 6.6.2.0",
         "wpackagist-plugin/woocommerce-paypal-payments": "<2.0.5",
         "wpackagist-plugin/woocommerce-payu-paisa": "<=2.1.1",
