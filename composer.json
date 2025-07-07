@@ -7935,7 +7935,7 @@
         "wpackagist-plugin/relevanssi-premium": "<= 2.27.6.0",
         "wpackagist-plugin/relevant": "< 1.2.0.0-dev",
         "wpackagist-plugin/reloaded-rezdy": "<=1.0.1",
-        "wpackagist-plugin/relocate-upload": "<0.20",
+        "wpackagist-plugin/relocate-upload": "<= 0.24.1.0",
         "wpackagist-plugin/relogo": "<=0.4.2",
         "wpackagist-plugin/remember-me-controls": "<=2.0.1",
         "wpackagist-plugin/remote-content-shortcode": "<=1.5",
