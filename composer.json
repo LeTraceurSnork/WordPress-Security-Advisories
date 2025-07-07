@@ -3853,6 +3853,7 @@
         "wpackagist-plugin/file-manager": "<= 6.7.0.0",
         "wpackagist-plugin/file-manager-advanced": "<= 5.3.1.0",
         "wpackagist-plugin/file-manager-advanced-shortcode": "<= 2.5.4.0",
+        "wpackagist-plugin/file-manager-plugin-for-wordpress": "<=7.5",
         "wpackagist-plugin/file-provider": "<=1.2.3",
         "wpackagist-plugin/file-renaming-on-upload": "<=2.5.1",
         "wpackagist-plugin/file-select-control-for-elementor": "<=1.3",
