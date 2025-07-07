@@ -2734,6 +2734,7 @@
         "wpackagist-plugin/datamentor": "<=1.7",
         "wpackagist-plugin/datasets-manager-by-arttia-creative": "<=1.5",
         "wpackagist-plugin/date-time-picker-field": ">=1.9,<=2.2",
+        "wpackagist-plugin/davenport": "<=1.3",
         "wpackagist-plugin/daves-wordpress-live-search": "<=4.8.1",
         "wpackagist-plugin/dazzlersoft-teams": "<=1.3.4",
         "wpackagist-plugin/db-backup": "<5.0",
