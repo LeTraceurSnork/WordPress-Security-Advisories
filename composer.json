@@ -4361,6 +4361,7 @@
         "wpackagist-plugin/gfirem-action-after": "<=1.1.6",
         "wpackagist-plugin/gfirem-advance-search": "<=1.2.2",
         "wpackagist-plugin/gfirem-fields": "<=1.1.7",
+        "wpackagist-plugin/gg-bought-together": "<=1.0.2",
         "wpackagist-plugin/gg-woo-feed": "<=1.2.6",
         "wpackagist-plugin/ghactivity": "<=2.0.0-alpha",
         "wpackagist-plugin/ghost": "<=1.4.0",
