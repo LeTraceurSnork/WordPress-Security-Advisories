@@ -3230,7 +3230,7 @@
         "wpackagist-plugin/easy-social-share-buttons-for-wordpress": "<3.5",
         "wpackagist-plugin/easy-social-share-buttons3": "<=9.4",
         "wpackagist-plugin/easy-social-sharebar": "<=1.0.0",
-        "wpackagist-plugin/easy-sticky-sidebar": "<=1.5.8",
+        "wpackagist-plugin/easy-sticky-sidebar": "<= 1.6.9.0",
         "wpackagist-plugin/easy-student-results": "<=2.2.8",
         "wpackagist-plugin/easy-svg": "<=3.7",
         "wpackagist-plugin/easy-svg-image-allow": "<=1.0",
