@@ -2222,7 +2222,7 @@
         "wpackagist-plugin/contact-form-advanced-database": "<=1.0.8",
         "wpackagist-plugin/contact-form-builder": "<=1.0.72",
         "wpackagist-plugin/contact-form-by-supsystic": "<= 1.7.29.0",
-        "wpackagist-plugin/contact-form-cfdb7": "<= 1.2.6.8",
+        "wpackagist-plugin/contact-form-cfdb7": "<= 1.3.1.0",
         "wpackagist-plugin/contact-form-check-tester": "<=1.0.2",
         "wpackagist-plugin/contact-form-db-divi": ">=1.0,<=1.0.1",
         "wpackagist-plugin/contact-form-entries": "<= 1.3.8.0",
