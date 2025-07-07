@@ -4811,6 +4811,7 @@
         "wpackagist-plugin/ht-event": "<= 1.4.7.0",
         "wpackagist-plugin/ht-instagram": "<=1.2.8",
         "wpackagist-plugin/ht-mega-for-elementor": "<= 2.8.3.0",
+        "wpackagist-plugin/ht-mega-for-wpbakery": "<=1.0.8",
         "wpackagist-plugin/ht-menu-lite": "<=1.2.1",
         "wpackagist-plugin/ht-portfolio": "<=1.1.5",
         "wpackagist-plugin/ht-slider-for-elementor": "<=1.3.9",
