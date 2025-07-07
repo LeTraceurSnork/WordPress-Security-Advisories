@@ -4538,7 +4538,7 @@
         "wpackagist-plugin/graceful-email-obfuscation": "<=0.2.2",
         "wpackagist-plugin/gracemedia-media-player": "<=1.0",
         "wpackagist-plugin/gradient-text-widget-for-elementor": "<=1.0.1",
-        "wpackagist-plugin/grand-media": "< 1.20.0.0-dev",
+        "wpackagist-plugin/grand-media": "<= 1.23.0.0",
         "wpackagist-plugin/grandconference": "<=5.2",
         "wpackagist-plugin/graph-lite": "<=2.0.8",
         "wpackagist-plugin/graphcomment-comment-system": "<=2.3.4",
