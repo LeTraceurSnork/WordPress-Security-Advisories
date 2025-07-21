@@ -8946,6 +8946,7 @@
         "wpackagist-plugin/sirv": "<= 7.5.3.0",
         "wpackagist-plugin/sis-handball": "<=1.0.45",
         "wpackagist-plugin/site-audit": "<=1.2.4",
+        "wpackagist-plugin/site-chat-on-telegram": "<=1.0.4",
         "wpackagist-plugin/site-editor": "<=1.1.1",
         "wpackagist-plugin/site-editor-google-map": "<=1.0.1",
         "wpackagist-plugin/site-favicon": "<=0.2",
