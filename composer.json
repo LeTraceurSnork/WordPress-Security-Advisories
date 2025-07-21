@@ -98,6 +98,7 @@
         "wpackagist-plugin/aa-audio-player": "<=1.0",
         "wpackagist-plugin/aa-calculator": "<=1.0",
         "wpackagist-plugin/aajoda-testimonials": "<= 2.2.2.0",
+        "wpackagist-plugin/aapanel-wp-toolkit": ">=1.0,<=1.1",
         "wpackagist-plugin/aawp": "<=3.17",
         "wpackagist-plugin/aawp-obfuscator": "<=1.0",
         "wpackagist-plugin/ab-categories-search-widget": "<=0.2.5",
