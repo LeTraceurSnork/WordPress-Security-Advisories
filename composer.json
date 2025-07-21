@@ -1842,6 +1842,7 @@
         "wpackagist-plugin/cf7-customizer": "*",
         "wpackagist-plugin/cf7-database": "<=3.0.6",
         "wpackagist-plugin/cf7-dynamics-crm": "<=1.1.6",
+        "wpackagist-plugin/cf7-editor-button": "<=1.0.0",
         "wpackagist-plugin/cf7-email-add-on": "<=1.9",
         "wpackagist-plugin/cf7-field-validation": "<=1.1.3",
         "wpackagist-plugin/cf7-file-download": "<=2.0",
