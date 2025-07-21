@@ -483,6 +483,7 @@
         "wpackagist-plugin/affiliate-links-manager": "<=1.0",
         "wpackagist-plugin/affiliate-power": "<=2.2.0",
         "wpackagist-plugin/affiliate-pro": "*",
+        "wpackagist-plugin/affiliate-reviews": "<=1.0.6",
         "wpackagist-plugin/affiliate-solution": "<=1.0",
         "wpackagist-plugin/affiliate-toolkit-starter": "<= 3.7.3.0",
         "wpackagist-plugin/affiliate-tools-viet-nam": "<=0.3.17",
