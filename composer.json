@@ -8284,6 +8284,7 @@
         "wpackagist-plugin/runners-log": "<=3.9.2",
         "wpackagist-plugin/running-line": "<=1.2",
         "wpackagist-plugin/rustolat": "<=0.3",
+        "wpackagist-plugin/ruven-themes-shortcodes": "<=1.0",
         "wpackagist-plugin/ruven-toolkit": "<=2.0",
         "wpackagist-plugin/rvg-optimize-database": "<= 5.1.1.0",
         "wpackagist-plugin/rw-divi-unite-gallery": "<=1.0",
