@@ -5742,6 +5742,7 @@
         "wpackagist-plugin/listingpro-plugin": "<= 2.9.4.0",
         "wpackagist-plugin/listings-for-appfolio": "<=1.2.0",
         "wpackagist-plugin/listings-for-buildium": "<=0.1.4",
+        "wpackagist-plugin/listly": "<=2.7",
         "wpackagist-plugin/litespeed-cache": "<= 7.0.1.0",
         "wpackagist-plugin/littlebot-invoices": "<=2.6.7",
         "wpackagist-plugin/live-2d": "<=1.9.11",
