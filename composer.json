@@ -12941,7 +12941,7 @@
         "wpackagist-theme/allure-real-estate-theme-for-placester": "<=0.1.1",
         "wpackagist-theme/allure-real-estate-theme-for-real-estate": "<=0.1.1",
         "wpackagist-theme/almera": "<1.1.8",
-        "wpackagist-theme/alone": "<=7.8.2",
+        "wpackagist-theme/alone": "<= 7.8.3.0",
         "wpackagist-theme/altair": "<=5.2.4",
         "wpackagist-theme/althea-wp": "<=1.0.13",
         "wpackagist-theme/alyeska": "<=3.1.4",
