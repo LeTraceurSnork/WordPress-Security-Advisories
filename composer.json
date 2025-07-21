@@ -9108,6 +9108,7 @@
         "wpackagist-plugin/smartlink-dinamic-urls": "<=1.1.0",
         "wpackagist-plugin/smartpay": "<= 2.7.13.0",
         "wpackagist-plugin/smartsearchwp": "<= 2.4.5.0",
+        "wpackagist-plugin/smartseo": "<=4.0",
         "wpackagist-plugin/smartsoftbutton-widget-de-botones-de-chat": "<=1.0.1",
         "wpackagist-plugin/smartsupp-live-chat": "<=3.6",
         "wpackagist-plugin/smarty-for-wordpress": "<=3.1.35",
