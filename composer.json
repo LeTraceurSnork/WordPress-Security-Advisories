@@ -7612,6 +7612,7 @@
         "wpackagist-plugin/privy-crm-integration": "<=1.0.2",
         "wpackagist-plugin/pro-addons-for-elementor": "<=1.5.0",
         "wpackagist-plugin/pro-mime-types": "< 2.0.0.0-dev",
+        "wpackagist-plugin/pro-watermark": "<=2.0",
         "wpackagist-plugin/process-steps-template-designer": "<1.3",
         "wpackagist-plugin/processing-projects": "<=1.0.2",
         "wpackagist-plugin/processingjs-for-wp": "<=1.2.2",
