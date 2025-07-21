@@ -11121,6 +11121,7 @@
         "wpackagist-plugin/woocommerce-products-slider": "<= 1.13.50.0",
         "wpackagist-plugin/woocommerce-products-without-featured-images": "<=0.1",
         "wpackagist-plugin/woocommerce-putler-connector": "<=2.12.0",
+        "wpackagist-plugin/woocommerce-refund-and-exchange": "<=3.2.6",
         "wpackagist-plugin/woocommerce-role-pricing": "<=3.5.5",
         "wpackagist-plugin/woocommerce-sendinblue-newsletter-subscription": "<=4.0.17",
         "wpackagist-plugin/woocommerce-services": "<2.2.5",
