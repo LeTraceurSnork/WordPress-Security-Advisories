@@ -6113,6 +6113,7 @@
         "wpackagist-plugin/media-file-manager-advanced": "<=1.1.5",
         "wpackagist-plugin/media-file-organizer": "<=1.0.1",
         "wpackagist-plugin/media-file-renamer": "<= 5.7.7.0",
+        "wpackagist-plugin/media-folder": "<=1.0.0",
         "wpackagist-plugin/media-from-ftp": "<= 11.16.0.0",
         "wpackagist-plugin/media-hygiene": "<= 4.0.1.0",
         "wpackagist-plugin/media-library-assistant": "<= 3.24.0.0",
