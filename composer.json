@@ -13887,7 +13887,7 @@
         "wpackagist-theme/travel-booking": "<1.2.3",
         "wpackagist-theme/travel-monster": "<=1.1.2",
         "wpackagist-theme/travel-tour": "<1.2.0",
-        "wpackagist-theme/traveler": "<= 3.2.0.0",
+        "wpackagist-theme/traveler": "< 3.2.1.0-dev",
         "wpackagist-theme/traveltour": "<5.2.4",
         "wpackagist-theme/travey": "<=1.0.4",
         "wpackagist-theme/trending": "<0.2",
