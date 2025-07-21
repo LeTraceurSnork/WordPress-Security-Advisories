@@ -2174,7 +2174,7 @@
         "wpackagist-plugin/community-events": "<= 1.5.0.0",
         "wpackagist-plugin/community-yard-sale": "<=1.1.11",
         "wpackagist-plugin/compact-wp-audio-player": "<= 1.9.14.0",
-        "wpackagist-plugin/companion-auto-update": "< 3.3.6.0-dev",
+        "wpackagist-plugin/companion-auto-update": "<= 3.9.2.0",
         "wpackagist-plugin/companion-portfolio": "<=2.4.0.1",
         "wpackagist-plugin/companion-sitemap-generator": "<= 4.5.1.1",
         "wpackagist-plugin/company-updates-for-linkedin": "<=1.5.3",
