@@ -6338,7 +6338,7 @@
         "wpackagist-plugin/mobile-smart": "<=v1.3.16",
         "wpackagist-plugin/mobilechief-mobile-site-creator": "<=1.5.7",
         "wpackagist-plugin/mobilize": "<=3.0.7",
-        "wpackagist-plugin/mobiloud-mobile-app-plugin": "<= 4.6.5.0",
+        "wpackagist-plugin/mobiloud-mobile-app-plugin": "<= 4.6.6.0",
         "wpackagist-plugin/moceanapi-abandoned-carts": "1.2.0",
         "wpackagist-plugin/moceanapi-sendsms": ">=1.3.4,<=1.4.7",
         "wpackagist-plugin/moceansms-order-sms-notification-for-woocommerce": ">=1.3.12,<=1.4.8",
