@@ -7023,6 +7023,7 @@
         "wpackagist-plugin/paid-member-subscriptions": "<= 2.15.1.0",
         "wpackagist-plugin/paid-membership": "<= 3.2.0.0",
         "wpackagist-plugin/paid-memberships-pro": "<= 3.0.5.0",
+        "wpackagist-plugin/pakke": "<=1.0.2",
         "wpackagist-plugin/pakkelabels-for-woocommerce": "<=5.0.3",
         "wpackagist-plugin/pallet-packaging-for-woocommerce": "<=1.1.15",
         "wpackagist-plugin/panda-pods-repeater-field": "<=1.5.3",
