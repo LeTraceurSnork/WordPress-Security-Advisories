@@ -10170,7 +10170,7 @@
         "wpackagist-plugin/ultimate-premium-plugin": "<=16.2",
         "wpackagist-plugin/ultimate-product-catalogue": "<= 5.2.15.0",
         "wpackagist-plugin/ultimate-profile-builder": "<3.0",
-        "wpackagist-plugin/ultimate-push-notifications": "<=1.1.8",
+        "wpackagist-plugin/ultimate-push-notifications": "<= 1.1.9.0",
         "wpackagist-plugin/ultimate-responsive-image-slider": "<=3.5.11",
         "wpackagist-plugin/ultimate-reviews": "<= 3.2.14.0",
         "wpackagist-plugin/ultimate-security-checker": "<=4.2",
