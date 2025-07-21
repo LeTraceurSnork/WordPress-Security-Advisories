@@ -10285,6 +10285,7 @@
         "wpackagist-plugin/use-memcached": "<=1.0.5",
         "wpackagist-plugin/use-your-drive": "<1.18.3",
         "wpackagist-plugin/useful-banner-manager": "<=1.6.1",
+        "wpackagist-plugin/useful-tab-block-responsive-amp-compatible": "<=1.3.2",
         "wpackagist-plugin/useinfluence": "<=1.0.8",
         "wpackagist-plugin/user-access-manager": "<= 2.2.16.0",
         "wpackagist-plugin/user-activation-email": "<=1.3.0",
