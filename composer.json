@@ -12994,7 +12994,7 @@
         "wpackagist-theme/auto-car": "*",
         "wpackagist-theme/avada": "<= 7.11.13.0",
         "wpackagist-theme/avanix": "<=1.2",
-        "wpackagist-theme/avantage": "<=2.4.6",
+        "wpackagist-theme/avantage": "<= 2.4.9.0",
         "wpackagist-theme/awake": "<=3.3",
         "wpackagist-theme/awpbusinesspress": "<0.2.4",
         "wpackagist-theme/axioma": "<1.1.2",
