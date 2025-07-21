@@ -2530,7 +2530,7 @@
         "wpackagist-plugin/css3_accordions": "<=3.0",
         "wpackagist-plugin/css3_tooltips": "<=1.8",
         "wpackagist-plugin/css3_vertical_web_pricing_tables": "<=1.9",
-        "wpackagist-plugin/css3_web_pricing_tables_grids": "<=11.5",
+        "wpackagist-plugin/css3_web_pricing_tables_grids": "<= 11.6.0.0",
         "wpackagist-plugin/cssable-countdown": "<=1.5",
         "wpackagist-plugin/cssjockey-add-ons": "<=3.0.7",
         "wpackagist-plugin/csv-import": "<=1.0",
