@@ -7743,6 +7743,7 @@
         "wpackagist-plugin/pushbiz": "<=1.0",
         "wpackagist-plugin/pvn-auth-popup": "<=1.0.0",
         "wpackagist-plugin/pw-bulk-edit": "<=2.134",
+        "wpackagist-plugin/pw-woocommerce-on-sale": "<=1.39",
         "wpackagist-plugin/pwa-for-wp": "<= 1.7.72.0",
         "wpackagist-plugin/pwgrandom": "<=1.11",
         "wpackagist-plugin/pz-frontend-manager": "<=1.0.5",
