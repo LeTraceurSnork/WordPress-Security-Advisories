@@ -9713,7 +9713,7 @@
         "wpackagist-plugin/terms-and-conditions-per-product": "<= 1.2.15.0",
         "wpackagist-plugin/terms-and-conditions-popup-for-woocommerce": "<=3.5.7.6",
         "wpackagist-plugin/terms-before-download": "<=1.0.4",
-        "wpackagist-plugin/terms-descriptions": "<=3.4.7",
+        "wpackagist-plugin/terms-descriptions": "<= 3.4.8.0",
         "wpackagist-plugin/terms-dictionary": "<=1.5.1",
         "wpackagist-plugin/terms-of-use-2": "<=2.0",
         "wpackagist-plugin/terms-popup-on-user-login": "<=2.0.3",
