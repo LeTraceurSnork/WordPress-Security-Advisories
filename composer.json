@@ -1299,6 +1299,7 @@
         "wpackagist-plugin/blobinator": "<=2.2",
         "wpackagist-plugin/block-controller": "<= 1.4.3.0",
         "wpackagist-plugin/block-editor-bootstrap-blocks": "<=6.6.1",
+        "wpackagist-plugin/block-editor-gallery-slider": "<=1.1.1",
         "wpackagist-plugin/block-for-font-awesome": "<= 1.4.4.0",
         "wpackagist-plugin/block-logic": "<=1.0.8",
         "wpackagist-plugin/block-options": "<= 1.40.4.0",
