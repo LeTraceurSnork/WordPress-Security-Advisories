@@ -1028,6 +1028,7 @@
         "wpackagist-plugin/aviation-weather-from-noaa": "<=0.7.2",
         "wpackagist-plugin/avif-support": "1.1.0",
         "wpackagist-plugin/avirato-calendar": "<=5.0.5",
+        "wpackagist-plugin/avishi-wp-paypal-payment-button": "<=2.0",
         "wpackagist-plugin/aw-woocommerce-kode-pembayaran": "<=1.1.4",
         "wpackagist-plugin/awcode-toolkit": "<=1.0.18",
         "wpackagist-plugin/aweber-web-form-widget": "<= 7.3.20.0",
