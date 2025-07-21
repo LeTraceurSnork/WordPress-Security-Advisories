@@ -5840,7 +5840,7 @@
         "wpackagist-plugin/loginizer-security": "<=1.9.2",
         "wpackagist-plugin/loginplus": "<=1.2",
         "wpackagist-plugin/loginpress": "<= 3.3.1.0",
-        "wpackagist-plugin/loginpress-pro": "<3.0",
+        "wpackagist-plugin/loginpress-pro": "<= 5.0.1.0",
         "wpackagist-plugin/logo-carousel-free": "<=3.4.1",
         "wpackagist-plugin/logo-carousel-slider": "<=2.1.3",
         "wpackagist-plugin/logo-manager-for-enamad": "<=0.7.2",
