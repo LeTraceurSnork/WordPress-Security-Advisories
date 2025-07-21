@@ -1471,7 +1471,7 @@
         "wpackagist-plugin/brand-my-footer": "<=1.1",
         "wpackagist-plugin/branda-white-labeling": "<= 3.4.21.0",
         "wpackagist-plugin/branded-social-images": "<=1.1.0",
-        "wpackagist-plugin/brandfolder": "<3.0.1",
+        "wpackagist-plugin/brandfolder": "<= 5.0.19.0",
         "wpackagist-plugin/branding": "<=1.0",
         "wpackagist-plugin/brands-for-woocommerce": "< 3.8.2.3-dev",
         "wpackagist-plugin/brave-popup-builder": "<= 0.7.0.0",
