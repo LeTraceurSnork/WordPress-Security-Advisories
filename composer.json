@@ -9450,7 +9450,7 @@
         "wpackagist-plugin/stripe-manager": "<=1.4",
         "wpackagist-plugin/stripe-payments": "<= 2.0.86.0",
         "wpackagist-plugin/stripshow": "<=2.5.2",
-        "wpackagist-plugin/strong-testimonials": "<= 3.2.3.0",
+        "wpackagist-plugin/strong-testimonials": "<= 3.2.11.0",
         "wpackagist-plugin/structured-content": "<= 1.6.3.0",
         "wpackagist-plugin/strx-magic-floating-sidebar-maker": "<=1.4.1",
         "wpackagist-plugin/studiocart": ">=1.0.2,<=2.5.11",
