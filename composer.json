@@ -6012,6 +6012,7 @@
         "wpackagist-plugin/map-contact": "<=3.0.4",
         "wpackagist-plugin/map-location-picker-at-checkout-for-woocommerce": "<= 1.8.9.0",
         "wpackagist-plugin/map-multi-marker": "<=3.2.1",
+        "wpackagist-plugin/map-my-locations": "<=1.1",
         "wpackagist-plugin/map-store-location": "<=1.2.1",
         "wpackagist-plugin/mapbox-for-wp-advanced": "<=1.0.0",
         "wpackagist-plugin/mapfig-premium-leaflet-map-maker": "<=5.1.1.0",
