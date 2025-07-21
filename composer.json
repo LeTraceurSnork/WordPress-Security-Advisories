@@ -900,6 +900,7 @@
         "wpackagist-plugin/atp-call-now": "<=1.0.3",
         "wpackagist-plugin/attach-gallery-posts": "<=1.6",
         "wpackagist-plugin/attachment-file-icons": "<=1.3",
+        "wpackagist-plugin/attachment-manager": "<=2.1.2",
         "wpackagist-plugin/attendance-manager": "<= 0.6.2.0",
         "wpackagist-plugin/attesa-extra": "<=1.4.2",
         "wpackagist-plugin/attire-blocks": "<= 1.9.6.0",
