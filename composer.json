@@ -8079,6 +8079,7 @@
         "wpackagist-plugin/responsive-column-widgets": "<=1.2.7",
         "wpackagist-plugin/responsive-coming-soon": "<= 2.2.1.0",
         "wpackagist-plugin/responsive-coming-soon-page": "<= 1.6.3.0",
+        "wpackagist-plugin/responsive-contact-form": "<=2.8",
         "wpackagist-plugin/responsive-cookie-consent": "<1.8",
         "wpackagist-plugin/responsive-css-editor": "<=1.0",
         "wpackagist-plugin/responsive-data-table": "<=1.3",
