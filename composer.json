@@ -4819,7 +4819,7 @@
         "wpackagist-plugin/hitpay-payment-gateway": "<=4.1.3",
         "wpackagist-plugin/hits-counter": "<=2.8.23",
         "wpackagist-plugin/hitsteps-visitor-manager": "<=5.86",
-        "wpackagist-plugin/hive-support": "<= 1.2.5.0",
+        "wpackagist-plugin/hive-support": "<= 1.2.6.0",
         "wpackagist-plugin/hiweb-export-posts": "<=0.9.0.0",
         "wpackagist-plugin/hiweb-migration-simple": "<=2.0.0.1",
         "wpackagist-plugin/hk-exif-tags": "<=1.11",
