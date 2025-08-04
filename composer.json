@@ -12890,7 +12890,7 @@
         "wpackagist-plugin/your-lightbox": "<=1.0",
         "wpackagist-plugin/your-simple-svg-support": "<=1.0.1",
         "wpackagist-plugin/your-text-manager": "<=0.3.0",
-        "wpackagist-plugin/youram-youtube-embed": ">=8.0,<=10.3",
+        "wpackagist-plugin/youram-youtube-embed": "<= 10.3.0.0",
         "wpackagist-plugin/yourchannel": "<= 1.2.5.0",
         "wpackagist-plugin/yourmembers": "<=3.0",
         "wpackagist-plugin/yousaytoo-auto-publishing-plugin": "<=1.0",
