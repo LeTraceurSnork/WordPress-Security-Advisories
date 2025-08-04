@@ -6767,6 +6767,7 @@
         "wpackagist-plugin/ninja-tables": "<= 5.0.18.0",
         "wpackagist-plugin/ninja-tables-pro": "<=5.0.17",
         "wpackagist-plugin/ninjafirewall": "<4.3.4",
+        "wpackagist-plugin/ninjascanner": "<=3.2.5",
         "wpackagist-plugin/ninjateam-telegram": "<= 1.1.0.0",
         "wpackagist-plugin/nino-social-connect": "<=2.0",
         "wpackagist-plugin/nirweb-support": "<= 3.0.3.0",
