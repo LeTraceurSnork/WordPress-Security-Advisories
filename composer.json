@@ -5607,7 +5607,7 @@
         "wpackagist-plugin/lb-tube-video": "*",
         "wpackagist-plugin/lbg-audio1-html5": "<=3.5.6",
         "wpackagist-plugin/lbg-audio11-html5-shoutcast_history": "<=2.6",
-        "wpackagist-plugin/lbg-audio2-html5": "<=3.5.7",
+        "wpackagist-plugin/lbg-audio2-html5": "<= 3.5.8.0",
         "wpackagist-plugin/lbg-audio3-html5": "<=3.1.6",
         "wpackagist-plugin/lbg-audio4-html5-shoutcast": "<=4.4.7",
         "wpackagist-plugin/lbg-audio5-html5-shoutcast-sticky": "<=3.4",
