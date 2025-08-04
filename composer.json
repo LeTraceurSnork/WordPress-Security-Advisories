@@ -3435,6 +3435,7 @@
         "wpackagist-plugin/elex-bulk-edit-products-prices-attributes-for-woocommerce-basic": "<=1.4.9",
         "wpackagist-plugin/elex-helpdesk-customer-support-ticket-system": "<= 3.2.9.0",
         "wpackagist-plugin/elex-product-feed": "<=3.1.2",
+        "wpackagist-plugin/elex-reachship-multi-carrier-conditional-shipping": "<=4.3.1",
         "wpackagist-plugin/elex-request-a-quote": "<=2.3.5",
         "wpackagist-plugin/elex-woocommerce-dynamic-pricing-and-discounts": "<= 2.1.7.0",
         "wpackagist-plugin/elex-woocommerce-google-product-feed-plugin-basic": "<=1.2.3",
