@@ -11014,6 +11014,7 @@
         "wpackagist-plugin/woo-pensopay": "<=6.3.1",
         "wpackagist-plugin/woo-permalink-manager": "<=2.3.10",
         "wpackagist-plugin/woo-point-of-sale": "<=6.1.0",
+        "wpackagist-plugin/woo-point-of-salepos": "<=1.4",
         "wpackagist-plugin/woo-popup": "<=1.2.2",
         "wpackagist-plugin/woo-preview-emails": "<=2.2.1",
         "wpackagist-plugin/woo-pricing-table": "<=1.0.9",
