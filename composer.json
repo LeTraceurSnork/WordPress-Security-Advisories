@@ -9674,6 +9674,7 @@
         "wpackagist-plugin/tablepress": "<= 3.1.2.0",
         "wpackagist-plugin/tablesearch": "<=1.1.0",
         "wpackagist-plugin/tablesome": "<= 1.0.33.0",
+        "wpackagist-plugin/tablesome-premium": "<=1.1.23",
         "wpackagist-plugin/taboola": "<=2.0.1",
         "wpackagist-plugin/tabs": "<=1.3.10",
         "wpackagist-plugin/tabs-for-visual-composer": "<=1.2",
