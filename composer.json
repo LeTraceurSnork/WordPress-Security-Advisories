@@ -2538,7 +2538,7 @@
         "wpackagist-plugin/css-addons": "<=1.9.1",
         "wpackagist-plugin/css-for-elementor": "<=1.0.8.7",
         "wpackagist-plugin/css-hero": "<=4.03",
-        "wpackagist-plugin/css-javascript-toolbox": "<= 11.8.0.0",
+        "wpackagist-plugin/css-javascript-toolbox": "< 12.0.3.0-dev",
         "wpackagist-plugin/css-js-files": "<=1.5.0",
         "wpackagist-plugin/css-js-manager": "<=2.4.49",
         "wpackagist-plugin/css-live": "<=1.3",
