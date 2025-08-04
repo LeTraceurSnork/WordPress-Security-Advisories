@@ -10481,7 +10481,7 @@
         "wpackagist-plugin/very-simple-quiz": "<=1.0.0",
         "wpackagist-plugin/vg-postcarousel": "<=1.1",
         "wpackagist-plugin/vg-woocarousel": "<=1.3",
-        "wpackagist-plugin/vgw-metis": "<=2.0.0",
+        "wpackagist-plugin/vgw-metis": "<= 2.0.1.0",
         "wpackagist-plugin/vice-versa": "<=2.2.3",
         "wpackagist-plugin/video-analytics-for-cloudflare-stream": "<=1.1",
         "wpackagist-plugin/video-background": "<=2.7.3",
