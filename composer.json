@@ -1487,6 +1487,7 @@
         "wpackagist-plugin/branding": "<=1.0",
         "wpackagist-plugin/brands-for-woocommerce": "< 3.8.2.3-dev",
         "wpackagist-plugin/brave-popup-builder": "<= 0.7.0.0",
+        "wpackagist-plugin/bravepopup-pro": "<=0.7.7",
         "wpackagist-plugin/bravo-search-and-replace": "<=1.0",
         "wpackagist-plugin/bravo-translate": "<=1.2",
         "wpackagist-plugin/bread-butter": "<=7.4.857",
