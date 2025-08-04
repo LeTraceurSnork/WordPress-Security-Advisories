@@ -7814,7 +7814,7 @@
         "wpackagist-plugin/qards": "*",
         "wpackagist-plugin/qc-simple-link-directory": "< 14.8.1.0-dev",
         "wpackagist-plugin/qe-seo-handyman": "<=1.0",
-        "wpackagist-plugin/qi-addons-for-elementor": "<= 1.9.1.0",
+        "wpackagist-plugin/qi-addons-for-elementor": "<= 1.9.2.0",
         "wpackagist-plugin/qi-blocks": "<= 1.3.6.0",
         "wpackagist-plugin/qiniu-uploader": "<=0.1",
         "wpackagist-plugin/ql-cost-calculator": "<=7.4",
