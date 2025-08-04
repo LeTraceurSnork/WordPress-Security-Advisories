@@ -10485,6 +10485,7 @@
         "wpackagist-plugin/vice-versa": "<=2.2.3",
         "wpackagist-plugin/video-analytics-for-cloudflare-stream": "<=1.1",
         "wpackagist-plugin/video-background": "<=2.7.3",
+        "wpackagist-plugin/video-blogster-lite": "<=1.2",
         "wpackagist-plugin/video-central": "<=1.3.0",
         "wpackagist-plugin/video-comments-webcam-recorder": "<=1.55",
         "wpackagist-plugin/video-conferencing-with-zoom-api": "<= 4.4.5.0",
