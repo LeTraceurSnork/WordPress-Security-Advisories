@@ -771,6 +771,7 @@
         "wpackagist-plugin/anywhere-flash-embed": "<=1.0.5",
         "wpackagist-plugin/aoa-downloadable": "<=0.1.0",
         "wpackagist-plugin/aoi-tori": "*",
+        "wpackagist-plugin/aone-sms": "<=2.0.0",
         "wpackagist-plugin/ap-custom-testimonial": "<= 1.4.7.0",
         "wpackagist-plugin/ap-google-maps": "<=1.0.9",
         "wpackagist-plugin/ap-mega-menu": "<3.0.8",
