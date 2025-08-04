@@ -8594,6 +8594,7 @@
         "wpackagist-plugin/seo-wordpress": "<=4.0.15",
         "wpackagist-plugin/seofy-core": "<=1.4.5",
         "wpackagist-plugin/seolinkrotator": "<=1.0",
+        "wpackagist-plugin/seopress-for-mainwp": "<=1.4",
         "wpackagist-plugin/seos-contact-form": "<=1.8.0",
         "wpackagist-plugin/seosamba-webmasters": "<=1.0.5",
         "wpackagist-plugin/sepa-girocode": "<=0.5.1",
