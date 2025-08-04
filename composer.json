@@ -13182,6 +13182,7 @@
         "wpackagist-theme/cactus": "*",
         "wpackagist-theme/cafe-bistro": "<1.1.4",
         "wpackagist-theme/cakifo": ">=1.0,<=1.6.1",
+        "wpackagist-theme/caliris-wp": "<=1.5",
         "wpackagist-theme/calliope": "<=1.0.33",
         "wpackagist-theme/campress": "<=1.35",
         "wpackagist-theme/canvas": "<=4.7.10",
