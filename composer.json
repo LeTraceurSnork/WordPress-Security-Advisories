@@ -9204,7 +9204,7 @@
         "wpackagist-plugin/smtp-sendgrid": "<= 1.5.0.0",
         "wpackagist-plugin/smtp-sendinblue": "<= 1.3.0.0",
         "wpackagist-plugin/smtp2go": "<= 1.12.1.0",
-        "wpackagist-plugin/snap-pixel": "<=1.5.7",
+        "wpackagist-plugin/snap-pixel": "<= 1.5.8.0",
         "wpackagist-plugin/snapshot-backup": "<=2.1.1",
         "wpackagist-plugin/snapwidget-wp-instagram-widget": "<=1.1.0",
         "wpackagist-plugin/snazzy-maps": "<=1.1.4",
