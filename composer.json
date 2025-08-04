@@ -11914,7 +11914,7 @@
         "wpackagist-plugin/wp-link-bio": ">=1.2.0,<=1.4.5",
         "wpackagist-plugin/wp-link-preview": "<=1.4.1",
         "wpackagist-plugin/wp-linkedin-auto-publish": "<=8.11",
-        "wpackagist-plugin/wp-links-page": "<=4.9.5",
+        "wpackagist-plugin/wp-links-page": "<= 4.9.6.0",
         "wpackagist-plugin/wp-lister-for-amazon": "<= 2.6.16.0",
         "wpackagist-plugin/wp-lister-for-ebay": "<= 3.6.3.0",
         "wpackagist-plugin/wp-listings": "<= 2.6.2.0",
