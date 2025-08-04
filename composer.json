@@ -1328,7 +1328,7 @@
         "wpackagist-plugin/blocks-bakery": ">=1.0.0,<=1.0.12",
         "wpackagist-plugin/blocks-post-grid": "<=1.0.3",
         "wpackagist-plugin/blocks-product-editor-for-woocommerce": ">=1.0.0,<=1.0.1",
-        "wpackagist-plugin/blockspare": "<= 3.2.9.0",
+        "wpackagist-plugin/blockspare": "<= 3.2.13.1",
         "wpackagist-plugin/blockstrap-page-builder-blocks": "<=0.1.36",
         "wpackagist-plugin/blocksy-companion": "<= 2.0.45.0",
         "wpackagist-plugin/blockwheels": "<=1.0.2",
