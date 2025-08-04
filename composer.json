@@ -10501,6 +10501,7 @@
         "wpackagist-plugin/video-list-manager": "<=1.7",
         "wpackagist-plugin/video-metabox": "<=1.1",
         "wpackagist-plugin/video-player-for-wpbakery": "<=1.0.1",
+        "wpackagist-plugin/video-player-youtube-vimeo": "<=3.8",
         "wpackagist-plugin/video-playlist-and-gallery-plugin": "<=1.159",
         "wpackagist-plugin/video-playlist-for-youtube": "<= 6.6.0.0",
         "wpackagist-plugin/video-popup": "<=1.1.3",
