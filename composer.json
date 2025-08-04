@@ -2071,7 +2071,7 @@
         "wpackagist-plugin/cm-faq": "<=1.2.5",
         "wpackagist-plugin/cm-header-footer-script-loader": "<= 1.2.4.0",
         "wpackagist-plugin/cm-invitation-codes": "<=2.5.2",
-        "wpackagist-plugin/cm-map-locations": "<=2.0.8",
+        "wpackagist-plugin/cm-map-locations": "<= 2.1.6.0",
         "wpackagist-plugin/cm-on-demand-search-and-replace": "<= 1.4.2.0",
         "wpackagist-plugin/cm-pop-up-banners": "<= 1.8.4.0",
         "wpackagist-plugin/cm-registration-pro": "<3.2.1",
