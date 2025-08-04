@@ -6847,6 +6847,7 @@
         "wpackagist-plugin/occasions": "<=1.1",
         "wpackagist-plugin/occupancyplan": "<=1.0.3.0",
         "wpackagist-plugin/ocean-extra": "<= 2.4.8.0",
+        "wpackagist-plugin/ocean-social-sharing": "<=2.2.1",
         "wpackagist-plugin/ocim-mp3": "*",
         "wpackagist-plugin/octrace-support": "<=1.2.7",
         "wpackagist-plugin/od-photogallery-plugin": "<=0.5.3",
