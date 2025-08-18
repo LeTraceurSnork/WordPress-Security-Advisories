@@ -889,6 +889,7 @@
         "wpackagist-plugin/asset-manager": "<=0.3",
         "wpackagist-plugin/assist24it": "<=20150401.2",
         "wpackagist-plugin/assistant": "<= 1.5.1.0",
+        "wpackagist-plugin/assistant-for-nextgen-gallery": "<=1.0.9",
         "wpackagist-plugin/astra-addon": "<=4.3.1",
         "wpackagist-plugin/astra-bulk-edit": "<1.2.8",
         "wpackagist-plugin/astra-import-export": "<1.0.4",
