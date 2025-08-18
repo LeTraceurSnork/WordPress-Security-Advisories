@@ -6094,7 +6094,7 @@
         "wpackagist-plugin/maps-for-wp": "<=1.2.4",
         "wpackagist-plugin/mapsmarker": "< 2.4.0.0-dev",
         "wpackagist-plugin/mapster-wp-maps": "<=1.6.0",
-        "wpackagist-plugin/mapsvg": "<= 8.6.4.0",
+        "wpackagist-plugin/mapsvg": "< 8.7.4.0-dev",
         "wpackagist-plugin/mapsvg-lite-interactive-vector-maps": "<= 8.6.9.0",
         "wpackagist-plugin/mapwiz": "<=1.0.1",
         "wpackagist-plugin/marekkis-watermark": "<=0.9.4",
