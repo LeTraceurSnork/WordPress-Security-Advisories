@@ -3504,6 +3504,7 @@
         "wpackagist-plugin/embed-and-integrate-etsy-shop": "<=1.0.4",
         "wpackagist-plugin/embed-any-document": "<= 2.7.5.0",
         "wpackagist-plugin/embed-articles": "<=7.0.3",
+        "wpackagist-plugin/embed-bokun": "<=0.23",
         "wpackagist-plugin/embed-calendly-scheduling": "<=3.6",
         "wpackagist-plugin/embed-chessboard": "<=3.07.00",
         "wpackagist-plugin/embed-comment-images": "<0.6",
