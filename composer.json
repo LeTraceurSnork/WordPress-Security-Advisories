@@ -3231,7 +3231,7 @@
         "wpackagist-plugin/easy-filtering": "<=2.5.0",
         "wpackagist-plugin/easy-flashcards": "<=0.1",
         "wpackagist-plugin/easy-form": "<= 2.6.9.0",
-        "wpackagist-plugin/easy-form-builder": "<= 3.8.8.0",
+        "wpackagist-plugin/easy-form-builder": "<= 3.8.15.0",
         "wpackagist-plugin/easy-form-builder-by-bitware": "<=1.0",
         "wpackagist-plugin/easy-gallery-slideshow": "*",
         "wpackagist-plugin/easy-google-analytics-for-wordpress": "<=1.6.0",
