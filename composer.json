@@ -423,7 +423,7 @@
         "wpackagist-plugin/advanced-google-recaptcha": "<= 1.29.0.0",
         "wpackagist-plugin/advanced-google-universal-analytics": "<=1.0.3",
         "wpackagist-plugin/advanced-gutenberg": "<=3.3.1",
-        "wpackagist-plugin/advanced-iframe": "<= 2025.5.0.0",
+        "wpackagist-plugin/advanced-iframe": "<= 2025.6.0.0",
         "wpackagist-plugin/advanced-image-sitemap": "<=1.2",
         "wpackagist-plugin/advanced-import": "<=1.3.7",
         "wpackagist-plugin/advanced-lazy-load": "<=1.6.0",
