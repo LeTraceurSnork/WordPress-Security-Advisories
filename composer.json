@@ -10408,6 +10408,7 @@
         "wpackagist-plugin/user-export-with-their-meta-data": "<= 0.6.8.0",
         "wpackagist-plugin/user-files": "<=2.4.2",
         "wpackagist-plugin/user-ip-and-location": "<=2.2",
+        "wpackagist-plugin/user-language-switch": "<=1.6.10",
         "wpackagist-plugin/user-list": "<=1.5.1",
         "wpackagist-plugin/user-location-and-ip": "<=1.7",
         "wpackagist-plugin/user-login-history": "<= 2.1.6.0",
