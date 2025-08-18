@@ -6131,7 +6131,7 @@
         "wpackagist-plugin/mass-email-to-users": "<=1.1.4",
         "wpackagist-plugin/mass-messaging-in-buddypress": "<=2.2.1",
         "wpackagist-plugin/mass-pagesposts-creator": ">=2.0.0,<=2.1.6 || <=1.2.2",
-        "wpackagist-plugin/master-addons": "<= 2.0.8.2",
+        "wpackagist-plugin/master-addons": "<= 2.0.9.0",
         "wpackagist-plugin/master-bar": "<=1.0",
         "wpackagist-plugin/master-blocks": "<=1.0.4",
         "wpackagist-plugin/master-elements": "<=8.0",
