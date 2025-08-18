@@ -10711,6 +10711,7 @@
         "wpackagist-plugin/wc-product-author": "<= 1.0.7.0",
         "wpackagist-plugin/wc-product-customer-list": ">=2.6.7,<=3.1.4",
         "wpackagist-plugin/wc-product-table-lite": "<= 3.9.5.0",
+        "wpackagist-plugin/wc-purchase-orders": "<=1.0.2",
         "wpackagist-plugin/wc-qr-codes": "<=1.2.0",
         "wpackagist-plugin/wc-quantity-plus-minus-button": "<=1.1.9",
         "wpackagist-plugin/wc-recently-viewed-products": "<=1.0.1",
