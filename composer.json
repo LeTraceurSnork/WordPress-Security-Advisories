@@ -5592,6 +5592,7 @@
         "wpackagist-plugin/lara-google-analytics": "<2.0.5",
         "wpackagist-plugin/larsens-calender": "<=1.2",
         "wpackagist-plugin/last-viewed-posts": "<= 1.0.1.0",
+        "wpackagist-plugin/lastfm-recent-album-artwork": "<=1.0.2",
         "wpackagist-plugin/lastfm-rotation": "<=1.0",
         "wpackagist-plugin/lastform": "<=1.0.5",
         "wpackagist-plugin/lastudio-element-kit": "<= 1.5.2.0",
