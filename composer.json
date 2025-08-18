@@ -5896,7 +5896,7 @@
         "wpackagist-plugin/login-with-ajax": "<= 4.1.0.0",
         "wpackagist-plugin/login-with-azure": "<=1.4.4",
         "wpackagist-plugin/login-with-cognito": "<= 1.4.8.0",
-        "wpackagist-plugin/login-with-phone-number": "<= 1.7.49.0",
+        "wpackagist-plugin/login-with-phone-number": "<= 1.8.47.0",
         "wpackagist-plugin/login-with-vipps": "<=1.3.3",
         "wpackagist-plugin/login-with-yourmembership": "<=1.1.3",
         "wpackagist-plugin/loginizer": "<= 1.9.2.0",
