@@ -11532,6 +11532,7 @@
         "wpackagist-plugin/wp-cfm": "<=1.7.8",
         "wpackagist-plugin/wp-championship": "<= 9.2.0.0",
         "wpackagist-plugin/wp-change-email-sender": "<=1.0",
+        "wpackagist-plugin/wp-chart-generator": "<=1.0.4",
         "wpackagist-plugin/wp-charts": "<=0.7.0",
         "wpackagist-plugin/wp-chatbot": "<=4.7",
         "wpackagist-plugin/wp-chgfontsize": "<=1.8",
