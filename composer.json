@@ -4236,7 +4236,7 @@
         "wpackagist-plugin/frontend-admin": "<=3.7.11",
         "wpackagist-plugin/frontend-checklist": "<=2.3.2",
         "wpackagist-plugin/frontend-dashboard": "<= 2.2.8.0",
-        "wpackagist-plugin/frontend-login-and-registration-blocks": "<= 1.0.9.0",
+        "wpackagist-plugin/frontend-login-and-registration-blocks": "<= 1.1.1.0",
         "wpackagist-plugin/frontend-post-submission": "<=1.0",
         "wpackagist-plugin/frontend-post-submission-manager-lite": "<=1.2.2",
         "wpackagist-plugin/frontend-registration-contact-form-7": "<=5.1",
