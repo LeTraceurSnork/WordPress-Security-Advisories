@@ -10991,7 +10991,7 @@
         "wpackagist-plugin/woo-conditional-product-fees-for-checkout": ">=3.1,<=3.9.3.1",
         "wpackagist-plugin/woo-confirmation-email": "<=3.5.0",
         "wpackagist-plugin/woo-country-restrictions-advanced": ">=1.0.0,<=1.14.0",
-        "wpackagist-plugin/woo-coupon-usage": "<= 6.4.0.0",
+        "wpackagist-plugin/woo-coupon-usage": "<= 6.4.1.0",
         "wpackagist-plugin/woo-currency": "<=1.6.5",
         "wpackagist-plugin/woo-custom-and-sequential-order-number": "<=2.6.0",
         "wpackagist-plugin/woo-custom-cart-button": "<=1.6.1",
