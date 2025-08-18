@@ -9627,6 +9627,7 @@
         "wpackagist-plugin/surbma-gdpr-proof-google-analytics": "<= 17.7.0.0",
         "wpackagist-plugin/surbma-magyar-woocommerce": "<=30.3.0",
         "wpackagist-plugin/surbma-premium-wp": "<=9.0",
+        "wpackagist-plugin/surbma-recent-comments-shortcode": "<=2.0",
         "wpackagist-plugin/surbma-salesautopilot-shortcode": "<= 2.5.0.0",
         "wpackagist-plugin/surecart": "<= 2.29.3.0",
         "wpackagist-plugin/suredash": "<= 1.1.0.0",
