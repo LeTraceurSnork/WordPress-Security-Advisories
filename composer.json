@@ -12166,7 +12166,7 @@
         "wpackagist-plugin/wp-pricing-table": "<=1.1",
         "wpackagist-plugin/wp-print": "<2.52",
         "wpackagist-plugin/wp-print-friendly": "< 0.6.1.0-dev",
-        "wpackagist-plugin/wp-private-content-plus": "<= 3.6.1.0",
+        "wpackagist-plugin/wp-private-content-plus": "<= 3.6.2.0",
         "wpackagist-plugin/wp-private-media": "<=1.0.1",
         "wpackagist-plugin/wp-private-message": "<1.0.6",
         "wpackagist-plugin/wp-private-messages": "<=1.0.1",
