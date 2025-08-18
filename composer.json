@@ -7650,7 +7650,7 @@
         "wpackagist-plugin/prettyphoto": "<= 1.2.3.0",
         "wpackagist-plugin/prevent-content-copy-image-save": "<=1.3",
         "wpackagist-plugin/prevent-direct-access": "<= 2.8.8.2",
-        "wpackagist-plugin/prevent-file-access": "<=2.5.1",
+        "wpackagist-plugin/prevent-file-access": "<= 2.6.0.0",
         "wpackagist-plugin/prevent-landscape-rotation": "<=2.0",
         "wpackagist-plugin/preview-link-generator": "<=1.0.3",
         "wpackagist-plugin/prezi-embedder": "<=2.1",
