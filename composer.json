@@ -4483,7 +4483,7 @@
         "wpackagist-plugin/global-content-blocks": "<=2.1.5",
         "wpackagist-plugin/global-elementor-buttons": "<=1.1.0",
         "wpackagist-plugin/global-flash-galleries": "<=0.15.1",
-        "wpackagist-plugin/global-gallery": "<=9.1.5",
+        "wpackagist-plugin/global-gallery": "<= 9.2.3.0",
         "wpackagist-plugin/global-income-stats-from-freemius": "<=1.0.0",
         "wpackagist-plugin/global-meta-keyword-and-description": "<=2.3",
         "wpackagist-plugin/global-multisite-search": "<=1.0.1",
