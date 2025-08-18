@@ -2107,7 +2107,7 @@
         "wpackagist-plugin/coblocks": "<= 3.1.13.0",
         "wpackagist-plugin/cobwebo-url": "<=1.0",
         "wpackagist-plugin/code-clone": "<=0.9",
-        "wpackagist-plugin/code-engine": "<=0.3.2",
+        "wpackagist-plugin/code-engine": "<= 0.3.3.0",
         "wpackagist-plugin/code-explorer": "<=1.4.5",
         "wpackagist-plugin/code-generator": "<=1.0",
         "wpackagist-plugin/code-generator-pro": "<=1.2",
