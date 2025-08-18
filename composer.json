@@ -277,6 +277,7 @@
         "wpackagist-plugin/addendio": "<=1.2.2",
         "wpackagist-plugin/addfreestats": "<= 4.21.0.0",
         "wpackagist-plugin/addfunc-mobile-detect": "<=3.1",
+        "wpackagist-plugin/addi-simple-slider": "<=2.0",
         "wpackagist-plugin/addify-abandoned-cart-recovery": "<1.2.5",
         "wpackagist-plugin/addify-checkout-fields-manager": "<1.0.2",
         "wpackagist-plugin/addify-custom-fields-for-woocommerce": "<1.0.4",
