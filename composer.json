@@ -4999,7 +4999,7 @@
         "wpackagist-plugin/ideapush": "<= 8.72.0.0",
         "wpackagist-plugin/ider-login": "<=2.1",
         "wpackagist-plugin/idonate": "<= 2.1.9.0",
-        "wpackagist-plugin/idonate-pro": "<=2.1.8",
+        "wpackagist-plugin/idonate-pro": "<= 2.1.9.0",
         "wpackagist-plugin/idpay-contact-form-7": "<=2.1.2",
         "wpackagist-plugin/idraw": "<=1.0",
         "wpackagist-plugin/idsk-toolkit": "<=1.7.2",
