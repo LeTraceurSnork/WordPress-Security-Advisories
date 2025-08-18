@@ -12470,7 +12470,7 @@
         "wpackagist-plugin/wp-upload-restriction": "<=2.2.4",
         "wpackagist-plugin/wp-url-shortener": "<=1.2",
         "wpackagist-plugin/wp-user": "<=7.0",
-        "wpackagist-plugin/wp-user-avatar": "<= 4.15.19.0",
+        "wpackagist-plugin/wp-user-avatar": "<= 4.16.4.0",
         "wpackagist-plugin/wp-user-control": "<=1.5.3",
         "wpackagist-plugin/wp-user-extra-fields": "<= 16.6.0.0",
         "wpackagist-plugin/wp-user-frontend": "<= 4.0.7.0",
