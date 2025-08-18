@@ -8132,7 +8132,7 @@
         "wpackagist-plugin/rencontre": "<= 3.11.1.0",
         "wpackagist-plugin/renee-work-in-progress": "<=1.0.3",
         "wpackagist-plugin/rentpress": "<=6.6.4",
-        "wpackagist-plugin/rentsyst": "<=2.0.92",
+        "wpackagist-plugin/rentsyst": "<= 2.0.100.0",
         "wpackagist-plugin/repayment-calculator": "<=1.3",
         "wpackagist-plugin/replace": "<=0.2.1",
         "wpackagist-plugin/replace-default-words": "<=1.3",
