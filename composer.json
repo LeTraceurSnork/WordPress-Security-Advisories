@@ -268,6 +268,7 @@
         "wpackagist-plugin/add-to-feedly": "<=1.2.11",
         "wpackagist-plugin/add-to-header": "<=1.0",
         "wpackagist-plugin/add-to-home-screen-wp": "<=2",
+        "wpackagist-plugin/add-user-meta": "<=1.0.1",
         "wpackagist-plugin/add-user-role": "<=0.0.1",
         "wpackagist-plugin/add-whatsapp-button": "<=2.1.5",
         "wpackagist-plugin/add-widget-after-content": "<=2.4.6",
