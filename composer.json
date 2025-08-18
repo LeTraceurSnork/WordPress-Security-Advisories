@@ -4652,6 +4652,7 @@
         "wpackagist-plugin/gravity-forms-toolbar": "<=1.7.0",
         "wpackagist-plugin/gravityforms": "<= 2.9.1.3",
         "wpackagist-plugin/gravityformswebhooks": "<=1.6.0",
+        "wpackagist-plugin/gravitywp-merge-tags": "<=1.4.4",
         "wpackagist-plugin/great-quotes": "<=1.0.0",
         "wpackagist-plugin/greek-multi-tool": "<=2.3.1",
         "wpackagist-plugin/greek-namedays-widget": "<=20191113",
