@@ -3669,7 +3669,7 @@
         "wpackagist-plugin/eventify": "<=2.1",
         "wpackagist-plugin/eventlist": "<=1.9.2",
         "wpackagist-plugin/eventon": "<= 4.9.9.0",
-        "wpackagist-plugin/eventon-lite": "<= 2.4.4.0",
+        "wpackagist-plugin/eventon-lite": "<= 2.4.6.0",
         "wpackagist-plugin/eventon-rsvp": "<=2.9.4",
         "wpackagist-plugin/eventprime-event-calendar-management": "<= 4.0.7.3",
         "wpackagist-plugin/eventr": "<=1.02.2",
