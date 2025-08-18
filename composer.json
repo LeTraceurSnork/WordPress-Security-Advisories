@@ -7499,7 +7499,7 @@
         "wpackagist-plugin/post-expirator": "<=2.5.1",
         "wpackagist-plugin/post-from-frontend": "<=1.0.0",
         "wpackagist-plugin/post-gallery": "<=1.0.6",
-        "wpackagist-plugin/post-grid": "<= 2.3.6.0",
+        "wpackagist-plugin/post-grid": "<= 2.3.11.0",
         "wpackagist-plugin/post-grid-and-filter-ultimate": "<=1.5.2",
         "wpackagist-plugin/post-grid-carousel-ultimate": "<= 1.6.10.0",
         "wpackagist-plugin/post-grid-elementor-addon": "<= 2.0.18.0",
