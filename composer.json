@@ -6812,6 +6812,7 @@
         "wpackagist-plugin/ni-woo-sales-commission": "<=1.2.4",
         "wpackagist-plugin/ni-woocommerce-cost-of-goods": "<=3.2.8",
         "wpackagist-plugin/ni-woocommerce-custom-order-status": "<=1.9.6",
+        "wpackagist-plugin/ni-woocommerce-customer-product-report": "<=1.2.4",
         "wpackagist-plugin/ni-woocommerce-order-export": "<=3.1.6",
         "wpackagist-plugin/ni-woocommerce-product-editor": "<=1.4.5",
         "wpackagist-plugin/ni-woocommerce-product-enquiry": "<=4.1.8",
