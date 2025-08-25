@@ -8807,7 +8807,7 @@
         "wpackagist-plugin/shortcode-support-for-elementor-templates": "<=1.0.0",
         "wpackagist-plugin/shortcode-to-display-post-and-user-data": "<=1.2.1",
         "wpackagist-plugin/shortcode-variables": "<= 4.1.6.0",
-        "wpackagist-plugin/shortcodehub": "<=1.3.0",
+        "wpackagist-plugin/shortcodehub": "<= 1.7.1.0",
         "wpackagist-plugin/shortcoder": "<=6.3",
         "wpackagist-plugin/shortcodes-anywhere": "<=1.0.1",
         "wpackagist-plugin/shortcodes-finder": "<= 1.5.4.0",
