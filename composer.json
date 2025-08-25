@@ -8260,6 +8260,7 @@
         "wpackagist-plugin/restaurant-reservations": "<= 2.6.29.0",
         "wpackagist-plugin/restaurant-solutions-checklist": "1.0.0",
         "wpackagist-plugin/restaurantconnect-reswidget": "<=1.0",
+        "wpackagist-plugin/restore-permanently-delete-post-or-page-data": "<=1.0",
         "wpackagist-plugin/restrict-anonymous-access": "<=1.2",
         "wpackagist-plugin/restrict-categories": "<=2.6.4",
         "wpackagist-plugin/restrict-content": "<= 3.2.13.0",
