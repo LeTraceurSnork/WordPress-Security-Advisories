@@ -12833,6 +12833,7 @@
         "wpackagist-plugin/ws-force-login-page": "<=3.0.3",
         "wpackagist-plugin/ws-form": "<= 1.10.35.0",
         "wpackagist-plugin/ws-form-pro": "<= 1.10.13.0",
+        "wpackagist-plugin/ws-theme-addons": "<=2.0.0",
         "wpackagist-plugin/wsb-brands": "<=1.1.8",
         "wpackagist-plugin/wsecure": "<=2.5",
         "wpackagist-plugin/wsify-widget": "<=1.0",
