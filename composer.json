@@ -9787,7 +9787,7 @@
         "wpackagist-plugin/tailpress": "<=0.4.4",
         "wpackagist-plugin/tainacan": "<= 0.21.14.0",
         "wpackagist-plugin/tajer": "<=1.0.5",
-        "wpackagist-plugin/taketin-to-wp-membership": "<=2.8.1",
+        "wpackagist-plugin/taketin-to-wp-membership": "<= 2.8.12.0",
         "wpackagist-plugin/talkback-secure-linkback-protocol": "<=1.0",
         "wpackagist-plugin/tallykit": "<5.5",
         "wpackagist-plugin/tamara-checkout": "<=1.9.9",
