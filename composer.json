@@ -3800,6 +3800,7 @@
         "wpackagist-plugin/external-media": "<=1.0.36",
         "wpackagist-plugin/external-media-upload": "<=0.3",
         "wpackagist-plugin/external-media-without-import": "<=1.1.2",
+        "wpackagist-plugin/external-rss-reader": "<=0.6",
         "wpackagist-plugin/external-url-as-post-featured-image-thumbnail": "<=2.02",
         "wpackagist-plugin/external-video-for-everybody": "<= 2.1.1.0",
         "wpackagist-plugin/external-videos": "<=2.0.1",
