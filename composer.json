@@ -12802,6 +12802,7 @@
         "wpackagist-plugin/wptelegram-widget": "<=2.1.27",
         "wpackagist-plugin/wptemplata": "<=1.0.7",
         "wpackagist-plugin/wptf-image-gallery": "<=1.0.3",
+        "wpackagist-plugin/wptobe-memberships": "<=3.4.2",
         "wpackagist-plugin/wptobe-signinup": "<=1.1.2",
         "wpackagist-plugin/wptools": "<= 5.24.0.0",
         "wpackagist-plugin/wptools-masonry-gallery-posts-for-divi": ">=3.0.0,<=3.5.0",
