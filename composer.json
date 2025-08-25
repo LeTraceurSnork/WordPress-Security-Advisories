@@ -8695,6 +8695,7 @@
         "wpackagist-plugin/sermone-online-sermons-management": "<=1.0.0",
         "wpackagist-plugin/serp-rank": "<=1.0.7",
         "wpackagist-plugin/serped-net": "<=4.6",
+        "wpackagist-plugin/sertifier-certificates-open-badges": "<=1.19",
         "wpackagist-plugin/server-info": ">=2.5.1,<=2.5.3",
         "wpackagist-plugin/server-status-by-hostnameip": "<=4.6",
         "wpackagist-plugin/serverbuddy-by-pluginbuddy": "<=1.0.5",
