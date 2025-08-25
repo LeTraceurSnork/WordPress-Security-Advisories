@@ -9068,6 +9068,7 @@
         "wpackagist-plugin/simplemodal": "<=0.3.3",
         "wpackagist-plugin/simplemodal-contact-form-smcf": "<=1.2.9",
         "wpackagist-plugin/simplepress": "<= 6.11.5.0",
+        "wpackagist-plugin/simpler-checkout": ">=0.7.0,<=1.1.9",
         "wpackagist-plugin/simplesamlphp-authentication": "<=0.7.0",
         "wpackagist-plugin/simpleschema-free": "<=1.7.6.9",
         "wpackagist-plugin/simpleshop-cz": "<=2.10.2",
