@@ -9088,6 +9088,7 @@
         "wpackagist-plugin/simple-long-form": "<=2.2.2",
         "wpackagist-plugin/simple-mail-address-encoder": "<1.7",
         "wpackagist-plugin/simple-map-no-api": "<=1.9",
+        "wpackagist-plugin/simple-matomo-tracking-code": "<=1.1.0",
         "wpackagist-plugin/simple-matted-thumbnails": "<=1.01",
         "wpackagist-plugin/simple-media-directory": "<=1.4.3",
         "wpackagist-plugin/simple-membership": "<= 4.6.3.0",
