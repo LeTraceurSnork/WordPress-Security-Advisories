@@ -6050,7 +6050,7 @@
         "wpackagist-plugin/lsd-google-maps-embedder": "<=1.1",
         "wpackagist-plugin/ltl-freight-quotes-abf-freight-edition": "<=3.3.7",
         "wpackagist-plugin/ltl-freight-quotes-day-ross-edition": "<=2.1.10",
-        "wpackagist-plugin/ltl-freight-quotes-daylight-edition": "<=2.2.6",
+        "wpackagist-plugin/ltl-freight-quotes-daylight-edition": "<= 2.2.7.0",
         "wpackagist-plugin/ltl-freight-quotes-estes-edition": "<=3.3.7",
         "wpackagist-plugin/ltl-freight-quotes-fedex-freight-edition": "<=3.4.1",
         "wpackagist-plugin/ltl-freight-quotes-freightquote-edition": "<=2.3.11",
