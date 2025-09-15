@@ -9604,6 +9604,7 @@
         "wpackagist-plugin/sportspress-tv": "<=0.9.9",
         "wpackagist-plugin/spostarbust": "<=1.2.04.20",
         "wpackagist-plugin/spotbot": "<=0.1.8",
+        "wpackagist-plugin/spotify-embed-creator": "<=1.0.5",
         "wpackagist-plugin/spotify-play-button": "<=1.0",
         "wpackagist-plugin/spotify-play-button-for-wordpress": "<= 2.11.0.0",
         "wpackagist-plugin/spotim-comments": "<4.0.4",
