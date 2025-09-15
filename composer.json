@@ -7992,6 +7992,7 @@
         "wpackagist-plugin/push-notification-mobile-and-web-app": "<=2.0.3",
         "wpackagist-plugin/push-notifications-for-wp": "<6.0.1",
         "wpackagist-plugin/pushbiz": "<=1.0",
+        "wpackagist-plugin/pushe-webpush": "<=0.5.0",
         "wpackagist-plugin/pvn-auth-popup": "<=1.0.0",
         "wpackagist-plugin/pw-bulk-edit": "<=2.134",
         "wpackagist-plugin/pw-woocommerce-on-sale": "<=1.39",
