@@ -6077,7 +6077,7 @@
         "wpackagist-plugin/luzuk-testimonials": "<=0.0.1",
         "wpackagist-plugin/lw-all-in-one": "<=1.6.4",
         "wpackagist-plugin/lws-affiliation": "<= 2.3.4.0",
-        "wpackagist-plugin/lws-cleaner": "<=2.3.0",
+        "wpackagist-plugin/lws-cleaner": "<= 2.4.1.3",
         "wpackagist-plugin/lws-hide-login": "<=2.1.8",
         "wpackagist-plugin/lws-optimize": "<=1.9.1",
         "wpackagist-plugin/lws-sms": "<=2.4.1",
