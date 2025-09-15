@@ -7970,6 +7970,7 @@
         "wpackagist-plugin/ptengine-real-time-web-analytics-and-heatmap": "<1.0.2",
         "wpackagist-plugin/ptoffice-sign-ups": "<=1.0.4",
         "wpackagist-plugin/ptypeconverter": "<=0.2.8.1",
+        "wpackagist-plugin/publish-approval": "<=1.1",
         "wpackagist-plugin/publish-confirm-message": "<=1.3.1",
         "wpackagist-plugin/publish-post-email-notification": "<= 1.0.2.3",
         "wpackagist-plugin/publish-to-schedule": "<=4.5.4",
