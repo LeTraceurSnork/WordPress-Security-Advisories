@@ -11922,6 +11922,7 @@
         "wpackagist-plugin/wp-easy-booking": "<=2.4.4",
         "wpackagist-plugin/wp-easy-contact": "<= 4.0.1.0",
         "wpackagist-plugin/wp-easy-events": "<= 4.1.0.0",
+        "wpackagist-plugin/wp-easy-faqs": "<=1.0.5",
         "wpackagist-plugin/wp-easy-gallery": "<= 4.8.5.0",
         "wpackagist-plugin/wp-easy-guide": "<=1.0.0",
         "wpackagist-plugin/wp-easy-menu": "<=0.41",
