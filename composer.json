@@ -7085,7 +7085,7 @@
         "wpackagist-plugin/onlyoffice": "<= 2.2.0.0",
         "wpackagist-plugin/onlyoffice-docspace": "<=2.1.1",
         "wpackagist-plugin/onlywire-multi-autosubmitter": "<=1.2.4",
-        "wpackagist-plugin/onoffice-for-wp-websites": "<=6.0",
+        "wpackagist-plugin/onoffice-for-wp-websites": "<= 6.5.0.0",
         "wpackagist-plugin/onwebchat": "<=3.1.0",
         "wpackagist-plugin/ooohboi-steroids-for-elementor": "<= 2.1.4.0",
         "wpackagist-plugin/ooorl": "<=1.0.0",
