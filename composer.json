@@ -9404,6 +9404,7 @@
         "wpackagist-plugin/smio-push-notification": "<=10.3",
         "wpackagist-plugin/smm-api": "<=6.0.30",
         "wpackagist-plugin/smokesignal": "<1.2.7",
+        "wpackagist-plugin/smooth-accordion": "<=2.1",
         "wpackagist-plugin/smooth-dynamic-slider": "<=1.0",
         "wpackagist-plugin/smooth-gallery-replacement": "<=1.0",
         "wpackagist-plugin/smooth-page-scroll-updown-buttons": "<=1.3",
