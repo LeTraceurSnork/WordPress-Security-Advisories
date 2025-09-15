@@ -3809,6 +3809,7 @@
         "wpackagist-plugin/exit-popup-free": "<=1.0",
         "wpackagist-plugin/exit-popup-show": "*",
         "wpackagist-plugin/exit-strategy": "<=1.55",
+        "wpackagist-plugin/exitintentpopup": "<=1.0.1",
         "wpackagist-plugin/exmage-wp-image-links": "<=1.0.6",
         "wpackagist-plugin/expand-maker": "<= 3.4.7.0",
         "wpackagist-plugin/expandable-paywall": ">=1.1.1,<=2.0.16",
