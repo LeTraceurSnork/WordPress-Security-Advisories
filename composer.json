@@ -8971,6 +8971,7 @@
         "wpackagist-plugin/side-cart-woocommerce": "<= 2.2.0.0 || == 2.5.0.0",
         "wpackagist-plugin/side-menu": "<=3.1.3",
         "wpackagist-plugin/side-menu-lite": "<= 5.3.1.0",
+        "wpackagist-plugin/side-slide-responsive-menu": "<=1.0",
         "wpackagist-plugin/sidebar-adder": "<=2.0.0",
         "wpackagist-plugin/sidebar-content-from-shortcode": "<=2.0",
         "wpackagist-plugin/sidebar-manager": "<=1.1.4",
