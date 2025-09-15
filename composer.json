@@ -1116,6 +1116,7 @@
         "wpackagist-plugin/azindex": "<=0.8.1",
         "wpackagist-plugin/azon-addon-js-composer": "<=1.2",
         "wpackagist-plugin/azonbox": "<=1.1.2",
+        "wpackagist-plugin/azurecurve-bbcode": "<=2.0.4",
         "wpackagist-plugin/azurecurve-floating-featured-image": "<=2.2.0",
         "wpackagist-plugin/azurecurve-shortcodes-in-comments": "<=2.0.2",
         "wpackagist-plugin/azurecurve-toggle-showhide": "<=2.1.3",
