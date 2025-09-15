@@ -5334,6 +5334,7 @@
         "wpackagist-plugin/instant-chat-wp": "<=1.0.5",
         "wpackagist-plugin/instant-css": "<=1.2.1",
         "wpackagist-plugin/instant-images": "<=6.1.0",
+        "wpackagist-plugin/instant-locations": "<=1.0",
         "wpackagist-plugin/instantio": "<= 3.3.16.0",
         "wpackagist-plugin/instantsearch-for-woocommerce": "<=3.0.58",
         "wpackagist-plugin/instasqueeze": "*",
