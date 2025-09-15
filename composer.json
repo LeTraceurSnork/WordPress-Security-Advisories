@@ -12802,7 +12802,7 @@
         "wpackagist-plugin/wpaudio-mp3-player": "<=4.0.2",
         "wpackagist-plugin/wpavatar": "<=1.9.3",
         "wpackagist-plugin/wpb-advanced-faq": "<=1.0.6",
-        "wpackagist-plugin/wpb-elementor-addons": "<=1.0.9",
+        "wpackagist-plugin/wpb-elementor-addons": "<= 1.6.0.0",
         "wpackagist-plugin/wpb-popup-for-contact-form-7": "<=1.7.5",
         "wpackagist-plugin/wpb-show-core": "*",
         "wpackagist-plugin/wpb-woocommerce-category-slider": "<=1.71",
