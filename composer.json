@@ -2502,7 +2502,7 @@
         "wpackagist-plugin/countdown-for-the-events-calendar": "<= 1.4.9.0",
         "wpackagist-plugin/countdown-time": "<= 1.2.6.0",
         "wpackagist-plugin/countdown-timer-block": "<=1.0.5",
-        "wpackagist-plugin/countdown-timer-for-elementor": "<=1.3.6",
+        "wpackagist-plugin/countdown-timer-for-elementor": "<= 1.3.9.0",
         "wpackagist-plugin/countdown-timer-ultimate": "<=2.4",
         "wpackagist-plugin/countdown-wpdevart-extended": "<= 1.8.2.0",
         "wpackagist-plugin/counter-box": "<= 2.0.6.0",
