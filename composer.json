@@ -12421,6 +12421,7 @@
         "wpackagist-plugin/wp-property": "<1.38.4",
         "wpackagist-plugin/wp-proposals": "<=2.3",
         "wpackagist-plugin/wp-ptviewer": "<=2.0.2",
+        "wpackagist-plugin/wp-publication-archive": "<=3.0.1",
         "wpackagist-plugin/wp-publications": "<= 1.2.0.0",
         "wpackagist-plugin/wp-push-notification-firebase": "<=1.2.0",
         "wpackagist-plugin/wp-qrcode-me-v-card": "<=1.6.0",
