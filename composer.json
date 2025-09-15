@@ -10117,6 +10117,7 @@
         "wpackagist-plugin/themify-builder": "<= 7.6.7.0",
         "wpackagist-plugin/themify-event-post": "<= 1.3.2.0",
         "wpackagist-plugin/themify-icons": "<= 2.0.3.0",
+        "wpackagist-plugin/themify-popup": "<=1.4.4",
         "wpackagist-plugin/themify-portfolio-post": "<=1.2.4",
         "wpackagist-plugin/themify-ptb": "<= 2.1.0.0",
         "wpackagist-plugin/themify-ptb-search": "<=1.3.9",
