@@ -5784,6 +5784,7 @@
         "wpackagist-plugin/leads": "<1.6.3",
         "wpackagist-plugin/leads-5050-visitor-insights": "<=1.0.5",
         "wpackagist-plugin/leads-crm": "<=2.0.13",
+        "wpackagist-plugin/leads-for-amo-crm": "<=1.0.1",
         "wpackagist-plugin/leadsnap": "<=1.23",
         "wpackagist-plugin/leadsquared-suite": "<=0.7.4",
         "wpackagist-plugin/leadster-marketing-conversacional": "<=1.1.2",
