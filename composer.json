@@ -1873,6 +1873,7 @@
         "wpackagist-plugin/category-specific-rss-feed-menu": "<= 2.2.0.0",
         "wpackagist-plugin/category-widget": "<=2.0.2",
         "wpackagist-plugin/categorycustomfields": "<=1.0",
+        "wpackagist-plugin/catfolders": "<=2.5.2",
         "wpackagist-plugin/cats-job-listings": "<=2.0.9",
         "wpackagist-plugin/causes": "<=1.0.01",
         "wpackagist-plugin/caxton": "<=1.30.1",
