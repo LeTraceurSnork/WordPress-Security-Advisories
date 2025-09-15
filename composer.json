@@ -12062,6 +12062,7 @@
         "wpackagist-plugin/wp-geshi-highlight": "<=1.4.3",
         "wpackagist-plugin/wp-get-the-table": "<=1.5",
         "wpackagist-plugin/wp-github": "<=1.3.3",
+        "wpackagist-plugin/wp-github-gist": "<=0.5",
         "wpackagist-plugin/wp-githuber-md": "<=1.16.3",
         "wpackagist-plugin/wp-glossary": "<=3.1.2",
         "wpackagist-plugin/wp-gmappity-easy-google-maps": "<=0.6",
