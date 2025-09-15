@@ -9235,6 +9235,7 @@
         "wpackagist-plugin/site-editor": "<=1.1.1",
         "wpackagist-plugin/site-editor-google-map": "<=1.0.1",
         "wpackagist-plugin/site-favicon": "<=0.2",
+        "wpackagist-plugin/site-info-dashboard-widget": "<=1.1",
         "wpackagist-plugin/site-is-offline-plugin": "<=1.6.6",
         "wpackagist-plugin/site-launcher": "<=0.9.4",
         "wpackagist-plugin/site-mailer": "<=1.2.3",
