@@ -5644,6 +5644,7 @@
         "wpackagist-plugin/kk-youtube-video": "<=0.2",
         "wpackagist-plugin/kkprogressbar": "<=1.1.4.2",
         "wpackagist-plugin/klarna-checkout-for-woocommerce": "<= 2.13.4.0",
+        "wpackagist-plugin/klarna-order-management-for-woocommerce": "<=1.9.8",
         "wpackagist-plugin/klarna-payments-for-woocommerce": "<=3.2.4",
         "wpackagist-plugin/klaviyo": "<=3.0.9",
         "wpackagist-plugin/kn-fix-your": "<=1.0.1",
