@@ -7946,7 +7946,7 @@
         "wpackagist-plugin/property": ">=1.0.5,<=1.0.6",
         "wpackagist-plugin/property-hive-mortgage-calculator": "<=1.0.6",
         "wpackagist-plugin/property-hive-stamp-duty-calculator": "<=1.0.22",
-        "wpackagist-plugin/propertyhive": "<= 2.1.2.0",
+        "wpackagist-plugin/propertyhive": "<= 2.1.5.0",
         "wpackagist-plugin/propertyshift": "<=1.0.0",
         "wpackagist-plugin/propovoice": "<= 1.7.6.7",
         "wpackagist-plugin/propovoice-pro": "<=1.7.0.3",
