@@ -5358,7 +5358,7 @@
         "wpackagist-plugin/integrations-of-zoho-crm-with-elementor-form": "<=1.0.7",
         "wpackagist-plugin/integromat-connector": "<= 1.5.10.0",
         "wpackagist-plugin/intelligence": "<=1.4.0",
-        "wpackagist-plugin/intelligent-importer": "<=5.1.3",
+        "wpackagist-plugin/intelligent-importer": "<= 5.1.4.0",
         "wpackagist-plugin/intelliwidget-elements": "<=2.2.7",
         "wpackagist-plugin/intelly-posts-footer-manager": "<= 2.2.0.0",
         "wpackagist-plugin/intelly-related-posts": "<= 3.8.0.0",
