@@ -12530,6 +12530,7 @@
         "wpackagist-plugin/wp-shop-original": "<= 3.9.6.0",
         "wpackagist-plugin/wp-shopify": "<=1.5.3",
         "wpackagist-plugin/wp-shopping-cart": "<=3.4",
+        "wpackagist-plugin/wp-shortcm": "<=2.4.0",
         "wpackagist-plugin/wp-shortcode": "<=1.4.16",
         "wpackagist-plugin/wp-shoutbox-live-chat": "<=1.4.2",
         "wpackagist-plugin/wp-show-login-form": "<=0.2",
