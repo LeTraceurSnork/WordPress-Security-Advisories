@@ -5512,6 +5512,7 @@
         "wpackagist-plugin/jobboardwp": "<=1.3.0",
         "wpackagist-plugin/jobcareer": "<= 7.1.0.0",
         "wpackagist-plugin/jobhunt-notifications": "<=3.6",
+        "wpackagist-plugin/jobify": "<=1.4.4",
         "wpackagist-plugin/jobwp": "<= 2.4.3.0",
         "wpackagist-plugin/joli-clear-lightbox": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/joli-faq-seo": "<= 1.3.2.0",
