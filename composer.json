@@ -6333,6 +6333,7 @@
         "wpackagist-plugin/mediaburst-ecommerce-sms-notifications": "<=2.0.5",
         "wpackagist-plugin/mediaburst-email-to-sms": "<=3.0.4",
         "wpackagist-plugin/mediamatic": "<= 2.8.1.0",
+        "wpackagist-plugin/mediapress": "<=1.5.9.1",
         "wpackagist-plugin/mediaview": "<=1.1.2",
         "wpackagist-plugin/mediavine-control-panel": "<= 2.10.6.0",
         "wpackagist-plugin/mediavine-create": "<= 1.9.8.0",
