@@ -5835,6 +5835,7 @@
         "wpackagist-plugin/lh-ogp-meta-tags": "<=1.73",
         "wpackagist-plugin/lh-password-changer": "<=1.55",
         "wpackagist-plugin/lh-qr-codes": "<=1.06",
+        "wpackagist-plugin/lh-signing": "<=2.83",
         "wpackagist-plugin/library-bookshelves": "<= 5.10.0.0",
         "wpackagist-plugin/library-instruction-recorder": "<=1.1.4",
         "wpackagist-plugin/library-management-system": "<=3.0.0",
