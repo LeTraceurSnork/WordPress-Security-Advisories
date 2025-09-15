@@ -6926,6 +6926,7 @@
         "wpackagist-plugin/nimble-builder": "<3.2.2",
         "wpackagist-plugin/nimble-portfolio": "<=3.0.1",
         "wpackagist-plugin/ninja-beaver-lite-addons-for-beaver-builder": "<=2.4.5",
+        "wpackagist-plugin/ninja-charts": "<=3.3.2",
         "wpackagist-plugin/ninja-forms": "<= 3.11.0.0",
         "wpackagist-plugin/ninja-forms-uploads": "<= 3.3.16.0",
         "wpackagist-plugin/ninja-forms-webhooks": "<=3.0.7",
