@@ -12496,6 +12496,7 @@
         "wpackagist-plugin/wp-scraper": "<= 5.8.0.0",
         "wpackagist-plugin/wp-scribd-list": "<=1.2",
         "wpackagist-plugin/wp-scrippets": "<=1.5.1",
+        "wpackagist-plugin/wp-scriptcase": "<=2.0.0",
         "wpackagist-plugin/wp-scrive": "<=1.2.3",
         "wpackagist-plugin/wp-search-keyword-redirect": "<=1.0",
         "wpackagist-plugin/wp-secure-by-sitesecuritymonitorcom": "<=1.2",
