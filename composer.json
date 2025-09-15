@@ -8679,6 +8679,7 @@
         "wpackagist-plugin/search-and-replace": "<=3.2.2",
         "wpackagist-plugin/search-and-share": "<=0.9.3",
         "wpackagist-plugin/search-autocomplete": "<1.0.9",
+        "wpackagist-plugin/search-cloud-one": "<=2.2.5",
         "wpackagist-plugin/search-console": "<=2.1.1",
         "wpackagist-plugin/search-everything": "<= 8.1.6.0",
         "wpackagist-plugin/search-exclude": "<= 2.4.9.0",
