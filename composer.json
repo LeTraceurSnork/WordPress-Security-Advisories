@@ -8791,6 +8791,7 @@
         "wpackagist-plugin/seo-meta": "<=0.2",
         "wpackagist-plugin/seo-meta-tags": "<=1.4",
         "wpackagist-plugin/seo-metrics-helper": "<= 1.0.15.0",
+        "wpackagist-plugin/seo-monster": "<=3.3.3",
         "wpackagist-plugin/seo-nutrition-and-print-for-recipes-by-edamam": "<=3.3",
         "wpackagist-plugin/seo-optimized-images": "2.0 || 2.1.2",
         "wpackagist-plugin/seo-rank-reporter": "<=2.2.2",
