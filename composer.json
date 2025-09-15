@@ -6061,6 +6061,7 @@
         "wpackagist-plugin/ltl-freight-quotes-rl-edition": "<=3.3.4",
         "wpackagist-plugin/ltl-freight-quotes-saia-edition": "<=2.2.10",
         "wpackagist-plugin/ltl-freight-quotes-sefl-edition": "<=3.2.4",
+        "wpackagist-plugin/ltl-freight-quotes-tql-edition": "<=1.2.6",
         "wpackagist-plugin/ltl-freight-quotes-unishippers-edition": "<=2.5.8",
         "wpackagist-plugin/ltl-freight-quotes-ups-edition": "<=3.6.4",
         "wpackagist-plugin/ltl-freight-quotes-worldwide-express-edition": "<= 5.0.21.0",
