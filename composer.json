@@ -9361,7 +9361,7 @@
         "wpackagist-plugin/smart-forms": "<= 2.6.98.0",
         "wpackagist-plugin/smart-google-code-inserter": "<3.5",
         "wpackagist-plugin/smart-grid-gallery": "<= 1.1.7.0",
-        "wpackagist-plugin/smart-id": "<=4.6",
+        "wpackagist-plugin/smart-id": "<= 4.9.3.0",
         "wpackagist-plugin/smart-logo-showcase-lite": "<=1.1.9",
         "wpackagist-plugin/smart-maintenance-countdown": "<=1.2",
         "wpackagist-plugin/smart-maintenance-mode": "<= 1.5.3.0",
