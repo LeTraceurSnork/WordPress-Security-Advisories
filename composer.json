@@ -6141,7 +6141,7 @@
         "wpackagist-plugin/mailin": "<= 3.1.87.0",
         "wpackagist-plugin/mailjet-for-wordpress": "<=5.3",
         "wpackagist-plugin/mailmunch": "<=3.1.8",
-        "wpackagist-plugin/mailoptin": "<= 1.2.70.3",
+        "wpackagist-plugin/mailoptin": "<= 1.2.75.0",
         "wpackagist-plugin/mailpoet": "<= 5.5.1.0",
         "wpackagist-plugin/mailpress": "<=7.2.1",
         "wpackagist-plugin/mailrelay": "<=2.1.1",
