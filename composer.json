@@ -8685,6 +8685,7 @@
         "wpackagist-plugin/search-field-for-gravity-forms": "<=0.5",
         "wpackagist-plugin/search-filter": "<=1.2.15",
         "wpackagist-plugin/search-filter-pro": "<= 2.5.19.0",
+        "wpackagist-plugin/search-google": "<=1.9",
         "wpackagist-plugin/search-in-place": "<=1.0.104",
         "wpackagist-plugin/search-logger": "<=0.9",
         "wpackagist-plugin/search-meter": "< 2.13.3.0-dev",
