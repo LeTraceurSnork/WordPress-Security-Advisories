@@ -5426,6 +5426,7 @@
         "wpackagist-plugin/irm-newsroom": "<=1.2.17",
         "wpackagist-plugin/isee-products-extractor": "<=2.1.3",
         "wpackagist-plugin/ismobile": "<=1.1.1",
+        "wpackagist-plugin/issuem": "<=2.9.0",
         "wpackagist-plugin/issues-tracker": ">=1.0.3,<=1.2.2",
         "wpackagist-plugin/issuu-panel": "<=2.1.1",
         "wpackagist-plugin/issuupress": "<=1.3.2",
