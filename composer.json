@@ -11700,7 +11700,7 @@
         "wpackagist-plugin/wp-ban": "<=1.69",
         "wpackagist-plugin/wp-ban-user": "<=1.0",
         "wpackagist-plugin/wp-bannerize": ">=2.0.0,<=4.0.2",
-        "wpackagist-plugin/wp-bannerize-pro": "<=1.9.0",
+        "wpackagist-plugin/wp-bannerize-pro": "<= 1.10.0.0",
         "wpackagist-plugin/wp-banners-lite": "1.29 || 1.31 || 1.40",
         "wpackagist-plugin/wp-base-booking-of-appointments-services-and-events": "<= 5.0.0.0",
         "wpackagist-plugin/wp-basic-elements": "<=5.2.15",
