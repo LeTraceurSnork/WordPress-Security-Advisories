@@ -634,6 +634,7 @@
         "wpackagist-plugin/all-in-one-favicon": "<=4.7",
         "wpackagist-plugin/all-in-one-invite-codes": "<=1.0.15",
         "wpackagist-plugin/all-in-one-login": "<=2.0.1",
+        "wpackagist-plugin/all-in-one-minifier": "<=3.2",
         "wpackagist-plugin/all-in-one-performance-accelerator": "<=1.2",
         "wpackagist-plugin/all-in-one-redirection": "<= 2.2.0.0",
         "wpackagist-plugin/all-in-one-schemaorg-rich-snippets": "<=1.6.5",
