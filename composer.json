@@ -6731,7 +6731,7 @@
         "wpackagist-plugin/my-wp-health-check": "<=1.9.7",
         "wpackagist-plugin/my-wp-responsive-video": "<=1.0",
         "wpackagist-plugin/my-wp-tabs": "<=2.2.6",
-        "wpackagist-plugin/my-wp-translate": "< 1.0.4.0-dev",
+        "wpackagist-plugin/my-wp-translate": "<= 1.1.0.0",
         "wpackagist-plugin/my-wpdb": "<2.5",
         "wpackagist-plugin/myagileprivacy": "<=2.1.7",
         "wpackagist-plugin/myaliceai": "<=1.2.7",
