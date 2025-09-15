@@ -1295,6 +1295,7 @@
         "wpackagist-plugin/betterdocs": "<= 4.1.1.0",
         "wpackagist-plugin/betterlinks": "<=2.1.7",
         "wpackagist-plugin/betteroptin": "*",
+        "wpackagist-plugin/beyondcart": "<=2.1.0",
         "wpackagist-plugin/beyot-framework": "<=6.0.6",
         "wpackagist-plugin/bft-autoresponder": "*",
         "wpackagist-plugin/bg-biblie-references": "<=3.8.14",
