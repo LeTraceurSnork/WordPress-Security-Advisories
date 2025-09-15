@@ -575,6 +575,7 @@
         "wpackagist-plugin/airdrop": "<=1.0.5",
         "wpackagist-plugin/airpress": ">=1.1.51,<=1.1.62",
         "wpackagist-plugin/ait-csv-import-export": "<=3.0.3",
+        "wpackagist-plugin/aitasi-coming-soon": "<=2.0.2",
         "wpackagist-plugin/ajar-productions-in5-embed": "<= 3.1.5.0",
         "wpackagist-plugin/ajax-add-to-cart-for-woocommerce": ">=1.0.0,<=1.0.2",
         "wpackagist-plugin/ajax-archive-calendar": "<=2.6.7",
