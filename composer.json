@@ -9388,6 +9388,7 @@
         "wpackagist-plugin/smartarget-contact-us": "<=1.4",
         "wpackagist-plugin/smartarget-message-bar": "<=1.4",
         "wpackagist-plugin/smartarget-popup": "<=1.4",
+        "wpackagist-plugin/smartcat-wpml": "<=3.1.69",
         "wpackagist-plugin/smartcrawl-seo": "<=3.10.8",
         "wpackagist-plugin/smartemailing": "<=2.2.0",
         "wpackagist-plugin/smartideo": "<=2.7.0",
