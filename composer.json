@@ -335,6 +335,7 @@
         "wpackagist-plugin/admin-dashboard-rss-feed": "<= 3.4.0.0",
         "wpackagist-plugin/admin-font-editor": "<1.8",
         "wpackagist-plugin/admin-form": "<= 1.9.1.0",
+        "wpackagist-plugin/admin-in-english-with-switch": "<=1.1",
         "wpackagist-plugin/admin-log": "<=1.50",
         "wpackagist-plugin/admin-management-xtended": "<= 2.4.6.0",
         "wpackagist-plugin/admin-menu": "<=1.1",
