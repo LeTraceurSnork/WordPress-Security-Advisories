@@ -9471,7 +9471,7 @@
         "wpackagist-plugin/social-media-feather": "<=2.1.3",
         "wpackagist-plugin/social-media-links": "<=1.0.3",
         "wpackagist-plugin/social-media-sharing": "<=1.1",
-        "wpackagist-plugin/social-media-shortcodes": "<=1.3.0",
+        "wpackagist-plugin/social-media-shortcodes": "<= 1.3.1.0",
         "wpackagist-plugin/social-media-widget": "<=4.0.8",
         "wpackagist-plugin/social-metrics": "<=2.2",
         "wpackagist-plugin/social-network-tabs": "<=1.7.1",
