@@ -7177,6 +7177,7 @@
         "wpackagist-plugin/osomblocks": "<=1.2.1",
         "wpackagist-plugin/oss-aliyun": "<=1.4.10",
         "wpackagist-plugin/oss-upload": "<=4.8.9",
+        "wpackagist-plugin/osticket-wp-bridge": "<=1.9.2",
         "wpackagist-plugin/ota-sync-booking-engine-widget": "<=1.2.7",
         "wpackagist-plugin/otp-easy-login-with-mocean": ">=1.1.0,<=1.1.1",
         "wpackagist-plugin/otp-login": "<=1.4.2",
