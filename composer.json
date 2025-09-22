@@ -3599,6 +3599,7 @@
         "wpackagist-plugin/embed-lottie-player": "<=1.1.8",
         "wpackagist-plugin/embed-office-viewer": "<=2.2.6",
         "wpackagist-plugin/embed-pdf-viewer": "<=2.4.4",
+        "wpackagist-plugin/embed-pdf-wpforms": "<=1.1.5",
         "wpackagist-plugin/embed-peertube-playlist": "<=1.07",
         "wpackagist-plugin/embed-power-bi": "<=1.1.7",
         "wpackagist-plugin/embed-power-bi-reports": "<=1.1.7",
