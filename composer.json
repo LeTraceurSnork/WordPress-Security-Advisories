@@ -7343,7 +7343,7 @@
         "wpackagist-plugin/pdf-for-woocommerce": "<=5.3.8",
         "wpackagist-plugin/pdf-for-wpforms": "<= 5.5.0.0",
         "wpackagist-plugin/pdf-generator-addon-for-elementor-page-builder": "<= 2.0.1.0",
-        "wpackagist-plugin/pdf-generator-for-wp": "<=1.1.1",
+        "wpackagist-plugin/pdf-generator-for-wp": "<= 1.5.4.0",
         "wpackagist-plugin/pdf-image-generator": "<=1.5.6",
         "wpackagist-plugin/pdf-invoices-and-packing-slips-for-woocommerce": "<=1.3.7",
         "wpackagist-plugin/pdf-invoicing-for-woocommerce": "<=2.2.1",
