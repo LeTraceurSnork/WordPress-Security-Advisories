@@ -3833,7 +3833,7 @@
         "wpackagist-plugin/export-users-to-csv": "<=1.1.1",
         "wpackagist-plugin/export-woocommerce": "<=2.0.15",
         "wpackagist-plugin/export-woocommerce-customer-list": "<=2.0.67",
-        "wpackagist-plugin/export-wp-page-to-static-html": "<= 2.2.2.0",
+        "wpackagist-plugin/export-wp-page-to-static-html": "<= 4.1.0.0",
         "wpackagist-plugin/exportfeed-for-woocommerce-google-product-feed": "<=1.2.4",
         "wpackagist-plugin/exportfeed-for-woocommerce-product-to-etsy": "<=5.1.2",
         "wpackagist-plugin/exportfeed-list-woocommerce-products-on-ebay-store": "<=2.0.1.0",
