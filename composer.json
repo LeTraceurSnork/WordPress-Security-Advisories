@@ -9814,7 +9814,7 @@
         "wpackagist-plugin/support-ticket": "<=1.9",
         "wpackagist-plugin/support-x": "<= 1.1.7.0",
         "wpackagist-plugin/supportboard": "<= 3.8.0.0",
-        "wpackagist-plugin/supportcandy": "<= 3.3.0.0",
+        "wpackagist-plugin/supportcandy": "<= 3.3.7.0",
         "wpackagist-plugin/supportezzy": "<=1.2.5",
         "wpackagist-plugin/supportflow": "< 0.7.0.0-dev",
         "wpackagist-plugin/supra-csv-parser": "<=4.0.3",
