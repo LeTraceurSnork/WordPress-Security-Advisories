@@ -1574,6 +1574,7 @@
         "wpackagist-plugin/browser-and-operating-system-finder": "<= 1.2.0.0",
         "wpackagist-plugin/browser-caching-with-htaccess": "1.2.1",
         "wpackagist-plugin/browser-shots": "<1.7.6",
+        "wpackagist-plugin/browser-sniff": "<=2.3",
         "wpackagist-plugin/browser-theme-color": "<=1.3",
         "wpackagist-plugin/browser-update-notify": "<=0.2.1",
         "wpackagist-plugin/browsing-history": "<=1.3.1",
