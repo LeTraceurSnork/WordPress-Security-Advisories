@@ -13260,6 +13260,7 @@
         "wpackagist-plugin/zingiri-web-shop": "<2.4.2",
         "wpackagist-plugin/zionbuilder": "<= 3.6.14.0",
         "wpackagist-plugin/zip-attachments": "<=1.5",
+        "wpackagist-plugin/zip-code-based-content-protection": "<=1.0.0",
         "wpackagist-plugin/zip-codes-redirect": ">=1.0.1,<=5.1.1",
         "wpackagist-plugin/zip-recipes": "<8.1.1",
         "wpackagist-plugin/ziplist-recipe-plugin": "<=3.1",
