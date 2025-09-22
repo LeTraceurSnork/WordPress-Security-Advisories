@@ -6478,7 +6478,7 @@
         "wpackagist-plugin/minimum-purchase-for-woocommerce": "<=2.0.0.1",
         "wpackagist-plugin/miniorange-2-factor-authentication": "<= 5.6.5.0",
         "wpackagist-plugin/miniorange-discord-integration": "<= 2.2.2.0",
-        "wpackagist-plugin/miniorange-firebase-sms-otp-verification": "<=3.6.0",
+        "wpackagist-plugin/miniorange-firebase-sms-otp-verification": "<= 3.6.2.0",
         "wpackagist-plugin/miniorange-google-authenticator": "<= 1.0.7.0",
         "wpackagist-plugin/miniorange-limit-login-attempts": "<=4.0.71",
         "wpackagist-plugin/miniorange-login-openid": "<= 200.3.9.0",
