@@ -836,7 +836,7 @@
         "wpackagist-plugin/appointment-calendar": "<=2.9.6",
         "wpackagist-plugin/appointment-hour-booking": "<= 1.4.56.0",
         "wpackagist-plugin/appointments": "<2.2.2",
-        "wpackagist-plugin/appointmind": "<=4.0.0",
+        "wpackagist-plugin/appointmind": "<= 4.1.0.0",
         "wpackagist-plugin/appointy-appointment-scheduler": "<=4.2.1",
         "wpackagist-plugin/apppresser": "<= 4.4.10.0",
         "wpackagist-plugin/appreview": "<=0.2.9",
