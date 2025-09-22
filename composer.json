@@ -7912,6 +7912,7 @@
         "wpackagist-plugin/product-xml-feeds-for-woocommerce": "<= 2.9.3.0",
         "wpackagist-plugin/productdyno": "<=1.0.24",
         "wpackagist-plugin/productive-commerce": "<=1.1.22",
+        "wpackagist-plugin/productive-style": "<=1.1.23",
         "wpackagist-plugin/products-compare-for-woocommerce": "<=3.5.7.7",
         "wpackagist-plugin/products-per-page-for-woocommerce": "<=2.4.0",
         "wpackagist-plugin/products-stock-manager-with-excel": "<=1.8",
