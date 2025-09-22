@@ -8711,6 +8711,7 @@
         "wpackagist-plugin/secure-file-manager": "<2.8.2",
         "wpackagist-plugin/secure-files": "<=1.1",
         "wpackagist-plugin/secure-html5-video-player": "<=3.3",
+        "wpackagist-plugin/secure-passkeys": "<=1.2.1",
         "wpackagist-plugin/securemoz-security-audit": "<=1.0.5",
         "wpackagist-plugin/securesubmit": "<= 1.5.18.0",
         "wpackagist-plugin/securimage-wp": "<= 3.6.16.0",
