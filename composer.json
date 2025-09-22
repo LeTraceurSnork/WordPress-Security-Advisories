@@ -8762,7 +8762,7 @@
         "wpackagist-plugin/sensorpress-uptime-monitoring": "<=1.0",
         "wpackagist-plugin/seo-301-meta": "<=1.9.1",
         "wpackagist-plugin/seo-alert": "<=1.5.9",
-        "wpackagist-plugin/seo-automated-link-building": "<= 2.5.2.0",
+        "wpackagist-plugin/seo-automated-link-building": "<= 3.0.1.0",
         "wpackagist-plugin/seo-automatic-links": "<=3.0.1",
         "wpackagist-plugin/seo-automatic-seo-tools": "<=4.0.7",
         "wpackagist-plugin/seo-automatic-wp-core-tweaks": "<=4.1",
