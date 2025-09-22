@@ -463,7 +463,7 @@
         "wpackagist-plugin/advanced-schedule-posts": "<=2.1.8",
         "wpackagist-plugin/advanced-search-by-my-solr-server": "<=2.0.5",
         "wpackagist-plugin/advanced-sermons": "<= 3.6.0.0",
-        "wpackagist-plugin/advanced-settings": "<=3.0.1",
+        "wpackagist-plugin/advanced-settings": "<= 3.1.1.0",
         "wpackagist-plugin/advanced-speed-increaser": "<=2.2.1",
         "wpackagist-plugin/advanced-tag-list": "<=1.2",
         "wpackagist-plugin/advanced-testimonial-carousel-for-elementor": "<=3.0.0",
