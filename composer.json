@@ -9723,6 +9723,7 @@
         "wpackagist-plugin/store-manager-connector": "<=1.2.5",
         "wpackagist-plugin/store-toolkit-for-wp-e-commerce": "<=2.0.1",
         "wpackagist-plugin/storecontrl-wp-connection": "<=4.1.3",
+        "wpackagist-plugin/storeengine": "<=1.5.0",
         "wpackagist-plugin/storefront-footer-text": "<=1.0.1",
         "wpackagist-plugin/storekeeper-for-woocommerce": "<= 14.4.6.0",
         "wpackagist-plugin/story-chief": "<= 1.0.42.0",
