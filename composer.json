@@ -1857,7 +1857,7 @@
         "wpackagist-plugin/catchers-helpdesk": "*",
         "wpackagist-plugin/categories-gallery": "*",
         "wpackagist-plugin/categories-gallery-woocommerce": "*",
-        "wpackagist-plugin/categorify": "<=1.0.7.4",
+        "wpackagist-plugin/categorify": "<= 1.0.7.5",
         "wpackagist-plugin/categorized-gallery": "<=2.0",
         "wpackagist-plugin/category-ajax-filter": "<=2.8.2",
         "wpackagist-plugin/category-d3-tree": "<=1.1",
