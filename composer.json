@@ -3223,6 +3223,7 @@
         "wpackagist-plugin/dynamic-post-grid-elementor-addon": "<=1.0.6",
         "wpackagist-plugin/dynamic-product-categories-design": "<=1.1.3",
         "wpackagist-plugin/dynamic-qr-code-generator": "<=0.0.5",
+        "wpackagist-plugin/dynamic-text-field-for-contact-form-7": "<=1.0",
         "wpackagist-plugin/dynamic-to-top": "3.5.2",
         "wpackagist-plugin/dynamic-url-seo": "<=1.0",
         "wpackagist-plugin/dynamic-visibility-for-elementor": "<5.0.6",
