@@ -8475,6 +8475,7 @@
         "wpackagist-plugin/rlswordpresssearch": "*",
         "wpackagist-plugin/rm-mailchimp-manager": "<=1.0.2",
         "wpackagist-plugin/rng-refresh": "<=1.0",
+        "wpackagist-plugin/robcore-netatmo": "<=1.7",
         "wpackagist-plugin/robin-image-optimizer": "<=1.6.9",
         "wpackagist-plugin/robo-gallery": "<= 5.0.2.0",
         "wpackagist-plugin/robo-maps": "<=1.0.6",
