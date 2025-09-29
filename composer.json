@@ -9877,6 +9877,7 @@
         "wpackagist-plugin/sydney-toolbox": "<= 1.31.0.0",
         "wpackagist-plugin/symbiostock": "<=6.0.0",
         "wpackagist-plugin/sync-ecommerce-neo": ">=1.1,<=1.4",
+        "wpackagist-plugin/sync-feedly": "<=1.0.1",
         "wpackagist-plugin/sync-post-with-other-site": "<=1.6",
         "wpackagist-plugin/sync-posts": "<=1.0",
         "wpackagist-plugin/sync-qcloud-cos": "<2.0.1",
