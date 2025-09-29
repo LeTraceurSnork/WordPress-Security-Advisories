@@ -12605,7 +12605,7 @@
         "wpackagist-plugin/wp-staging": "<3.5.0",
         "wpackagist-plugin/wp-staging-pro": "<= 6.1.2.0",
         "wpackagist-plugin/wp-stateless": "<= 3.4.0.0",
-        "wpackagist-plugin/wp-statistics": "<= 14.15.0.0",
+        "wpackagist-plugin/wp-statistics": "<= 14.15.4.0",
         "wpackagist-plugin/wp-stats": "<2.52",
         "wpackagist-plugin/wp-stats-dashboard": "<=2.9.4",
         "wpackagist-plugin/wp-stats-manager": "<= 8.2.0.0",
