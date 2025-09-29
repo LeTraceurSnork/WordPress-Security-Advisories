@@ -2050,6 +2050,7 @@
         "wpackagist-plugin/classic-addons-wpbakery-page-builder-addons": "<= 3.5.0.0",
         "wpackagist-plugin/classic-editor-addon": "<=2.6.3",
         "wpackagist-plugin/classic-editor-and-classic-widgets": "<=1.4.1",
+        "wpackagist-plugin/classic-widgets-with-block-based-widgets": "<=1.0.1",
         "wpackagist-plugin/classified-core": "<1.10",
         "wpackagist-plugin/classified-listing": "<= 5.0.6.0",
         "wpackagist-plugin/classified-listing-pro": "<2.0.20",
