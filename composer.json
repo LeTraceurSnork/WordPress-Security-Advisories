@@ -3103,6 +3103,7 @@
         "wpackagist-plugin/dorzki-notifications-to-slack": "<=2.0.7",
         "wpackagist-plugin/dot-htmlphpxml-etc-pages": "<=1.0",
         "wpackagist-plugin/double-opt-in-for-download": "< 2.1.0.0-dev",
+        "wpackagist-plugin/double-the-donation": "<=2.0.0",
         "wpackagist-plugin/dovetail": "<=1.2.13",
         "wpackagist-plugin/down-as-pdf": "<=2.3.6",
         "wpackagist-plugin/download-attachments": "<= 1.3.1.0",
