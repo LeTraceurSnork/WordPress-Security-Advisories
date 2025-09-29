@@ -7863,6 +7863,7 @@
         "wpackagist-plugin/processingjs-for-wp": "<=1.2.2",
         "wpackagist-plugin/prodigy-commerce": "<= 3.1.2.0",
         "wpackagist-plugin/producer-retailer": "*",
+        "wpackagist-plugin/product-addons": "<=1.0.17",
         "wpackagist-plugin/product-blocks": "<= 4.2.4.0",
         "wpackagist-plugin/product-blocks-for-woocommerce": "<=1.9.1",
         "wpackagist-plugin/product-carousel-slider-for-woocommerce": "<=3.3.5",
