@@ -11880,7 +11880,7 @@
         "wpackagist-plugin/wp-dbmanager": "<=2.80.7",
         "wpackagist-plugin/wp-debugging": "<=2.11.7",
         "wpackagist-plugin/wp-default-feature-image": "<=1.0.1.1",
-        "wpackagist-plugin/wp-delete-user-accounts": "<=1.2.3",
+        "wpackagist-plugin/wp-delete-user-accounts": "<= 1.2.4.0",
         "wpackagist-plugin/wp-design-maps-places": "<=1.2",
         "wpackagist-plugin/wp-desklite": "<=1.0.0",
         "wpackagist-plugin/wp-dialog": "<=1.2.5.5",
