@@ -11810,6 +11810,7 @@
         "wpackagist-plugin/wp-content-copy-protector": "<= 3.5.9.0",
         "wpackagist-plugin/wp-content-filter": "<=3.0.1",
         "wpackagist-plugin/wp-content-pilot": "<=1.3.3",
+        "wpackagist-plugin/wp-content-protection": "<=1.3",
         "wpackagist-plugin/wp-content-security-policy": "<=2.3",
         "wpackagist-plugin/wp-contest": "<=1.0.0",
         "wpackagist-plugin/wp-cookie": "<=1.0.0",
