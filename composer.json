@@ -13553,7 +13553,7 @@
         "wpackagist-theme/counterpoint": "<=1.8.1",
         "wpackagist-theme/couponis-demo": "<2.2",
         "wpackagist-theme/couponxl": "<=4.5.0",
-        "wpackagist-theme/couponxxl": "<=3.0.0",
+        "wpackagist-theme/couponxxl": "<= 4.5.0.0",
         "wpackagist-theme/course-builder": "<3.6.6",
         "wpackagist-theme/courtney": "<=1.3.0",
         "wpackagist-theme/cover-wp": "<=1.6.5",
