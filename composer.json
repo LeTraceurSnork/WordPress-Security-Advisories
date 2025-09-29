@@ -2944,6 +2944,7 @@
         "wpackagist-plugin/designthemes-core-features": "<= 4.8.0.0",
         "wpackagist-plugin/dethemekit-for-elementor": "<= 2.1.10.0",
         "wpackagist-plugin/devbuddy-twitter-feed": "<=4.0.0",
+        "wpackagist-plugin/developer": "<=1.2.6",
         "wpackagist-plugin/developer-toolbar": "<=1.0.3",
         "wpackagist-plugin/devexhub-gallery": "<=2.0.1",
         "wpackagist-plugin/devformatter": "<= 2015.0.2.1",
