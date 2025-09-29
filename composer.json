@@ -2372,7 +2372,7 @@
         "wpackagist-plugin/content-grabber": "<=1.0",
         "wpackagist-plugin/content-hubs": ">=1.0.6,<=1.0.8",
         "wpackagist-plugin/content-manager-light": "<=3.2",
-        "wpackagist-plugin/content-mask": "<=1.8.4",
+        "wpackagist-plugin/content-mask": "<= 1.8.5.2",
         "wpackagist-plugin/content-mirror": "<=1.2",
         "wpackagist-plugin/content-no-cache": "<= 0.1.4.0",
         "wpackagist-plugin/content-planner": "<=1.0",
