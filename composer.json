@@ -6414,7 +6414,7 @@
         "wpackagist-plugin/meta-tag-manager": "<= 3.1.0.0",
         "wpackagist-plugin/metadata-seo": "<=2.3",
         "wpackagist-plugin/metalpriceapi": "<=1.1.4",
-        "wpackagist-plugin/metasync": "<=1.8.2",
+        "wpackagist-plugin/metasync": "<= 2.5.4.0",
         "wpackagist-plugin/meteor-slides": "<= 1.5.7.0",
         "wpackagist-plugin/metform": "<= 4.0.1.0",
         "wpackagist-plugin/metorik-helper": "<=1.7.1",
