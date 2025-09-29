@@ -5736,7 +5736,7 @@
         "wpackagist-plugin/layoutboxx": "<=0.3.1",
         "wpackagist-plugin/layouts-for-elementor": "<= 1.11.0.0",
         "wpackagist-plugin/layouts-importer": "<=1.0.2",
-        "wpackagist-plugin/lazy-blocks": "<=3.8.2",
+        "wpackagist-plugin/lazy-blocks": "<= 4.1.0.0",
         "wpackagist-plugin/lazy-facebook-comments": "<=2.0.4",
         "wpackagist-plugin/lazy-load": "<0.6.1",
         "wpackagist-plugin/lazy-load-for-videos": "<= 2.18.7.0",
