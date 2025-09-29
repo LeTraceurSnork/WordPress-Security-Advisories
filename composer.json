@@ -1226,7 +1226,7 @@
         "wpackagist-plugin/bdthemes-element-pack": "<= 7.21.0.0",
         "wpackagist-plugin/bdthemes-element-pack-lite": "<= 8.1.5.0",
         "wpackagist-plugin/bdthemes-prime-slider-lite": "<= 3.16.5.0",
-        "wpackagist-plugin/bdvs-password-reset": "<=0.0.15",
+        "wpackagist-plugin/bdvs-password-reset": "<= 0.0.16.0",
         "wpackagist-plugin/be-popia-compliant": "<= 1.2.0.0",
         "wpackagist-plugin/be-shortcodes": "<=1.0.0",
         "wpackagist-plugin/beacon-by": "<= 1.5.8.0",
