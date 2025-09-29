@@ -5406,7 +5406,7 @@
         "wpackagist-plugin/invoicing": "<=2.8.11",
         "wpackagist-plugin/ione360-configurator": "<=2.0.57",
         "wpackagist-plugin/ip-address-blocker": "<=11.1.1",
-        "wpackagist-plugin/ip-based-login": "<= 2.4.2.0",
+        "wpackagist-plugin/ip-based-login": "<= 2.4.3.0",
         "wpackagist-plugin/ip-blacklist-cloud": "<=5.00",
         "wpackagist-plugin/ip-loc8": "<=1.1",
         "wpackagist-plugin/ip-locator": "<=4.1.0",
