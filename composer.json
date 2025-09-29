@@ -14409,7 +14409,7 @@
         "wpackagist-theme/wp-weixin": "<=1.3.16",
         "wpackagist-theme/wpcake": ">=1.1.1,<=1.2.4",
         "wpackagist-theme/wphrm": "<1.1",
-        "wpackagist-theme/wplms": "<=4.962",
+        "wpackagist-theme/wplms": "<= 4.970.0.0",
         "wpackagist-theme/wplocalplaces": "*",
         "wpackagist-theme/wpparallax": "<=2.0.6",
         "wpackagist-theme/wprentals": "<=3.13.1",
