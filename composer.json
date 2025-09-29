@@ -4236,6 +4236,7 @@
         "wpackagist-plugin/form-block": "<= 1.5.5.0",
         "wpackagist-plugin/form-data-collector": "<=2.2.3",
         "wpackagist-plugin/form-forms": "<=1.2.0",
+        "wpackagist-plugin/form-generator-powered-by-jotform": "<=1.52",
         "wpackagist-plugin/form-lightbox": "<=2.1",
         "wpackagist-plugin/form-maker": "<= 1.15.33.0",
         "wpackagist-plugin/form-to-chat": "<=1.1.6",
