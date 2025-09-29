@@ -6239,7 +6239,7 @@
         "wpackagist-plugin/marketing-automation-by-azexo": "<=1.27.80",
         "wpackagist-plugin/marketing-optimizer": "<=20200925",
         "wpackagist-plugin/marketing-performance": "<=2.0.0",
-        "wpackagist-plugin/marketking-multivendor-marketplace-for-woocommerce": "<=2.0.0",
+        "wpackagist-plugin/marketking-multivendor-marketplace-for-woocommerce": "<= 2.0.92.0",
         "wpackagist-plugin/marketo-forms-and-tracking": "<=1.0.2",
         "wpackagist-plugin/marketplace-items": "<=1.5.5",
         "wpackagist-plugin/markup-markdown": "<=3.20.6",
