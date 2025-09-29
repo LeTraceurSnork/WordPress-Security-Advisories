@@ -6284,6 +6284,7 @@
         "wpackagist-plugin/matrix-image-gallery": "*",
         "wpackagist-plugin/matrix-pre-loader": "<=2.0.1",
         "wpackagist-plugin/mautic-integration-for-woocommerce": "<1.0.3",
+        "wpackagist-plugin/mavis-https-to-http-redirect": "<=1.4.3",
         "wpackagist-plugin/max-addons-pro-bricks": "<=1.6.1",
         "wpackagist-plugin/maxab": "<=2.2.2",
         "wpackagist-plugin/maxbuttons": "<= 9.8.3.0",
