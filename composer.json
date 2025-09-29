@@ -9249,7 +9249,7 @@
         "wpackagist-plugin/sitebuilder-dynamic-components": "<=1.0",
         "wpackagist-plugin/siteguard": "<=1.7.6",
         "wpackagist-plugin/siteimprove": "<=2.0.6",
-        "wpackagist-plugin/sitekit": "<= 1.9.0.0",
+        "wpackagist-plugin/sitekit": "<= 2.0.0.0",
         "wpackagist-plugin/sitemap": "<=4.3",
         "wpackagist-plugin/sitemap-by-click5": "<=1.0.35",
         "wpackagist-plugin/sitemap-index": "<=1.2.3",
