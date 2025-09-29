@@ -5527,6 +5527,7 @@
         "wpackagist-plugin/jquery-accordion-slideshow": "<=8.1",
         "wpackagist-plugin/jquery-archive-list-widget": "<=6.1.5",
         "wpackagist-plugin/jquery-collapse-o-matic": "<= 1.8.5.8",
+        "wpackagist-plugin/jquery-colorbox": "<=4.6.3",
         "wpackagist-plugin/jquery-drop-down-menu-plugin": "<=3.0",
         "wpackagist-plugin/jquery-html5-file-upload": "<=3.0",
         "wpackagist-plugin/jquery-manager": "<=1.10.4",
