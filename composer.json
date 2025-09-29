@@ -8919,6 +8919,7 @@
         "wpackagist-plugin/shopsite-plugin": "<=1.5.10",
         "wpackagist-plugin/shopwarden": "<=1.0.11",
         "wpackagist-plugin/short-tax-post": "<=2.1.2",
+        "wpackagist-plugin/shortcode": "<=0.8.1",
         "wpackagist-plugin/shortcode-addons": "<= 3.2.5.0",
         "wpackagist-plugin/shortcode-bootstrap-visuals": "<=2.2.2",
         "wpackagist-plugin/shortcode-cleaner-lite": "<=1.0.9",
