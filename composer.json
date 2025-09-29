@@ -4108,6 +4108,7 @@
         "wpackagist-plugin/flexible-custom-post-type": "<0.1.7",
         "wpackagist-plugin/flexible-elementor-panel": "<=2.3.8",
         "wpackagist-plugin/flexible-faqs": ">=0.5.5,<=0.5.11",
+        "wpackagist-plugin/flexible-invoices": "<=6.0.13",
         "wpackagist-plugin/flexible-shipping": "<= 4.24.15.0",
         "wpackagist-plugin/flexible-shipping-ups": "<=2.3.12",
         "wpackagist-plugin/flexible-shipping-usps": "<=1.9.4",
