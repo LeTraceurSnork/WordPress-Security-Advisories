@@ -783,6 +783,7 @@
         "wpackagist-plugin/anual-archive": "<=1.6.0",
         "wpackagist-plugin/any-hostname": "<=1.0.6",
         "wpackagist-plugin/any-popup": "<=1.0",
+        "wpackagist-plugin/anyclip-media": "<=1.3.3",
         "wpackagist-plugin/anycomment": "< 0.3.5.0-dev",
         "wpackagist-plugin/anyfont": "<=2.2.3",
         "wpackagist-plugin/anyguide": "<=1.3.2",
