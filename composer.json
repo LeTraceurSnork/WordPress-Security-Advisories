@@ -11174,7 +11174,7 @@
         "wpackagist-plugin/woo-3d-viewer": "<=1.8.6.6",
         "wpackagist-plugin/woo-abandoned-cart-recovery": "<=1.0.4",
         "wpackagist-plugin/woo-add-to-cart-text-change": "<=2.0",
-        "wpackagist-plugin/woo-additional-fees-on-checkout-wordpress": "<=1.4.7",
+        "wpackagist-plugin/woo-additional-fees-on-checkout-wordpress": "<= 1.5.0.0",
         "wpackagist-plugin/woo-addon-uploads": "<=1.7.1",
         "wpackagist-plugin/woo-address-book": "<1.6.0",
         "wpackagist-plugin/woo-admin-product-notes": "<=1.0.0",
