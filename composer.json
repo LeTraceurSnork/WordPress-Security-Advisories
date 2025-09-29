@@ -10344,6 +10344,7 @@
         "wpackagist-plugin/trustist-reviewer": "<=2.0",
         "wpackagist-plugin/trustmary": "<=1.0.9",
         "wpackagist-plugin/trustmate-io-integration-for-woocommerce": "<= 1.14.0.0",
+        "wpackagist-plugin/trustpilot-reviews": "<=2.5.925",
         "wpackagist-plugin/trustprofile": "<3.25",
         "wpackagist-plugin/trusty-whistleblowing-solution": "<=1.5.2",
         "wpackagist-plugin/trusty-woo-products-filter": "<=1.2",
