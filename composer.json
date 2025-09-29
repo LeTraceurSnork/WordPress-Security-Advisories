@@ -6007,6 +6007,7 @@
         "wpackagist-plugin/login-lockdown": "<= 2.11.0.0",
         "wpackagist-plugin/login-logger": "<=1.2.1",
         "wpackagist-plugin/login-logo-editor-by-oizuled": "<=1.3.3",
+        "wpackagist-plugin/login-logout": "<=3.8",
         "wpackagist-plugin/login-logout-menu": "<=1.3.3",
         "wpackagist-plugin/login-logout-register-menu": "<=2.0",
         "wpackagist-plugin/login-logout-shortcode": "<=1.1.0",
