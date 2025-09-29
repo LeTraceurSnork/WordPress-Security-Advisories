@@ -7107,7 +7107,7 @@
         "wpackagist-plugin/open-menu": "<=3.5",
         "wpackagist-plugin/open-rdw-kenteken-voertuiginformatie": "<=2.0.14",
         "wpackagist-plugin/open-social": "<=5.0",
-        "wpackagist-plugin/open-user-map": "<=1.3.26",
+        "wpackagist-plugin/open-user-map": "<= 1.4.14.0",
         "wpackagist-plugin/openai-tools-for-wp-wc": "<=2.1.5",
         "wpackagist-plugin/openbook-book-data": "<=3.5.2",
         "wpackagist-plugin/opencart-product-display": "<=1.0",
