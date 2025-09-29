@@ -9684,6 +9684,7 @@
         "wpackagist-plugin/sticky-buttons": "<= 4.1.1.0",
         "wpackagist-plugin/sticky-chat-button": "<=1.0",
         "wpackagist-plugin/sticky-chat-widget": "<=1.1.8",
+        "wpackagist-plugin/sticky-header-effects-for-elementor": "<=2.1.2",
         "wpackagist-plugin/sticky-header-oceanwp": "<=1.0.8",
         "wpackagist-plugin/sticky-header-on-scroll": "<=1.0",
         "wpackagist-plugin/sticky-menu-block": "<=1.0.1",
