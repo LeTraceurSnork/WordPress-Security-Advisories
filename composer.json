@@ -829,7 +829,7 @@
         "wpackagist-plugin/apply-with-linkedin-buttons": "<=2.3",
         "wpackagist-plugin/appmaker-woocommerce-mobile-app-manager": "<=1.36.12",
         "wpackagist-plugin/appmaps": "<=1.1",
-        "wpackagist-plugin/appmysite": "<=3.11.0",
+        "wpackagist-plugin/appmysite": "<= 3.14.0.0",
         "wpackagist-plugin/appointify": "<=1.0.8",
         "wpackagist-plugin/appointment-booking-calendar": "<= 1.3.92.0",
         "wpackagist-plugin/appointment-buddy-online-appointment-booking-by-accrete": "<=1.2",
