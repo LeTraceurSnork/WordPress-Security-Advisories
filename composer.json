@@ -4230,6 +4230,7 @@
         "wpackagist-plugin/for-the-visually-impaired": "<=0.58",
         "wpackagist-plugin/force-first-last": "<=1.2",
         "wpackagist-plugin/force-sell-for-woocommerce": "<=3.5.7.6",
+        "wpackagist-plugin/force-update-translations": "<=0.5",
         "wpackagist-plugin/forcefield": ">=1.0.1,<=1.0.6",
         "wpackagist-plugin/forge": "<=1.4.6",
         "wpackagist-plugin/forget-about-shortcode-buttons": "<=2.1.2",
