@@ -10560,6 +10560,7 @@
         "wpackagist-plugin/up-down-image-slideshow-gallery": "<=12.0",
         "wpackagist-plugin/upc-ean-barcode-generator": "<=2.0.2",
         "wpackagist-plugin/upcasted-s3-offload": "<= 3.0.3.0",
+        "wpackagist-plugin/upcoming-events-lists": "<=1.4.0",
         "wpackagist-plugin/update-alt-attribute": "<=2.4.5",
         "wpackagist-plugin/update-notifications": "<=0.3.4",
         "wpackagist-plugin/update-theme-and-plugins-from-zip-file": "<=2.0.0",
