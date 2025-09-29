@@ -4321,7 +4321,7 @@
         "wpackagist-plugin/frndzk-expandable-bottom-bar": "<=1.0",
         "wpackagist-plugin/front-editor": "<= 4.9.4.0",
         "wpackagist-plugin/front-end-editor": "<2.3",
-        "wpackagist-plugin/front-end-only-users": "<= 3.2.32.0",
+        "wpackagist-plugin/front-end-only-users": "<= 3.2.33.0",
         "wpackagist-plugin/front-end-pm": "< 11.4.3.0-dev",
         "wpackagist-plugin/front-end-post-edit": "<=1.0.4",
         "wpackagist-plugin/front-end-upload": "<=0.5.3",
