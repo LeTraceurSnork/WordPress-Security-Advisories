@@ -4927,6 +4927,7 @@
         "wpackagist-plugin/hide-real-download-path": "<=1.6",
         "wpackagist-plugin/hide-shipping-method-for-woocommerce": "<= 1.5.1.0",
         "wpackagist-plugin/hide-text-shortcode": "<=1.1",
+        "wpackagist-plugin/hide-wp-toolbar": "<=2.7",
         "wpackagist-plugin/hide_my_wp": "< 6.2.9.0-dev",
         "wpackagist-plugin/hidepost": "<=2.3.8",
         "wpackagist-plugin/high-compress": "<=5.0.0",
