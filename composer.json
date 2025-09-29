@@ -12638,6 +12638,7 @@
         "wpackagist-plugin/wp-symposium-pro": "<16.01",
         "wpackagist-plugin/wp-syntax": "<= 1.2.0.0",
         "wpackagist-plugin/wp-system": "<=1.1.1",
+        "wpackagist-plugin/wp-system-info": "<=1.5",
         "wpackagist-plugin/wp-t-wap": "<=1.13.2",
         "wpackagist-plugin/wp-table": "<=1.43",
         "wpackagist-plugin/wp-table-builder": "<= 2.0.12.0",
