@@ -8766,7 +8766,7 @@
         "wpackagist-plugin/seo-automatic-links": "<=3.0.1",
         "wpackagist-plugin/seo-automatic-seo-tools": "<=4.0.7",
         "wpackagist-plugin/seo-automatic-wp-core-tweaks": "<=4.1",
-        "wpackagist-plugin/seo-backlink-monitor": "<=1.5.0",
+        "wpackagist-plugin/seo-backlink-monitor": "<= 1.6.0.0",
         "wpackagist-plugin/seo-backlinks": "<=4.0.1",
         "wpackagist-plugin/seo-beginner-auto-post": "<=2.2.1",
         "wpackagist-plugin/seo-blogger-to-wordpress-301-redirector": "<=0.4.8",
