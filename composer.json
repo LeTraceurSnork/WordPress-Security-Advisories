@@ -7871,7 +7871,7 @@
         "wpackagist-plugin/product-category-tree": "<=2.5",
         "wpackagist-plugin/product-code-for-woocommerce": "<= 1.5.0.0",
         "wpackagist-plugin/product-configurator-for-woocommerce": "<=1.4.4",
-        "wpackagist-plugin/product-countdown-for-woocommerce": "<=1.6.2",
+        "wpackagist-plugin/product-countdown-for-woocommerce": "<= 1.6.4.0",
         "wpackagist-plugin/product-customizer-light": "<=1.0.0",
         "wpackagist-plugin/product-delivery-date": ">=1.1.0,<=1.1.4",
         "wpackagist-plugin/product-delivery-date-for-woocommerce-lite": "<=2.8.0",
