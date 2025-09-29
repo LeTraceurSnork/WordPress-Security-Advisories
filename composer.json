@@ -978,6 +978,7 @@
         "wpackagist-plugin/authorizer": "<1.6.0",
         "wpackagist-plugin/authors-autocomplete-meta-box": "<=1.2",
         "wpackagist-plugin/authors-list": "<= 2.0.6.1",
+        "wpackagist-plugin/authorsure": "<=2.3",
         "wpackagist-plugin/auto-advance-for-gravity-forms": "<=4.5.3",
         "wpackagist-plugin/auto-attachments": "<=1.8.5",
         "wpackagist-plugin/auto-date-year-month": "<= 2.0.1.0",
