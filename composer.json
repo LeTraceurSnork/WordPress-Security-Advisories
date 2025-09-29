@@ -7975,7 +7975,7 @@
         "wpackagist-plugin/publish-to-schedule": "<=4.5.4",
         "wpackagist-plugin/publishpress": "<= 3.5.0.0",
         "wpackagist-plugin/publishpress-authors": "<= 4.7.5.0",
-        "wpackagist-plugin/publitio": "<=2.1.8",
+        "wpackagist-plugin/publitio": "<= 2.2.1.0",
         "wpackagist-plugin/pubsubhubbub": "<=3.1.4",
         "wpackagist-plugin/pubydoc-data-tables-and-charts": "<=2.0.6",
         "wpackagist-plugin/pull-this": "<=1.1",
