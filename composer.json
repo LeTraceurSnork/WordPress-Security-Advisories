@@ -5144,7 +5144,7 @@
         "wpackagist-plugin/image-classify": "<=1.0.0",
         "wpackagist-plugin/image-cleanup": "<=1.9.2",
         "wpackagist-plugin/image-content-show-hover": "<=1.0.6",
-        "wpackagist-plugin/image-editor-by-pixo": "<=2.3.6",
+        "wpackagist-plugin/image-editor-by-pixo": "<= 2.3.8.0",
         "wpackagist-plugin/image-export": "<=1.1",
         "wpackagist-plugin/image-gallery": "<=1.2.2",
         "wpackagist-plugin/image-gallery-box-by-crudlab": "<=1.0.3",
