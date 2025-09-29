@@ -6119,6 +6119,7 @@
         "wpackagist-plugin/magicform": "<= 1.6.2.0",
         "wpackagist-plugin/magicpost": "<=1.2.1",
         "wpackagist-plugin/magn-html5-drag-and-drop-media-uploader": "<=1.2.0",
+        "wpackagist-plugin/mail-baby-smtp": "<=2.8",
         "wpackagist-plugin/mail-boxes-etc": "<= 2.2.4.0",
         "wpackagist-plugin/mail-control": "<= 0.3.1.0",
         "wpackagist-plugin/mail-integration-365": "<=1.9.0",
