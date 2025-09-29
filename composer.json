@@ -9701,6 +9701,7 @@
         "wpackagist-plugin/stock-in": "<=1.0.4",
         "wpackagist-plugin/stock-locations-for-woocommerce": "<= 2.8.6.0",
         "wpackagist-plugin/stock-market-charts-from-finviz": "<=1.0.1",
+        "wpackagist-plugin/stock-message": "<=1.1.0",
         "wpackagist-plugin/stock-quotes-list": "<=2.9.11",
         "wpackagist-plugin/stock-sync-for-woocommerce": "<=2.4.0",
         "wpackagist-plugin/stock-sync-with-google-sheet-for-woocommerce": "<=3.13.1",
