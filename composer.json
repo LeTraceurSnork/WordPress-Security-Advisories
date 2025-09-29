@@ -1861,6 +1861,7 @@
         "wpackagist-plugin/categorized-gallery": "<=2.0",
         "wpackagist-plugin/category-ajax-filter": "<=2.8.2",
         "wpackagist-plugin/category-d3-tree": "<=1.1",
+        "wpackagist-plugin/category-featured-images-extended": "<=1.52",
         "wpackagist-plugin/category-grid-view-gallery": "<=2.3.1",
         "wpackagist-plugin/category-icon": "<= 1.0.2.0",
         "wpackagist-plugin/category-list-portfolio-page": "*",
