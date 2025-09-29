@@ -11967,7 +11967,7 @@
         "wpackagist-plugin/wp-event-solution": "<= 4.0.37.0",
         "wpackagist-plugin/wp-eventpress": "<=1.0.0",
         "wpackagist-plugin/wp-events": "<=2.3.4",
-        "wpackagist-plugin/wp-events-manager": "<=2.1.11",
+        "wpackagist-plugin/wp-events-manager": "<= 2.2.1.0",
         "wpackagist-plugin/wp-ever-accounting": "<=2.1.5",
         "wpackagist-plugin/wp-expand-tabs-free": "<= 2.2.12.0",
         "wpackagist-plugin/wp-experiments-free": "<= 9.0.4.0",
