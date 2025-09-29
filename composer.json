@@ -7799,6 +7799,7 @@
         "wpackagist-plugin/prepost-seo": "<=3.0",
         "wpackagist-plugin/preprocess-dezrez": ">=1.1,<=1.1.2",
         "wpackagist-plugin/press-elements": "<=1.7.2",
+        "wpackagist-plugin/pressapps-accordion-faq": "<=2.2.1",
         "wpackagist-plugin/pressapps-knowledge-base": "<=4.2.1",
         "wpackagist-plugin/pressference-exporter": "<=1.0.3",
         "wpackagist-plugin/pressforward": "<= 5.9.1.0",
