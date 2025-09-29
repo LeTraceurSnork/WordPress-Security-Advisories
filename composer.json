@@ -2430,7 +2430,7 @@
         "wpackagist-plugin/convertkit": "<= 2.4.9.0",
         "wpackagist-plugin/convertplug": "<= 3.5.30.0",
         "wpackagist-plugin/convertpro": "<=1.7.5",
-        "wpackagist-plugin/conveythis-translate": "<=234",
+        "wpackagist-plugin/conveythis-translate": "<= 266.0.0.0",
         "wpackagist-plugin/convoworks-wp": "<=0.22.14",
         "wpackagist-plugin/cooked": "<= 1.8.0.0",
         "wpackagist-plugin/cooked-pro": "<1.8.0",
