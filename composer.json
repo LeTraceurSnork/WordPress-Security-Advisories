@@ -11641,6 +11641,7 @@
         "wpackagist-plugin/wp-admin-ui-customize": "<= 1.5.13.0",
         "wpackagist-plugin/wp-advance-comment": "<=0.3",
         "wpackagist-plugin/wp-advanced-importer": "<=2.1.1",
+        "wpackagist-plugin/wp-advanced-pdf": "<=1.1.7",
         "wpackagist-plugin/wp-advanced-search": "<= 3.3.9.3",
         "wpackagist-plugin/wp-affiliate-disclosure": "<= 1.2.7.0",
         "wpackagist-plugin/wp-affiliate-links": "<=0.1.1",
