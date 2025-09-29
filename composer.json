@@ -11672,6 +11672,7 @@
         "wpackagist-plugin/wp-attachment-export": "<0.2.4",
         "wpackagist-plugin/wp-attachments": "<= 5.0.12.0",
         "wpackagist-plugin/wp-attest": ">=1.0,<=1.7.4",
+        "wpackagist-plugin/wp-attractive-donations-system-easy-stripe-paypal-donations": "<1.29",
         "wpackagist-plugin/wp-auctions": "<=3.7",
         "wpackagist-plugin/wp-auto-affiliate-links": "<= 6.4.6.0",
         "wpackagist-plugin/wp-auto-republish": "<=1.5.6",
