@@ -3621,7 +3621,7 @@
         "wpackagist-plugin/embedstories": "<=0.7.4",
         "wpackagist-plugin/emc2-alert-boxes": "<=1.3",
         "wpackagist-plugin/emc2-custom-help-videos": "<=1.2",
-        "wpackagist-plugin/emergency-password-reset": "<=8.0",
+        "wpackagist-plugin/emergency-password-reset": "<= 9.0.0.0",
         "wpackagist-plugin/emi-calculator": "<=1.1",
         "wpackagist-plugin/emma-emarketing-plugin": "<=1.3.3",
         "wpackagist-plugin/emoji-shortcode": "<=1.0.0",
