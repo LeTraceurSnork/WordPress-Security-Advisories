@@ -11419,7 +11419,7 @@
         "wpackagist-plugin/woocommerce-mercadopago": ">=7.3.0,<=7.6.1 || <=6.6.0",
         "wpackagist-plugin/woocommerce-mis-report": "<=4.0.3",
         "wpackagist-plugin/woocommerce-multi-currency": "<= 2.3.7.0",
-        "wpackagist-plugin/woocommerce-multi-locations-inventory-management": "<=4.1.11",
+        "wpackagist-plugin/woocommerce-multi-locations-inventory-management": "<= 4.2.8.0",
         "wpackagist-plugin/woocommerce-multilingual": "<= 5.3.8.0",
         "wpackagist-plugin/woocommerce-multiple-addresses": "<=1.0.7.1",
         "wpackagist-plugin/woocommerce-multiple-customer-addresses": "<21.7",
