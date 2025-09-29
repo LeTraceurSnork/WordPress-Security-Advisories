@@ -7474,7 +7474,7 @@
         "wpackagist-plugin/pie-register": "<= 3.8.4.0",
         "wpackagist-plugin/pie-register-premium": "<3.8.3.3",
         "wpackagist-plugin/pie-register-social-site": "<=1.7.9",
-        "wpackagist-plugin/pilotpress": "<=2.0.30",
+        "wpackagist-plugin/pilotpress": "<= 2.0.36.0",
         "wpackagist-plugin/pin-generator": "<=2.0.0",
         "wpackagist-plugin/pin-locations-on-map": "<=1.0",
         "wpackagist-plugin/ping-list-pro": "<=1.1",
