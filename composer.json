@@ -6185,7 +6185,7 @@
         "wpackagist-plugin/make-email-customizer-for-woocommerce": "<=1.0.5",
         "wpackagist-plugin/make-paths-relative": "<=1.3.0",
         "wpackagist-plugin/makecommerce": "<=3.5.1",
-        "wpackagist-plugin/makestories-helper": "<=3.0.3",
+        "wpackagist-plugin/makestories-helper": "<= 3.0.4.0",
         "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "<=1.5.9",
         "wpackagist-plugin/malinky-ajax-pagination": "<=2.0.1",
         "wpackagist-plugin/malware-finder": "<=1.1",
