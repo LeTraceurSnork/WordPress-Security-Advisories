@@ -6483,7 +6483,7 @@
         "wpackagist-plugin/miniorange-limit-login-attempts": "<=4.0.71",
         "wpackagist-plugin/miniorange-login-openid": "<= 200.3.9.0",
         "wpackagist-plugin/miniorange-login-security": "<=1.0.7",
-        "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<= 6.26.3.0",
+        "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<= 6.26.12.0",
         "wpackagist-plugin/miniorange-login-with-whmcs": "<=1.11.3",
         "wpackagist-plugin/miniorange-malware-protection": "<=4.7.2",
         "wpackagist-plugin/miniorange-oauth-20-server": "<=3.0.4",
