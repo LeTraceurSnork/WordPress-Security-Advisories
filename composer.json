@@ -2715,6 +2715,7 @@
         "wpackagist-plugin/custom-login-and-signup-widget": "<=1.0",
         "wpackagist-plugin/custom-login-page": "<=2.8.1",
         "wpackagist-plugin/custom-login-redirect": "<=1.0.0",
+        "wpackagist-plugin/custom-login-url": "<=1.0.2",
         "wpackagist-plugin/custom-map": "<=1.1",
         "wpackagist-plugin/custom-menu": "<=1.8",
         "wpackagist-plugin/custom-metas": "<=1.5.1",
