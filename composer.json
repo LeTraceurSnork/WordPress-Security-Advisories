@@ -1298,6 +1298,7 @@
         "wpackagist-plugin/beyot-framework": "<=6.0.6",
         "wpackagist-plugin/bft-autoresponder": "*",
         "wpackagist-plugin/bg-biblie-references": "<=3.8.14",
+        "wpackagist-plugin/bg-church-memos": "<=1.1",
         "wpackagist-plugin/bg-orthodox-calendar": "<=0.13.10",
         "wpackagist-plugin/bg-patriarchia-bu": "<=2.2.3",
         "wpackagist-plugin/biagiotti-core": "<=2.1.3",
