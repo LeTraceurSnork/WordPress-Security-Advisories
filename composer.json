@@ -12001,7 +12001,7 @@
         "wpackagist-plugin/wp-file-checker": "<=0.6",
         "wpackagist-plugin/wp-file-download": "<=6.2.5",
         "wpackagist-plugin/wp-file-download-light": "<=1.3.3",
-        "wpackagist-plugin/wp-file-get-contents": "<=2.7.0",
+        "wpackagist-plugin/wp-file-get-contents": "<= 2.7.1.0",
         "wpackagist-plugin/wp-file-manager": "<= 7.2.7.0",
         "wpackagist-plugin/wp-file-manager-pro": "<= 8.4.2.0",
         "wpackagist-plugin/wp-file-upload": "<= 4.25.2.0",
