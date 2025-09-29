@@ -6446,7 +6446,7 @@
         "wpackagist-plugin/migrate-users": "<=1.0.1",
         "wpackagist-plugin/mihanpanel-lite": "<=12.4",
         "wpackagist-plugin/mihdan-index-now": "<=2.6.3",
-        "wpackagist-plugin/mihdan-no-external-links": "<=4.7.4",
+        "wpackagist-plugin/mihdan-no-external-links": "<= 5.1.4.0",
         "wpackagist-plugin/mihdan-public-post-preview": "<=1.9.9",
         "wpackagist-plugin/mihdan-yandex-turbo-feed": "<=1.6.5.1",
         "wpackagist-plugin/mikado-core": "<=1.5.2",
