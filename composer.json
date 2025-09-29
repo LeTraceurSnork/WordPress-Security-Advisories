@@ -7540,6 +7540,7 @@
         "wpackagist-plugin/plugin-logic": "<=1.0.7",
         "wpackagist-plugin/plugin-newsletter": "<=1.5",
         "wpackagist-plugin/plugin-notes-plus": "<= 1.2.7.0",
+        "wpackagist-plugin/plugin-security-scanner": "<=2.0.2",
         "wpackagist-plugin/pluginpass-pro-plugintheme-licensing": "<=0.9.10",
         "wpackagist-plugin/plugins-last-updated-column": "<=0.1.3",
         "wpackagist-plugin/plugins-list": "<=2.5",
