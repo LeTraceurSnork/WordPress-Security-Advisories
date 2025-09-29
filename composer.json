@@ -10941,6 +10941,7 @@
         "wpackagist-plugin/wc-shipos-delivery": "<=2.1.7",
         "wpackagist-plugin/wc-shortcodes": "<= 3.46.0.0",
         "wpackagist-plugin/wc-sms": "<=2.8.1",
+        "wpackagist-plugin/wc-spod": "<=2.1.5",
         "wpackagist-plugin/wc-style": "<=1.0",
         "wpackagist-plugin/wc-sudan-payment-gateway": "<=1.2.2",
         "wpackagist-plugin/wc-support-system": "<=1.2.2",
