@@ -9258,6 +9258,7 @@
         "wpackagist-plugin/sitepress-multilingual-cms": "<= 4.7.3.0",
         "wpackagist-plugin/sites-monitor": ">=0.0.7,<=0.0.8",
         "wpackagist-plugin/siteseo": "<=1.2.7",
+        "wpackagist-plugin/sitespeaker-widget": "<=1.9",
         "wpackagist-plugin/sitesupercharger": "<=5.1.10",
         "wpackagist-plugin/sitetweet-tweets-user-behaviors-on-your-site-on-twitter": "<=0.2",
         "wpackagist-plugin/sitewide-notice-wp": "<2.3",
