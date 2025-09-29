@@ -6219,7 +6219,7 @@
         "wpackagist-plugin/mapplic-lite": "<1.0.1",
         "wpackagist-plugin/mappress-google-maps-for-wordpress": "<= 2.94.9.0",
         "wpackagist-plugin/maps-block-apple": "<=1.1.0",
-        "wpackagist-plugin/maps-for-wp": "<=1.2.4",
+        "wpackagist-plugin/maps-for-wp": "<= 1.2.5.0",
         "wpackagist-plugin/mapsmarker": "< 2.4.0.0-dev",
         "wpackagist-plugin/mapster-wp-maps": "<=1.6.0",
         "wpackagist-plugin/mapsvg": "< 8.7.4.0-dev",
