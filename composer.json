@@ -9812,6 +9812,7 @@
         "wpackagist-plugin/support-genix-lite": "<= 1.4.23.0",
         "wpackagist-plugin/support-svg": "<=1.1.0",
         "wpackagist-plugin/support-ticket": "<=1.9",
+        "wpackagist-plugin/support-ticket-system-for-woocommerce": "<=2.0.2",
         "wpackagist-plugin/support-x": "<= 1.1.7.0",
         "wpackagist-plugin/supportboard": "<= 3.8.0.0",
         "wpackagist-plugin/supportcandy": "<= 3.3.0.0",
