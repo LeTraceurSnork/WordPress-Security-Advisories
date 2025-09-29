@@ -3846,6 +3846,7 @@
         "wpackagist-plugin/extended-evaluation-for-statify": "<2.6.4",
         "wpackagist-plugin/extended-post-status": "<=1.0.19",
         "wpackagist-plugin/extended-search-plugin": "<=0.6.1",
+        "wpackagist-plugin/extended-widget-options": "<=5.2.1",
         "wpackagist-plugin/extender-all-in-one-for-elementor": "<=1.0.3",
         "wpackagist-plugin/extendons-eo-wooimport-export": "<=2.0.6",
         "wpackagist-plugin/extensions-for-cf7": "<= 3.2.8.0",
