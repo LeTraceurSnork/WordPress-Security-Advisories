@@ -2918,7 +2918,7 @@
         "wpackagist-plugin/delivery-drivers-for-vendors": ">=1.0.1,<=1.1.0",
         "wpackagist-plugin/delivery-drivers-manager": ">=1.0.3,<=1.1.8",
         "wpackagist-plugin/delivery-woo": ">=1.0,<=1.0.4",
-        "wpackagist-plugin/delucks-seo": "<= 2.6.0.0",
+        "wpackagist-plugin/delucks-seo": "<= 2.7.0.0",
         "wpackagist-plugin/demo-awesome": "<= 1.0.3.0",
         "wpackagist-plugin/demo-importer-plus": "<=2.0.1",
         "wpackagist-plugin/demo-my-wordpress": "<=1.0.9.1",
