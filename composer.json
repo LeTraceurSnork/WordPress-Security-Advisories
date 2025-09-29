@@ -2708,6 +2708,7 @@
         "wpackagist-plugin/custom-header-images": "<=1.2.1",
         "wpackagist-plugin/custom-html-bodyhead": "<=0.51",
         "wpackagist-plugin/custom-icons-for-elementor": "<=0.3.3",
+        "wpackagist-plugin/custom-iframe": "<=1.0.13",
         "wpackagist-plugin/custom-landing-pages-leadmagic": "<=1.2.7",
         "wpackagist-plugin/custom-layouts": "<=1.4.11",
         "wpackagist-plugin/custom-list-table-example": "<=1.4.1",
