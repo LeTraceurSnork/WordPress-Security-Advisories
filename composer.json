@@ -1150,7 +1150,7 @@
         "wpackagist-plugin/backup-scheduler": "<=1.5.13",
         "wpackagist-plugin/backup-wd": "<=1.0.20",
         "wpackagist-plugin/backupbuddy": "<= 8.8.2.0",
-        "wpackagist-plugin/backuply": "<= 1.3.4.0",
+        "wpackagist-plugin/backuply": "<= 1.4.8.0",
         "wpackagist-plugin/backupwordpress": "<= 3.13.0.0",
         "wpackagist-plugin/backwp": "<=2.0.2",
         "wpackagist-plugin/backwpup": "<= 4.0.3.0",
