@@ -4553,7 +4553,7 @@
         "wpackagist-plugin/ghost": "<=1.4.0",
         "wpackagist-plugin/ghostkit": "<=3.4.1",
         "wpackagist-plugin/gi-media-library": "<3.0",
-        "wpackagist-plugin/gianism": "<=5.1.0",
+        "wpackagist-plugin/gianism": "<= 5.2.2.0",
         "wpackagist-plugin/gift-cards-for-woocommerce-pro": "<=2.9.1",
         "wpackagist-plugin/gift-certificate-creator": "<= 1.1.0.0",
         "wpackagist-plugin/gift-message-for-woocommerce": "<= 1.7.8.0",
