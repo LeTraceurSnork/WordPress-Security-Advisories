@@ -1835,6 +1835,7 @@
         "wpackagist-plugin/cas-maestro": "<=1.1.3",
         "wpackagist-plugin/case-study": "<=1.0",
         "wpackagist-plugin/case-theme-user": "<1.0.4",
+        "wpackagist-plugin/cashbill-payment-method": "<=3.2.1",
         "wpackagist-plugin/cashtomer": "<=1.0.0",
         "wpackagist-plugin/casso-tu-dong-xac-nhan-thanh-toan-chuyen-khoan-ngan-hang": "<=2.8.6",
         "wpackagist-plugin/catablog": "<=1.7.0",
