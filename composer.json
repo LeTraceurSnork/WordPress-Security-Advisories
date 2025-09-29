@@ -3947,7 +3947,7 @@
         "wpackagist-plugin/fastbook-responsive-appointment-booking-and-scheduling-system": "<=1.1",
         "wpackagist-plugin/fastcgi-cache-purge-and-preload-nginx": "<=2.1.1",
         "wpackagist-plugin/fastdup": "<=2.1.9",
-        "wpackagist-plugin/fastly": "<= 1.2.25.0",
+        "wpackagist-plugin/fastly": "<= 1.2.28.0",
         "wpackagist-plugin/fastspring": "<=3.0.1",
         "wpackagist-plugin/fat-coming-soon": "<=1.1",
         "wpackagist-plugin/fat-event-lite": "<=1.1",
