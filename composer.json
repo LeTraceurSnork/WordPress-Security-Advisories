@@ -12601,6 +12601,7 @@
         "wpackagist-plugin/wp-sponsors": "<=3.5.1",
         "wpackagist-plugin/wp-spotlight-search": "<=1.1.1",
         "wpackagist-plugin/wp-spreadplugin": "<=4.8.9",
+        "wpackagist-plugin/wp-sri": "<=0.4.0",
         "wpackagist-plugin/wp-stacker": "<=1.8.5",
         "wpackagist-plugin/wp-staging": "<3.5.0",
         "wpackagist-plugin/wp-staging-pro": "<= 6.1.2.0",
