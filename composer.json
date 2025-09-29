@@ -9934,7 +9934,7 @@
         "wpackagist-plugin/tamara-checkout": "<=1.9.9",
         "wpackagist-plugin/tangible-loops-and-logic": "<=4.1.4",
         "wpackagist-plugin/taobaoke": "<=1.1.2",
-        "wpackagist-plugin/tapfiliate": "<=3.0.12",
+        "wpackagist-plugin/tapfiliate": "<= 3.2.2.0",
         "wpackagist-plugin/target-notifications": "<=1.1.1",
         "wpackagist-plugin/tarteaucitron-wp": "<=0.2.5",
         "wpackagist-plugin/tarteaucitronjs": "<= 1.9.4.0",
