@@ -2046,6 +2046,7 @@
         "wpackagist-plugin/ck-and-syntaxhighlighter": "<=3.4.2",
         "wpackagist-plugin/ckeditor-for-wordpress": "<=4.5.3",
         "wpackagist-plugin/claptastic-clap-button": "<=1.3",
+        "wpackagist-plugin/clariti": "<=1.2.1",
         "wpackagist-plugin/clasify-classified-listing": "<=1.0.7",
         "wpackagist-plugin/classic-addons-wpbakery-page-builder-addons": "<= 3.5.0.0",
         "wpackagist-plugin/classic-editor-addon": "<=2.6.3",
