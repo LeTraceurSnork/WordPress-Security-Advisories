@@ -10936,6 +10936,7 @@
         "wpackagist-plugin/wc-remove-tabs-and-fields": "<=1.68",
         "wpackagist-plugin/wc-rest-payment": ">=1.2.0,<=1.4.1",
         "wpackagist-plugin/wc-return-warrranty": "<=1.2.3",
+        "wpackagist-plugin/wc-sales-count-manager": "<=2.5",
         "wpackagist-plugin/wc-sales-notification": "<=1.2.2",
         "wpackagist-plugin/wc-serial-numbers": "<= 2.1.0.0",
         "wpackagist-plugin/wc-shipos-delivery": "<=2.1.7",
