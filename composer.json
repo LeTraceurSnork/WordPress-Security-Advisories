@@ -2376,7 +2376,7 @@
         "wpackagist-plugin/content-mirror": "<=1.2",
         "wpackagist-plugin/content-no-cache": "<= 0.1.4.0",
         "wpackagist-plugin/content-planner": "<=1.0",
-        "wpackagist-plugin/content-protector": "<= 4.2.10.0",
+        "wpackagist-plugin/content-protector": "<= 4.2.18.0",
         "wpackagist-plugin/content-repeater": "<= 1.1.13.0",
         "wpackagist-plugin/content-restrictor-for-divi": ">=1.0.1,<=1.4.2",
         "wpackagist-plugin/content-security-policy-pro": "<=1.3.5",
