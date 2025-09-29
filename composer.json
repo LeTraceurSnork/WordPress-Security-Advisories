@@ -11412,6 +11412,7 @@
         "wpackagist-plugin/woocommerce-html5-video": "<=1.7.10",
         "wpackagist-plugin/woocommerce-inventory-management": "<=1.1.3",
         "wpackagist-plugin/woocommerce-jetpack": "<= 7.2.4.0",
+        "wpackagist-plugin/woocommerce-lightbox": "<=2.1.8",
         "wpackagist-plugin/woocommerce-loyal-customer": "<=2.6",
         "wpackagist-plugin/woocommerce-maintenance-mode": "<=2.0.1",
         "wpackagist-plugin/woocommerce-menu-bar-cart": "<=2.11.0",
