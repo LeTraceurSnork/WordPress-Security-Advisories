@@ -5143,6 +5143,7 @@
         "wpackagist-plugin/image-carousel-shortcode": "<=1.2",
         "wpackagist-plugin/image-classify": "<=1.0.0",
         "wpackagist-plugin/image-cleanup": "<=1.9.2",
+        "wpackagist-plugin/image-compare-block": "<=1.6.2",
         "wpackagist-plugin/image-content-show-hover": "<=1.0.6",
         "wpackagist-plugin/image-editor-by-pixo": "<=2.3.6",
         "wpackagist-plugin/image-export": "<=1.1",
