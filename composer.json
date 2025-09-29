@@ -1507,6 +1507,7 @@
         "wpackagist-plugin/bp-check-in": "<1.9.4",
         "wpackagist-plugin/bp-cover": "<=2.1.4.2",
         "wpackagist-plugin/bp-create-group-type": "*",
+        "wpackagist-plugin/bp-disable-activation-reloaded": "<=1.2.1",
         "wpackagist-plugin/bp-email-assign-templates": "<= 1.7.0.0",
         "wpackagist-plugin/bp-gallery": "<=1.2.5",
         "wpackagist-plugin/bp-greeting-message": "<=1.0.3",
