@@ -12763,6 +12763,7 @@
         "wpackagist-plugin/wp-whois-domain": "<=1.0.0",
         "wpackagist-plugin/wp-whydonate": "<=3.12.14",
         "wpackagist-plugin/wp-widget-bundle": "<=2.0.0",
+        "wpackagist-plugin/wp-widgets-shortcode": "<=1.0.3",
         "wpackagist-plugin/wp-wiki-tooltip": "<=2.0.2",
         "wpackagist-plugin/wp-woocommerce-quickbooks": "<= 1.3.1.0",
         "wpackagist-plugin/wp-word-count": "<=3.2.4",
