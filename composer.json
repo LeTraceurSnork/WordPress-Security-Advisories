@@ -8593,7 +8593,7 @@
         "wpackagist-plugin/salesforce-wordpress-to-candidate": "<=1.0.1",
         "wpackagist-plugin/salesforce-wordpress-to-lead": "<=2.7.3.9",
         "wpackagist-plugin/salesking": "<=1.6.15",
-        "wpackagist-plugin/salesmanago": "<=3.2.4",
+        "wpackagist-plugin/salesmanago": "<= 3.8.1.0",
         "wpackagist-plugin/salient-core": "<= 2.0.7.0",
         "wpackagist-plugin/salient-shortcodes": "<=1.5.3",
         "wpackagist-plugin/salon-booking-plugin-pro-cc": "<=10.10.2",
