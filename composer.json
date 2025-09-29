@@ -11791,6 +11791,7 @@
         "wpackagist-plugin/wp-comment-remix": "<1.4.4",
         "wpackagist-plugin/wp-commentnavi": "<=1.12.1",
         "wpackagist-plugin/wp-compare-tables": "<=1.0.5",
+        "wpackagist-plugin/wp-compiler": "<=1.0.0",
         "wpackagist-plugin/wp-compress-image-optimizer": "<= 6.30.30.0",
         "wpackagist-plugin/wp-compress-mainwp": "<= 6.30.32.0",
         "wpackagist-plugin/wp-concours": "<=1.1",
