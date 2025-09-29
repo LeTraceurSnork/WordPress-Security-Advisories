@@ -9074,7 +9074,7 @@
         "wpackagist-plugin/simple-ip-ban": "<=1.2.3",
         "wpackagist-plugin/simple-job-board": "<= 2.12.5.0",
         "wpackagist-plugin/simple-job-manager": "<=1.1",
-        "wpackagist-plugin/simple-jwt-login": "<3.3.0",
+        "wpackagist-plugin/simple-jwt-login": "<= 3.6.4.0",
         "wpackagist-plugin/simple-keyword-to-link": "<=1.5",
         "wpackagist-plugin/simple-ldap-login": "<=1.6.0",
         "wpackagist-plugin/simple-lightbox": "<=2.9.3",
