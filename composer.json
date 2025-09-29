@@ -8437,7 +8437,7 @@
         "wpackagist-plugin/revision-diet": "<=1.0.1",
         "wpackagist-plugin/revision-manager-tmc": "<=2.8.19",
         "wpackagist-plugin/revisionary": "<= 3.5.15.0",
-        "wpackagist-plugin/revive-so": "<=2.0.3",
+        "wpackagist-plugin/revive-so": "<= 2.0.6.0",
         "wpackagist-plugin/revolut-gateway-for-woocommerce": "<= 4.17.3.0",
         "wpackagist-plugin/revolution-for-elementor": "<=0.0.19",
         "wpackagist-plugin/revolution_video_player": "<=2.9.2",
