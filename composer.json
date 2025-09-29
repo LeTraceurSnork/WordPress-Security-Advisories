@@ -2743,6 +2743,7 @@
         "wpackagist-plugin/custom-post-type-templates-for-elementor": "<1.1.12 || >=1.10.0,<=1.10.1",
         "wpackagist-plugin/custom-post-type-ui": "<= 1.13.4.0",
         "wpackagist-plugin/custom-post-types": "<=5.0.4",
+        "wpackagist-plugin/custom-post-types-image": "<=0.5",
         "wpackagist-plugin/custom-post-view-generator": "<=0.4.6",
         "wpackagist-plugin/custom-post-widget": "<= 3.3.5.0",
         "wpackagist-plugin/custom-posts-order": "<=4.4",
