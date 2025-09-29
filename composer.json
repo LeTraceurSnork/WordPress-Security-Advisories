@@ -11199,6 +11199,7 @@
         "wpackagist-plugin/woo-bought-together": "<=7.1.9",
         "wpackagist-plugin/woo-bulk-editor": "<= 1.1.4.4",
         "wpackagist-plugin/woo-bulk-price-update": "<=2.2.1",
+        "wpackagist-plugin/woo-cardcom-payment-gateway": "<=3.5.0.4",
         "wpackagist-plugin/woo-cart-abandonment-recovery": "<=1.2.26",
         "wpackagist-plugin/woo-cart-all-in-one": "<=1.1.10",
         "wpackagist-plugin/woo-cart-count-shortcode": "<=1.0.4",
