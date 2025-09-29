@@ -10341,6 +10341,7 @@
         "wpackagist-plugin/trust-form": "<=2.0.0",
         "wpackagist-plugin/trust-payments-gateway-3ds2": "<= 1.3.6.0",
         "wpackagist-plugin/trust-payments-hosted-payment-pages-integration": "<=1.1.4",
+        "wpackagist-plugin/trust-reviews": "<=1.0",
         "wpackagist-plugin/trustist-reviewer": "<=2.0",
         "wpackagist-plugin/trustmary": "<=1.0.9",
         "wpackagist-plugin/trustmate-io-integration-for-woocommerce": "<= 1.14.0.0",
