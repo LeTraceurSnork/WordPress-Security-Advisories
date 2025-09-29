@@ -1375,7 +1375,7 @@
         "wpackagist-plugin/blockstrap-page-builder-blocks": "<=0.1.36",
         "wpackagist-plugin/blocksy-companion": "<= 2.0.45.0",
         "wpackagist-plugin/blockwheels": "<=1.0.2",
-        "wpackagist-plugin/blog-designer": "<=1.8.10",
+        "wpackagist-plugin/blog-designer": "<= 3.1.8.0",
         "wpackagist-plugin/blog-designer-for-post-and-widget": "<=2.5.1",
         "wpackagist-plugin/blog-designer-pack": "<= 4.0.0.0",
         "wpackagist-plugin/blog-designer-pro": "<=3.4.7",
