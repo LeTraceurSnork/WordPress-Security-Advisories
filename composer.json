@@ -12620,7 +12620,7 @@
         "wpackagist-plugin/wp-structuring-markup": "<=4.8.1",
         "wpackagist-plugin/wp-subscribe": "<=1.2.12",
         "wpackagist-plugin/wp-subscription-forms": "<=1.2.4",
-        "wpackagist-plugin/wp-subtitle": "<=3.4",
+        "wpackagist-plugin/wp-subtitle": "<= 3.4.1.0",
         "wpackagist-plugin/wp-super-cache": "<1.9",
         "wpackagist-plugin/wp-super-minify": "<=1.5.1",
         "wpackagist-plugin/wp-super-popup": "<=1.1.2",
