@@ -2654,6 +2654,7 @@
         "wpackagist-plugin/currency-switcher": "<= 1.2.0.4",
         "wpackagist-plugin/currency-switcher-for-woocommerce": "<=0.0.7",
         "wpackagist-plugin/currency-switcher-woocommerce": "<= 2.16.2.0",
+        "wpackagist-plugin/current-age": "<=1.6",
         "wpackagist-plugin/current-book": "<=1.0.1",
         "wpackagist-plugin/current-menu-item-for-custom-post-types": "<=1.5",
         "wpackagist-plugin/current-template-name": "<=1.1.12",
