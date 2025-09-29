@@ -6230,6 +6230,7 @@
         "wpackagist-plugin/mark-posts": "<= 2.2.4.0",
         "wpackagist-plugin/mark-user-as-spammer": "<=1.0.1",
         "wpackagist-plugin/markdown-on-save-improved": "<=2.5",
+        "wpackagist-plugin/markdown-shortcode": "<=0.2.1",
         "wpackagist-plugin/marker-io": "<=1.1.8",
         "wpackagist-plugin/market-360-viewer": "<=1.01",
         "wpackagist-plugin/market-exporter": "<= 2.0.22.0",
