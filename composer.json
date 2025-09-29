@@ -12647,7 +12647,7 @@
         "wpackagist-plugin/wp-tao": "<=1.3",
         "wpackagist-plugin/wp-tarteaucitron-js-self-hosted": "<=1.2.4",
         "wpackagist-plugin/wp-taxonomy-import": "<=1.0.5",
-        "wpackagist-plugin/wp-team-manager": "<= 2.1.23.0",
+        "wpackagist-plugin/wp-team-manager": "<= 2.3.16.0",
         "wpackagist-plugin/wp-team-showcase-and-slider": "<=2.6",
         "wpackagist-plugin/wp-tell-a-friend-popup-form": "<=7.1",
         "wpackagist-plugin/wp-terms-popup": "<=2.6.0",
