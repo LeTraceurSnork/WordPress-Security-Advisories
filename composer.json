@@ -7521,7 +7521,7 @@
         "wpackagist-plugin/plausible-analytics": "<= 1.3.3.0",
         "wpackagist-plugin/play-ht": "<=3.6.4",
         "wpackagist-plugin/player": "<= 2.1.0.0",
-        "wpackagist-plugin/playerjs": "<=2.23",
+        "wpackagist-plugin/playerjs": "<= 2.24.0.0",
         "wpackagist-plugin/playlist-for-youtube": "<=1.32",
         "wpackagist-plugin/plenigo": "<=1.12.0",
         "wpackagist-plugin/plerdy-heatmap": "<=1.3.2",
