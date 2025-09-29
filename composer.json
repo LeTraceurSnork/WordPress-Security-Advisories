@@ -8577,7 +8577,7 @@
         "wpackagist-plugin/safe-editor": "<1.2",
         "wpackagist-plugin/safe-redirect-manager": "<=1.11.1",
         "wpackagist-plugin/safe-svg": "<= 2.2.5.0",
-        "wpackagist-plugin/safety-exit": "<=1.7.0",
+        "wpackagist-plugin/safety-exit": "<= 1.8.0.0",
         "wpackagist-plugin/safetymails-forms": "<=1.0.0",
         "wpackagist-plugin/sagepay-direct-for-woocommerce-payment-gateway": "<0.1.6.7",
         "wpackagist-plugin/sagepay-server-gateway-for-woocommerce": "<1.0.9",
