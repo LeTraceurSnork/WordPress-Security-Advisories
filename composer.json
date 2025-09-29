@@ -10836,6 +10836,7 @@
         "wpackagist-plugin/vkontakte-cross-post": "<=0.3.2",
         "wpackagist-plugin/vkontakte-wall-post": "<=2.0",
         "wpackagist-plugin/vm-backups": "<=1.0",
+        "wpackagist-plugin/vm-menu-reorder": "<=1.0.0",
         "wpackagist-plugin/vmax-project-manager": "<=1.0",
         "wpackagist-plugin/vn-calendar": "<=1.0",
         "wpackagist-plugin/vod-infomaniak": "<= 1.5.9.0",
