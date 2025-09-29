@@ -10022,7 +10022,7 @@
         "wpackagist-plugin/terms-dictionary": "<=1.5.1",
         "wpackagist-plugin/terms-of-service-and-privacy-policy": "<=1.0",
         "wpackagist-plugin/terms-of-use-2": "<=2.0",
-        "wpackagist-plugin/terms-popup-on-user-login": "<=2.0.3",
+        "wpackagist-plugin/terms-popup-on-user-login": "<= 2.0.8.0",
         "wpackagist-plugin/terraclassifieds": "<=2.0.3",
         "wpackagist-plugin/testimonial": "<=2.3.7",
         "wpackagist-plugin/testimonial-add": "<=3.5.8.3",
