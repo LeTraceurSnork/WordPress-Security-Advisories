@@ -4914,7 +4914,7 @@
         "wpackagist-plugin/hero-maps-pro": "<=2.1.0",
         "wpackagist-plugin/hesabfa-accounting": "<= 2.2.4.0",
         "wpackagist-plugin/hestia-nginx-cache": "<=2.4.0",
-        "wpackagist-plugin/heureka": "<=1.0.8",
+        "wpackagist-plugin/heureka": "<= 1.1.0.0",
         "wpackagist-plugin/hide-admin-bar-based-on-user-roles": "<3.1.0",
         "wpackagist-plugin/hide-admin-bar-from-front-end": "<=1.0.0",
         "wpackagist-plugin/hide-category-by-user-role-for-woocommerce": "<=2.1.1",
