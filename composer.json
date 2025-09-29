@@ -4530,7 +4530,7 @@
         "wpackagist-plugin/getshop-ecommerce": "<=1.3",
         "wpackagist-plugin/getsocial": "<=2.0.1",
         "wpackagist-plugin/gettext-override-translations": "<=1.0.1",
-        "wpackagist-plugin/getwid": "<= 2.0.12.0",
+        "wpackagist-plugin/getwid": "<= 2.1.2.0",
         "wpackagist-plugin/getwid-megamenu": "<=1.0.6",
         "wpackagist-plugin/getyourguide-ticketing": "<=1.0.2",
         "wpackagist-plugin/gf-block-ips": "<=1.0.1",
