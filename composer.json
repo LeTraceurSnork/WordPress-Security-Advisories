@@ -390,6 +390,7 @@
         "wpackagist-plugin/adthrive-ads": "<= 3.8.0.0",
         "wpackagist-plugin/advance-food-menu": "<=1.0",
         "wpackagist-plugin/advance-menu-manager": "<= 3.1.1.0",
+        "wpackagist-plugin/advance-portfolio-grid": "<=1.07.6",
         "wpackagist-plugin/advance-post-prefix": "<=1.1.1",
         "wpackagist-plugin/advance-search": "<=1.1.6",
         "wpackagist-plugin/advance-wp-query-search-filter": "<=1.0.10",
