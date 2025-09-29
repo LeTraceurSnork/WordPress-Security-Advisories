@@ -10043,6 +10043,7 @@
         "wpackagist-plugin/text-advertisements": "<=2.1",
         "wpackagist-plugin/text-hover": "<=4.1",
         "wpackagist-plugin/text-selection-color": "<=1.6",
+        "wpackagist-plugin/text-to-audio": "<=1.9.24",
         "wpackagist-plugin/textboxes": "<=0.1.3.1",
         "wpackagist-plugin/texteller": "<=1.3.0",
         "wpackagist-plugin/textme-sms-integration": "<= 1.9.1.0",
