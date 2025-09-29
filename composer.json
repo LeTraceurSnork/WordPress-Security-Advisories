@@ -2270,6 +2270,7 @@
         "wpackagist-plugin/complete-open-graph": "<=3.4.5",
         "wpackagist-plugin/complianz-gdpr": "<= 6.5.6.0",
         "wpackagist-plugin/complianz-gdpr-premium": "<=6.4.1",
+        "wpackagist-plugin/compress-then-upload": "<=1.0.4",
         "wpackagist-plugin/compute-links": "<=1.2.1",
         "wpackagist-plugin/computer-repair-shop": "<= 3.8213.0.0",
         "wpackagist-plugin/conditional-checkout-fields-for-woocommerce": "<=1.2.1",
