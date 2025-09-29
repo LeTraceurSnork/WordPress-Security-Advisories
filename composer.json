@@ -6373,7 +6373,7 @@
         "wpackagist-plugin/member-approval": "<=131109",
         "wpackagist-plugin/member-database": "<=1.0",
         "wpackagist-plugin/member-hero": "<=1.0.9",
-        "wpackagist-plugin/memberful-wp": "<=1.73.9",
+        "wpackagist-plugin/memberful-wp": "<= 1.75.0.0",
         "wpackagist-plugin/memberlite-shortcodes": "<=1.3.9",
         "wpackagist-plugin/membermouse": "<=2.2.8",
         "wpackagist-plugin/memberpress": "< 1.12.0.0-dev",
