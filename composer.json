@@ -11600,7 +11600,7 @@
         "wpackagist-plugin/workbox-video-from-vimeo-youtube-plugin": "<=3.2.2",
         "wpackagist-plugin/worker": "<=4.9.2",
         "wpackagist-plugin/workreap": "<=3.3.2",
-        "wpackagist-plugin/workscout-core": "<1.3.4",
+        "wpackagist-plugin/workscout-core": "< 1.7.06.0-dev",
         "wpackagist-plugin/world-cup-predictor": "<=1.9.6",
         "wpackagist-plugin/world-of-warcraft-armory-table": "<0.2.6",
         "wpackagist-plugin/world-prayer-time": "<=2.0",
