@@ -1000,7 +1000,7 @@
         "wpackagist-plugin/auto-login-when-resister": "<=1.1.0",
         "wpackagist-plugin/auto-more-tag": "<=4.0.0",
         "wpackagist-plugin/auto-post-after-image-upload": "<=1.6",
-        "wpackagist-plugin/auto-post-thumbnail": "<= 4.0.0.0",
+        "wpackagist-plugin/auto-post-thumbnail": "<= 4.1.2.0",
         "wpackagist-plugin/auto-poster": "<=1.2",
         "wpackagist-plugin/auto-prune-posts": "<= 2.0.0.0",
         "wpackagist-plugin/auto-refresh-single-page": "<=1.1",
