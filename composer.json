@@ -7312,6 +7312,7 @@
         "wpackagist-plugin/payment-qr-woo": "<=1.1.6",
         "wpackagist-plugin/payments-stripe-gateway": "<=1.2.1",
         "wpackagist-plugin/payoneer-checkout": "<=3.4.0",
+        "wpackagist-plugin/payos": "<=1.0.61",
         "wpackagist-plugin/paypal-brasil-para-woocommerce": "<=1.4.2",
         "wpackagist-plugin/paypal-currency-converter-basic-for-woocommerce": "<=1.3",
         "wpackagist-plugin/paypal-donations": "<=1.9.8",
