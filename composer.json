@@ -5928,6 +5928,7 @@
         "wpackagist-plugin/listdom": "<= 4.0.0.0",
         "wpackagist-plugin/listeo-core": "<=1.9.32",
         "wpackagist-plugin/listingpro-plugin": "<= 2.9.4.0",
+        "wpackagist-plugin/listingpro-reviews": "<=1.6",
         "wpackagist-plugin/listings-for-appfolio": "<=1.2.0",
         "wpackagist-plugin/listings-for-buildium": "<=0.1.4",
         "wpackagist-plugin/listly": "<=2.7",
