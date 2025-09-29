@@ -6127,7 +6127,7 @@
         "wpackagist-plugin/mail-on-update": "<5.3.0",
         "wpackagist-plugin/mail-picker": "<= 1.0.15.0",
         "wpackagist-plugin/mail-queue": "<=1.1",
-        "wpackagist-plugin/mail-subscribe-list": "<=2.1.9",
+        "wpackagist-plugin/mail-subscribe-list": "<= 2.1.10.0",
         "wpackagist-plugin/mailarchiver": "<=2.10.1",
         "wpackagist-plugin/mailchimp-for-woocommerce": "<=2.7.1",
         "wpackagist-plugin/mailchimp-for-wp": "<= 4.9.16.0",
