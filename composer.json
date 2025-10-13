@@ -3463,7 +3463,7 @@
         "wpackagist-plugin/easy-student-results": "<=2.2.8",
         "wpackagist-plugin/easy-svg": "<=3.7",
         "wpackagist-plugin/easy-svg-image-allow": "<=1.0",
-        "wpackagist-plugin/easy-svg-upload": "<=1.0",
+        "wpackagist-plugin/easy-svg-upload": "<= 1.1.0.0",
         "wpackagist-plugin/easy-table": "<= 1.6.0.0",
         "wpackagist-plugin/easy-table-booking": "<=1.0.0",
         "wpackagist-plugin/easy-table-of-contents": "<= 2.0.67.1",
