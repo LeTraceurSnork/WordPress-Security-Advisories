@@ -9939,6 +9939,7 @@
         "wpackagist-plugin/stock-market-charts-from-finviz": "<=1.0.1",
         "wpackagist-plugin/stock-message": "<=1.1.0",
         "wpackagist-plugin/stock-quotes-list": "<=2.9.11",
+        "wpackagist-plugin/stock-snapshot-for-woocommerce": "<=2.2.1",
         "wpackagist-plugin/stock-sync-for-woocommerce": "<=2.4.0",
         "wpackagist-plugin/stock-sync-with-google-sheet-for-woocommerce": "<=3.13.1",
         "wpackagist-plugin/stock-ticker": "<= 3.24.4.0",
