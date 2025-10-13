@@ -13068,6 +13068,7 @@
         "wpackagist-plugin/wp-wallcreeper": "<=1.6.1",
         "wpackagist-plugin/wp-wc-affiliate-program": "<=8.4.1",
         "wpackagist-plugin/wp-webauthn": "<= 1.3.3.0",
+        "wpackagist-plugin/wp-webcam-widget-shortcode": "<=1.2",
         "wpackagist-plugin/wp-webhooks": "<=3.3.5",
         "wpackagist-plugin/wp-webinarsystem": "<= 1.33.27.0",
         "wpackagist-plugin/wp-website-creator": "<=4.0",
