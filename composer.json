@@ -2721,7 +2721,7 @@
         "wpackagist-plugin/current-menu-item-for-custom-post-types": "<=1.5",
         "wpackagist-plugin/current-template-name": "<=1.1.12",
         "wpackagist-plugin/curtain": "<= 1.0.2.0",
-        "wpackagist-plugin/custom-404-pro": "<= 3.11.1.0",
+        "wpackagist-plugin/custom-404-pro": "<= 3.12.0.0",
         "wpackagist-plugin/custom-add-to-cart-button-for-woocommerce": "<=1.222.17",
         "wpackagist-plugin/custom-add-user": "<=2.0.2",
         "wpackagist-plugin/custom-admin-login-styler-wpzest": "<=1.2.0",
