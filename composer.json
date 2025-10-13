@@ -7392,6 +7392,7 @@
         "wpackagist-plugin/pagbank-connect": "<=4.44.3",
         "wpackagist-plugin/page-and-post-lister": "<=1.2.1",
         "wpackagist-plugin/page-and-post-restriction": "<= 1.3.6.0",
+        "wpackagist-plugin/page-blocks": "<=1.1.0",
         "wpackagist-plugin/page-builder-add": "<= 1.5.2.0",
         "wpackagist-plugin/page-builder-by-azexo": "<=1.27.133",
         "wpackagist-plugin/page-builder-sandwich": "<=5.1.0",
