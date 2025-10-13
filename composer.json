@@ -12798,7 +12798,7 @@
         "wpackagist-plugin/wp-safe-search": "<=0.7",
         "wpackagist-plugin/wp-scheduled-posts": "<= 5.1.3.0",
         "wpackagist-plugin/wp-schema-pro": "<= 2.7.15.0",
-        "wpackagist-plugin/wp-scraper": "<= 5.8.0.0",
+        "wpackagist-plugin/wp-scraper": "<= 5.8.1.0",
         "wpackagist-plugin/wp-scribd-list": "<=1.2",
         "wpackagist-plugin/wp-scrippets": "<=1.5.1",
         "wpackagist-plugin/wp-scriptcase": "<=2.0.0",
