@@ -12458,7 +12458,7 @@
         "wpackagist-plugin/wp-jobhunt": "<= 7.2.0.0",
         "wpackagist-plugin/wp-jobs": "<1.7",
         "wpackagist-plugin/wp-jobs2careers": "<=2.4",
-        "wpackagist-plugin/wp-jobsearch": "< 3.0.6.0-dev",
+        "wpackagist-plugin/wp-jobsearch": "< 3.0.8.0-dev",
         "wpackagist-plugin/wp-joomag": "<=2.5.2",
         "wpackagist-plugin/wp-jquery-datatable": "<= 4.1.0.0",
         "wpackagist-plugin/wp-jquery-lightbox": "<= 2.3.3.0",
