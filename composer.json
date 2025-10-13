@@ -9194,7 +9194,7 @@
         "wpackagist-plugin/sidebar-manager-light": "<= 1.18.0.0",
         "wpackagist-plugin/sidebartabs": "<=3.1",
         "wpackagist-plugin/sideblog": "<=6.0",
-        "wpackagist-plugin/sided": "<=1.4.2",
+        "wpackagist-plugin/sided": "<= 1.4.5.0",
         "wpackagist-plugin/sight": "<=1.1.2",
         "wpackagist-plugin/sign-in-with-google": "<=1.8.0",
         "wpackagist-plugin/sign-up-sheets": "<= 2.3.3.0",
