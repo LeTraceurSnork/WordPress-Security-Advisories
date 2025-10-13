@@ -12336,6 +12336,7 @@
         "wpackagist-plugin/wp-fountain": "<=1.5.9",
         "wpackagist-plugin/wp-fpo": "<=1.0",
         "wpackagist-plugin/wp-free-ssl": "<= 1.2.7.0",
+        "wpackagist-plugin/wp-freeio": "<=1.2.21",
         "wpackagist-plugin/wp-freemind": "<=1.0",
         "wpackagist-plugin/wp-from-email": "<=1.2.1",
         "wpackagist-plugin/wp-front-end-login-and-register": "<=2.1.0",
