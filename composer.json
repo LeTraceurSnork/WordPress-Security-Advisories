@@ -1311,7 +1311,7 @@
         "wpackagist-plugin/better-elementor-addons": "<= 1.4.4.0",
         "wpackagist-plugin/better-follow-button-for-jetpack": "<=8.0",
         "wpackagist-plugin/better-font-awesome": "<= 2.0.3.0",
-        "wpackagist-plugin/better-post-filter-widgets-for-elementor": "<=1.5.3",
+        "wpackagist-plugin/better-post-filter-widgets-for-elementor": "<= 1.6.1.0",
         "wpackagist-plugin/better-protected-pages": "<=1.0",
         "wpackagist-plugin/better-random-redirect": "<=1.3.20",
         "wpackagist-plugin/better-robots-txt": "<=1.4.5",
