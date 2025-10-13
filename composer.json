@@ -13343,7 +13343,7 @@
         "wpackagist-plugin/www-xml-sitemap-generator-org": "<=2.0.3",
         "wpackagist-plugin/wxsync": "<= 2.8.0.0",
         "wpackagist-plugin/wysija-newsletters": "<= 2.8.1.0",
-        "wpackagist-plugin/x-addons-elementor": "<=1.0.14",
+        "wpackagist-plugin/x-addons-elementor": "<= 1.0.16.0",
         "wpackagist-plugin/x-forms-express": "<3.4",
         "wpackagist-plugin/xagio-seo": "<= 7.1.0.16",
         "wpackagist-plugin/xavins-list-subpages": "<=1.3",
