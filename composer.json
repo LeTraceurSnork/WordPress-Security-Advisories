@@ -12762,7 +12762,7 @@
         "wpackagist-plugin/wp-report-post": "<=2.1.2",
         "wpackagist-plugin/wp-repost": "<=0.1",
         "wpackagist-plugin/wp-reroute-email": "<= 1.4.9.0",
-        "wpackagist-plugin/wp-reset": "<= 2.01.0.0 || >=5.00,<=5.98",
+        "wpackagist-plugin/wp-reset": "<= 2.05.0.0 || >= 5.00.0.0-dev <= 5.98.0.0",
         "wpackagist-plugin/wp-responsive-menu": "<=3.1.7",
         "wpackagist-plugin/wp-responsive-photo-gallery": "<= 1.0.15.0",
         "wpackagist-plugin/wp-responsive-preview": "<1.2",
