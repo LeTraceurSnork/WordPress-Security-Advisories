@@ -2218,6 +2218,7 @@
         "wpackagist-plugin/code-generator": "<=1.0",
         "wpackagist-plugin/code-generator-pro": "<=1.2",
         "wpackagist-plugin/code-manager": ">=1.0.0,<=1.0.25",
+        "wpackagist-plugin/code-quality-control-tool": "<=0.1",
         "wpackagist-plugin/code-snippets": "< 3.6.0.0-dev",
         "wpackagist-plugin/code-snippets-cpt": "<=2.1.0",
         "wpackagist-plugin/code-snippets-extended": "<=1.4.7",
