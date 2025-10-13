@@ -6054,6 +6054,7 @@
         "wpackagist-plugin/liquid-blocks": "<=1.2.0",
         "wpackagist-plugin/liquid-speech-balloon": "<=1.1.8",
         "wpackagist-plugin/lis-video-gallery": "<=0.2.1",
+        "wpackagist-plugin/lisfinity-core": "<=1.4.0",
         "wpackagist-plugin/list-all-posts-by-authors-nested-categories-and-titles": "<=2.8.2",
         "wpackagist-plugin/list-categories": "<=0.4",
         "wpackagist-plugin/list-category-posts": "<= 0.91.0.0",
