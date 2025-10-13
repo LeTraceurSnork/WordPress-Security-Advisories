@@ -11178,6 +11178,7 @@
         "wpackagist-plugin/wc-checkout-getnet": "<= 1.8.0.0",
         "wpackagist-plugin/wc-ciudades-y-regiones-de-chile": "<=4.3.0",
         "wpackagist-plugin/wc-customer-source": "<=1.3.1",
+        "wpackagist-plugin/wc-designer-pro": "<=1.9.26",
         "wpackagist-plugin/wc-donation-platform": "<1.2.10",
         "wpackagist-plugin/wc-dynamic-pricing-and-discounts": "<2.4.2",
         "wpackagist-plugin/wc-estimate-and-quote": "<=1.0.2.5",
