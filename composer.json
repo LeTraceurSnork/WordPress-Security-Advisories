@@ -2585,6 +2585,7 @@
         "wpackagist-plugin/course-booking-platform": "<=1.0.0",
         "wpackagist-plugin/course-booking-system": "<= 6.1.2.0",
         "wpackagist-plugin/course-migration-for-learndash": "<=1.0.2",
+        "wpackagist-plugin/course-redirects-for-learndash": "<=0.4",
         "wpackagist-plugin/covermanager": "<=0.0.1",
         "wpackagist-plugin/covid-19-alert": "<=1.5.1",
         "wpackagist-plugin/cowidgets-elementor-addons": "<=1.2.0",
