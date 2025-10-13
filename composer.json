@@ -9254,7 +9254,7 @@
         "wpackagist-plugin/simple-download-counter": "<= 2.2.0.0",
         "wpackagist-plugin/simple-download-monitor": "<= 3.9.34.0",
         "wpackagist-plugin/simple-downloads-list": "<=1.4.2",
-        "wpackagist-plugin/simple-draft-list": "<=2.6",
+        "wpackagist-plugin/simple-draft-list": "<= 2.6.1.0",
         "wpackagist-plugin/simple-dropbox-upload-form": "<1.8.8.1",
         "wpackagist-plugin/simple-e-commerce-shopping-cart": "<=3.1.2",
         "wpackagist-plugin/simple-email-subscriber": "<=2.3",
