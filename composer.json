@@ -4074,6 +4074,7 @@
         "wpackagist-plugin/fb-messenger-live-chat": "<=1.4.6",
         "wpackagist-plugin/fb-reviews-widget": "<=2.3",
         "wpackagist-plugin/fb-status-updater": "<=1.9.2",
+        "wpackagist-plugin/fb2wp-integration-tools": "<=1.9.9",
         "wpackagist-plugin/fbgorilla": "*",
         "wpackagist-plugin/fbpromotions": "<=1.3.4",
         "wpackagist-plugin/fbsurveypro": "<=1.0",
