@@ -4136,7 +4136,7 @@
         "wpackagist-plugin/file-renaming-on-upload": "<=2.5.1",
         "wpackagist-plugin/file-select-control-for-elementor": "<=1.3",
         "wpackagist-plugin/file-upload-types": "<=1.4.0",
-        "wpackagist-plugin/filebird": "<= 6.4.8.0",
+        "wpackagist-plugin/filebird": "<= 6.4.9.0",
         "wpackagist-plugin/filebird-document-library": "<=2.0.6",
         "wpackagist-plugin/filedownload": "<= 1.4.0.0",
         "wpackagist-plugin/fileorganizer": "<= 1.1.4.0",
