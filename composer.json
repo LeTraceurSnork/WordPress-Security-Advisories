@@ -4936,6 +4936,7 @@
         "wpackagist-plugin/gsheetconnector-wpforms": "<=3.4.5",
         "wpackagist-plugin/gsheetconnector-wpforms-pro": "<2.5.7",
         "wpackagist-plugin/gslideshow": "<=0.1",
+        "wpackagist-plugin/gspeech": "<=3.17.3",
         "wpackagist-plugin/gst-for-woocommerce": "<=2.0",
         "wpackagist-plugin/gt-tabs": "<=4.0.3",
         "wpackagist-plugin/gt3-photo-video-gallery": "<= 2.7.7.25",
