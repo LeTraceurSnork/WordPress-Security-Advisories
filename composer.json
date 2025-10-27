@@ -10373,7 +10373,7 @@
         "wpackagist-plugin/theme-changer": "<=1.4",
         "wpackagist-plugin/theme-demo-import": "<=1.1.3",
         "wpackagist-plugin/theme-duplicator": "<=1.1",
-        "wpackagist-plugin/theme-editor": "<=2.8",
+        "wpackagist-plugin/theme-editor": "<= 3.0.0.0",
         "wpackagist-plugin/theme-file-duplicator": "<=1.3",
         "wpackagist-plugin/theme-importer": "<=1.0",
         "wpackagist-plugin/theme-junkie-shortcodes": "<=0.1.3",
