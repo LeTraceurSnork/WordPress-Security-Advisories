@@ -2035,6 +2035,7 @@
         "wpackagist-plugin/chat-viber": "<=1.7.3",
         "wpackagist-plugin/chat2": "<=4.0",
         "wpackagist-plugin/chatbot": "<= 7.0.0.0",
+        "wpackagist-plugin/chatbot-ai-free-models": "<=1.6.5",
         "wpackagist-plugin/chatbot-chatgpt": "<= 2.1.8.0",
         "wpackagist-plugin/chatbot-support-ai": "<=1.0.2",
         "wpackagist-plugin/chative-live-chat-and-chatbot": "<=1.1",
