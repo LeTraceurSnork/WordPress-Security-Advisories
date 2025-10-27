@@ -11612,7 +11612,7 @@
         "wpackagist-plugin/woo-product-enquiry": "<=2.6.0",
         "wpackagist-plugin/woo-product-excel-importer": "<=5.9",
         "wpackagist-plugin/woo-product-feed-pro": "<= 13.3.1.0",
-        "wpackagist-plugin/woo-product-filter": "<= 2.7.9.0",
+        "wpackagist-plugin/woo-product-filter": "<= 2.9.7.0",
         "wpackagist-plugin/woo-product-finder": ">=1.4.0,<=1.4.1",
         "wpackagist-plugin/woo-product-gallery-slider": "< 2.2.9.0-dev",
         "wpackagist-plugin/woo-product-multiaction": "<=1.3",
