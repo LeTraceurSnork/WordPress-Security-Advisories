@@ -6686,6 +6686,7 @@
         "wpackagist-plugin/mitm-bug-tracker": "<=1.0",
         "wpackagist-plugin/miwoftp": "<1.0.6",
         "wpackagist-plugin/mixcloud-embed": "<=2.2.0",
+        "wpackagist-plugin/mixlr-shortcode": "<=1.0.1",
         "wpackagist-plugin/mixtape": "<=1.1",
         "wpackagist-plugin/mj-contact-us": "<=5.2.3",
         "wpackagist-plugin/mj-update-history": "<=1.0.4",
