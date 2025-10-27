@@ -2585,7 +2585,7 @@
         "wpackagist-plugin/coupon-tab-for-directorypress-pp": "<=0.2.0",
         "wpackagist-plugin/coupon-x-discount-pop-up": "<=1.3.5",
         "wpackagist-plugin/coupon-zen": "<=1.0.5",
-        "wpackagist-plugin/couponapi": "<=6.2.9",
+        "wpackagist-plugin/couponapi": "<= 6.2.12.0",
         "wpackagist-plugin/couponxxl-cpt": "<=3.0",
         "wpackagist-plugin/course-booking-platform": "<=1.0.0",
         "wpackagist-plugin/course-booking-system": "<= 6.1.2.0",
