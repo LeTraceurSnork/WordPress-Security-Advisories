@@ -2056,7 +2056,7 @@
         "wpackagist-plugin/checkfront-wp-booking": "<=3.6",
         "wpackagist-plugin/checklist": "<= 1.1.9.0",
         "wpackagist-plugin/checkout-fees-for-woocommerce": "<=2.12.1",
-        "wpackagist-plugin/checkout-field-visibility-for-woocommerce": "<=1.2.3",
+        "wpackagist-plugin/checkout-field-visibility-for-woocommerce": "<= 1.3.0.0",
         "wpackagist-plugin/checkout-files-upload-woocommerce": "<= 2.2.0.0",
         "wpackagist-plugin/checkout-for-paypal": "<= 1.0.38.0",
         "wpackagist-plugin/checkout-mestres-wp": "<=8.6 || >=8.6.5,<=8.7.5",
