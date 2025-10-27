@@ -5604,6 +5604,7 @@
         "wpackagist-plugin/jazz-popups": "<=1.8.7",
         "wpackagist-plugin/jazzcash-woocommerce-gateway": "<=2.0",
         "wpackagist-plugin/jb-horizontal-scroller-news-ticker": "<=1.0",
+        "wpackagist-plugin/jb-news-ticker": "<=1.0",
         "wpackagist-plugin/jc-importer": "<= 2.14.5.0",
         "wpackagist-plugin/jcarousel-for-wordpress": "<=1.0",
         "wpackagist-plugin/jch-optimize": "<= 4.2.0.0",
