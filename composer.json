@@ -9290,6 +9290,7 @@
         "wpackagist-plugin/simple-embed-code": "<=2.5",
         "wpackagist-plugin/simple-event-planner": "<=1.5.4",
         "wpackagist-plugin/simple-events-calendar": "<=1.4.0",
+        "wpackagist-plugin/simple-excel-pricelist-for-woocommerce": "<=1.13",
         "wpackagist-plugin/simple-facebook-plugin": "<=1.5.2",
         "wpackagist-plugin/simple-facebook-twitter-widget": ">=1.5.0,<=1.7.0",
         "wpackagist-plugin/simple-feature-requests": ">=1.0.0,<=2.2.4",
