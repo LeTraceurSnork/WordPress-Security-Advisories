@@ -4161,6 +4161,7 @@
         "wpackagist-plugin/find-any-think": "<=1.0.1",
         "wpackagist-plugin/find-content-ids": "<=1.0",
         "wpackagist-plugin/find-duplicates": "<=1.4.6",
+        "wpackagist-plugin/find-me-on": "<=2.0.9.1",
         "wpackagist-plugin/find-my-blocks": "<3.4.0",
         "wpackagist-plugin/find-your-reps": "<=1.2",
         "wpackagist-plugin/findeo": "<1.2.4",
