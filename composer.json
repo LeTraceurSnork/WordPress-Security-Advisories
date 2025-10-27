@@ -10187,7 +10187,7 @@
         "wpackagist-plugin/tabs": "<=1.3.10",
         "wpackagist-plugin/tabs-for-visual-composer": "<=1.2",
         "wpackagist-plugin/tabs-maker": "<=1.0",
-        "wpackagist-plugin/tabs-pro": "<=1.3",
+        "wpackagist-plugin/tabs-pro": "<= 1.8.0.0",
         "wpackagist-plugin/tabs-responsive": "<=2.2.7",
         "wpackagist-plugin/tabs-shortcode": "<=2.0.2",
         "wpackagist-plugin/tabs-shortcode-and-widget": "<=1.17",
