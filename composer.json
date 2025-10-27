@@ -5131,7 +5131,7 @@
         "wpackagist-plugin/houzez-crm": "<= 1.4.7.0",
         "wpackagist-plugin/houzez-login-register": "<= 3.2.5.0",
         "wpackagist-plugin/houzez-property-feed": "<= 2.5.4.0",
-        "wpackagist-plugin/houzez-theme-functionality": "<= 4.1.2.0",
+        "wpackagist-plugin/houzez-theme-functionality": "< 4.2.0.0-dev",
         "wpackagist-plugin/hover-effects": "<= 2.1.2.0",
         "wpackagist-plugin/hover-image": "<=1.4.1",
         "wpackagist-plugin/hover-image-button": "<=1.1.2",
