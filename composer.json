@@ -9546,6 +9546,7 @@
         "wpackagist-plugin/slicewp": "<= 1.1.23.0",
         "wpackagist-plugin/slick-contact-forms": "<=1.3.7",
         "wpackagist-plugin/slick-engagement": "<= 2.0.3.0",
+        "wpackagist-plugin/slick-google-map": "<=0.3",
         "wpackagist-plugin/slick-popup": "<1.7.15",
         "wpackagist-plugin/slick-sitemap": "<=2.0.0",
         "wpackagist-plugin/slick-social-share-buttons": "<=2.4.11",
