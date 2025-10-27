@@ -9422,6 +9422,7 @@
         "wpackagist-plugin/simple-student-result": "<= 1.7.9.0",
         "wpackagist-plugin/simple-support-ticket-system": "<1.2.1",
         "wpackagist-plugin/simple-table-manager": "<=1.5.6",
+        "wpackagist-plugin/simple-tableau-viz": "<=2.0",
         "wpackagist-plugin/simple-tags": "<= 3.37.2.0",
         "wpackagist-plugin/simple-telegram-for-wp": "<=0.9.3",
         "wpackagist-plugin/simple-testimonials-showcase": "<= 1.1.6.0",
