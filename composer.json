@@ -9321,7 +9321,7 @@
         "wpackagist-plugin/simple-image-popup-shortcode": "<=1.0",
         "wpackagist-plugin/simple-image-sizes": "<=3.2.2",
         "wpackagist-plugin/simple-ip-ban": "<=1.2.3",
-        "wpackagist-plugin/simple-job-board": "<= 2.12.5.0",
+        "wpackagist-plugin/simple-job-board": "<= 2.13.7.0",
         "wpackagist-plugin/simple-job-manager": "<=1.1",
         "wpackagist-plugin/simple-jwt-login": "<= 3.6.4.0",
         "wpackagist-plugin/simple-keyword-to-link": "<=1.5",
