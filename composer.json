@@ -12820,6 +12820,7 @@
         "wpackagist-plugin/wp-rest-api-authentication": "<= 3.6.3.0",
         "wpackagist-plugin/wp-rest-cache": "<=2025.1.0",
         "wpackagist-plugin/wp-rest-filter": ">=1.4.0,<=1.4.3",
+        "wpackagist-plugin/wp-restaurant-listings": "<=1.0.2",
         "wpackagist-plugin/wp-restful": "<=0.1",
         "wpackagist-plugin/wp-retina-2x": "<= 6.4.5.0",
         "wpackagist-plugin/wp-review": "<=5.3.5",
