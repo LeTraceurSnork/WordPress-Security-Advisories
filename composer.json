@@ -608,6 +608,7 @@
         "wpackagist-plugin/ajax-search-pro": "<= 4.26.1.0",
         "wpackagist-plugin/ajax-store-locator": "<=1.2",
         "wpackagist-plugin/ajax-thumbnail-rebuild": "<=1.13",
+        "wpackagist-plugin/ajax-woosearch": "<=1.0.0",
         "wpackagist-plugin/ajax-wp-query-search-filter": "<=1.0.7",
         "wpackagist-plugin/ajax_multi_upload": "<=1.1",
         "wpackagist-plugin/akismet": "<3.1.5",
