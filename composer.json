@@ -9899,6 +9899,7 @@
         "wpackagist-plugin/ssquiz": "<= 2.0.5.0",
         "wpackagist-plugin/ssv-events": "<=3.2.7",
         "wpackagist-plugin/ssv-mailchimp": "<=3.1.5",
+        "wpackagist-plugin/st-category-wp": "<=1.0.0",
         "wpackagist-plugin/st-daily-tip": "<=4.7",
         "wpackagist-plugin/st-gallery-wp": "<=1.0.8",
         "wpackagist-plugin/st_newsletter": "*",
