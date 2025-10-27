@@ -12369,6 +12369,7 @@
         "wpackagist-plugin/wp-foodbakery": "<= 4.8.0.0",
         "wpackagist-plugin/wp-football": "<=1.1",
         "wpackagist-plugin/wp-footnotes": "<=2.2",
+        "wpackagist-plugin/wp-force-images-download": "<=1.8",
         "wpackagist-plugin/wp-force-ssl": "<=1.66",
         "wpackagist-plugin/wp-forecast": "<= 9.2.0.0",
         "wpackagist-plugin/wp-forms-puzzle-captcha": "<=4.1",
