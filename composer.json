@@ -1231,7 +1231,7 @@
         "wpackagist-plugin/baw-login-logout-menu": "<=1.3.3",
         "wpackagist-plugin/baw-post-views-count": "<=3.0.2",
         "wpackagist-plugin/bb-bootstrap-cards": "<= 1.1.4.0",
-        "wpackagist-plugin/bb-plugin": "<=2.9.1",
+        "wpackagist-plugin/bb-plugin": "<= 2.9.2.1",
         "wpackagist-plugin/bb-ultimate-addon": "<=1.35.14",
         "wpackagist-plugin/bbcode-deluxe": "<=2020.08.01.2",
         "wpackagist-plugin/bbp-api": "<=1.0.14",
