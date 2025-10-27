@@ -14616,7 +14616,7 @@
         "wpackagist-theme/sala": "<= 1.1.6.0",
         "wpackagist-theme/salem": "<=1.5.5",
         "wpackagist-theme/saleszone": ">=2.0.5,<=2.2.4",
-        "wpackagist-theme/salient": "<=4.9",
+        "wpackagist-theme/salient": "< 17.4.0.0-dev",
         "wpackagist-theme/salutation-wp": "<3.0.16",
         "wpackagist-theme/samadhi": "<=1.0.13",
         "wpackagist-theme/samantha": "<=1.1.0",
