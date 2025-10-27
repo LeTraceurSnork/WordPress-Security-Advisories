@@ -3443,6 +3443,7 @@
         "wpackagist-plugin/easy-popups": "<=1.5.0",
         "wpackagist-plugin/easy-portfolio": "<=1.3",
         "wpackagist-plugin/easy-post-duplicator": "<=1.0.1",
+        "wpackagist-plugin/easy-post-submission": "<=1.7.0",
         "wpackagist-plugin/easy-post-to-post-links": "<=4.2",
         "wpackagist-plugin/easy-post-types": "<=1.4.4",
         "wpackagist-plugin/easy-prayer": ">=1.0,<=1.2",
