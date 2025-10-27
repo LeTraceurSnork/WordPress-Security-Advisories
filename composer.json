@@ -10241,7 +10241,7 @@
         "wpackagist-plugin/tcd-google-maps": "<=1.8",
         "wpackagist-plugin/tcs3": "*",
         "wpackagist-plugin/td-cloud-library": "<2.7",
-        "wpackagist-plugin/td-composer": "<= 5.4.0.0",
+        "wpackagist-plugin/td-composer": "<= 5.4.1.0",
         "wpackagist-plugin/td-subscription": "<= 1.7.0.0",
         "wpackagist-plugin/tdo-mini-forms": "<=0.13.9",
         "wpackagist-plugin/teachpress": "<= 9.0.11.0",
