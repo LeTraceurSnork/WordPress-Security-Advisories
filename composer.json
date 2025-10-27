@@ -10240,7 +10240,7 @@
         "wpackagist-plugin/tcbd-tooltip": "<=1.0",
         "wpackagist-plugin/tcd-google-maps": "<=1.8",
         "wpackagist-plugin/tcs3": "*",
-        "wpackagist-plugin/td-cloud-library": "<2.7",
+        "wpackagist-plugin/td-cloud-library": "<= 3.9.0.0",
         "wpackagist-plugin/td-composer": "<= 5.4.0.0",
         "wpackagist-plugin/td-subscription": "<= 1.7.0.0",
         "wpackagist-plugin/tdo-mini-forms": "<=0.13.9",
