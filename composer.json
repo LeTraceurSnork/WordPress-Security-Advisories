@@ -5408,6 +5408,7 @@
         "wpackagist-plugin/index-wp-mysql-for-speed": "<=1.4.17",
         "wpackagist-plugin/indexisto": "<=1.0.5",
         "wpackagist-plugin/indianic-testimonial": "<= 2.3.0.0",
+        "wpackagist-plugin/indieauth": "<=4.5.4",
         "wpackagist-plugin/indieblocks": "<=0.13.2",
         "wpackagist-plugin/indieweb-post-kinds": "<1.3.1.1",
         "wpackagist-plugin/indigitall-web-push-notifications": "<3.2.3",
