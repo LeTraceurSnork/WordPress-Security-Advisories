@@ -3846,7 +3846,7 @@
         "wpackagist-plugin/event-monster": "<= 1.4.6.0",
         "wpackagist-plugin/event-notifier": "<=1.2.0",
         "wpackagist-plugin/event-page-templates-addon-for-the-events-calendar": "<=1.5",
-        "wpackagist-plugin/event-post": "<= 5.10.1.0",
+        "wpackagist-plugin/event-post": "<= 5.10.3.0",
         "wpackagist-plugin/event-registration": "<=6.02.02",
         "wpackagist-plugin/event-registration-calendar-by-vcita": "<= 1.4.0.0",
         "wpackagist-plugin/event-rocket": "<=3.3",
