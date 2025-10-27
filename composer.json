@@ -3083,6 +3083,7 @@
         "wpackagist-plugin/disable-auto-updates": "<=1.4",
         "wpackagist-plugin/disable-comments": "<1.0.4",
         "wpackagist-plugin/disable-comments-wpz": "<=1.51",
+        "wpackagist-plugin/disable-contect-editor-for-specific-template": "<=2.0",
         "wpackagist-plugin/disable-dashboard-for-woocommerce": ">=3.0.0,<=3.2.8",
         "wpackagist-plugin/disable-elementor-editor-translation": "<=1.0.2",
         "wpackagist-plugin/disable-image-right-click": "*",
