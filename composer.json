@@ -1390,6 +1390,7 @@
         "wpackagist-plugin/blizzard-quotes": "<=1.3",
         "wpackagist-plugin/blobinator": "<=2.2",
         "wpackagist-plugin/block-controller": "<= 1.4.3.0",
+        "wpackagist-plugin/block-country": "<=1.0",
         "wpackagist-plugin/block-editor-bootstrap-blocks": "<=6.6.1",
         "wpackagist-plugin/block-editor-gallery-slider": "<=1.1.1",
         "wpackagist-plugin/block-for-font-awesome": "<= 1.4.4.0",
