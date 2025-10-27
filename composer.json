@@ -7204,6 +7204,7 @@
         "wpackagist-plugin/oauth2-provider": "<= 4.3.3.0",
         "wpackagist-plugin/oauth2-server": "<=1.0.1",
         "wpackagist-plugin/obfuscate-email": "<=3.8.1",
+        "wpackagist-plugin/oboxmedia-ads": "<=1.9.8",
         "wpackagist-plugin/occasions": "<=1.1",
         "wpackagist-plugin/occupancyplan": "<=1.0.3.0",
         "wpackagist-plugin/ocean-extra": "<= 2.4.9.0",
