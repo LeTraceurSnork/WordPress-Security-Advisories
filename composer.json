@@ -3675,6 +3675,7 @@
         "wpackagist-plugin/emailkit": "<=1.6.0",
         "wpackagist-plugin/emailpress": "<=1.0",
         "wpackagist-plugin/emails-blacklist-everest-forms": "<=1.0.2",
+        "wpackagist-plugin/emails-catch-all": "<=3.5.3",
         "wpackagist-plugin/emails-verification-for-woocommerce": "<= 2.9.5.0",
         "wpackagist-plugin/emailshroud": "<=2.2.1",
         "wpackagist-plugin/emarksheet": "<=5.4.3",
