@@ -8585,6 +8585,7 @@
         "wpackagist-plugin/responsive-header-image-slider": "<=3.2.1",
         "wpackagist-plugin/responsive-horizontal-vertical-and-accordion-tabs": "<=1.1.17",
         "wpackagist-plugin/responsive-iframe": "<=1.2.0",
+        "wpackagist-plugin/responsive-iframe-googlemap": "<=1.0.2",
         "wpackagist-plugin/responsive-jquery-slider": "<=1.1.1",
         "wpackagist-plugin/responsive-lightbox": "<= 2.5.1.0",
         "wpackagist-plugin/responsive-lightbox2": "<=1.0.3",
