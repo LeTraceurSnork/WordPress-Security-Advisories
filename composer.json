@@ -6129,6 +6129,7 @@
         "wpackagist-plugin/livesupporti": "<=1.0.11",
         "wpackagist-plugin/livesync": "<=1.0",
         "wpackagist-plugin/lj-custom-menu-links": "<=2.5",
+        "wpackagist-plugin/llm-hubspot-blog-import": "<=1.0.1",
         "wpackagist-plugin/lmsace-connect": "<=3.4",
         "wpackagist-plugin/load-more-posts": "<=1.4.0",
         "wpackagist-plugin/load-more-products-for-woocommerce": "<=1.1.9.7",
