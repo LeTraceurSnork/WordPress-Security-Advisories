@@ -12491,6 +12491,7 @@
         "wpackagist-plugin/wp-invoice": "<= 4.3.1.0",
         "wpackagist-plugin/wp-ispconfig3": "<=1.5.6",
         "wpackagist-plugin/wp-jitsi-shortcodes": "<=0.1",
+        "wpackagist-plugin/wp-job-board": "<2.3.16",
         "wpackagist-plugin/wp-job-board-pro": "<=1.2.76",
         "wpackagist-plugin/wp-job-manager": "<= 2.2.2.0",
         "wpackagist-plugin/wp-job-manager-colors": "<=1.0.4",
