@@ -8238,6 +8238,7 @@
         "wpackagist-plugin/qiniu-uploader": "<=0.1",
         "wpackagist-plugin/ql-cost-calculator": "<=7.4",
         "wpackagist-plugin/qmean": "<=2.0",
+        "wpackagist-plugin/qnotsquiz": "<=1.0.0",
         "wpackagist-plugin/qode-essential-addons": "<= 1.6.3.0",
         "wpackagist-plugin/qode-instagram-widget": "<2.0.2",
         "wpackagist-plugin/qode-twitter-feed": "<2.0.1",
