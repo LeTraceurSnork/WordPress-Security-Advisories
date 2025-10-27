@@ -1258,7 +1258,7 @@
         "wpackagist-plugin/bcorp-shortcodes": "<=0.23",
         "wpackagist-plugin/bcs-bertline-book-importer": "<=1.5.7",
         "wpackagist-plugin/bdthemes-element-pack": "<= 7.21.0.0",
-        "wpackagist-plugin/bdthemes-element-pack-lite": "<= 8.1.5.0",
+        "wpackagist-plugin/bdthemes-element-pack-lite": "<= 8.2.5.0",
         "wpackagist-plugin/bdthemes-prime-slider-lite": "<= 3.16.5.0",
         "wpackagist-plugin/bdvs-password-reset": "<= 0.0.16.0",
         "wpackagist-plugin/be-popia-compliant": "<= 1.2.0.0",
