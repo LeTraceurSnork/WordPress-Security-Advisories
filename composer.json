@@ -13016,6 +13016,7 @@
         "wpackagist-plugin/wp-testing": "<=0.21.19",
         "wpackagist-plugin/wp-text-expander": "<=1.0.1",
         "wpackagist-plugin/wp-thumb": "<=0.10",
+        "wpackagist-plugin/wp-thumbnail": "<=1.1",
         "wpackagist-plugin/wp-thumbtack-review-slider": "<=2.6",
         "wpackagist-plugin/wp-ticket": "<= 6.0.2.0",
         "wpackagist-plugin/wp-ticket-ultra": "<=1.0.5",
