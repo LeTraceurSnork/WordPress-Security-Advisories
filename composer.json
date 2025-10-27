@@ -6452,6 +6452,7 @@
         "wpackagist-plugin/masy-gallery": "<=1.7",
         "wpackagist-plugin/material-dashboard": "<= 1.4.6.0",
         "wpackagist-plugin/material-design-for-contact-form-7": "<=2.6.4",
+        "wpackagist-plugin/material-design-iconic-font-integration": "<=2",
         "wpackagist-plugin/material-design-icons": "<=0.0.5",
         "wpackagist-plugin/material-design-icons-for-elementor": "<=1.4.2",
         "wpackagist-plugin/materialis-companion": "<=1.3.41",
