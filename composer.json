@@ -8225,7 +8225,7 @@
         "wpackagist-plugin/pwa-for-wp": "<= 1.7.72.0",
         "wpackagist-plugin/pwgrandom": "<=1.11",
         "wpackagist-plugin/pz-frontend-manager": "<=1.0.5",
-        "wpackagist-plugin/pz-linkcard": "<=2.5.2",
+        "wpackagist-plugin/pz-linkcard": "<= 2.5.6.0",
         "wpackagist-plugin/q-and-a": "<=1.0.6.2",
         "wpackagist-plugin/q2w3-inc-manager": "<=2.5.3",
         "wpackagist-plugin/q2w3-post-order": "<=1.2.8",
