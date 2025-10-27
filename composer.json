@@ -2050,6 +2050,7 @@
         "wpackagist-plugin/chauffeur-booking-system": "<=6.9",
         "wpackagist-plugin/check-email": "<= 1.0.9.0",
         "wpackagist-plugin/check-pincode-for-woocommerce": "<=1.1",
+        "wpackagist-plugin/check-plagiarism": "<=2.0",
         "wpackagist-plugin/check-zipcode": ">=1.0.0,<=1.0.1",
         "wpackagist-plugin/checkbot": "<=1.05",
         "wpackagist-plugin/checkbox": "<=0.8.3",
