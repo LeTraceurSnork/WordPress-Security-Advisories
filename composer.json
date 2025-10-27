@@ -8123,7 +8123,7 @@
         "wpackagist-plugin/product-specifications": "<=0.6.0",
         "wpackagist-plugin/product-subtitle-for-woocommerce": "<=1.3.9",
         "wpackagist-plugin/product-table": ">=1.0.0,<=1.0.3",
-        "wpackagist-plugin/product-table-for-woocommerce": "<=1.2.3",
+        "wpackagist-plugin/product-table-for-woocommerce": "<= 1.2.4.0",
         "wpackagist-plugin/product-tabs-for-woocommerce": "<= 1.7.3.0",
         "wpackagist-plugin/product-tabs-manager-for-woocommerce": "<=1.1.5.7",
         "wpackagist-plugin/product-variation-swatches-for-woocommerce": "<=2.1.1",
