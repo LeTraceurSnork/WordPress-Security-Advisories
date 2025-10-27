@@ -13274,6 +13274,7 @@
         "wpackagist-plugin/wpmozo-addons-lite-for-elementor": "<= 1.2.0.0",
         "wpackagist-plugin/wpmu-prefill-post": "<=1.02",
         "wpackagist-plugin/wpmuldap": "<=5.0.1",
+        "wpackagist-plugin/wpnamedusers": "<=0.5",
         "wpackagist-plugin/wpo365-login": "<= 27.2.0.0",
         "wpackagist-plugin/wpo365-msgraphmailer": "<=3.2",
         "wpackagist-plugin/wpop-elementor-addons": "<=1.1.9",
