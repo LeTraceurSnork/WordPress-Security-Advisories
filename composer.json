@@ -1946,7 +1946,7 @@
         "wpackagist-plugin/cc-custom-taxonmy": "<=1.0.1",
         "wpackagist-plugin/cc-img-shortcode": "<=1.1.0",
         "wpackagist-plugin/cdnvote": "<0.4.2",
-        "wpackagist-plugin/cds-simple-seo": "<=2.0.25",
+        "wpackagist-plugin/cds-simple-seo": "<= 2.0.31.0",
         "wpackagist-plugin/ce21-suite": "<=2.2.0",
         "wpackagist-plugin/cecabank-woocommerce": "<=0.3.4",
         "wpackagist-plugin/ceceppa-multilingua": "<=1.5.17",
