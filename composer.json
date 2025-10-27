@@ -9150,6 +9150,7 @@
         "wpackagist-plugin/shopelement": "<=2.0.0",
         "wpackagist-plugin/shopengine": "<= 4.8.3.0",
         "wpackagist-plugin/shopkeeper-extender": "<=3.6",
+        "wpackagist-plugin/shopmagic-for-woocommerce": "<=4.5.6",
         "wpackagist-plugin/shopp": "<=1.4",
         "wpackagist-plugin/shopp-arrange": "<=1.1.3",
         "wpackagist-plugin/shopper": "<=3.2.5",
