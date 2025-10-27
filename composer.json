@@ -7922,7 +7922,7 @@
         "wpackagist-plugin/post-type-archive-mapping": "<= 5.3.1.0",
         "wpackagist-plugin/post-type-converter": "<=0.6",
         "wpackagist-plugin/post-type-modifier-simple": "<=1.03",
-        "wpackagist-plugin/post-type-x": "<= 1.8.2.0",
+        "wpackagist-plugin/post-type-x": "<= 1.8.4.0",
         "wpackagist-plugin/post-types-carousel-slider": "<=1.0.4",
         "wpackagist-plugin/post-views": "<=2.6.1.2",
         "wpackagist-plugin/post-views-counter": "<=1.4.4",
