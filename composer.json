@@ -4488,6 +4488,7 @@
         "wpackagist-plugin/furnob-core": "<=1.1.7",
         "wpackagist-plugin/fuse-social-floating-sidebar": "<=5.4.10",
         "wpackagist-plugin/fusedesk": "<= 6.7.0.0",
+        "wpackagist-plugin/fusewp": "<=1.1.23.0",
         "wpackagist-plugin/fusion": "<= 1.6.3.0",
         "wpackagist-plugin/fusion-builder": "<= 3.12.1.0",
         "wpackagist-plugin/fusion-engage": "<=1.0.5",
