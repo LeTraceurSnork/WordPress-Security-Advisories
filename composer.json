@@ -584,7 +584,7 @@
         "wpackagist-plugin/aikit-wordpress-ai-writing-assistant-using-gpt3": "<=4.14.1",
         "wpackagist-plugin/aio-contact": "<=2.8.1",
         "wpackagist-plugin/aio-shortcodes": "<=1.3.0",
-        "wpackagist-plugin/aio-time-clock-lite": "<= 2.0.0.0",
+        "wpackagist-plugin/aio-time-clock-lite": "<= 2.0.3.0",
         "wpackagist-plugin/aiomatic-automatic-ai-content-writer": "<= 2.5.0.0",
         "wpackagist-plugin/aioseo-multibyte-descriptions": "<=0.0.6",
         "wpackagist-plugin/airdrop": "<=1.0.5",
