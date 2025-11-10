@@ -526,7 +526,7 @@
         "wpackagist-plugin/affiliatewp-external-referral-links": "<=1.2.0",
         "wpackagist-plugin/affiliatex": "<=1.2.9",
         "wpackagist-plugin/affiliator-lite": "<=2.1.3",
-        "wpackagist-plugin/affs": "<=10.7.0",
+        "wpackagist-plugin/affs": "<= 11.0.0.0",
         "wpackagist-plugin/aforms-eats": "<=1.3.1",
         "wpackagist-plugin/aforms-form-builder-for-price-calculator-cost-estimation": "<=2.2.6",
         "wpackagist-plugin/afterpay-gateway-for-woocommerce": "<= 3.5.0.0",
