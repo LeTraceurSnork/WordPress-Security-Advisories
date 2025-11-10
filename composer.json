@@ -14800,7 +14800,7 @@
         "wpackagist-theme/ruizarch": "<=1.1.0",
         "wpackagist-theme/ruza": "<=1.0.7",
         "wpackagist-theme/saaslauncher": "<=1.3.0",
-        "wpackagist-theme/sahifa": "<=2.4.0",
+        "wpackagist-theme/sahifa": "< 5.8.6.0-dev",
         "wpackagist-theme/saico": "<=1.0.2",
         "wpackagist-theme/sakala": "<=1.0.4",
         "wpackagist-theme/sala": "<= 1.1.6.0",
