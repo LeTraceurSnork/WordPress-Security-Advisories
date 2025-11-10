@@ -8726,7 +8726,7 @@
         "wpackagist-plugin/restrict-usernames-emails-characters": "<3.1.4",
         "wpackagist-plugin/restricted-content": "<= 2.2.8.0",
         "wpackagist-plugin/restricted-site-access": "<=7.3.4",
-        "wpackagist-plugin/restropress": "<= 3.1.9.2",
+        "wpackagist-plugin/restropress": "<= 3.2.1.0",
         "wpackagist-plugin/resume-builder": "<=3.1.1",
         "wpackagist-plugin/resume-submissions-job-postings": "<= 2.5.3.0",
         "wpackagist-plugin/resume-upload-form": "<=1.2.0",
