@@ -3703,6 +3703,7 @@
         "wpackagist-plugin/email-subscriber": "<=1.1",
         "wpackagist-plugin/email-subscribers": "<= 5.7.51.0",
         "wpackagist-plugin/email-subscribers-premium": "<=5.9.5",
+        "wpackagist-plugin/email-subscription-with-secure-captcha": "<=1.3",
         "wpackagist-plugin/email-suscripcion": "<=1.4.1",
         "wpackagist-plugin/email-template-customizer-for-woo": "<=1.2.9.1",
         "wpackagist-plugin/email-templates": "<=1.4.2",
