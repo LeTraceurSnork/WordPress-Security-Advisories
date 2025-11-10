@@ -3919,6 +3919,7 @@
         "wpackagist-plugin/ever-compare": "<=1.2.3",
         "wpackagist-plugin/everest-backup": "<= 2.3.8.0",
         "wpackagist-plugin/everest-forms": "<= 3.2.2.0",
+        "wpackagist-plugin/everest-forms-frontend-listing": "<=1.0.5",
         "wpackagist-plugin/everest-forms-pro": "<=1.9.4",
         "wpackagist-plugin/evergreen-content-poster": "<= 1.4.4.0",
         "wpackagist-plugin/evernote-sync": "<=3.0.0",
