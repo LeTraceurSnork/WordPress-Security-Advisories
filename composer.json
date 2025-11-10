@@ -1545,6 +1545,7 @@
         "wpackagist-plugin/boot-modal": "<=1.9.1",
         "wpackagist-plugin/bootstrap-buttons": "<=1.2",
         "wpackagist-plugin/bootstrap-collapse": "<=1.0.4",
+        "wpackagist-plugin/bootstrap-multi-language-responsive-portfolio": "<=1.0",
         "wpackagist-plugin/bootstrap-shortcodes": "<=3.4.0",
         "wpackagist-plugin/border-loading-bar": "*",
         "wpackagist-plugin/borderless": "<= 1.7.1.0",
