@@ -13546,6 +13546,7 @@
         "wpackagist-plugin/wsify-widget": "<=1.0",
         "wpackagist-plugin/wsm-downloader": "<=1.4.0",
         "wpackagist-plugin/wt-display-breeze": "<=1.2.3",
+        "wpackagist-plugin/wt-smart-coupons-for-woocommerce": "<=2.2.3",
         "wpackagist-plugin/wt-woocommerce-wishlist": "<=2.1.2",
         "wpackagist-plugin/wte-elementor-widgets": "<= 1.4.2.0",
         "wpackagist-plugin/wti-like-post": "<= 1.4.6.0",
