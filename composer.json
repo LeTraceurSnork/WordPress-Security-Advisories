@@ -8813,7 +8813,7 @@
         "wpackagist-plugin/robin-image-optimizer": "<=1.6.9",
         "wpackagist-plugin/robo-gallery": "<= 5.0.2.0",
         "wpackagist-plugin/robo-maps": "<=1.0.6",
-        "wpackagist-plugin/robokassa": "<=1.6.1",
+        "wpackagist-plugin/robokassa": "<= 1.8.1.0",
         "wpackagist-plugin/robotcpa": "<=5",
         "wpackagist-plugin/rock-convert": "<= 3.0.1.0",
         "wpackagist-plugin/rocket-font": "<=1.2.3",
