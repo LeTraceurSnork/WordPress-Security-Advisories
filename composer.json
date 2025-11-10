@@ -560,7 +560,7 @@
         "wpackagist-plugin/ai-content-generator": "<=2.4.9",
         "wpackagist-plugin/ai-content-pipelines": "<=1.6",
         "wpackagist-plugin/ai-content-writing-assistant": "<=1.1.6",
-        "wpackagist-plugin/ai-engine": "<= 2.9.5.0",
+        "wpackagist-plugin/ai-engine": "<= 3.1.3.0",
         "wpackagist-plugin/ai-for-seo": "<=1.2.9",
         "wpackagist-plugin/ai-image": "<=1.5.2",
         "wpackagist-plugin/ai-image-alt-text-generator-for-wp": "<= 1.1.5.0",
