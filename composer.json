@@ -11969,6 +11969,7 @@
         "wpackagist-plugin/woodiscuz-woocommerce-comments": "<= 2.3.0.0",
         "wpackagist-plugin/woodmart-core": "<=1.0.36",
         "wpackagist-plugin/wooemailreport": "<=2.4",
+        "wpackagist-plugin/wooenvato": "<=1.2.1",
         "wpackagist-plugin/wooexim": "<=5.0.0",
         "wpackagist-plugin/woofilter-pro": "< 2.9.6.0-dev",
         "wpackagist-plugin/wooframework-branding": "<=1.0.1",
