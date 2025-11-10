@@ -8521,6 +8521,7 @@
         "wpackagist-plugin/really-simple-ssl-pro": ">=9.0.0,<=9.1.1.1",
         "wpackagist-plugin/really-simple-ssl-pro-multisite": ">=9.0.0,<=9.1.1.1",
         "wpackagist-plugin/really-simple-under-construction": "<=1.4.6",
+        "wpackagist-plugin/realpress": "<=1.0.9",
         "wpackagist-plugin/realteo": "<= 1.2.8.0",
         "wpackagist-plugin/realty": "<=1.1.5",
         "wpackagist-plugin/realty-portal-agent": "<=0.3.9",
