@@ -10101,6 +10101,7 @@
         "wpackagist-plugin/stock-ticker": "<= 3.24.4.0",
         "wpackagist-plugin/stockdio-historical-chart": "<= 2.8.18.0",
         "wpackagist-plugin/stockholm-core": "<=2.4.1",
+        "wpackagist-plugin/stockie-extra": "<=1.2.11",
         "wpackagist-plugin/stockists-manager": "<=1.0.2.1",
         "wpackagist-plugin/stonehenge-em-osm": "<=4.2.1",
         "wpackagist-plugin/stop-comment-spam": "<=0.5.3",
