@@ -3525,6 +3525,7 @@
         "wpackagist-plugin/easy-twitter-feeds": "<= 1.2.6.0",
         "wpackagist-plugin/easy-tynt": "<=0.2.5.1",
         "wpackagist-plugin/easy-under-construction": ">=3.0,<=6.0",
+        "wpackagist-plugin/easy-upload-files-during-checkout": "<=2.9.8",
         "wpackagist-plugin/easy-video-player": "<= 1.2.2.10",
         "wpackagist-plugin/easy-video-reviews": "<=1.4.2",
         "wpackagist-plugin/easy-watermark": "<0.7.1",
