@@ -9960,7 +9960,7 @@
         "wpackagist-plugin/spicy-blogroll": "<=1.0.0",
         "wpackagist-plugin/spider-calendar": "<1.1.3",
         "wpackagist-plugin/spider-contacts": "<=1.1.7",
-        "wpackagist-plugin/spider-elements": "<=1.6.3",
+        "wpackagist-plugin/spider-elements": "<= 1.6.5.0",
         "wpackagist-plugin/spider-event-calendar": "<=1.5.65",
         "wpackagist-plugin/spider-facebook": "<= 1.0.15.0",
         "wpackagist-plugin/spider-faq": "<=1.3.2",
