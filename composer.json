@@ -887,7 +887,7 @@
         "wpackagist-plugin/aqua-svg-sprite": "<=3.0.14",
         "wpackagist-plugin/ar-contactus": "< 1.8.8.0-dev",
         "wpackagist-plugin/ar-for-woocommerce": "<=6.2",
-        "wpackagist-plugin/ar-for-wordpress": "<= 7.98.0.0",
+        "wpackagist-plugin/ar-for-wordpress": "<= 8.31.0.0",
         "wpackagist-plugin/arabic-font": "<=1.2",
         "wpackagist-plugin/arabic-webfonts": "<=1.4.6",
         "wpackagist-plugin/aramex-shipping-woocommerce": "<=1.1.21",
