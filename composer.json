@@ -9469,7 +9469,7 @@
         "wpackagist-plugin/simple-page-access-restriction": "<= 1.0.32.0",
         "wpackagist-plugin/simple-page-ordering": "< 2.5.1.0-dev",
         "wpackagist-plugin/simple-page-transition": "<=1.4.1",
-        "wpackagist-plugin/simple-payment": "<= 2.3.8.0",
+        "wpackagist-plugin/simple-payment": "<= 2.4.6.0",
         "wpackagist-plugin/simple-pdf-viewer": "<=1.9",
         "wpackagist-plugin/simple-personal-message": "<2.0.0",
         "wpackagist-plugin/simple-photo-feed": "<=1.4.0",
