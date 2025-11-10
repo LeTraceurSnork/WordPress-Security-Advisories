@@ -14478,7 +14478,7 @@
         "wpackagist-theme/kinsley": "<=3.4.4",
         "wpackagist-theme/kipso": "<=1.3.4",
         "wpackagist-theme/kitring": "<=2.8",
-        "wpackagist-theme/kleo": "<5.4.4",
+        "wpackagist-theme/kleo": "< 5.5.0.0-dev",
         "wpackagist-theme/konzept": "*",
         "wpackagist-theme/kormosala": "<=1.0.22",
         "wpackagist-theme/kossy": "<=1.45",
