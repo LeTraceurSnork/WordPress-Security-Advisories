@@ -12233,6 +12233,7 @@
         "wpackagist-plugin/wp-carousel-free": "<= 2.7.3.0",
         "wpackagist-plugin/wp-carouselslideshow": "<=3.10",
         "wpackagist-plugin/wp-cart-for-digital-products": "<=8.5.5",
+        "wpackagist-plugin/wp-carticon": "<=1.0.0",
         "wpackagist-plugin/wp-cassify": "<=2.3.5",
         "wpackagist-plugin/wp-catalogue": "<=1.7.6",
         "wpackagist-plugin/wp-categories-widget": "<=2.2",
