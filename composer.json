@@ -6510,7 +6510,7 @@
         "wpackagist-plugin/masterslider": "<=3.6.5",
         "wpackagist-plugin/masterstudy-elementor-widgets": "<=1.2.2",
         "wpackagist-plugin/masterstudy-lms-learning-management-system": "<= 3.6.20.0",
-        "wpackagist-plugin/masterstudy-lms-learning-management-system-pro": "<= 4.7.9.0",
+        "wpackagist-plugin/masterstudy-lms-learning-management-system-pro": "< 4.7.16.0-dev",
         "wpackagist-plugin/masy-gallery": "<=1.7",
         "wpackagist-plugin/material-dashboard": "<= 1.4.6.0",
         "wpackagist-plugin/material-design-for-contact-form-7": "<=2.6.4",
