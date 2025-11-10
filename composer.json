@@ -8279,6 +8279,7 @@
         "wpackagist-plugin/ps-phpcaptcha": "<=1.1.0",
         "wpackagist-plugin/psw-login-and-registration": "<=1.12",
         "wpackagist-plugin/pt-elementor-addons-lite": "<=2.2",
+        "wpackagist-plugin/pt-luxa-addons": "<=1.2.2",
         "wpackagist-plugin/pta-member-directory": "<=1.7.0",
         "wpackagist-plugin/pta-volunteer-sign-up-sheets": "<=5.5.4",
         "wpackagist-plugin/ptengine-real-time-web-analytics-and-heatmap": "<1.0.2",
