@@ -1363,7 +1363,7 @@
         "wpackagist-plugin/bigcontact": "<= 1.5.8.0",
         "wpackagist-plugin/bigmart-elements": "<=1.0.3",
         "wpackagist-plugin/bilingual-linker": "<=2.4",
-        "wpackagist-plugin/billingo": "<=3.3.9",
+        "wpackagist-plugin/billingo": "<= 4.2.5.0",
         "wpackagist-plugin/billplz-for-contact-form-7": "<=1.2.0",
         "wpackagist-plugin/biltorvet-dealer-tools": "<=1.0.22",
         "wpackagist-plugin/bin-stripe-donation": "<=1.2.5",
