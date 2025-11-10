@@ -13803,7 +13803,7 @@
         "wpackagist-plugin/zip-codes-redirect": ">=1.0.1,<=5.1.1",
         "wpackagist-plugin/zip-recipes": "<8.1.1",
         "wpackagist-plugin/ziplist-recipe-plugin": "<=3.1",
-        "wpackagist-plugin/zippy": "<=1.6.9",
+        "wpackagist-plugin/zippy": "<= 1.7.0.0",
         "wpackagist-plugin/zita-site-library": "<= 1.6.3.0",
         "wpackagist-plugin/ziteboard-online-whiteboard": "<=2.9.9",
         "wpackagist-plugin/zlick-paywall": "<2.2.2",
