@@ -12579,7 +12579,7 @@
         "wpackagist-plugin/wp-graphql": "<= 1.14.5.0",
         "wpackagist-plugin/wp-graphql-woocommerce": "<=0.11.0",
         "wpackagist-plugin/wp-graphviz": "<=1.5.1",
-        "wpackagist-plugin/wp-gravity-forms-spreadsheets": "<=1.2.4",
+        "wpackagist-plugin/wp-gravity-forms-spreadsheets": "<= 1.2.6.0",
         "wpackagist-plugin/wp-greet": "<=6.2",
         "wpackagist-plugin/wp-guestmap": "<=1.8",
         "wpackagist-plugin/wp-guppy": "<= 4.3.3.0",
