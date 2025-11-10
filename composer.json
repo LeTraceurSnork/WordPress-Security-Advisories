@@ -7439,7 +7439,7 @@
         "wpackagist-plugin/organization-chart": "<=1.5.0",
         "wpackagist-plugin/organizer": "<=1.2.1",
         "wpackagist-plugin/original-texts-yandex-webmaster": "<=1.18",
-        "wpackagist-plugin/originality-ai": "<=1.0.12",
+        "wpackagist-plugin/originality-ai": "<= 1.0.15.0",
         "wpackagist-plugin/orion-login-with-sms": "<=1.0.5",
         "wpackagist-plugin/orion-sms-otp-verification": "<=1.1.7",
         "wpackagist-plugin/os-bxslider": "<=2.6",
