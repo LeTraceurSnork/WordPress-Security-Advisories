@@ -1845,7 +1845,7 @@
         "wpackagist-plugin/captcha-bank": "<=4.0.36",
         "wpackagist-plugin/captcha-bws": "<= 5.2.0.0",
         "wpackagist-plugin/captcha-code-authentication": "<= 2.9.0.0",
-        "wpackagist-plugin/captcha-eu": "<=1.0.60",
+        "wpackagist-plugin/captcha-eu": "<= 1.0.61.0",
         "wpackagist-plugin/captcha-for-contact-form-7": "<=1.11.3",
         "wpackagist-plugin/captcha-in-thai": "<=1.1",
         "wpackagist-plugin/captcha-them-all": "<1.4",
