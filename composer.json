@@ -9801,6 +9801,7 @@
         "wpackagist-plugin/smpl-shortcodes": "<=1.0.20",
         "wpackagist-plugin/sms-alert": "<= 3.8.5.0",
         "wpackagist-plugin/sms-ovh": "<=0.1",
+        "wpackagist-plugin/sms4wp": "<=1.1.8",
         "wpackagist-plugin/smsa-shipping-for-woocommerce": "<=1.0.4",
         "wpackagist-plugin/smsa-shipping-official": "<= 2.3.0.0",
         "wpackagist-plugin/smsify": "<=6.0.4",
