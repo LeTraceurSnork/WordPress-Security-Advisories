@@ -7039,6 +7039,7 @@
         "wpackagist-plugin/namaste-lms": "<= 2.6.5.0",
         "wpackagist-plugin/name-directory": "<= 1.30.0.0",
         "wpackagist-plugin/nanosupport": "<=0.6.0",
+        "wpackagist-plugin/nari-accountant": "<=1.0.12",
         "wpackagist-plugin/narnoo-commerce-manager": "<=1.6.0",
         "wpackagist-plugin/narnoo-distributor": "<=2.5.1",
         "wpackagist-plugin/narnoo-shortcodes": "<=2.0.0",
