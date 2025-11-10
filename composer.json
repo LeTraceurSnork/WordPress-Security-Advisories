@@ -6508,7 +6508,7 @@
         "wpackagist-plugin/masterbip-for-elementor": "<=1.6.3",
         "wpackagist-plugin/mastercurrency-wp": "<=1.1.61",
         "wpackagist-plugin/masterslider": "<=3.6.5",
-        "wpackagist-plugin/masterstudy-elementor-widgets": "<=1.2.2",
+        "wpackagist-plugin/masterstudy-elementor-widgets": "<= 1.2.4.0",
         "wpackagist-plugin/masterstudy-lms-learning-management-system": "<= 3.6.20.0",
         "wpackagist-plugin/masterstudy-lms-learning-management-system-pro": "<= 4.7.9.0",
         "wpackagist-plugin/masy-gallery": "<=1.7",
