@@ -13356,6 +13356,7 @@
         "wpackagist-plugin/wpcasa-mail-alert": "<=3.2.2",
         "wpackagist-plugin/wpcb": "<=2.4.8",
         "wpackagist-plugin/wpcf7-redirect": "<= 3.2.6.0",
+        "wpackagist-plugin/wpcf7-stop-words": "<=1.1.3",
         "wpackagist-plugin/wpcleaner": "<=1.1.5",
         "wpackagist-plugin/wpcode-content-ratio": "<=2.0",
         "wpackagist-plugin/wpcodefactory-helper": "<= 1.7.0.0",
