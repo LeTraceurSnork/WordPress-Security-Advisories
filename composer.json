@@ -12560,6 +12560,7 @@
         "wpackagist-plugin/wp-github": "<=1.3.3",
         "wpackagist-plugin/wp-github-gist": "<=0.5",
         "wpackagist-plugin/wp-githuber-md": "<=1.16.3",
+        "wpackagist-plugin/wp-global-screen-options": "<=0.2",
         "wpackagist-plugin/wp-glossary": "<=3.1.2",
         "wpackagist-plugin/wp-gmail-smtp": "<=1.0.7",
         "wpackagist-plugin/wp-gmappity-easy-google-maps": "<=0.6",
