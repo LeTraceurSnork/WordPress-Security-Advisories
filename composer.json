@@ -3414,7 +3414,7 @@
         "wpackagist-plugin/easy-custom-css": "<=1.0",
         "wpackagist-plugin/easy-custom-js-and-css": "<=1.1.2",
         "wpackagist-plugin/easy-demo-importer": "<=1.1.2",
-        "wpackagist-plugin/easy-digital-downloads": "<= 3.5.0.0",
+        "wpackagist-plugin/easy-digital-downloads": "<= 3.5.2.0",
         "wpackagist-plugin/easy-digital-downloads-htaccess-editor": "1.0.0",
         "wpackagist-plugin/easy-download-media-counter": "<=1.2",
         "wpackagist-plugin/easy-elementor-addons": "<= 2.2.8.0",
