@@ -2905,7 +2905,7 @@
         "wpackagist-plugin/cwicly": "<=1.4.0.2",
         "wpackagist-plugin/cww-companion": "<=1.2.7",
         "wpackagist-plugin/cxc-sawa": "<=1.0",
-        "wpackagist-plugin/cyan-backup": "<=2.5.3",
+        "wpackagist-plugin/cyan-backup": "<= 2.5.4.0",
         "wpackagist-plugin/cyber-new-slider": "<=1.1",
         "wpackagist-plugin/cybersoldier": "<1.7.0",
         "wpackagist-plugin/cyberus-key": "<=1.0",
