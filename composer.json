@@ -3200,6 +3200,7 @@
         "wpackagist-plugin/domain-sharding": "<=1.2.1",
         "wpackagist-plugin/domain-theme": "<=1.3",
         "wpackagist-plugin/dominion-domain-checker-wpbakery-addon": "<=2.3.0",
+        "wpackagist-plugin/dominokit": "<=1.1.0",
         "wpackagist-plugin/don8": "<=0.4",
         "wpackagist-plugin/donate-button": "<2.1.1",
         "wpackagist-plugin/donate-extra": "<=2.02",
