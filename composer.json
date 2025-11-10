@@ -1430,7 +1430,7 @@
         "wpackagist-plugin/blog-designer-for-elementor": "<=1.1.7",
         "wpackagist-plugin/blog-designer-for-post-and-widget": "<=2.5.1",
         "wpackagist-plugin/blog-designer-pack": "<= 4.0.0.0",
-        "wpackagist-plugin/blog-designer-pro": "<=3.4.7",
+        "wpackagist-plugin/blog-designer-pro": "<= 3.4.8.0",
         "wpackagist-plugin/blog-filter": "<=1.5.3",
         "wpackagist-plugin/blog-floating-button": "<=1.4.12",
         "wpackagist-plugin/blog-in-blog": "<=1.1.1",
