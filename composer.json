@@ -14462,7 +14462,7 @@
         "wpackagist-theme/jupiterx": "<= 3.0.0.0",
         "wpackagist-theme/kaffen": "<=1.2.5",
         "wpackagist-theme/kahuna": "<=1.7.0",
-        "wpackagist-theme/kalium": "<=3.18.3",
+        "wpackagist-theme/kalium": "<= 3.25.0.0",
         "wpackagist-theme/kallyas": "<= 4.24.0.0",
         "wpackagist-theme/kargo": "<=1.1.13",
         "wpackagist-theme/karzo": "<2.6",
