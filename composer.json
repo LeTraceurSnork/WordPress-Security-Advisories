@@ -13086,6 +13086,7 @@
         "wpackagist-plugin/wp-sms": "<= 7.0.1.0",
         "wpackagist-plugin/wp-smtp": "<= 2.1.5.0",
         "wpackagist-plugin/wp-smushit": "<= 3.17.0.0",
+        "wpackagist-plugin/wp-snow-effect": "<=1.1.15",
         "wpackagist-plugin/wp-social": "<= 3.1.0.0",
         "wpackagist-plugin/wp-social-bookmark-menu": "<=1.2",
         "wpackagist-plugin/wp-social-bookmarking": "<=3.6",
