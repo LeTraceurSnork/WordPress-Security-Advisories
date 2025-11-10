@@ -1165,6 +1165,7 @@
         "wpackagist-plugin/azz-anonim-posting": "<=0.9",
         "wpackagist-plugin/b-banner-slider": "<=1.1",
         "wpackagist-plugin/b-blocks": "<= 2.0.6.0",
+        "wpackagist-plugin/b-carousel-block": "<=1.1.5",
         "wpackagist-plugin/b-slider": "<= 2.0.0.0",
         "wpackagist-plugin/b-testimonial": "<=1.2.2",
         "wpackagist-plugin/b-tiktok-feed": "<=1.0.21",
