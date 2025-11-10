@@ -573,7 +573,7 @@
         "wpackagist-plugin/ai-quiz": "<=1.1",
         "wpackagist-plugin/ai-related-products": "<=2.0.6",
         "wpackagist-plugin/ai-responsive-gallery-album": "<=1.4",
-        "wpackagist-plugin/ai-scribe-the-chatgpt-powered-seo-content-creation-wizard": "<=2.3",
+        "wpackagist-plugin/ai-scribe-the-chatgpt-powered-seo-content-creation-wizard": "<= 2.5.0.0",
         "wpackagist-plugin/ai-seo-translator": "<=1.6.2",
         "wpackagist-plugin/ai-site-builder": "<=1.0.2",
         "wpackagist-plugin/ai-text-to-speech": "<=3.0.3",
