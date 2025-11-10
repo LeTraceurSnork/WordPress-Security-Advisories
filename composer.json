@@ -3998,7 +3998,7 @@
         "wpackagist-plugin/extendons-eo-wooimport-export": "<=2.0.6",
         "wpackagist-plugin/extensions-for-cf7": "<= 3.2.8.0",
         "wpackagist-plugin/extensions-for-elementor": "<= 2.0.40.0",
-        "wpackagist-plugin/extensions-leaflet-map": "<=3.4.1",
+        "wpackagist-plugin/extensions-leaflet-map": "<= 4.7.0.0",
         "wpackagist-plugin/extensive-vc-addon": "<=1.9",
         "wpackagist-plugin/external-database-based-actions": "<=0.1",
         "wpackagist-plugin/external-featured-image-from-bing": "<=1.0.2",
