@@ -3186,7 +3186,7 @@
         "wpackagist-plugin/documentpress-display-any-document-on-your-site": "<=2.1",
         "wpackagist-plugin/docxpresso": "<=2.6",
         "wpackagist-plugin/dofollow-case-by-case": "<= 3.5.1.0",
-        "wpackagist-plugin/dokan-lite": "<3.7.20",
+        "wpackagist-plugin/dokan-lite": "<= 4.1.3.0",
         "wpackagist-plugin/dokan-pro": "<= 4.0.5.0",
         "wpackagist-plugin/dokme": "<=2.0.6",
         "wpackagist-plugin/doko-box-builder": "<=1.0",
