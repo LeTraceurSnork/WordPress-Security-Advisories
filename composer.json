@@ -8779,6 +8779,7 @@
         "wpackagist-plugin/rewardsystem": "<=30.7.0",
         "wpackagist-plugin/rewp": "<=1.0.1",
         "wpackagist-plugin/rewrite": "<=0.2.1",
+        "wpackagist-plugin/rey-core": "<=3.1.8",
         "wpackagist-plugin/rezgo": "<= 4.17.0.0",
         "wpackagist-plugin/ricerca-smart-search": "<=1.0.15",
         "wpackagist-plugin/rich-counter": "<1.2.0",
