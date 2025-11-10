@@ -3996,6 +3996,7 @@
         "wpackagist-plugin/extended-widget-options": "<=5.2.1",
         "wpackagist-plugin/extender-all-in-one-for-elementor": "<=1.0.3",
         "wpackagist-plugin/extendons-eo-wooimport-export": "<=2.0.6",
+        "wpackagist-plugin/extendons-registration-fields": "<=3.2.3",
         "wpackagist-plugin/extensions-for-cf7": "<= 3.2.8.0",
         "wpackagist-plugin/extensions-for-elementor": "<= 2.0.40.0",
         "wpackagist-plugin/extensions-leaflet-map": "<=3.4.1",
