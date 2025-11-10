@@ -4033,6 +4033,7 @@
         "wpackagist-plugin/f4-tree": "<= 1.1.18.0",
         "wpackagist-plugin/fable-extra": "<=1.0.6",
         "wpackagist-plugin/fabrica-reusable-block-instances": "<=1.0.8",
+        "wpackagist-plugin/facebook-auto-publish": "<=2.4.7",
         "wpackagist-plugin/facebook-button-plugin": "<= 2.73.0.0",
         "wpackagist-plugin/facebook-by-weblizar": "<=2.8.4",
         "wpackagist-plugin/facebook-comment-by-vivacity": "<=1.4",
