@@ -7889,7 +7889,7 @@
         "wpackagist-plugin/pollin": "<=1.01.1",
         "wpackagist-plugin/polls-widget": "<= 1.7.4.0",
         "wpackagist-plugin/polo-video-gallery": "<=1.2",
-        "wpackagist-plugin/polylang": "< 2.5.1.0-dev",
+        "wpackagist-plugin/polylang": "<= 3.7.3.0",
         "wpackagist-plugin/polylang-supertext": "<=4.25",
         "wpackagist-plugin/pondol-carousel": "<=1.0",
         "wpackagist-plugin/pondol-formmail": "<=1.1",
