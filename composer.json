@@ -2683,6 +2683,7 @@
         "wpackagist-plugin/cryout-serious-slider": "<= 1.2.6.0",
         "wpackagist-plugin/crypto": "<=2.19",
         "wpackagist-plugin/crypto-converter-widget": "<=1.8.4",
+        "wpackagist-plugin/crypto-payment-gateway-with-payeer-for-woocommerce": "<=1.0.3",
         "wpackagist-plugin/cryptocloud-crypto-payment-gateway": "<=2.1.2",
         "wpackagist-plugin/cryptocurrency": "<=0.0.17",
         "wpackagist-plugin/cryptocurrency-donation-box": "<=2.2.7",
