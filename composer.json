@@ -5509,7 +5509,7 @@
         "wpackagist-plugin/insert-code": "<=2.4",
         "wpackagist-plugin/insert-estimated-reading-time": "<=1.2",
         "wpackagist-plugin/insert-headers-and-footers": "<=2.0.13",
-        "wpackagist-plugin/insert-headers-and-footers-script": "<=1.1.2",
+        "wpackagist-plugin/insert-headers-and-footers-script": "<= 1.1.6.0",
         "wpackagist-plugin/insert-html-here": "<=1.0",
         "wpackagist-plugin/insert-html-snippet": "<1.2.1",
         "wpackagist-plugin/insert-or-embed-articulate-content-into-wordpress": "<= 4.3000000025.0.0",
