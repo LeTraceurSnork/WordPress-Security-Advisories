@@ -3503,7 +3503,7 @@
         "wpackagist-plugin/easy-social-icons": "<= 3.2.4.0",
         "wpackagist-plugin/easy-social-share-buttons": "<=1.4.5",
         "wpackagist-plugin/easy-social-share-buttons-for-wordpress": "<3.5",
-        "wpackagist-plugin/easy-social-share-buttons3": "<=9.4",
+        "wpackagist-plugin/easy-social-share-buttons3": "< 10.7.1.0-dev",
         "wpackagist-plugin/easy-social-sharebar": "<=1.0.0",
         "wpackagist-plugin/easy-sticky-sidebar": "<= 1.7.0.0",
         "wpackagist-plugin/easy-stripe": "<=1.1",
