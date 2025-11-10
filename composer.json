@@ -6414,7 +6414,7 @@
         "wpackagist-plugin/mainwp-updraftplus-extension": "<=4.0.6",
         "wpackagist-plugin/mainwp-wordfence-extension": "<=4.0.7",
         "wpackagist-plugin/majestic-before-after-image": "<=2.0.2",
-        "wpackagist-plugin/majestic-support": "<=1.1.0",
+        "wpackagist-plugin/majestic-support": "<= 1.1.1.0",
         "wpackagist-plugin/make-builder": "<=1.1.10",
         "wpackagist-plugin/make-column-clickable-elementor": "<=1.6.0",
         "wpackagist-plugin/make-email-customizer-for-woocommerce": "<=1.0.5",
