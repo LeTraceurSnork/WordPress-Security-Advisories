@@ -9196,6 +9196,7 @@
         "wpackagist-plugin/sg-cachepress": "<= 7.4.6.0",
         "wpackagist-plugin/sg-helper": "1.0",
         "wpackagist-plugin/sg-security": "<= 1.5.0.0",
+        "wpackagist-plugin/sh-contextual-help": "<=3.2.1",
         "wpackagist-plugin/sh-email-alert": "<=1.0",
         "wpackagist-plugin/sh-slideshow": "<=4.3",
         "wpackagist-plugin/shabbos-and-yom-tov": "<=1.9",
