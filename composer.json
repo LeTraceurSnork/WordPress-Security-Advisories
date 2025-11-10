@@ -3232,7 +3232,7 @@
         "wpackagist-plugin/download-html-tinymce-button": "<=1.2",
         "wpackagist-plugin/download-info-page": "<=1.3.9",
         "wpackagist-plugin/download-magnet": ">=1.1.0,<=1.2.0",
-        "wpackagist-plugin/download-manager": "<= 3.3.25.0 || >= 4.0.0.0-dev < 6.3.0.0-dev",
+        "wpackagist-plugin/download-manager": "<= 3.3.30.0 || >= 4.0.0.0-dev < 6.3.0.0-dev",
         "wpackagist-plugin/download-media": "<=1.4.2",
         "wpackagist-plugin/download-monitor": "<= 5.0.22.0",
         "wpackagist-plugin/download-now-for-woocommerce": "<=3.5.8.2",
