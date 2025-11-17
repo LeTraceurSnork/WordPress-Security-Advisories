@@ -4815,7 +4815,7 @@
         "wpackagist-plugin/good-url-preview-box": "<=1.20",
         "wpackagist-plugin/goodbarber": "<= 1.0.26.0",
         "wpackagist-plugin/goodlayers-blocks": "<=1.0.1",
-        "wpackagist-plugin/goodlayers-core": "<= 2.1.2.0",
+        "wpackagist-plugin/goodlayers-core": "< 2.1.7.0-dev",
         "wpackagist-plugin/goodlms": "<=2.1.4",
         "wpackagist-plugin/goodnews5": "<=5.11.1",
         "wpackagist-plugin/goods-catalog": "<=2.4.1",
