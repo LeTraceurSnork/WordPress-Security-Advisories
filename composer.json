@@ -12148,7 +12148,7 @@
         "wpackagist-plugin/woo-inquiry": "<=0.1",
         "wpackagist-plugin/woo-line-notify": "<=1.1.7",
         "wpackagist-plugin/woo-login-redirect": "<=2.2.4",
-        "wpackagist-plugin/woo-lucky-wheel": "<=1.0.10",
+        "wpackagist-plugin/woo-lucky-wheel": "<= 1.1.13.0",
         "wpackagist-plugin/woo-mailerlite": "<= 3.1.3.0",
         "wpackagist-plugin/woo-manage-fraud-orders": "<=2.6.1",
         "wpackagist-plugin/woo-merchantx": "<=1.0",
