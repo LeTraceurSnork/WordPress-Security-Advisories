@@ -15332,7 +15332,7 @@
         "wpackagist-theme/prosume": "<2.0",
         "wpackagist-theme/pubnews": "<=1.0.7",
         "wpackagist-theme/pubzinne": "<=1.0.12",
-        "wpackagist-theme/puca": "<=2.6.33",
+        "wpackagist-theme/puca": "<= 2.6.39.0",
         "wpackagist-theme/punte": "<=1.1.2",
         "wpackagist-theme/purity-of-soul": "<=1.9",
         "wpackagist-theme/purosa": ">=1.0.2,<=1.1.2",
