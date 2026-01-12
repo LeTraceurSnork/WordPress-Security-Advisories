@@ -3073,6 +3073,7 @@
         "wpackagist-plugin/debrandify": "<=1.1.2",
         "wpackagist-plugin/debranding": "<=1.0.2",
         "wpackagist-plugin/debt-calculator": "<=1.0.1",
+        "wpackagist-plugin/debtcom-business-in-a-box": "<=4.1.0",
         "wpackagist-plugin/debug": "<=1.10",
         "wpackagist-plugin/debug-assistant": "<=1.4",
         "wpackagist-plugin/debug-bar": "<=0.8",
