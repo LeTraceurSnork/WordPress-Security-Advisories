@@ -2591,7 +2591,7 @@
         "wpackagist-plugin/convertpro": "<=1.7.5",
         "wpackagist-plugin/conveythis-translate": "<= 268.10.0.0",
         "wpackagist-plugin/convoworks-wp": "<=0.22.14",
-        "wpackagist-plugin/cooked": "<= 1.8.0.0",
+        "wpackagist-plugin/cooked": "<= 1.11.2.0",
         "wpackagist-plugin/cooked-pro": "<1.8.0",
         "wpackagist-plugin/cookie-bar": "< 2.1.0.0-dev",
         "wpackagist-plugin/cookie-consent-autoblock": "<=1.0.1",
