@@ -1762,6 +1762,7 @@
         "wpackagist-plugin/bulk-edit-user-profiles-in-spreadsheet": "<= 1.5.23.0",
         "wpackagist-plugin/bulk-editor": "<= 1.0.8.5",
         "wpackagist-plugin/bulk-featured-image": "<= 1.2.2.0",
+        "wpackagist-plugin/bulk-image-alt-text-with-yoast": "<=2.2.1",
         "wpackagist-plugin/bulk-image-resizer": "<=2.0.1",
         "wpackagist-plugin/bulk-image-title-attribute": "<=2.0.1",
         "wpackagist-plugin/bulk-me-now": "<=2.0",
