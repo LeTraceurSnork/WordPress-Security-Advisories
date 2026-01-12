@@ -4015,6 +4015,7 @@
         "wpackagist-plugin/event-list": "<= 0.8.7.0",
         "wpackagist-plugin/event-monster": "<= 1.4.6.0",
         "wpackagist-plugin/event-notifier": "<=1.2.0",
+        "wpackagist-plugin/event-organiser": "<=3.12.8",
         "wpackagist-plugin/event-page-templates-addon-for-the-events-calendar": "<=1.5",
         "wpackagist-plugin/event-post": "<= 5.10.3.0",
         "wpackagist-plugin/event-registration": "<=6.02.02",
