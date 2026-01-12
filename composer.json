@@ -2847,6 +2847,7 @@
         "wpackagist-plugin/custom-api-for-wp": "<=4.2.2",
         "wpackagist-plugin/custom-author-base": "<=1.1.1",
         "wpackagist-plugin/custom-background": "<=3.2.2.67929",
+        "wpackagist-plugin/custom-background-changer": "<=3.0",
         "wpackagist-plugin/custom-banners": "<=3.3",
         "wpackagist-plugin/custom-base-terms": "<=1.0.2.3",
         "wpackagist-plugin/custom-bulkquick-edit": "<=1.6.10",
