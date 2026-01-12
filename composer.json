@@ -5241,6 +5241,7 @@
         "wpackagist-plugin/hashthemes-demo-importer": "<=1.1.1",
         "wpackagist-plugin/haxcan": "<=1.0.0",
         "wpackagist-plugin/hb-audio-gallery": "<=3.0",
+        "wpackagist-plugin/hblpay-payment-gateway-for-woocommerce": "<=5.0.0",
         "wpackagist-plugin/hbook": "<=1.0.2",
         "wpackagist-plugin/hc-custom-wp-admin-url": "<=1.4",
         "wpackagist-plugin/hcaptcha-for-forms-and-more": "<=4.0.0",
