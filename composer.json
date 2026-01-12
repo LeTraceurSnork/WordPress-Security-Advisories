@@ -11897,6 +11897,7 @@
         "wpackagist-plugin/webling": "<=3.9.0",
         "wpackagist-plugin/weblizar-companion": "<=1.57",
         "wpackagist-plugin/weblizar-pinterest-feeds": "<1.1.2",
+        "wpackagist-plugin/webman-amplifier": "<=1.5.12",
         "wpackagist-plugin/webmaster-tools": "<=2.0",
         "wpackagist-plugin/webmaster-tools-verification": "<=1.2",
         "wpackagist-plugin/webmention": "<=4.0.8",
