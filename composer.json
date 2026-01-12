@@ -1411,7 +1411,7 @@
         "wpackagist-plugin/birth-chart-compatibility": "<=2.0",
         "wpackagist-plugin/birthdays-widget": "<=1.7.18",
         "wpackagist-plugin/bit-assist": "<= 1.5.4.0",
-        "wpackagist-plugin/bit-form": "<= 2.20.3.0",
+        "wpackagist-plugin/bit-form": "<= 2.21.6.0",
         "wpackagist-plugin/bit-integrations": "<=2.4.10",
         "wpackagist-plugin/bitcoin-faucet": "<=1.6.0",
         "wpackagist-plugin/bitcoin-lightning-publisher": "<=1.4.1",
