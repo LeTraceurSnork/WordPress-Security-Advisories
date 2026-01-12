@@ -7383,6 +7383,7 @@
         "wpackagist-plugin/newsletter-api": "<=2.4.5",
         "wpackagist-plugin/newsletter-bulk-email": "<=2.0.1",
         "wpackagist-plugin/newsletter-by-supsystic": "<=1.5.6",
+        "wpackagist-plugin/newsletter-email-subscribe": "<=2.4",
         "wpackagist-plugin/newsletter-manager": "<= 1.5.1.0",
         "wpackagist-plugin/newsletter-optin-box": "<= 3.8.7.0",
         "wpackagist-plugin/newsletter-page-redirects": "<=1.0.4",
