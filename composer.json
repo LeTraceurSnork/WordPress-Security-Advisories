@@ -9542,7 +9542,7 @@
         "wpackagist-plugin/share-buttons": "<=2.7",
         "wpackagist-plugin/share-on-diaspora": "<0.7.2",
         "wpackagist-plugin/share-one-drive": "<1.15.3",
-        "wpackagist-plugin/share-print-pdf-woocommerce": "<2.8.0",
+        "wpackagist-plugin/share-print-pdf-woocommerce": "<= 3.1.2.0",
         "wpackagist-plugin/share-this": "<=7.0.5",
         "wpackagist-plugin/share-this-image": "<=2.03",
         "wpackagist-plugin/share-to-google-classroom": "<=1.0",
