@@ -107,6 +107,7 @@
         "wpackagist-plugin/a3-user-importer": "<=1.1.7",
         "wpackagist-plugin/a4-barcode-generator": "<= 3.4.10.0",
         "wpackagist-plugin/aa-audio-player": "<=1.0",
+        "wpackagist-plugin/aa-block-country": "<=1.0.1",
         "wpackagist-plugin/aa-calculator": "<=1.0",
         "wpackagist-plugin/aajoda-testimonials": "<= 2.2.2.0",
         "wpackagist-plugin/aapanel-wp-toolkit": ">=1.0,<=1.1",
