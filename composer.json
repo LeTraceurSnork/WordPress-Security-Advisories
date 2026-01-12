@@ -11936,7 +11936,7 @@
         "wpackagist-plugin/weekly-class-schedule": "<=3.19",
         "wpackagist-plugin/weekly-planner": "<=1.0",
         "wpackagist-plugin/weekly-schedule": "<3.4.3",
-        "wpackagist-plugin/weforms": "<=1.6.23",
+        "wpackagist-plugin/weforms": "<= 1.6.25.0",
         "wpackagist-plugin/weglot": "<= 5.1.0.0",
         "wpackagist-plugin/weichuncai": "<=1.5",
         "wpackagist-plugin/weight-based-shipping-for-woocommerce": "<=5.4.1",
