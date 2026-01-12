@@ -877,6 +877,7 @@
         "wpackagist-plugin/append-content": "<=2.1.1",
         "wpackagist-plugin/append-extensions-on-pages": "<=1.1.2",
         "wpackagist-plugin/append-link-on-copy": "<=0.2",
+        "wpackagist-plugin/appender": "<=1.1.1",
         "wpackagist-plugin/appexperts": "<= 1.4.5.0",
         "wpackagist-plugin/appizy-app-embed": "<=2.3.2",
         "wpackagist-plugin/applicantpro": "<=1.3.9",
