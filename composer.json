@@ -8820,7 +8820,7 @@
         "wpackagist-plugin/real-wp-shop-lite": "<=2.0.8",
         "wpackagist-plugin/real-wysiwyg": "<=0.0.2",
         "wpackagist-plugin/real3d-flipbook": "< 2.9.0.0-dev",
-        "wpackagist-plugin/real3d-flipbook-lite": "<=4.8",
+        "wpackagist-plugin/real3d-flipbook-lite": "<= 4.11.4.0",
         "wpackagist-plugin/realbig-media": "<=1.0.6",
         "wpackagist-plugin/realestate-7": "<3.1.1",
         "wpackagist-plugin/realia": "<=1.4.0",
