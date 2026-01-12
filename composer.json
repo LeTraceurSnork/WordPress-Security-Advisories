@@ -13410,6 +13410,7 @@
         "wpackagist-plugin/wp-recaptcha-integration": "<= 1.2.7.0",
         "wpackagist-plugin/wp-recentcomments": "<= 2.2.7.0",
         "wpackagist-plugin/wp-recipe-maker": "<= 10.2.3.0",
+        "wpackagist-plugin/wp-recipe-manager": "<=1.0.0",
         "wpackagist-plugin/wp-record": "<=1.6.7",
         "wpackagist-plugin/wp-register-profile-with-shortcode": "<= 3.6.2.0",
         "wpackagist-plugin/wp-registration": "<= 6.6.0.0",
