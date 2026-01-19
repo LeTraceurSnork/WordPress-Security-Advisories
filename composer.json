@@ -12692,7 +12692,7 @@
         "wpackagist-plugin/worker": "<=4.9.2",
         "wpackagist-plugin/worker-elementor": "<=1.0.10",
         "wpackagist-plugin/worker-wpbakery": "<=1.1.1",
-        "wpackagist-plugin/workreap": "<= 3.3.5.0",
+        "wpackagist-plugin/workreap": "<= 3.3.6.0",
         "wpackagist-plugin/workscout-core": "< 1.7.06.0-dev",
         "wpackagist-plugin/world-cup-predictor": "<=1.9.6",
         "wpackagist-plugin/world-of-warcraft-armory-table": "<0.2.6",
