@@ -10623,6 +10623,7 @@
         "wpackagist-plugin/stop-wp-emails-going-to-spam": "<=2.0.2",
         "wpackagist-plugin/stopbadbots": "<= 11.58.0.0",
         "wpackagist-plugin/stops-core-theme-and-plugin-updates": "<=8.0.4",
+        "wpackagist-plugin/stopwords-for-comments": "<=1.1",
         "wpackagist-plugin/store-credit-for-woocommerce": "<=1.0.49.46",
         "wpackagist-plugin/store-locator": "<= 3.98.10.0",
         "wpackagist-plugin/store-locator-le": "<=2311.17.01",
