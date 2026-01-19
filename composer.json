@@ -3067,6 +3067,7 @@
         "wpackagist-plugin/dark-mode-for-wp-dashboard": "<=1.2.3",
         "wpackagist-plugin/darklup-lite-wp-dark-mode": "<=2.1.1",
         "wpackagist-plugin/darkmysite": "<=1.2.8",
+        "wpackagist-plugin/dashboard-builder": "<=1.5.7",
         "wpackagist-plugin/dashboard-notepad": "<=1.42",
         "wpackagist-plugin/dashboard-notepads": "<=1.2.1",
         "wpackagist-plugin/dashboard-to-do-list": "<= 1.3.1.0",
