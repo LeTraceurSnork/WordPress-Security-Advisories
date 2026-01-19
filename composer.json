@@ -12750,6 +12750,7 @@
         "wpackagist-plugin/wp-all-export-pro": "<= 1.9.1.0",
         "wpackagist-plugin/wp-all-import": "<= 3.9.6.0",
         "wpackagist-plugin/wp-all-import-pro": "<= 4.9.7.0",
+        "wpackagist-plugin/wp-allow-hosts": "<=1.0.8",
         "wpackagist-plugin/wp-amaps": "<=1.7",
         "wpackagist-plugin/wp-amasin-the-amazon-affiliate-shop": "<=0.9.6",
         "wpackagist-plugin/wp-amazon-shop": "<=2.1.2",
