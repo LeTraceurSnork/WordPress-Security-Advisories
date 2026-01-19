@@ -13675,6 +13675,7 @@
         "wpackagist-plugin/wp-sentry": "<=1.0",
         "wpackagist-plugin/wp-seo-keyword-optimizer": "<= 2.1.9.12",
         "wpackagist-plugin/wp-seo-redirect-301": "<2.3.2",
+        "wpackagist-plugin/wp-seo-search": "<=1.1",
         "wpackagist-plugin/wp-seo-structured-data-schema": "<=2.7.11",
         "wpackagist-plugin/wp-seo-tags": "<=2.2.7",
         "wpackagist-plugin/wp-seo-tdk": "<=2.1.2",
