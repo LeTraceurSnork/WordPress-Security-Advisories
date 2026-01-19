@@ -6430,6 +6430,7 @@
         "wpackagist-plugin/linkedin-auto-publish": "<=1.9.8",
         "wpackagist-plugin/linkedin-lite": "<=1.0",
         "wpackagist-plugin/linkedin-resume": "<=2.00",
+        "wpackagist-plugin/linkedin-sc": "<=1.1.9",
         "wpackagist-plugin/linkedinclude": "<=3.0.4",
         "wpackagist-plugin/linker": "<=1.2.1",
         "wpackagist-plugin/linkid": "<=0.1.2",
