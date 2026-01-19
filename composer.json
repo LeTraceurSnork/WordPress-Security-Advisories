@@ -8219,7 +8219,7 @@
         "wpackagist-plugin/platformly": "<=1.1.3",
         "wpackagist-plugin/platformly-for-woocommerce": "<=1.1.6",
         "wpackagist-plugin/platinum-seo-pack": "<= 2.4.0.0",
-        "wpackagist-plugin/plationline": "<=6.3.2",
+        "wpackagist-plugin/plationline": "<= 7.0.0.0",
         "wpackagist-plugin/plausible-analytics": "<= 1.3.3.0",
         "wpackagist-plugin/play-ht": "<=3.6.4",
         "wpackagist-plugin/player": "<= 2.1.0.0",
