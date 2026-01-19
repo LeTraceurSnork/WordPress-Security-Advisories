@@ -4516,6 +4516,7 @@
         "wpackagist-plugin/flo-forms": "<= 1.0.43.0",
         "wpackagist-plugin/flo-launch": "<2.4.1",
         "wpackagist-plugin/float-block": "<=1.7",
+        "wpackagist-plugin/float-gateway": "<=1.1.9",
         "wpackagist-plugin/float-menu": "<= 6.1.2.0",
         "wpackagist-plugin/float-to-top-button": "<=2.3.6",
         "wpackagist-plugin/floatbox-plus": "<=1.4.4",
