@@ -9029,6 +9029,7 @@
         "wpackagist-plugin/related-post": "<= 2.0.58.0 || 2.0.59",
         "wpackagist-plugin/related-post-shortcode": "<=1.2",
         "wpackagist-plugin/related-posts": "<2.7.2",
+        "wpackagist-plugin/related-posts-by-taxonomy": "<=2.7.6",
         "wpackagist-plugin/related-posts-by-zemanta": "<=1.3.1",
         "wpackagist-plugin/related-posts-for-wp": "<= 2.2.1.0",
         "wpackagist-plugin/related-posts-line-up-exactry-by-milliard": "<=0.0.22",
