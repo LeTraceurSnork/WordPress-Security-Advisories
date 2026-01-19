@@ -9491,6 +9491,7 @@
         "wpackagist-plugin/search-order-by-product-sku-for-woocommerce": "<=0.2",
         "wpackagist-plugin/search-unleashed": "<=0.2.10",
         "wpackagist-plugin/search-with-typesense": "<= 2.0.10.0",
+        "wpackagist-plugin/searchazon": "<=1.4",
         "wpackagist-plugin/searchie": "<=1.17.0",
         "wpackagist-plugin/searchiq": "<= 4.7.0.0",
         "wpackagist-plugin/searchpro": "<= 2.2.53.0",
