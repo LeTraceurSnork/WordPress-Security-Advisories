@@ -4450,6 +4450,7 @@
         "wpackagist-plugin/flagged-content": "<=1.0.2",
         "wpackagist-plugin/flags-widget": "<=1.0.7",
         "wpackagist-plugin/flaming-forms": "<=1.0.1",
+        "wpackagist-plugin/flaming-password-reset": "<=1.0.3",
         "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/flamix-bitrix24-and-contact-forms-7-integrations": "<=3.1.0",
         "wpackagist-plugin/flash-album-gallery": "<= 6.1.2.0",
