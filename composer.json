@@ -4799,7 +4799,7 @@
         "wpackagist-plugin/g-web-shop": "<=2.2.3",
         "wpackagist-plugin/g5plus-auteur": "<=7.1",
         "wpackagist-plugin/ga-backend-tracking": "<1.2.1",
-        "wpackagist-plugin/ga-for-wp": ">=1.1,<=2.1.2",
+        "wpackagist-plugin/ga-for-wp": "<= 2.10.0.0",
         "wpackagist-plugin/ga-germanized": "<=1.6.2",
         "wpackagist-plugin/ga-universal": "<1.0.1",
         "wpackagist-plugin/galleria": "<=1.0.3",
