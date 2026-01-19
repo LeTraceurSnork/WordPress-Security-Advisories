@@ -6470,7 +6470,7 @@
         "wpackagist-plugin/listeo-core": "<=1.9.32",
         "wpackagist-plugin/listingpro-lead-form": "<=1.0.2",
         "wpackagist-plugin/listingpro-plugin": "<= 2.9.9.0",
-        "wpackagist-plugin/listingpro-reviews": "<=1.6",
+        "wpackagist-plugin/listingpro-reviews": "<= 1.7.0.0",
         "wpackagist-plugin/listings-for-appfolio": "<=1.2.0",
         "wpackagist-plugin/listings-for-buildium": "<= 0.1.5.0",
         "wpackagist-plugin/listly": "<=2.7",
