@@ -5665,6 +5665,7 @@
         "wpackagist-plugin/imagements": "<=1.2.5",
         "wpackagist-plugin/imagemeta": "<=1.1.2",
         "wpackagist-plugin/imagenius": "<=1.7",
+        "wpackagist-plugin/imager-elementor": "<=2.0.4",
         "wpackagist-plugin/imagerecycle-pdf-image-compression": "<= 3.1.16.0",
         "wpackagist-plugin/images-asynchronous-load": "<=1.05",
         "wpackagist-plugin/images-lazyload-and-slideshow": "<3.3",
