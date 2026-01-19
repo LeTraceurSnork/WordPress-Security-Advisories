@@ -14868,6 +14868,7 @@
         "wpackagist-theme/critique": "<=1.17",
         "wpackagist-theme/crius": "*",
         "wpackagist-theme/cstardesign": "<=4.9",
+        "wpackagist-theme/curly": "<3.3",
         "wpackagist-theme/curvo": "*",
         "wpackagist-theme/custom-community": ">=2.0,<2.0.25",
         "wpackagist-theme/custom-made": "<=1.1.17",
