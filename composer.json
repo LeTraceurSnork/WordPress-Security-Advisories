@@ -13643,7 +13643,7 @@
         "wpackagist-plugin/wp-roles-at-registration": "<=0.23",
         "wpackagist-plugin/wp-rollback": "<1.2.3",
         "wpackagist-plugin/wp-royal-gallery": "<=2.0",
-        "wpackagist-plugin/wp-rss-aggregator": "<=4.23.12",
+        "wpackagist-plugin/wp-rss-aggregator": "<= 5.0.10.0",
         "wpackagist-plugin/wp-rss-by-publishers": "<=0.1",
         "wpackagist-plugin/wp-rss-images": "<=1.1",
         "wpackagist-plugin/wp-rss-multi-importer": "<3.14",
