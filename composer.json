@@ -2442,6 +2442,7 @@
         "wpackagist-plugin/compare-affiliated-products": ">=2.0.1,<=2.2.0",
         "wpackagist-plugin/compare-ninja-comparison-tables": "<=2.1.0",
         "wpackagist-plugin/comparepress": "<=2.0.8",
+        "wpackagist-plugin/comparimager-elementor": "<=1.0.1",
         "wpackagist-plugin/comparison-slider": "<=1.0.5",
         "wpackagist-plugin/competition-form": "<=2.0",
         "wpackagist-plugin/compfight": "<1.5",
