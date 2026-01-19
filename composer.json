@@ -785,7 +785,7 @@
         "wpackagist-plugin/amz-configurator-core": "<=1.4.7",
         "wpackagist-plugin/an-gradebook": "<=5.0.1",
         "wpackagist-plugin/anac-xml-render": "<=1.5.7",
-        "wpackagist-plugin/anac-xml-viewer": "<=1.7",
+        "wpackagist-plugin/anac-xml-viewer": "<= 1.8.2.0",
         "wpackagist-plugin/analogwp-templates": "<=1.8.0",
         "wpackagist-plugin/analyse-uploads": "<=0.5",
         "wpackagist-plugin/analytics-cat": "<= 1.1.2.0",
