@@ -4576,7 +4576,7 @@
         "wpackagist-plugin/folders-pro": "<=3.0.2",
         "wpackagist-plugin/foliopress-wysiwyg": "<= 2.6.18.0",
         "wpackagist-plugin/follow-me": "<=3.1.1",
-        "wpackagist-plugin/follow-my-blog-post": "<=2.3.9",
+        "wpackagist-plugin/follow-my-blog-post": "<= 2.4.0.0",
         "wpackagist-plugin/fomo-payment-gateway-for-woocommerce": "<=2.0.4",
         "wpackagist-plugin/font": "<=7.5",
         "wpackagist-plugin/font-awesome": "<= 4.3.1.0",
