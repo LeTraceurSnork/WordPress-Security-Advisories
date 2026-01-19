@@ -15093,7 +15093,7 @@
         "wpackagist-theme/grace-mag": "<=1.1.5",
         "wpackagist-theme/gracioza": "<=1.0.15",
         "wpackagist-theme/grandprix": "<=1.6",
-        "wpackagist-theme/grandrestaurant": "<=7.0",
+        "wpackagist-theme/grandrestaurant": "< 7.0.9.0-dev",
         "wpackagist-theme/grandtour": "<=5.5.1",
         "wpackagist-theme/graphene": "<=2.9.2",
         "wpackagist-theme/gravel": "<=1.6",
