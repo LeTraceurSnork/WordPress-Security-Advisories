@@ -965,7 +965,7 @@
         "wpackagist-plugin/artificial-intelligence-auto-content-generator": "<= 4.0.7.0",
         "wpackagist-plugin/artiss-currency-converter": "<=1.5.0",
         "wpackagist-plugin/artplacer-widget": "<= 2.22.9.2",
-        "wpackagist-plugin/aruba-hispeed-cache": "<=2.0.12",
+        "wpackagist-plugin/aruba-hispeed-cache": "< 3.0.3.0-dev",
         "wpackagist-plugin/aryo-activity-log": "<= 2.11.1.0",
         "wpackagist-plugin/as-create-pinterest-pinboard-pages": "<=1.0",
         "wpackagist-plugin/as-english-admin": "<=1.0.0",
