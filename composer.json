@@ -6607,7 +6607,7 @@
         "wpackagist-plugin/lottier-elementor": "<=1.0.9",
         "wpackagist-plugin/lottier-gutenberg": "<=1.1.1",
         "wpackagist-plugin/lottier-wpbakery": "<=1.1.7",
-        "wpackagist-plugin/lpagery": ">=1.0,<=1.2.5",
+        "wpackagist-plugin/lpagery": "<= 2.4.9.0",
         "wpackagist-plugin/ls-gmap-route": "<=1.1.0",
         "wpackagist-plugin/lsd-google-maps-embedder": "<=1.1",
         "wpackagist-plugin/lt-unleashed": "<=1.1.1",
