@@ -1018,6 +1018,7 @@
         "wpackagist-plugin/auction-feed": "<=1.1.3",
         "wpackagist-plugin/auction-nudge": "<=7.2.0",
         "wpackagist-plugin/auctionplugin": "<=2.0.1.3",
+        "wpackagist-plugin/audier-elementor": "<=1.0.9",
         "wpackagist-plugin/audio": "<=0.6.1",
         "wpackagist-plugin/audio-album": "<=1.5.0",
         "wpackagist-plugin/audio-and-video-player": "<=1.1.3",
