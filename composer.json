@@ -10905,7 +10905,7 @@
         "wpackagist-plugin/team-members": "<= 5.3.5.0",
         "wpackagist-plugin/team-members-for-elementor": "<=1.0.4",
         "wpackagist-plugin/team-rosters": "<= 4.8.2.0",
-        "wpackagist-plugin/team-section": "<=1.0.9",
+        "wpackagist-plugin/team-section": "<= 2.0.0.0",
         "wpackagist-plugin/team-showcase": "<=2.1",
         "wpackagist-plugin/team-showcase-cm": "<25.05.13",
         "wpackagist-plugin/team-showcase-supreme": "<= 7.4.0.0",
