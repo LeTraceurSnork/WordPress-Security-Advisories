@@ -14720,6 +14720,7 @@
         "wpackagist-theme/brite": "<=1.0.11",
         "wpackagist-theme/broadcast-lite": ">=2.0.1,<=2.0.6",
         "wpackagist-theme/broadscope": "*",
+        "wpackagist-theme/brook": "<=2.9.0",
         "wpackagist-theme/brooklyn": "<= 4.9.9.2",
         "wpackagist-theme/brovy": "<=1.3",
         "wpackagist-theme/buddyboss-theme": "<= 2.8.41.0",
