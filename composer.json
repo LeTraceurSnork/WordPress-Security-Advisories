@@ -6467,7 +6467,7 @@
         "wpackagist-plugin/listapp-mobile-manager": "<=1.7.7",
         "wpackagist-plugin/listar-directory-listing": "<=3.0.0",
         "wpackagist-plugin/listdom": "<= 5.0.1.0",
-        "wpackagist-plugin/listeo-core": "<=1.9.32",
+        "wpackagist-plugin/listeo-core": "< 2.0.19.0-dev",
         "wpackagist-plugin/listingpro-lead-form": "<=1.0.2",
         "wpackagist-plugin/listingpro-plugin": "<= 2.9.9.0",
         "wpackagist-plugin/listingpro-reviews": "<=1.6",
