@@ -1966,6 +1966,7 @@
         "wpackagist-plugin/cart66-cloud": "<=2.3.7",
         "wpackagist-plugin/cart66-lite": "< 1.5.5.0-dev",
         "wpackagist-plugin/cartboss": "<=4.1.2",
+        "wpackagist-plugin/carter-elementor": "<=1.0.2",
         "wpackagist-plugin/cartflows": "<= 2.0.7.0",
         "wpackagist-plugin/cartflows-pro": "<= 1.11.12.0",
         "wpackagist-plugin/cartpauj-register-captcha": "<=1.0.02",
