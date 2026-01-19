@@ -8935,7 +8935,7 @@
         "wpackagist-plugin/real-estate-listing-realtyna-wpl": "<= 5.0.0.0",
         "wpackagist-plugin/real-estate-manager": "<= 7.3.0.0",
         "wpackagist-plugin/real-estate-manager-pro": "<=12.7.3",
-        "wpackagist-plugin/real-estate-pro": "<1.7.1",
+        "wpackagist-plugin/real-estate-pro": "<= 2.1.4.0",
         "wpackagist-plugin/real-estate-right-now": "<=4.48",
         "wpackagist-plugin/real-kit": "<= 5.1.1.0",
         "wpackagist-plugin/real-media-library-lite": "<= 4.22.11.0",
