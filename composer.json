@@ -3293,7 +3293,7 @@
         "wpackagist-plugin/divelogs-widget": "<=1.5",
         "wpackagist-plugin/divi-builder": "<= 4.25.0.0",
         "wpackagist-plugin/dj-email-publish": "<=1.7.2",
-        "wpackagist-plugin/dk-pdf": "<=1.9.6",
+        "wpackagist-plugin/dk-pdf": "<= 2.3.0.0",
         "wpackagist-plugin/dk-pricr-responsive-pricing-table": "<= 5.1.12.0",
         "wpackagist-plugin/dk-white-label": "<=1.0",
         "wpackagist-plugin/dl-leadback": "<=1.2.1",
