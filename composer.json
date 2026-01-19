@@ -15444,6 +15444,7 @@
         "wpackagist-theme/ona": ">=1.1,<=1.18.1",
         "wpackagist-theme/onair2": "<3.9.9.2",
         "wpackagist-theme/one-page-conference": "<=1.0.9",
+        "wpackagist-theme/oneline-lite": "<=6.6",
         "wpackagist-theme/onepagewebsite": "*",
         "wpackagist-theme/onepress": "<= 2.3.15.0",
         "wpackagist-theme/onleash": "<=1.5.2",
