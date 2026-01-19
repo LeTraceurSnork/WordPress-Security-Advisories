@@ -5677,7 +5677,7 @@
         "wpackagist-plugin/imdb-info-box": "<=2.0",
         "wpackagist-plugin/imdb-widget": "<1.0.9",
         "wpackagist-plugin/imember360": "< 3.9.002.0-dev",
-        "wpackagist-plugin/imgspider": "<=2.3.10",
+        "wpackagist-plugin/imgspider": "<= 2.3.12.0",
         "wpackagist-plugin/imithemes-listing": "<=3.3",
         "wpackagist-plugin/immocaster": "<=1.3.6",
         "wpackagist-plugin/immonex-kickstart": "<=1.11.6",
