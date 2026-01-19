@@ -10046,6 +10046,7 @@
         "wpackagist-plugin/simple-woocommerce-csv-loader": "<=2.0",
         "wpackagist-plugin/simple-wp-events": "<=1.8.17",
         "wpackagist-plugin/simple-wp-sitemap": "<=1.2.1",
+        "wpackagist-plugin/simple-xml-sitemap": "<=1.3",
         "wpackagist-plugin/simple-yearly-archive": "<=2.1.8",
         "wpackagist-plugin/simple-youtube-responsive": "<=2.5",
         "wpackagist-plugin/simple-youtube-shortcode": "<=1.1.3",
