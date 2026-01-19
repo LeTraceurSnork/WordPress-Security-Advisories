@@ -1950,6 +1950,7 @@
         "wpackagist-plugin/carousel": "<=1.8",
         "wpackagist-plugin/carousel-anything": "<=2.1",
         "wpackagist-plugin/carousel-ck": "<=1.1.0",
+        "wpackagist-plugin/carousel-horizontal-posts-content-slider": "<=3.3.2",
         "wpackagist-plugin/carousel-of-post-images": "<=1.07",
         "wpackagist-plugin/carousel-slider": "<= 2.2.13.0",
         "wpackagist-plugin/carousels-slider-for-divi": ">=1.5.0,<=1.6.1",
