@@ -8672,7 +8672,7 @@
         "wpackagist-plugin/project-status": "<=1.6",
         "wpackagist-plugin/projecthuddle-child-site": "<=1.0.34",
         "wpackagist-plugin/projectlist": "<=0.3.0",
-        "wpackagist-plugin/projectopia-core": "<= 5.1.19.0",
+        "wpackagist-plugin/projectopia-core": "<= 5.1.22.0",
         "wpackagist-plugin/promobar": "<1.1.1",
         "wpackagist-plugin/promolayer-popup-builder": "<=1.1.0",
         "wpackagist-plugin/promotion-slider": "<=3.3.4",
