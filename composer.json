@@ -14386,7 +14386,7 @@
         "wpackagist-plugin/ymc-states-map": "<=2.4.2",
         "wpackagist-plugin/yml-for-yandex-market": "<=4.7.2",
         "wpackagist-plugin/ymm-search": "<=1.0.11",
-        "wpackagist-plugin/yoco-payment-gateway": "<=3.8.8",
+        "wpackagist-plugin/yoco-payment-gateway": "<= 3.9.0.0",
         "wpackagist-plugin/yogo-booking": "<=1.6.2",
         "wpackagist-plugin/yolink-search": "<2.6",
         "wpackagist-plugin/yoo-bar": "<=2.0.6",
