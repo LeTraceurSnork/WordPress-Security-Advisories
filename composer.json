@@ -2339,7 +2339,7 @@
         "wpackagist-plugin/code-snippets-extended": "<=1.4.7",
         "wpackagist-plugin/codeablepress-simple-frontend-profile-picture-upload": "<=1.0.0",
         "wpackagist-plugin/codebard-help-desk": "<=1.1.2",
-        "wpackagist-plugin/codecolorer": "<=0.10.0",
+        "wpackagist-plugin/codecolorer": "<= 0.10.1.0",
         "wpackagist-plugin/codeconfig-accessibility": "<=1.0.2",
         "wpackagist-plugin/codeflavors-vimeo-video-post-lite": "<= 2.3.5.2",
         "wpackagist-plugin/codehaveli-bitly-url-shortener": "<=1.4.1",
