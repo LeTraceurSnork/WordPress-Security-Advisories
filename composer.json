@@ -11155,7 +11155,7 @@
         "wpackagist-plugin/timer-countdown": "<=1.0",
         "wpackagist-plugin/timesheet": "<0.1.5",
         "wpackagist-plugin/timeslot": "<= 1.4.7.0",
-        "wpackagist-plugin/timetics": "<= 1.0.44.0",
+        "wpackagist-plugin/timetics": "<= 1.0.46.0",
         "wpackagist-plugin/timezonecalculator": "<=3.37",
         "wpackagist-plugin/timthumb": "<=2.8.13",
         "wpackagist-plugin/timthumb-vulnerability-scanner": "<=1.54",
