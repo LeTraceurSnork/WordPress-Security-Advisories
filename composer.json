@@ -7975,7 +7975,7 @@
         "wpackagist-plugin/payform": "<=2.0",
         "wpackagist-plugin/paygreen-payment-gateway": "<=1.0.26",
         "wpackagist-plugin/paygreen-woocommerce": "<=4.10.2",
-        "wpackagist-plugin/payhere-payment-gateway": "<=2.2.11",
+        "wpackagist-plugin/payhere-payment-gateway": "<= 2.3.9.0",
         "wpackagist-plugin/paymaya-checkout-for-woocommerce": "<=1.2.0",
         "wpackagist-plugin/payment-form-for-paypal-pro": "<= 1.1.72.0",
         "wpackagist-plugin/payment-forms-for-paystack": "<= 4.0.2.0",
