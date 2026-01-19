@@ -12227,6 +12227,7 @@
         "wpackagist-plugin/wizshop": "<=3.0.2",
         "wpackagist-plugin/wm-options-import-export": "<=1.0.1",
         "wpackagist-plugin/wm-zoom": "<=1.0",
+        "wpackagist-plugin/wmf-mobile-redirector": "<=1.2",
         "wpackagist-plugin/wn-flipbox-pro": "<=2.1",
         "wpackagist-plugin/woc-open-close": "<= 4.9.8.0",
         "wpackagist-plugin/woc-order-alert": "<3.2.2",
