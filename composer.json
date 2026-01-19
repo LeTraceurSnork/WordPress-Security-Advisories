@@ -14415,6 +14415,7 @@
         "wpackagist-plugin/youtube-channel-gallery": "<=2.4",
         "wpackagist-plugin/youtube-embed": "<= 5.4.0.0",
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
+        "wpackagist-plugin/youtube-feed-pro": "<=2.6.0",
         "wpackagist-plugin/youtube-feeder": "<=2.0.1",
         "wpackagist-plugin/youtube-playlist-player": "<=4.6.7",
         "wpackagist-plugin/youtube-shortcode": "<=1.8.5",
