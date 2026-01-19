@@ -8034,6 +8034,7 @@
         "wpackagist-plugin/pdf-poster": "<=2.1.17",
         "wpackagist-plugin/pdf-print": "< 2.0.3.0-dev",
         "wpackagist-plugin/pdf-rechnungsverwaltung": "<=0.0.1",
+        "wpackagist-plugin/pdf-resume-parser": "<=1.0",
         "wpackagist-plugin/pdf-thumbnail-generator": "<= 1.4.0.0",
         "wpackagist-plugin/pdf-viewer": "<=0.1",
         "wpackagist-plugin/pdf-viewer-block": "<1.0.1",
