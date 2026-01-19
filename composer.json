@@ -14076,6 +14076,7 @@
         "wpackagist-plugin/wpgform": "<= 0.95.0.0",
         "wpackagist-plugin/wpglobus": "<=1.9.6",
         "wpackagist-plugin/wpglobus-translate-options": "<= 2.2.0.0",
+        "wpackagist-plugin/wpgraphql-smart-cache": "<2.0.1",
         "wpackagist-plugin/wpgsi": "<= 3.8.2.0",
         "wpackagist-plugin/wpgsi-professional": "<=3.5.0",
         "wpackagist-plugin/wpguppy-lite": "<= 1.1.4.0",
