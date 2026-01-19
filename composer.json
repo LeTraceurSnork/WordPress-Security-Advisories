@@ -5830,7 +5830,7 @@
         "wpackagist-plugin/integrar-getnet-con-woo": ">=0.0.1,<=0.0.4",
         "wpackagist-plugin/integrate-automate": "<=1.0.1",
         "wpackagist-plugin/integrate-contact-form-7-and-aweber": "<= 0.1.42.0",
-        "wpackagist-plugin/integrate-dynamics-365-crm": "<=1.0.9",
+        "wpackagist-plugin/integrate-dynamics-365-crm": "<= 1.1.1.0",
         "wpackagist-plugin/integrate-firebase": "<=0.9.3",
         "wpackagist-plugin/integrate-google-drive": "<= 1.5.3.0",
         "wpackagist-plugin/integration-cds": ">=2.77,<=2.81",
