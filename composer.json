@@ -9531,7 +9531,7 @@
         "wpackagist-plugin/select-core": "<2.6",
         "wpackagist-plugin/selection-lite": "<=1.13",
         "wpackagist-plugin/sell-digital-downloads": "<=2.2.7",
-        "wpackagist-plugin/sell-downloads": "< 1.0.8.0-dev",
+        "wpackagist-plugin/sell-downloads": "<= 1.1.12.0",
         "wpackagist-plugin/sell-media": "<= 2.5.8.5",
         "wpackagist-plugin/sell-media-file": "<=1.0.6",
         "wpackagist-plugin/sell-photo": "<=1.0.5",
