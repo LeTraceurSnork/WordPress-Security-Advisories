@@ -11832,6 +11832,7 @@
         "wpackagist-plugin/visit-site-link-enhanced": "<=1.0",
         "wpackagist-plugin/visitor-analytics-io": "<=1.2.0",
         "wpackagist-plugin/visitor-maps": "<=1.5.8.6",
+        "wpackagist-plugin/visitor-stats-widget": "<=1.5.0",
         "wpackagist-plugin/visitors-app": "<=0.3",
         "wpackagist-plugin/visitors-details": "<=1.0.1",
         "wpackagist-plugin/visitors-online": "< 1.0.0.0-dev",
