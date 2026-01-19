@@ -9453,6 +9453,7 @@
         "wpackagist-plugin/scripts-organizer": "<3.0",
         "wpackagist-plugin/scroll-baner": "<=1.0",
         "wpackagist-plugin/scroll-post-excerpt": "<=8.0",
+        "wpackagist-plugin/scroll-rss-excerpt": "<=5.0",
         "wpackagist-plugin/scroll-styler": "<=1.1",
         "wpackagist-plugin/scroll-to-top-builder": "<=1.3.3",
         "wpackagist-plugin/scroll-to-up": "<=2.0",
