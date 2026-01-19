@@ -9154,7 +9154,7 @@
         "wpackagist-plugin/rest-routes": ">=2.0.2,<=5.5.2",
         "wpackagist-plugin/restaurant-cafe-addon-for-elementor": "<= 1.5.9.0",
         "wpackagist-plugin/restaurant-pickup-delivery-dine-in": "<=1.0.9",
-        "wpackagist-plugin/restaurant-reservations": "<= 2.7.8.0",
+        "wpackagist-plugin/restaurant-reservations": "<= 2.7.9.0",
         "wpackagist-plugin/restaurant-solutions-checklist": "1.0.0",
         "wpackagist-plugin/restaurantconnect-reswidget": "<=1.0",
         "wpackagist-plugin/restful-syndication": ">=1.1.0,<=1.5.0",
