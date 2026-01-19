@@ -4933,6 +4933,7 @@
         "wpackagist-plugin/get-your-number": "<=1.1.3",
         "wpackagist-plugin/get-youtube-subs": "<=3.5",
         "wpackagist-plugin/getastra": "<=0.2",
+        "wpackagist-plugin/getgenie": "<=4.3.0",
         "wpackagist-plugin/getresponse": "<= 2.6.0.0",
         "wpackagist-plugin/getresponse-integration": "<= 5.5.35.0",
         "wpackagist-plugin/getresponse-official": "<=1.5.3",
