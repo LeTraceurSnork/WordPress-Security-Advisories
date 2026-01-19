@@ -9698,7 +9698,7 @@
         "wpackagist-plugin/sheetdb": "<= 1.3.4.0",
         "wpackagist-plugin/sheetlink": "<=1.1.1",
         "wpackagist-plugin/sheetpress": "<=1.1",
-        "wpackagist-plugin/sheets-to-wp-table-live-sync": "<= 3.7.0.0",
+        "wpackagist-plugin/sheets-to-wp-table-live-sync": "<= 3.19.1.0",
         "wpackagist-plugin/shelf-planner": "<= 2.8.1.0",
         "wpackagist-plugin/shibboleth": "<=1.6",
         "wpackagist-plugin/shiftcontroller": "<= 4.9.66.0",
