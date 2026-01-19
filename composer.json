@@ -1469,7 +1469,7 @@
         "wpackagist-plugin/blockington": "1.0.2",
         "wpackagist-plugin/blockmeister": "<= 3.1.10.0",
         "wpackagist-plugin/blockonomics-bitcoin-payments": "<=3.5.7",
-        "wpackagist-plugin/blockons": ">=1.0.2,<=1.0.7",
+        "wpackagist-plugin/blockons": "<= 1.2.15.0",
         "wpackagist-plugin/blocks": "<=1.6.42",
         "wpackagist-plugin/blocks-bakery": ">=1.0.0,<=1.0.12",
         "wpackagist-plugin/blocks-post-grid": "<=1.0.3",
