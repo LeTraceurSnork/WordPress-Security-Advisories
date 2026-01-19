@@ -877,7 +877,7 @@
         "wpackagist-plugin/api-info-themes-plugins-wp-org": "<=1.04",
         "wpackagist-plugin/api-key-for-google-maps": "<=1.2.1",
         "wpackagist-plugin/api2cart-bridge-connector": "<= 1.1.0.0",
-        "wpackagist-plugin/apimo": "<=2.6.3.1",
+        "wpackagist-plugin/apimo": "<= 2.6.4.0",
         "wpackagist-plugin/apk-downloader": "<=1.0.0",
         "wpackagist-plugin/apocalypse-meow": ">=21.1.3,<=21.2.7",
         "wpackagist-plugin/apollo13-framework-extensions": "<= 1.9.3.0",
