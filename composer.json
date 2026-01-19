@@ -1798,7 +1798,7 @@
         "wpackagist-plugin/bulk-youtube-post-creator": "<=1.0",
         "wpackagist-plugin/bulkpress": "<=0.3.5",
         "wpackagist-plugin/bulletin-announcements": "<=3.11.7",
-        "wpackagist-plugin/bulletproof-security": "< 6.1.0.0-dev",
+        "wpackagist-plugin/bulletproof-security": "<= 6.9.0.0",
         "wpackagist-plugin/bulma-shortcodes": "<=1.0",
         "wpackagist-plugin/bunnycdn": "<= 2.3.0.0",
         "wpackagist-plugin/bunnys-print-css": "<=0.95",
