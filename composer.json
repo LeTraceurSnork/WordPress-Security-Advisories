@@ -15492,7 +15492,7 @@
         "wpackagist-theme/phlox-pro": "<=5.16.4",
         "wpackagist-theme/photobox": "<=2.0.1",
         "wpackagist-theme/photocrati-theme": "*",
-        "wpackagist-theme/photography": "<= 7.7.2.0",
+        "wpackagist-theme/photography": "< 7.7.5.0-dev",
         "wpackagist-theme/photolio": "*",
         "wpackagist-theme/photology": "<=1.1.3",
         "wpackagist-theme/picturefactory": "*",
