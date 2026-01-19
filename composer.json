@@ -5013,6 +5013,7 @@
         "wpackagist-plugin/glorious-sites-installer": ">=1.0.0,<=1.0.1",
         "wpackagist-plugin/glossary-by-codeat": "<= 2.2.26.0",
         "wpackagist-plugin/glossy": "<=2.3.5",
+        "wpackagist-plugin/gls-shipping-for-woocommerce": "<=1.3.3",
         "wpackagist-plugin/gm-woo-product-list-widget": "<=1.0",
         "wpackagist-plugin/gm-woocommerce-quote-popup": "<=3.1",
         "wpackagist-plugin/gmace": "<=1.5.2",
