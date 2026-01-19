@@ -9495,6 +9495,7 @@
         "wpackagist-plugin/searchiq": "<= 4.7.0.0",
         "wpackagist-plugin/searchpro": "<= 2.2.53.0",
         "wpackagist-plugin/searchterms-tagging-2": "<=1.535",
+        "wpackagist-plugin/searchwiz": "<=1.0.0",
         "wpackagist-plugin/searchwp": "<=4.2.5",
         "wpackagist-plugin/searchwp-live-ajax-search": "<= 1.6.2.0",
         "wpackagist-plugin/seatgeek-affiliate-tickets": "*",
