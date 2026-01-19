@@ -11024,7 +11024,7 @@
         "wpackagist-plugin/thebooking": "<=1.4.4",
         "wpackagist-plugin/thecartpress": "<=1.5.3.6",
         "wpackagist-plugin/thegem-elements": "<=5.10.5.1",
-        "wpackagist-plugin/thegem-elements-elementor": "<=5.10.5.1",
+        "wpackagist-plugin/thegem-elements-elementor": "<= 5.11.0.0",
         "wpackagist-plugin/thegem-importer": "<=5.10.5",
         "wpackagist-plugin/themarketer": "<=1.4.7",
         "wpackagist-plugin/theme-blvd-layout-builder": "<=2.0.1",
