@@ -1276,6 +1276,7 @@
         "wpackagist-plugin/banner-system": "<=1.0.0",
         "wpackagist-plugin/bannerlid": "<=1.1.0",
         "wpackagist-plugin/bannerman": "<=0.2.4",
+        "wpackagist-plugin/baqend": "<=2.0.2",
         "wpackagist-plugin/barclaycart": "*",
         "wpackagist-plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders": "<= 1.10.4.0",
         "wpackagist-plugin/bard-extra": "<=1.2.7",
