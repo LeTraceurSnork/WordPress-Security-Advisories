@@ -9020,6 +9020,7 @@
         "wpackagist-plugin/register-plus": "<=3.5.11",
         "wpackagist-plugin/register-plus-redux": "<=4.3",
         "wpackagist-plugin/registered-user-sync-activecampaign": "<=1.3.2",
+        "wpackagist-plugin/registration-login-with-mobile-phone-number": "<=1.2.9",
         "wpackagist-plugin/registration-password": "<=1.0.1",
         "wpackagist-plugin/registrations-for-the-events-calendar": "<= 2.13.3.0",
         "wpackagist-plugin/reglevel": "<=1.2.1",
