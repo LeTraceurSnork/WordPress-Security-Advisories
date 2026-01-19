@@ -6461,6 +6461,7 @@
         "wpackagist-plugin/list-pages-shortcode": "<=1.7.5",
         "wpackagist-plugin/list-posts-by-category": "<=2.0",
         "wpackagist-plugin/list-related-attachments-widget": "<=2.1.6",
+        "wpackagist-plugin/list-site-contributors": "<=1.1.8",
         "wpackagist-plugin/list-sub-pages": "<=1.0.6",
         "wpackagist-plugin/list-urls": "<=0.2",
         "wpackagist-plugin/listamester": "<=2.3.6",
