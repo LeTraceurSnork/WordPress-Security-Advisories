@@ -4734,7 +4734,7 @@
         "wpackagist-plugin/fs-license-manager": "<=5.3.1",
         "wpackagist-plugin/fs-poster": "<=6.5.8",
         "wpackagist-plugin/fs-product-inquiry": "<=1.1.1",
-        "wpackagist-plugin/fs-real-estate-plugin": "<=2.06.03",
+        "wpackagist-plugin/fs-real-estate-plugin": "<= 2.7.11.0",
         "wpackagist-plugin/fs-shopping-cart": "<=2.07.02",
         "wpackagist-plugin/fscf-sms": "<=2.1.2",
         "wpackagist-plugin/fsflex-local-fonts": "<=1.0.0",
