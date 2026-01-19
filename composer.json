@@ -2201,6 +2201,7 @@
         "wpackagist-plugin/citizen-space": "<=1.1",
         "wpackagist-plugin/cits-support-svg-webp-media-upload": "<= 4.2.0.0",
         "wpackagist-plugin/civi-framework": "<=2.1.6.3",
+        "wpackagist-plugin/civic-cookie-control-8": "<=1.53",
         "wpackagist-plugin/civicrm": "<=5.28.0",
         "wpackagist-plugin/cj-change-howdy": "<=3.3.1",
         "wpackagist-plugin/cj-custom-content": "<=2.0",
