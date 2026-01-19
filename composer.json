@@ -9105,7 +9105,7 @@
         "wpackagist-plugin/responsive-add-ons": "<= 3.2.2.0",
         "wpackagist-plugin/responsive-addons-for-elementor": "<= 2.0.1.0",
         "wpackagist-plugin/responsive-and-swipe-slider": "<=1.0.2",
-        "wpackagist-plugin/responsive-block-control": "<=1.2.9",
+        "wpackagist-plugin/responsive-block-control": "<= 1.3.0.0",
         "wpackagist-plugin/responsive-block-editor-addons": "<= 2.0.6.0",
         "wpackagist-plugin/responsive-category-slider": "*",
         "wpackagist-plugin/responsive-client-logo-carousel-slider": "<=1.2.0",
