@@ -3805,6 +3805,7 @@
         "wpackagist-plugin/ehive-account-details": "<2.1.3",
         "wpackagist-plugin/ehive-object-details": "<2.1.7",
         "wpackagist-plugin/ehive-objects-image-grid": "<=2.4.1",
+        "wpackagist-plugin/ehive-search": "<=2.5.0",
         "wpackagist-plugin/eid-easy-qualified-electonic-signature": "<=3.3.0",
         "wpackagist-plugin/eight-day-week-print-workflow": "<=1.2.5",
         "wpackagist-plugin/einvoiceapp-malaysia": "<=1.3.0",
