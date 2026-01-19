@@ -12480,6 +12480,7 @@
         "wpackagist-plugin/woocommerce-extra-charges-to-payment-gateways": "<=2.0.2.1",
         "wpackagist-plugin/woocommerce-follow-up-emails": "<= 4.9.50.0",
         "wpackagist-plugin/woocommerce-for-japan": "<= 2.7.17.0",
+        "wpackagist-plugin/woocommerce-for-paygent-payment-main": "<=2.4.6",
         "wpackagist-plugin/woocommerce-fortnox-integration": "<= 4.5.6.0",
         "wpackagist-plugin/woocommerce-frontend-shop-manager": "<4.7.0",
         "wpackagist-plugin/woocommerce-gateway-amazon-payments-advanced": "2.0.0",
