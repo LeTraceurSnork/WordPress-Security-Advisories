@@ -1165,7 +1165,7 @@
         "wpackagist-plugin/awesome-gallery": "<=1.0",
         "wpackagist-plugin/awesome-gallery-singsys": "<=1.0",
         "wpackagist-plugin/awesome-hooks": "<=1.0.1",
-        "wpackagist-plugin/awesome-hotel-booking": "<=1.0",
+        "wpackagist-plugin/awesome-hotel-booking": "<= 1.0.3.0",
         "wpackagist-plugin/awesome-logo-carousel-block": "<=2.1.6",
         "wpackagist-plugin/awesome-logos": "<=1.2",
         "wpackagist-plugin/awesome-progess-bar": "<= 1.0.13.0",
