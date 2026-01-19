@@ -9313,7 +9313,7 @@
         "wpackagist-plugin/rss-feed-post-generator-echo": "<= 5.4.8.1",
         "wpackagist-plugin/rss-feed-pro": "<=1.1.8",
         "wpackagist-plugin/rss-feed-reader": "<=0.1",
-        "wpackagist-plugin/rss-feed-widget": "<= 3.0.0.0",
+        "wpackagist-plugin/rss-feed-widget": "<= 3.0.2.0",
         "wpackagist-plugin/rss-filter": "<=1.2",
         "wpackagist-plugin/rss-for-yandex-turbo": "<= 1.30.0.0",
         "wpackagist-plugin/rss-icon-widget": "<=5.2",
