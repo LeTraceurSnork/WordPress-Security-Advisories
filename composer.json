@@ -2646,7 +2646,7 @@
         "wpackagist-plugin/cookiehub": "<=1.1.0",
         "wpackagist-plugin/cookielay": "<=1.2.0",
         "wpackagist-plugin/cookiemonster": "<=1.51",
-        "wpackagist-plugin/cookies-and-content-security-policy": "<=2.15",
+        "wpackagist-plugin/cookies-and-content-security-policy": "<= 2.34.0.0",
         "wpackagist-plugin/cookies-by-jm": "<=1.0",
         "wpackagist-plugin/cookies-pro": "<=1.0",
         "wpackagist-plugin/cool-facebook-page-feed-timeline": "*",
