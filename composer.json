@@ -13319,6 +13319,7 @@
         "wpackagist-plugin/wp-last-modified": "<=0.1",
         "wpackagist-plugin/wp-last-modified-info": "<= 1.9.4.0",
         "wpackagist-plugin/wp-latest-posts": "<=5.0.7",
+        "wpackagist-plugin/wp-lead-capture": "<=2.5",
         "wpackagist-plugin/wp-lead-stream": ">=1.1,<=1.2",
         "wpackagist-plugin/wp-leads-builder-any-crm": "<= 3.1.0.0",
         "wpackagist-plugin/wp-less": "<=1.9.6",
