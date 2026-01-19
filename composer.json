@@ -3526,7 +3526,7 @@
         "wpackagist-plugin/e-mailit": "<=13.0.0",
         "wpackagist-plugin/e-namad-shamed-logo-manager": "<=2.2",
         "wpackagist-plugin/e-search": "<=1.0",
-        "wpackagist-plugin/e-shops-cart2": "<=1.0.3",
+        "wpackagist-plugin/e-shops-cart2": "<= 1.0.4.0",
         "wpackagist-plugin/e-signature": "<1.5.6.8",
         "wpackagist-plugin/e-unlocked-student-result": "<=1.0.4",
         "wpackagist-plugin/e2pdf": "<= 1.28.09.0",
