@@ -9461,6 +9461,7 @@
         "wpackagist-plugin/scroll-triggered-animations": "<= 3.0.16.0",
         "wpackagist-plugin/scrollbar-by-webxapp": "<=1.3.0",
         "wpackagist-plugin/scrollbar-customizer": "<=1.5.0",
+        "wpackagist-plugin/scroller": "<=2.0.2",
         "wpackagist-plugin/scrolling-anchors": "<=2.23.1",
         "wpackagist-plugin/scrollrevealjs-effects": "<=1.2",
         "wpackagist-plugin/scrollsequence": "<=1.5.4",
