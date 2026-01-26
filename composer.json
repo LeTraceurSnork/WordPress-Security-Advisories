@@ -2315,6 +2315,7 @@
         "wpackagist-plugin/cm-ad-changer": "<= 2.0.5.0",
         "wpackagist-plugin/cm-answers": "<= 3.3.3.0",
         "wpackagist-plugin/cm-business-directory": "<= 1.5.2.0",
+        "wpackagist-plugin/cm-css-columns": "<=1.2.1",
         "wpackagist-plugin/cm-download-manager": "<= 2.9.6.0",
         "wpackagist-plugin/cm-email-blacklist": "<= 1.6.2.0",
         "wpackagist-plugin/cm-faq": "<=1.2.5",
