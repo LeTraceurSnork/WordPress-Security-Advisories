@@ -5532,7 +5532,7 @@
         "wpackagist-plugin/html-social-share-buttons": "<=2.1.16",
         "wpackagist-plugin/html2wp": "<=1.0.0",
         "wpackagist-plugin/html5-audio-player": "<= 2.2.28.0 || >=2.4.0,<=2.5.1",
-        "wpackagist-plugin/html5-chat": "<=1.04",
+        "wpackagist-plugin/html5-chat": "<= 1.07.0.0",
         "wpackagist-plugin/html5-jquery-audio-player": "<=2.6.2",
         "wpackagist-plugin/html5-lyrics-karaoke-player": "<=2.4",
         "wpackagist-plugin/html5-maps": "<=1.7.1.4",
