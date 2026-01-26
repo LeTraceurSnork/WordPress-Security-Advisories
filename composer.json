@@ -9950,6 +9950,7 @@
         "wpackagist-plugin/simple-contact-forms": "<=1.6.4",
         "wpackagist-plugin/simple-contact-info-widget": "<=2.6.2",
         "wpackagist-plugin/simple-content-construction-kit": "<=1.0.3",
+        "wpackagist-plugin/simple-crypto-shortcodes": "<=1.0.2",
         "wpackagist-plugin/simple-csv-table": "<=1.0.1",
         "wpackagist-plugin/simple-csv-xls-exporter": "<=1.5.8",
         "wpackagist-plugin/simple-custom-admin": "<=1.2",
