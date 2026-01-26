@@ -387,6 +387,7 @@
         "wpackagist-plugin/adminer": "<=1.4.5",
         "wpackagist-plugin/adminify": "<= 4.0.6.1",
         "wpackagist-plugin/adminimize": "< 1.7.22.0-dev",
+        "wpackagist-plugin/administrative-shortcodes": "<=0.3.4",
         "wpackagist-plugin/administrator-z": "<= 2025.09.27.0",
         "wpackagist-plugin/adminonline": "*",
         "wpackagist-plugin/adminpad": "<=2.1",
