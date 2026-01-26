@@ -12454,7 +12454,7 @@
         "wpackagist-plugin/woo-parcel-pro": "<=1.8.4",
         "wpackagist-plugin/woo-payment-gateway": "<=3.2.78",
         "wpackagist-plugin/woo-payment-gateway-for-piraeus-bank": "<= 3.1.4.0",
-        "wpackagist-plugin/woo-payment-gateway-paysera": "<=3.9.0",
+        "wpackagist-plugin/woo-payment-gateway-paysera": "<= 3.10.0.0",
         "wpackagist-plugin/woo-paypal-gateway": "<= 9.0.53.0",
         "wpackagist-plugin/woo-payrexx-gateway": "<=3.1.5",
         "wpackagist-plugin/woo-pdf-invoice-builder": "<= 1.2.150.0",
