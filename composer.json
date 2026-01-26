@@ -3681,7 +3681,7 @@
         "wpackagist-plugin/easy-property-listings-xml-csv-import": "<=2.2.1",
         "wpackagist-plugin/easy-query": "<=2.0.4",
         "wpackagist-plugin/easy-quotes": "<= 1.2.4.0",
-        "wpackagist-plugin/easy-real-estate": "<=2.2.6",
+        "wpackagist-plugin/easy-real-estate": "<= 2.2.9.0",
         "wpackagist-plugin/easy-redirect-manager": "<=2.18.18",
         "wpackagist-plugin/easy-registration-forms": "<=2.1.1",
         "wpackagist-plugin/easy-related-posts": "<=2.0.2",
