@@ -7015,6 +7015,7 @@
         "wpackagist-plugin/meks-video-importer": "<= 1.0.12.0",
         "wpackagist-plugin/melapress-login-security": "<= 2.1.1.0",
         "wpackagist-plugin/melapress-login-security-premium": "2.1.0",
+        "wpackagist-plugin/melapress-role-editor": "<=1.1.1",
         "wpackagist-plugin/melascrivi": "<=1.4",
         "wpackagist-plugin/melhor-envio-cotacao": "<= 2.15.11.0",
         "wpackagist-plugin/melipayamak": "<=2.2.12",
