@@ -4743,7 +4743,7 @@
         "wpackagist-plugin/freshmail-newsletter": "< 1.6.0.0-dev",
         "wpackagist-plugin/frictionless": "<=0.0.23",
         "wpackagist-plugin/friechat": "<1.0.3",
-        "wpackagist-plugin/friendly-functions-for-welcart": "<=1.2.4",
+        "wpackagist-plugin/friendly-functions-for-welcart": "<= 1.2.5.0",
         "wpackagist-plugin/friends": "<= 3.2.1.0 || 3.5.1",
         "wpackagist-plugin/friendstore-for-woocommerce": "<=1.4.2",
         "wpackagist-plugin/frizzly": "<=1.1.0",
