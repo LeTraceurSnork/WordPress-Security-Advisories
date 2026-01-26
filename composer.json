@@ -1920,6 +1920,7 @@
         "wpackagist-plugin/candifly": "<=1.0.6",
         "wpackagist-plugin/canonical-attachments": "<=1.7",
         "wpackagist-plugin/canto": "<= 3.0.8.0",
+        "wpackagist-plugin/canto-testimonials": "<=1.0",
         "wpackagist-plugin/canva": "<=1.2.4",
         "wpackagist-plugin/canvasflow": "<=1.5.5",
         "wpackagist-plugin/canvasio3d-light": "<=2.5.0",
