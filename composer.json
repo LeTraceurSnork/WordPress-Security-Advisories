@@ -5368,7 +5368,7 @@
         "wpackagist-plugin/hdw-tube": "<=1.2",
         "wpackagist-plugin/head-meta-data": "<= 20251118",
         "wpackagist-plugin/header-and-footer-script-adder": "<=2.0.5",
-        "wpackagist-plugin/header-and-footer-scripts": "<=2.2.2",
+        "wpackagist-plugin/header-and-footer-scripts": "<= 2.3.0.0",
         "wpackagist-plugin/header-enhancement": "<1.5",
         "wpackagist-plugin/header-footer": "<=3.3.0",
         "wpackagist-plugin/header-footer-code": "<=1.1",
