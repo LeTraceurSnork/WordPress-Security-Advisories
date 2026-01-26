@@ -5325,6 +5325,7 @@
         "wpackagist-plugin/gwyns-imagemap-selector": "<=0.3.3",
         "wpackagist-plugin/gym-management": "*",
         "wpackagist-plugin/gyta-buyback": ">=1.0.11,<=1.2.8",
+        "wpackagist-plugin/gzseo": "<=2.0.11",
         "wpackagist-plugin/h5p": "<= 1.16.1.0",
         "wpackagist-plugin/h5p-css-editor": "<=1.0",
         "wpackagist-plugin/h5pxapikatchu": "<= 0.4.17.0",
