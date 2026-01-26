@@ -12776,7 +12776,7 @@
         "wpackagist-plugin/wordpress-notification-bar": "<=1.3.10",
         "wpackagist-plugin/wordpress-plugin-for-simple-google-adsense-insertion": "<=2.0",
         "wpackagist-plugin/wordpress-popular-posts": "<= 7.1.0.0",
-        "wpackagist-plugin/wordpress-popup": "<=7.8.5",
+        "wpackagist-plugin/wordpress-popup": "<= 7.8.9.2",
         "wpackagist-plugin/wordpress-processing-embed": "<=0.5.1",
         "wpackagist-plugin/wordpress-sentinel": "<=1.0.0",
         "wpackagist-plugin/wordpress-seo": "<=22.6",
