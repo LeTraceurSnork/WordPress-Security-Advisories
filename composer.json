@@ -9515,7 +9515,7 @@
         "wpackagist-plugin/scheduled": "<=1.0",
         "wpackagist-plugin/scheduled-announcements-widget": "<=0.2",
         "wpackagist-plugin/schedulicity-online-appointment-booking": "<=2.21",
-        "wpackagist-plugin/schema-and-structured-data-for-wp": "<= 1.51.0.0",
+        "wpackagist-plugin/schema-and-structured-data-for-wp": "<= 1.54.0.0",
         "wpackagist-plugin/schema-app-structured-data-for-schemaorg": "<= 2.2.4.0",
         "wpackagist-plugin/schema-scalpel": "<=1.6.1",
         "wpackagist-plugin/school-management": "*",
