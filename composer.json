@@ -390,7 +390,7 @@
         "wpackagist-plugin/administrator-z": "<= 2025.09.27.0",
         "wpackagist-plugin/adminonline": "*",
         "wpackagist-plugin/adminpad": "<=2.1",
-        "wpackagist-plugin/adminquickbar": "<=1.9.1",
+        "wpackagist-plugin/adminquickbar": "<= 1.9.3.0",
         "wpackagist-plugin/admire-extra": "<=1.6",
         "wpackagist-plugin/admission-appmanager": "<=1.0.0",
         "wpackagist-plugin/adplugg": "<1.1.34",
