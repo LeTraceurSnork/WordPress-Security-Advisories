@@ -14638,6 +14638,7 @@
         "wpackagist-plugin/zotpress": "<= 7.3.15.0",
         "wpackagist-plugin/zox-news": "<=3.17.0",
         "wpackagist-plugin/zstore-manager-basic": "<=3.311",
+        "wpackagist-plugin/zt-captcha": "<=1.0.4",
         "wpackagist-plugin/zuppler-online-ordering": "<=2.1.0",
         "wpackagist-plugin/zweb-social-mobile": "<=1.0.0",
         "wpackagist-plugin/zx-csv-upload": "<=1",
