@@ -11161,6 +11161,7 @@
         "wpackagist-plugin/thememove-core": "<=1.4.2",
         "wpackagist-plugin/themerain-core": "<=1.1.9",
         "wpackagist-plugin/themereps-helper": ">=1.0.0,<=1.0.3",
+        "wpackagist-plugin/themeruby-multi-authors": "<=1.0.0",
         "wpackagist-plugin/themes4wp-youtube-external-subtitles": "<=1.0",
         "wpackagist-plugin/themesflat-addons-for-elementor": "<= 2.3.1.0",
         "wpackagist-plugin/themeshark-elementor": "<=1.1.7",
