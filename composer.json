@@ -2646,6 +2646,7 @@
         "wpackagist-plugin/cookie-bar": "< 2.1.0.0-dev",
         "wpackagist-plugin/cookie-consent-autoblock": "<=1.0.1",
         "wpackagist-plugin/cookie-consent-box": "<=1.1.6",
+        "wpackagist-plugin/cookie-consent-for-developers": "<=1.7.1",
         "wpackagist-plugin/cookie-law-bar": "<=1.2.1",
         "wpackagist-plugin/cookie-law-info": "<1.8.3",
         "wpackagist-plugin/cookie-monster": "<=1.2.2",
