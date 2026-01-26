@@ -7063,6 +7063,7 @@
         "wpackagist-plugin/message-ticker": "<= 9.3.0.0",
         "wpackagist-plugin/meta-accelerator": "<=1.0.4",
         "wpackagist-plugin/meta-box": "<=5.9.10",
+        "wpackagist-plugin/meta-box-gallerymeta": "<=3.0.1",
         "wpackagist-plugin/meta-display-block": "<=1.0.0",
         "wpackagist-plugin/meta-slider-and-carousel-with-lightbox": "<= 2.0.1.0",
         "wpackagist-plugin/meta-store-elements": "<=1.0.9",
