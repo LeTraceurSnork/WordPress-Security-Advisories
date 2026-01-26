@@ -11724,6 +11724,7 @@
         "wpackagist-plugin/user-avatar-reloaded": "<= 1.2.2.0",
         "wpackagist-plugin/user-blocker": "<=1.5.5",
         "wpackagist-plugin/user-control": "<=2.1.0",
+        "wpackagist-plugin/user-counter": "<=6.0",
         "wpackagist-plugin/user-domain-whitelist": "<1.5",
         "wpackagist-plugin/user-drop-down-roles-in-registration": "<=1.1",
         "wpackagist-plugin/user-export-with-their-meta-data": "<= 0.6.8.0",
