@@ -10402,7 +10402,7 @@
         "wpackagist-plugin/snazzy-maps": "<=1.1.4",
         "wpackagist-plugin/snazzyadmin-wp-admin-theme": "<=1.0.2",
         "wpackagist-plugin/sneeit-framework": "<=8.3",
-        "wpackagist-plugin/snillrik-restaurant-menu": "<=2.2.1",
+        "wpackagist-plugin/snillrik-restaurant-menu": "<= 2.3.0.0",
         "wpackagist-plugin/snipe-nginx-cache": "<=1.0.4.2",
         "wpackagist-plugin/sniplets": "<1.2.3",
         "wpackagist-plugin/snippy": "<=1.4.1",
