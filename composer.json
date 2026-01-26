@@ -6625,6 +6625,7 @@
         "wpackagist-plugin/login-logout-shortcode": "<=1.1.0",
         "wpackagist-plugin/login-me-now": "<=1.7.2",
         "wpackagist-plugin/login-or-logout-menu-item": "<1.2.0",
+        "wpackagist-plugin/login-page-editor": "<=1.2",
         "wpackagist-plugin/login-page-styler": "<= 7.1.1.0",
         "wpackagist-plugin/login-rebuilder": "<=2.8.0",
         "wpackagist-plugin/login-recaptcha": "<=1.6.11",
