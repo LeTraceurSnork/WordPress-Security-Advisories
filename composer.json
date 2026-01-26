@@ -1591,7 +1591,7 @@
         "wpackagist-plugin/booking-x": ">=1.0,<=1.1.2",
         "wpackagist-plugin/bookingcom-banner-creator": "<=1.4.6",
         "wpackagist-plugin/bookingcom-product-helper": "<1.0.2",
-        "wpackagist-plugin/bookingor": "<= 1.0.8.0",
+        "wpackagist-plugin/bookingor": "<= 2.0.1.0",
         "wpackagist-plugin/bookingpress-appointment-booking": "<= 1.1.28.0",
         "wpackagist-plugin/bookit": "<= 2.5.0.0",
         "wpackagist-plugin/bookly-responsive-appointment-booking-tool": "<=23.2",
