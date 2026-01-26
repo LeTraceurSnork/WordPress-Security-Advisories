@@ -14607,7 +14607,7 @@
         "wpackagist-plugin/zingiri-forum": "<1.4.4",
         "wpackagist-plugin/zingiri-tickets": "<=3.0.3",
         "wpackagist-plugin/zingiri-web-shop": "<2.4.2",
-        "wpackagist-plugin/zionbuilder": "<= 3.6.14.0",
+        "wpackagist-plugin/zionbuilder": "<= 3.6.16.0",
         "wpackagist-plugin/zip-attachments": "<= 1.6.0.0",
         "wpackagist-plugin/zip-code-based-content-protection": "<=1.0.0",
         "wpackagist-plugin/zip-codes-redirect": ">=1.0.1,<=5.1.1",
