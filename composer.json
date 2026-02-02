@@ -1216,7 +1216,7 @@
         "wpackagist-plugin/ayo-shortcodes": "<=0.2",
         "wpackagist-plugin/ays-chatgpt-assistant": "<= 2.7.0.0",
         "wpackagist-plugin/ays-facebook-popup-likebox": "<= 3.7.2.0",
-        "wpackagist-plugin/ays-popup-box": "<= 6.0.7.0 || >= 7.0.0.0-dev < 7.9.0.0-dev || >= 20.0.0.0-dev < 20.9.0.0-dev",
+        "wpackagist-plugin/ays-popup-box": "<= 6.1.1.0 || >= 7.0.0.0-dev < 7.9.0.0-dev || >= 20.0.0.0-dev < 20.9.0.0-dev",
         "wpackagist-plugin/ays-slider": "<= 2.7.0.0",
         "wpackagist-plugin/ayyash-studio": "<=1.0.3",
         "wpackagist-plugin/az-content-finder": "<=0.1",
