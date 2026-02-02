@@ -8176,6 +8176,7 @@
         "wpackagist-plugin/penci-podcast": "<=1.6",
         "wpackagist-plugin/penci-portfolio": "<=3.5",
         "wpackagist-plugin/penci-recipe": "<=4.0",
+        "wpackagist-plugin/penci-review": "<=3.5",
         "wpackagist-plugin/penci-shortcodes": "<6.1",
         "wpackagist-plugin/pending-order-bot": "<=1.0.2",
         "wpackagist-plugin/people-lists": "<=1.3.10",
