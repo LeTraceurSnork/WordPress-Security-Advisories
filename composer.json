@@ -12388,7 +12388,7 @@
         "wpackagist-plugin/wish-wait-list-for-woocommerce": "<=3.5.7.6",
         "wpackagist-plugin/wishlist": "<= 2.1.0.0",
         "wpackagist-plugin/wishlist-and-compare": "<=1.0.4",
-        "wpackagist-plugin/wishlist-member-x": "<=3.25.1",
+        "wpackagist-plugin/wishlist-member-x": "<= 3.29.0.0",
         "wpackagist-plugin/wishsuite": "<= 1.5.1.0",
         "wpackagist-plugin/wisly": "<=1.0.0",
         "wpackagist-plugin/wizhi-multi-filters": "<=1.8.6",
