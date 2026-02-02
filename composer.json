@@ -8802,6 +8802,7 @@
         "wpackagist-plugin/propovoice-pro": "<=1.7.0.3",
         "wpackagist-plugin/proquoter": "<=1.0",
         "wpackagist-plugin/proranktracker": "<=1.0.0",
+        "wpackagist-plugin/proteccion-datos-rgpd": "<=0.68",
         "wpackagist-plugin/protect-uploads": "<=0.3",
         "wpackagist-plugin/protect-uploads-with-login-page": ">=1.4,<=1.8",
         "wpackagist-plugin/protect-wp-admin": "<= 4.1.0.0",
