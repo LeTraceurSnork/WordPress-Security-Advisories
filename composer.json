@@ -6374,7 +6374,7 @@
         "wpackagist-plugin/ldap-wp-login-integration-with-active-directory": "<3.0.2",
         "wpackagist-plugin/ldd-directory-lite": "<=3.5",
         "wpackagist-plugin/lead-capturing-call-to-actions-by-vcita": "<= 2.7.1.0",
-        "wpackagist-plugin/lead-form-builder": "<= 1.9.7.0",
+        "wpackagist-plugin/lead-form-builder": "<= 2.0.1.0",
         "wpackagist-plugin/lead-generated": "<=1.23",
         "wpackagist-plugin/lead-octopus-power": "<1.1.1",
         "wpackagist-plugin/leadbi": "<=1.7",
