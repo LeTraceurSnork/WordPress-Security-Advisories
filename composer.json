@@ -6188,6 +6188,7 @@
         "wpackagist-plugin/keep-backup-daily": "<= 2.1.0.0",
         "wpackagist-plugin/kenta-blocks": "<= 1.3.9.0",
         "wpackagist-plugin/kenta-companion": ">=1.0.0,<=1.1.8",
+        "wpackagist-plugin/kentha-elementor": "<3.1",
         "wpackagist-plugin/kento-ads-rotator": "<=1.3",
         "wpackagist-plugin/kento-latest-tabs": "<=1.5",
         "wpackagist-plugin/kento-post-view-counter": "<=2.8",
