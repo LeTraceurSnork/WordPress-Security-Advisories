@@ -13269,7 +13269,7 @@
         "wpackagist-plugin/wp-event-aggregator": "<= 1.8.2.0",
         "wpackagist-plugin/wp-event-manager": "<= 3.2.0.0",
         "wpackagist-plugin/wp-event-partners": ">=1.0.0,<=1.2.5",
-        "wpackagist-plugin/wp-event-solution": "<= 4.0.51.0",
+        "wpackagist-plugin/wp-event-solution": "<= 4.1.1.0",
         "wpackagist-plugin/wp-eventpress": "<=1.0.0",
         "wpackagist-plugin/wp-events": "<=2.3.4",
         "wpackagist-plugin/wp-events-manager": "<= 2.2.1.0",
