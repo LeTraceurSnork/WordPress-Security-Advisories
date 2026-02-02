@@ -1131,7 +1131,7 @@
         "wpackagist-plugin/automatewoo": "<= 5.7.5.0",
         "wpackagist-plugin/automatic-ban-ip": "<=1.0.7",
         "wpackagist-plugin/automatic-domain-changer": "<=2.0.2",
-        "wpackagist-plugin/automatic-featured-images-from-videos": "<=1.2.4",
+        "wpackagist-plugin/automatic-featured-images-from-videos": "<= 1.2.7.0",
         "wpackagist-plugin/automatic-grid-image-listing": "<=1.0",
         "wpackagist-plugin/automatic-internal-links-for-seo": "<=1.2.1",
         "wpackagist-plugin/automatic-pages-for-privacy-policy-terms-about-and-contact": "<=1.41",
