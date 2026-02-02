@@ -10132,6 +10132,7 @@
         "wpackagist-plugin/simple-restrict": "<= 1.2.7.0",
         "wpackagist-plugin/simple-retail-menus": "<=4.0.1",
         "wpackagist-plugin/simple-revisions-delete": "<=1.5.3",
+        "wpackagist-plugin/simple-sales-tax": "<=8.3.8",
         "wpackagist-plugin/simple-schools-staff-directory": "<=1.1",
         "wpackagist-plugin/simple-security": "<=1.1.5",
         "wpackagist-plugin/simple-select-all-text-box": "<=3.2",
