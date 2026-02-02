@@ -7538,7 +7538,7 @@
         "wpackagist-plugin/nearby-locations": "<=1.1.1",
         "wpackagist-plugin/nearby-now-reviews": "<=5.2",
         "wpackagist-plugin/nebulax": "<5.0",
-        "wpackagist-plugin/nelio-ab-testing": "<4.6.4",
+        "wpackagist-plugin/nelio-ab-testing": "<= 8.1.8.0",
         "wpackagist-plugin/nelio-content": "<= 4.2.0.0",
         "wpackagist-plugin/nelio-popups": "<=1.3.0",
         "wpackagist-plugin/nemesis-all-in-one": "<=1.1.1",
