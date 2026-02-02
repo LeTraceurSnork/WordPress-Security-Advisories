@@ -12240,7 +12240,7 @@
         "wpackagist-plugin/webp-express": "<= 0.25.9.0",
         "wpackagist-plugin/webp-svg-support": "<=1.4.0",
         "wpackagist-plugin/webparex": "<=1.0",
-        "wpackagist-plugin/webpushr-web-push-notifications": "<=4.35.0",
+        "wpackagist-plugin/webpushr-web-push-notifications": "<= 4.38.0.0",
         "wpackagist-plugin/webriti-custom-login-page": "<=0.3",
         "wpackagist-plugin/webriti-smtp-mail": "<=1.0",
         "wpackagist-plugin/webrotate-360-product-viewer": "<2.5.2",
