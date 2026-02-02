@@ -4485,7 +4485,7 @@
         "wpackagist-plugin/firsth3tagadsense": "<=4.0.2",
         "wpackagist-plugin/fish-and-ships": "<=1.5.9",
         "wpackagist-plugin/fitness-calculators": "<= 2.0.8.0",
-        "wpackagist-plugin/fitness-trainer": "<1.4.1",
+        "wpackagist-plugin/fitness-trainer": "<= 1.7.1.0",
         "wpackagist-plugin/fitvids-for-wordpress": "<=4.0.1",
         "wpackagist-plugin/five-minute-webshop": "<=1.3.2",
         "wpackagist-plugin/five-star-ratings-shortcode": ">=1.0.0,<=1.2.47",
