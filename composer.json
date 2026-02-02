@@ -16235,7 +16235,7 @@
         "wpackagist-theme/wootique": "<=1.3.1",
         "wpackagist-theme/workio": "<=1.0.1",
         "wpackagist-theme/workreap": "<= 2.6.3.0",
-        "wpackagist-theme/workscout": "<=2.0.31",
+        "wpackagist-theme/workscout": "<= 4.1.07.0",
         "wpackagist-theme/workup": "<=2.1.5",
         "wpackagist-theme/wotahub": "<=1.2.2",
         "wpackagist-theme/wp-foodbakery": "<= 4.7.0.0",
