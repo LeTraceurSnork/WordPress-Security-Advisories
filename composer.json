@@ -6993,6 +6993,7 @@
         "wpackagist-plugin/media-library-assistant": "<= 3.30.0.0",
         "wpackagist-plugin/media-library-categories": "<=1.1.1",
         "wpackagist-plugin/media-library-downloader": "<= 1.4.0.0",
+        "wpackagist-plugin/media-library-file-size": "<=1.6.7",
         "wpackagist-plugin/media-library-helper": "<=1.2.0",
         "wpackagist-plugin/media-library-plus": "<= 8.3.0.0",
         "wpackagist-plugin/media-library-tools": "<= 1.6.15.0",
