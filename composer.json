@@ -8129,7 +8129,7 @@
         "wpackagist-plugin/pdf-creator-lite": "<=1.2",
         "wpackagist-plugin/pdf-embedder": "<=4.6.4",
         "wpackagist-plugin/pdf-embedder-fay": "<=1.10.1",
-        "wpackagist-plugin/pdf-for-contact-form-7": "<= 6.3.4.0",
+        "wpackagist-plugin/pdf-for-contact-form-7": "<= 6.5.0.0",
         "wpackagist-plugin/pdf-for-elementor-forms": "<= 6.3.1.0",
         "wpackagist-plugin/pdf-for-gravity-forms": "<=6.3.0",
         "wpackagist-plugin/pdf-for-woocommerce": "<= 6.3.2.0",
