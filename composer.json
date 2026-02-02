@@ -1230,6 +1230,7 @@
         "wpackagist-plugin/azurecurve-toggle-showhide": "<=2.1.3",
         "wpackagist-plugin/azw-woocommerce-file-uploads": ">=1.0,<=1.0.1",
         "wpackagist-plugin/azz-anonim-posting": "<=0.9",
+        "wpackagist-plugin/b-accordion": "<=2.0.0",
         "wpackagist-plugin/b-banner-slider": "<=1.1",
         "wpackagist-plugin/b-blocks": "<= 2.0.6.0",
         "wpackagist-plugin/b-carousel-block": "<=1.1.5",
