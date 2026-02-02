@@ -8133,7 +8133,7 @@
         "wpackagist-plugin/pdf-for-elementor-forms": "<= 6.3.1.0",
         "wpackagist-plugin/pdf-for-gravity-forms": "<=6.3.0",
         "wpackagist-plugin/pdf-for-woocommerce": "<= 6.3.2.0",
-        "wpackagist-plugin/pdf-for-wpforms": "<= 6.3.1.0",
+        "wpackagist-plugin/pdf-for-wpforms": "<= 6.5.0.0",
         "wpackagist-plugin/pdf-generator-addon-for-elementor-page-builder": "<= 2.0.1.0",
         "wpackagist-plugin/pdf-generator-for-wp": "<= 1.5.4.0",
         "wpackagist-plugin/pdf-image-generator": "<=1.5.6",
