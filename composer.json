@@ -6329,7 +6329,7 @@
         "wpackagist-plugin/lava-ajax-search": "<=1.1.9",
         "wpackagist-plugin/lava-directory-manager": "<=1.1.34",
         "wpackagist-plugin/lawpress": "<=1.4.5",
-        "wpackagist-plugin/lawyer-directory": "<1.2.9",
+        "wpackagist-plugin/lawyer-directory": "<= 1.3.3.0",
         "wpackagist-plugin/laybuy-gateway-for-woocommerce": "<=5.3.9",
         "wpackagist-plugin/layers": "<=0.5",
         "wpackagist-plugin/layerslider": "<= 7.7.9.0 || >= 7.9.11.0-dev <= 7.10.0.0 || 7.11.0",
