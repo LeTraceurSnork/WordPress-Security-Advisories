@@ -6345,7 +6345,7 @@
         "wpackagist-plugin/lazyest-backup": "<0.2.2",
         "wpackagist-plugin/lazyest-gallery": "<1.1.21",
         "wpackagist-plugin/lazyload-background-images": "<=1.0.7",
-        "wpackagist-plugin/lazytasks-project-task-management": "<=1.2.29",
+        "wpackagist-plugin/lazytasks-project-task-management": "<= 1.4.01.0",
         "wpackagist-plugin/lb-mixed-slideshow": "<=1.0",
         "wpackagist-plugin/lb-tube-video": "*",
         "wpackagist-plugin/lbg-audio1-html5": "<=3.5.6",
