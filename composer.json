@@ -13425,6 +13425,7 @@
         "wpackagist-plugin/wp-force-ssl": "<=1.66",
         "wpackagist-plugin/wp-forecast": "<= 9.2.0.0",
         "wpackagist-plugin/wp-forms-puzzle-captcha": "<=4.1",
+        "wpackagist-plugin/wp-forms-signature-contract-add-on": "<=1.8.2",
         "wpackagist-plugin/wp-forum": "<=2.4",
         "wpackagist-plugin/wp-fountain": "<=1.5.9",
         "wpackagist-plugin/wp-fpo": "<=1.0",
