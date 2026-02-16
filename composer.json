@@ -14372,6 +14372,7 @@
         "wpackagist-plugin/wplite": "<=1.3.1",
         "wpackagist-plugin/wplms_plugin": "<=1.9.9.8",
         "wpackagist-plugin/wplr-sync": "<= 6.4.3.0",
+        "wpackagist-plugin/wplyr-media-block": "<=1.3.0",
         "wpackagist-plugin/wplyrics": "<=0.4.1",
         "wpackagist-plugin/wpm-news-api": "<=2.1.4",
         "wpackagist-plugin/wpmandrill": "<=1.33",
