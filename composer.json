@@ -12437,6 +12437,7 @@
         "wpackagist-plugin/widgets-reset": "<=0.1",
         "wpackagist-plugin/widgetshortcode": "<=0.3.5",
         "wpackagist-plugin/wiki-embed": "<=1.4.6",
+        "wpackagist-plugin/wikiloops-track-player": "<=1.0.1",
         "wpackagist-plugin/wikipedia-preview": "<=1.15.0",
         "wpackagist-plugin/wikipop": "<=2.0",
         "wpackagist-plugin/wilmer-core": "<=2.4.5",
