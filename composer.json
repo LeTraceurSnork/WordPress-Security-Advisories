@@ -4235,7 +4235,7 @@
         "wpackagist-plugin/export-categories": "<=1.0",
         "wpackagist-plugin/export-customers-data": "<=1.2.3",
         "wpackagist-plugin/export-import-menus": "<= 1.9.1.0",
-        "wpackagist-plugin/export-media-urls": "<=1.0",
+        "wpackagist-plugin/export-media-urls": "<= 2.2.0.0",
         "wpackagist-plugin/export-post-info": "<= 1.2.0.0",
         "wpackagist-plugin/export-to-text": "<=2.4",
         "wpackagist-plugin/export-users": "<=1.4.2",
