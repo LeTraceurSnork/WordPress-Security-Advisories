@@ -8566,6 +8566,7 @@
         "wpackagist-plugin/post-shortcode": "<=2.0.9",
         "wpackagist-plugin/post-slider-and-carousel": "<=3.2.9",
         "wpackagist-plugin/post-slider-carousel": "<=1.0.20",
+        "wpackagist-plugin/post-slides": "<=1.0.1",
         "wpackagist-plugin/post-smtp": "<= 3.6.1.0",
         "wpackagist-plugin/post-snippets": "<= 4.0.11.0",
         "wpackagist-plugin/post-state-tags": "<=2.0.6",
