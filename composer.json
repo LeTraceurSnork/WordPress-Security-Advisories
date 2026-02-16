@@ -7251,6 +7251,7 @@
         "wpackagist-plugin/mm-breaking-news": "<=0.7.9",
         "wpackagist-plugin/mm-email2image": "<=0.2.5",
         "wpackagist-plugin/mm-forms-community": "<=2.2.6",
+        "wpackagist-plugin/mma-call-tracking": "<=2.3.15",
         "wpackagist-plugin/mmm-file-list": "<=2.3",
         "wpackagist-plugin/mmm-unity-loader": "<=1.0",
         "wpackagist-plugin/mmt-eventon-exim-lite": "<=1.1.1",
