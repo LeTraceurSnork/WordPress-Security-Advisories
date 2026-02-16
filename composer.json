@@ -14076,6 +14076,7 @@
         "wpackagist-plugin/wp-swimteam": "<=1.44.1077",
         "wpackagist-plugin/wp-symposium": "<= 15.8.1.0",
         "wpackagist-plugin/wp-symposium-pro": "<16.01",
+        "wpackagist-plugin/wp-sync-for-notion": "<=1.7.0",
         "wpackagist-plugin/wp-syntax": "<= 1.2.0.0",
         "wpackagist-plugin/wp-system": "<=1.1.1",
         "wpackagist-plugin/wp-system-info": "<=1.5",
