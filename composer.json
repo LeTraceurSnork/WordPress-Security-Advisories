@@ -6049,7 +6049,7 @@
         "wpackagist-plugin/javascript-logic": "<=0.1",
         "wpackagist-plugin/javascript-notifier": "<=1.2.8",
         "wpackagist-plugin/javo-core": "<= 3.0.0.529",
-        "wpackagist-plugin/jay-login-register": "<=2.4.01",
+        "wpackagist-plugin/jay-login-register": "<= 2.6.03.0",
         "wpackagist-plugin/jayj-quicktag": "<1.3.2",
         "wpackagist-plugin/jazz-popups": "<=1.8.7",
         "wpackagist-plugin/jazzcash-woocommerce-gateway": "<=2.0",
