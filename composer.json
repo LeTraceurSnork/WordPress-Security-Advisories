@@ -6646,7 +6646,7 @@
         "wpackagist-plugin/local-magic": "<=2.6.0",
         "wpackagist-plugin/local-search-seo-contact-page": "<=4.0.1",
         "wpackagist-plugin/local-shipping-labels-for-woocommerce": "<=1.0.0",
-        "wpackagist-plugin/local-sync": "<=1.1.6",
+        "wpackagist-plugin/local-sync": "<= 1.1.8.0",
         "wpackagist-plugin/local-syndication": "<=1.5a",
         "wpackagist-plugin/localgrid": "<=1.0.1",
         "wpackagist-plugin/localize-my-post": "<=1.0",
