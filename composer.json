@@ -7169,6 +7169,7 @@
         "wpackagist-plugin/microsoft-advertising-universal-event-tracking-uet": "<=1.0.3",
         "wpackagist-plugin/microsoft-clarity": "<=0.9.3",
         "wpackagist-plugin/microsoft-start": "<=2.8.7",
+        "wpackagist-plugin/midi-synth": "<=1.1.0",
         "wpackagist-plugin/mighty-addons": "<=1.9.3",
         "wpackagist-plugin/mighty-builder": "<=1.0.2",
         "wpackagist-plugin/mightyforms": "<=1.3.9",
