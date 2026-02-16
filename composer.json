@@ -339,6 +339,7 @@
         "wpackagist-plugin/addons-for-visual-composer": "<= 3.9.4.0",
         "wpackagist-plugin/addonskit-for-elementor": "<=1.1.6",
         "wpackagist-plugin/address-autocomplete-using-google-place-api": "<=1.0.0",
+        "wpackagist-plugin/address-bar-ads": "<=1.0.0",
         "wpackagist-plugin/address-email-and-phone-validation": "<=1.0.3",
         "wpackagist-plugin/addressbook": "<=1.1.3",
         "wpackagist-plugin/addthis": "<5.0.13",
