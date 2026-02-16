@@ -2717,7 +2717,7 @@
         "wpackagist-plugin/copypress-rest-api": ">=1.1,<=1.2",
         "wpackagist-plugin/copyright-safeguard-footer-notice": "<=3.0",
         "wpackagist-plugin/copyrightpro": "<=2.1",
-        "wpackagist-plugin/copyscape-premium": "<=1.3.8",
+        "wpackagist-plugin/copyscape-premium": "<= 1.4.1.0",
         "wpackagist-plugin/core-control": "<=1.2.1",
         "wpackagist-plugin/core-web-vitals-pagespeed-booster": "<= 1.0.27.0",
         "wpackagist-plugin/coreactivity": "<= 2.7.0.0",
