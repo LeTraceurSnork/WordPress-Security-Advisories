@@ -3879,7 +3879,7 @@
         "wpackagist-plugin/elastic-theme-editor": "<=0.0.3",
         "wpackagist-plugin/elasticpress": "<= 5.1.0.0",
         "wpackagist-plugin/elastik-page-builder": "<=0.27.4",
-        "wpackagist-plugin/ele-blog": "<=1.8",
+        "wpackagist-plugin/ele-blog": "<= 2.0.3.0",
         "wpackagist-plugin/ele-conditions": "<=1.0.5",
         "wpackagist-plugin/electio-core": "<=1.4",
         "wpackagist-plugin/electric-studio-client-login": "<=0.8.1",
