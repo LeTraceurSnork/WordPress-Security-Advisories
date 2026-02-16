@@ -16252,7 +16252,7 @@
         "wpackagist-theme/umberto": "<=1.2.8",
         "wpackagist-theme/uncode": "< 2.9.4.4-dev",
         "wpackagist-theme/uncode-lite": "<=1.3.3",
-        "wpackagist-theme/unicamp": "<=2.6.3",
+        "wpackagist-theme/unicamp": "<= 2.7.1.0",
         "wpackagist-theme/unique": "<=0.3.0",
         "wpackagist-theme/unitravel": "<=1.4.2",
         "wpackagist-theme/unlimited": "<=1.45",
