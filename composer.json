@@ -7305,7 +7305,7 @@
         "wpackagist-plugin/modern-polls": "<=1.0.10",
         "wpackagist-plugin/modify-comment-fields": "<=1.03",
         "wpackagist-plugin/modify-profile-fields-dashboard-menu-buttons": "<=1.03",
-        "wpackagist-plugin/modula-best-grid-gallery": "<= 2.13.3.0",
+        "wpackagist-plugin/modula-best-grid-gallery": "<= 2.13.6.0",
         "wpackagist-plugin/modular-connector": "<=2.5.1 || 2.5.2",
         "wpackagist-plugin/mojo-under-construction": "<=1.1.2",
         "wpackagist-plugin/mojoplug-slide-panel": "<=1.1.2",
