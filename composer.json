@@ -2045,6 +2045,7 @@
         "wpackagist-plugin/category-featured-images-extended": "<=1.52",
         "wpackagist-plugin/category-grid-view-gallery": "<=2.3.1",
         "wpackagist-plugin/category-icon": "<= 1.0.2.0",
+        "wpackagist-plugin/category-image": "<=2.0",
         "wpackagist-plugin/category-list-portfolio-page": "*",
         "wpackagist-plugin/category-page-icons": "<=0.9.1",
         "wpackagist-plugin/category-post-list-widget": "<=2.0",
