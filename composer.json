@@ -12023,6 +12023,7 @@
         "wpackagist-plugin/videojs-html5-video-player-for-wordpress": "<=4.5.0",
         "wpackagist-plugin/videos": "<=1.0.5",
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
+        "wpackagist-plugin/videospirecore": "<=1.0.6",
         "wpackagist-plugin/videowall": "*",
         "wpackagist-plugin/videowhisper-live-streaming-integration": "<= 6.2.4.0",
         "wpackagist-plugin/videowhisper-video-conference-integration": "<=4.91.8",
