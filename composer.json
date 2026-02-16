@@ -2264,7 +2264,7 @@
         "wpackagist-plugin/clean-and-simple-contact-form-by-meg-nicholas": "< 4.7.1.0-dev",
         "wpackagist-plugin/clean-contact": "<=1.6",
         "wpackagist-plugin/clean-login": "<= 1.14.5.0",
-        "wpackagist-plugin/cleantalk-spam-protect": "<= 6.44.0.0",
+        "wpackagist-plugin/cleantalk-spam-protect": "<= 6.71.0.0",
         "wpackagist-plugin/cleanup-action-scheduler": ">=1.0.0,<=1.1.0",
         "wpackagist-plugin/cleanup-light": "<=1.0.4",
         "wpackagist-plugin/clear-sucuri-cache": "<=1.4",
