@@ -4169,6 +4169,7 @@
         "wpackagist-plugin/events-calendar-for-google": "<=2.1.0",
         "wpackagist-plugin/events-calendar-pro": "<=7.0.2",
         "wpackagist-plugin/events-for-geodirectory": "<=2.3.14",
+        "wpackagist-plugin/events-listing-widget": "<=1.3.4",
         "wpackagist-plugin/events-made-easy": "<=2.3.16",
         "wpackagist-plugin/events-maker": "<=1.6.14",
         "wpackagist-plugin/events-manager": "<= 7.2.2.2",
