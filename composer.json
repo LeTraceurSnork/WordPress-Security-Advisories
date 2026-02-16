@@ -442,6 +442,7 @@
         "wpackagist-plugin/advanced-cf7-db": "<= 2.0.8.0",
         "wpackagist-plugin/advanced-classifieds-and-directory-pro": "<= 3.2.9.0",
         "wpackagist-plugin/advanced-control-manager": "<=2.16.0",
+        "wpackagist-plugin/advanced-country-blocker": "<=2.3.1",
         "wpackagist-plugin/advanced-coupons-for-woocommerce-free": "<= 4.6.8.0",
         "wpackagist-plugin/advanced-cron-manager": "<= 2.5.9.0",
         "wpackagist-plugin/advanced-cron-manager-pro": "<2.4.2",
