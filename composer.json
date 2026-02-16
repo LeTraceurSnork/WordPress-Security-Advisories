@@ -423,6 +423,7 @@
         "wpackagist-plugin/advance-portfolio-grid": "<=1.07.6",
         "wpackagist-plugin/advance-post-prefix": "<=1.1.1",
         "wpackagist-plugin/advance-search": "<=1.1.6",
+        "wpackagist-plugin/advance-wc-analytics": "<=3.19.0",
         "wpackagist-plugin/advance-wp-query-search-filter": "<=1.0.10",
         "wpackagist-plugin/advanced-access-manager": "<= 6.9.20.0",
         "wpackagist-plugin/advanced-accordion-block": "<=5.0.2",
