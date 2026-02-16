@@ -15404,7 +15404,7 @@
         "wpackagist-theme/glaze-blog-lite": "*",
         "wpackagist-theme/glossy-blog": "<=1.0.3",
         "wpackagist-theme/goldenblatt": "<1.3.0",
-        "wpackagist-theme/golo": "<= 1.7.1.0",
+        "wpackagist-theme/golo": "< 1.7.5.0-dev",
         "wpackagist-theme/good-mood": "<=1.16",
         "wpackagist-theme/good-wine": "<=1.1.10",
         "wpackagist-theme/goodnex": "<1.1.3",
