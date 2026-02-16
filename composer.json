@@ -4630,6 +4630,7 @@
         "wpackagist-plugin/fluent-smtp": "<= 2.2.82.0",
         "wpackagist-plugin/fluent-support": "<= 1.10.4.0",
         "wpackagist-plugin/fluentform": "<= 6.1.11.0",
+        "wpackagist-plugin/fluentformpro": "<=6.1.12",
         "wpackagist-plugin/fluentforms-pdf": "<=1.1.7",
         "wpackagist-plugin/fluid-accessible-pager": "*",
         "wpackagist-plugin/fluid-accessible-rich-inline-edit": "*",
