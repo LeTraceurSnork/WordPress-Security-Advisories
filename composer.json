@@ -10246,6 +10246,7 @@
         "wpackagist-plugin/simple-visitor-stat": "<=1.0",
         "wpackagist-plugin/simple-website-logo": "<=1.1",
         "wpackagist-plugin/simple-woocommerce-csv-loader": "<=2.0",
+        "wpackagist-plugin/simple-wp-colorfull-accordion": "<=1.0",
         "wpackagist-plugin/simple-wp-events": "<=1.8.17",
         "wpackagist-plugin/simple-wp-sitemap": "<=1.2.1",
         "wpackagist-plugin/simple-xml-sitemap": "<=1.3",
