@@ -5210,7 +5210,7 @@
         "wpackagist-plugin/google-shortlink": "<1.5.3",
         "wpackagist-plugin/google-site-kit": "<=1.7.1",
         "wpackagist-plugin/google-site-verification-using-meta-tag": "<=1.2",
-        "wpackagist-plugin/google-sitemap-generator": "<= 4.1.21.0",
+        "wpackagist-plugin/google-sitemap-generator": "<= 4.1.22.0",
         "wpackagist-plugin/google-sitemap-plugin": "<3.0.8",
         "wpackagist-plugin/google-transliteration": "<=1.7.2",
         "wpackagist-plugin/google-typography": "<=1.1.2",
