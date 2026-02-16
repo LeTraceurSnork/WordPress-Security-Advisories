@@ -12559,6 +12559,7 @@
         "wpackagist-plugin/woo-extra-cost": "<=2.6",
         "wpackagist-plugin/woo-extra-flat-rate": ">=3.6.1,<=4.1.2",
         "wpackagist-plugin/woo-fattureincloud": "<=2.6.7",
+        "wpackagist-plugin/woo-file-dropzone": "<=1.1.7",
         "wpackagist-plugin/woo-fiscalita-italiana": ">=1.0.0,<=1.3.34",
         "wpackagist-plugin/woo-floating-cart-lite": "<=2.8.2",
         "wpackagist-plugin/woo-gerencianet-official": "<= 3.1.3.0",
