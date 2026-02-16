@@ -2414,7 +2414,7 @@
         "wpackagist-plugin/collapsing-archives": "<=3.0.5",
         "wpackagist-plugin/collapsing-categories": "<=3.0.8",
         "wpackagist-plugin/collect-and-deliver-interface-for-woocommerce": "<=5.5.3",
-        "wpackagist-plugin/collectchat": "<=2.4.3",
+        "wpackagist-plugin/collectchat": "<= 2.4.8.0",
         "wpackagist-plugin/college-publisher-import": "<=0.1",
         "wpackagist-plugin/color-palette": "<=4.3.2",
         "wpackagist-plugin/color-your-bar": "<=2.0",
