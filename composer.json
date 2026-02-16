@@ -1077,7 +1077,7 @@
         "wpackagist-plugin/authors-autocomplete-meta-box": "<=1.2",
         "wpackagist-plugin/authors-list": "<= 2.0.6.1",
         "wpackagist-plugin/authorsure": "<=2.3",
-        "wpackagist-plugin/authorsy": "<=1.0.5",
+        "wpackagist-plugin/authorsy": "<= 1.0.6.0",
         "wpackagist-plugin/auto-advance-for-gravity-forms": "<=4.5.3",
         "wpackagist-plugin/auto-alt-text": "<=2.5.2",
         "wpackagist-plugin/auto-attachments": "<=1.8.5",
