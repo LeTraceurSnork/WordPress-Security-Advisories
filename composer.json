@@ -8304,6 +8304,7 @@
         "wpackagist-plugin/photosmash-galleries": "<1.0.5",
         "wpackagist-plugin/photospace": "<=2.3.5",
         "wpackagist-plugin/photospace-responsive": "<= 2.2.0.0",
+        "wpackagist-plugin/photostack-gallery": "<=0.4.1",
         "wpackagist-plugin/photoswipe-masonry": "<=1.2.14",
         "wpackagist-plugin/photoxhibit": "<=2.1.8",
         "wpackagist-plugin/php-compatibility-checker": "<=1.5.2",
