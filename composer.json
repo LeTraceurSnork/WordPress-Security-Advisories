@@ -782,6 +782,7 @@
         "wpackagist-plugin/amo-team-showcase": "<=1.1.4",
         "wpackagist-plugin/amocrm-webform": "<=1.1",
         "wpackagist-plugin/amount-left-free-shipping-woocommerce": "<= 2.4.9.0",
+        "wpackagist-plugin/amp-enhancer": "<=1.0.49",
         "wpackagist-plugin/amp-extensions": "*",
         "wpackagist-plugin/amp-img-shortcode": "<=1.0.1",
         "wpackagist-plugin/amp-plus": "<=3.0",
