@@ -5751,6 +5751,7 @@
         "wpackagist-plugin/image-tag-manager": "<=1.5",
         "wpackagist-plugin/image-upload-for-bbpress": "<= 1.1.19.0",
         "wpackagist-plugin/image-vertical-reel-scroll-slideshow": "<=9.0",
+        "wpackagist-plugin/image-viewer": "<=1.0.2",
         "wpackagist-plugin/image-wall": "<= 3.1.0.0",
         "wpackagist-plugin/image-watermark": "<=1.7.3",
         "wpackagist-plugin/image-widget": "<=4.4.10",
