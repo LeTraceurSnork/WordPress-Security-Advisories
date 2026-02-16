@@ -10137,7 +10137,7 @@
         "wpackagist-plugin/simple-membership": "<= 4.6.3.0",
         "wpackagist-plugin/simple-membership-after-login-redirection": "<=1.6",
         "wpackagist-plugin/simple-membership-custom-messages": "<=2.4",
-        "wpackagist-plugin/simple-membership-wp-user-import": "<=1.7",
+        "wpackagist-plugin/simple-membership-wp-user-import": "<= 1.9.1.0",
         "wpackagist-plugin/simple-meta-tags": "<=1.5",
         "wpackagist-plugin/simple-mobile-url-redirect": "<=1.7.2",
         "wpackagist-plugin/simple-nav-archives": "<=2.1.3",
