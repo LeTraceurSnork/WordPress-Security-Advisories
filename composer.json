@@ -4539,6 +4539,7 @@
         "wpackagist-plugin/flashcounter": "<=1.1.8",
         "wpackagist-plugin/flashfader": "<=1.1.1",
         "wpackagist-plugin/flashnews-fading-effect-pearlbells": "<=4.1",
+        "wpackagist-plugin/flask-micro": "<=1.0.0",
         "wpackagist-plugin/flat-preloader": "<1.5.5",
         "wpackagist-plugin/flat-shipping-rate-by-city-for-woocommerce": "<=1.0.3",
         "wpackagist-plugin/flat-ui-button": "1.0",
