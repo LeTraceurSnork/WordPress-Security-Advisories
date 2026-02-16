@@ -11433,7 +11433,7 @@
         "wpackagist-plugin/toggle-the-title": "<=1.4",
         "wpackagist-plugin/toggles-shortcode-and-widget": "<=1.14",
         "wpackagist-plugin/token-login": "<=1.0.3",
-        "wpackagist-plugin/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop": "<=2.4.6",
+        "wpackagist-plugin/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop": "<= 2.4.7.0",
         "wpackagist-plugin/tom-m8te": "*",
         "wpackagist-plugin/toocheke-companion": "<=1.166",
         "wpackagist-plugin/toolbar-extras": "<=1.4.9",
