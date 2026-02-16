@@ -12920,7 +12920,7 @@
         "wpackagist-plugin/wordpress-popup": "<= 7.8.9.2",
         "wpackagist-plugin/wordpress-processing-embed": "<=0.5.1",
         "wpackagist-plugin/wordpress-sentinel": "<=1.0.0",
-        "wpackagist-plugin/wordpress-seo": "<=22.6",
+        "wpackagist-plugin/wordpress-seo": "<= 26.8.0.0",
         "wpackagist-plugin/wordpress-seo-premium": "<=20.4 || >=25.7,<=25.9",
         "wpackagist-plugin/wordpress-signature": "<=0.1",
         "wpackagist-plugin/wordpress-simple-paypal-shopping-cart": "<= 5.1.3.0",
