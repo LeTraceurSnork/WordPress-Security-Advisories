@@ -13580,7 +13580,7 @@
         "wpackagist-plugin/wp-krpano": "<=1.2.1",
         "wpackagist-plugin/wp-landing-page": "<=0.9.3",
         "wpackagist-plugin/wp-last-modified": "<=0.1",
-        "wpackagist-plugin/wp-last-modified-info": "<= 1.9.4.0",
+        "wpackagist-plugin/wp-last-modified-info": "<= 1.9.5.0",
         "wpackagist-plugin/wp-latest-posts": "<=5.0.7",
         "wpackagist-plugin/wp-lead-capture": "<=2.5",
         "wpackagist-plugin/wp-lead-stream": ">=1.1,<=1.2",
