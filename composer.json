@@ -4375,7 +4375,7 @@
         "wpackagist-plugin/fast-wp-speed": "<=1.0.0",
         "wpackagist-plugin/fastbook-responsive-appointment-booking-and-scheduling-system": "<=1.1",
         "wpackagist-plugin/fastcgi-cache-purge-and-preload-nginx": "<=2.1.1",
-        "wpackagist-plugin/fastdup": "<= 2.7.0.0",
+        "wpackagist-plugin/fastdup": "<= 2.7.1.0",
         "wpackagist-plugin/fastly": "<= 1.2.28.0",
         "wpackagist-plugin/fastspring": "<=3.0.1",
         "wpackagist-plugin/fat-coming-soon": "<=1.1",
