@@ -723,6 +723,7 @@
         "wpackagist-plugin/alley-elementor-widget": "<=1.0.7",
         "wpackagist-plugin/allmart-core": "<= 1.1.0.0",
         "wpackagist-plugin/alloggio-membership": "<=1.1",
+        "wpackagist-plugin/allow-html-in-category-descriptions": "<=1.2.4",
         "wpackagist-plugin/allow-php-execute": "<=1.0",
         "wpackagist-plugin/allow-php-in-posts-and-pages": "<=3.0.4",
         "wpackagist-plugin/allow-svg": "<=1.1",
