@@ -3760,6 +3760,7 @@
         "wpackagist-plugin/easy-upload-files-during-checkout": "<= 3.0.0.0",
         "wpackagist-plugin/easy-video-player": "<= 1.2.2.10",
         "wpackagist-plugin/easy-video-reviews": "<=1.4.2",
+        "wpackagist-plugin/easy-voice-mail": "<=1.2.5",
         "wpackagist-plugin/easy-watermark": "<0.7.1",
         "wpackagist-plugin/easy-waveform-player": "<=1.2.0",
         "wpackagist-plugin/easy-woocommerce-customizer": "<=1.0.2",
