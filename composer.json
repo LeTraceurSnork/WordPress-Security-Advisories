@@ -4552,6 +4552,7 @@
         "wpackagist-plugin/flex-qr-code-generator": "<= 1.2.10.0",
         "wpackagist-plugin/flex-store-user": "<=1.1.0",
         "wpackagist-plugin/flexi": "<= 4.28.0.0",
+        "wpackagist-plugin/flexi-product-slider-grid": "<=1.0.5",
         "wpackagist-plugin/flexi-quote-rotator": "<=0.9.4",
         "wpackagist-plugin/flexible-blogtitle": "<=0.1",
         "wpackagist-plugin/flexible-captcha": "<=4.1",
