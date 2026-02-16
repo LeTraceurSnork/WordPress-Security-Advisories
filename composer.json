@@ -13148,7 +13148,7 @@
         "wpackagist-plugin/wp-clone-any-post-type": "<= 3.6.0.0",
         "wpackagist-plugin/wp-clone-by-wp-academy": "<=2.4.6",
         "wpackagist-plugin/wp-cloud-server": "1.3.0",
-        "wpackagist-plugin/wp-cloudflare-page-cache": "<=4.7.5",
+        "wpackagist-plugin/wp-cloudflare-page-cache": "<= 5.2.2.0",
         "wpackagist-plugin/wp-cloudy": "<=4.4.9",
         "wpackagist-plugin/wp-club-manager": "<=2.2.11",
         "wpackagist-plugin/wp-code-highlightjs": "<=0.6.3",
