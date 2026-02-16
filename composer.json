@@ -4152,7 +4152,7 @@
         "wpackagist-plugin/event-rocket": "<=3.3",
         "wpackagist-plugin/event-tickets": "<= 5.26.5.0",
         "wpackagist-plugin/event-tickets-plus": "<=5.9.0",
-        "wpackagist-plugin/event-tickets-with-ticket-scanner": "<= 2.7.10.0",
+        "wpackagist-plugin/event-tickets-with-ticket-scanner": "<= 2.8.5.0",
         "wpackagist-plugin/eventbee-rsvp-widget": "<=1.0",
         "wpackagist-plugin/eventbee-ticketing-widget": "<=1.0",
         "wpackagist-plugin/eventer": "<= 3.11.2.1",
