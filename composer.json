@@ -5004,6 +5004,7 @@
         "wpackagist-plugin/geopost": "<=1.2",
         "wpackagist-plugin/geotagged-media": "<=0.3.0",
         "wpackagist-plugin/geounit-maps": "0.0.6",
+        "wpackagist-plugin/geowidget": "<=1.0",
         "wpackagist-plugin/gerryworks-post-by-mail": "<=1.0",
         "wpackagist-plugin/gestion-pymes": "<=1.5.6",
         "wpackagist-plugin/gestion-tarifs": "<=1.4",
