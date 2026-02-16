@@ -12309,7 +12309,7 @@
         "wpackagist-plugin/webmention": "<=4.0.8",
         "wpackagist-plugin/webo-facto-connector": "<=1.40",
         "wpackagist-plugin/webp-conversion": "<=2.1",
-        "wpackagist-plugin/webp-converter-for-media": "<= 6.3.2.0",
+        "wpackagist-plugin/webp-converter-for-media": "<= 6.5.1.0",
         "wpackagist-plugin/webp-express": "<= 0.25.9.0",
         "wpackagist-plugin/webp-svg-support": "<=1.4.0",
         "wpackagist-plugin/webparex": "<=1.0",
