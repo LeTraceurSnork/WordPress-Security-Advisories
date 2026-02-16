@@ -6485,7 +6485,7 @@
         "wpackagist-plugin/library-bookshelves": "<= 5.11.0.0",
         "wpackagist-plugin/library-instruction-recorder": "<=1.1.4",
         "wpackagist-plugin/library-management-system": "<= 3.2.0.0",
-        "wpackagist-plugin/library-viewer": "<=2.0.6",
+        "wpackagist-plugin/library-viewer": "< 3.2.0.0-dev",
         "wpackagist-plugin/libreform": "<=2.0.8",
         "wpackagist-plugin/libro-de-reclamaciones": "<=1.0.1",
         "wpackagist-plugin/libro-de-reclamaciones-y-quejas": "<=0.9",
