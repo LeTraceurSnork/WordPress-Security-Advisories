@@ -12189,7 +12189,7 @@
         "wpackagist-plugin/wc-multi-currency": "<=1.5.5",
         "wpackagist-plugin/wc-multishipping": "<=2.3.7",
         "wpackagist-plugin/wc-multivendor-marketplace": "<= 3.6.17.0",
-        "wpackagist-plugin/wc-multivendor-membership": "<= 2.10.7.0",
+        "wpackagist-plugin/wc-multivendor-membership": "<= 2.11.8.0",
         "wpackagist-plugin/wc-myparcel-belgium": "<=4.5.5-beta",
         "wpackagist-plugin/wc-order-cancellation-return": "<=1.1.10",
         "wpackagist-plugin/wc-order-limit-lite": "<= 3.0.2.0",
