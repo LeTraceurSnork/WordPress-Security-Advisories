@@ -8264,6 +8264,7 @@
         "wpackagist-plugin/pet-manager": "<=1.4",
         "wpackagist-plugin/peters-collaboration-e-mails": "<=2.2.0",
         "wpackagist-plugin/peters-custom-anti-spam-image": "<= 3.2.3.0",
+        "wpackagist-plugin/peters-date-countdown": "<=2.0.0",
         "wpackagist-plugin/peters-login-redirect": "<3.0.0.5",
         "wpackagist-plugin/peters-math-anti-spam": "<=0.1.6",
         "wpackagist-plugin/peters-random-anti-spam-image": "<=1.0.6",
