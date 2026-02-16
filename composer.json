@@ -12158,6 +12158,7 @@
         "wpackagist-plugin/watu": "<= 3.4.5.0",
         "wpackagist-plugin/watupro": "< 5.5.3.7-dev",
         "wpackagist-plugin/waveplayer": "<=3.7.0",
+        "wpackagist-plugin/wavesurfer-wp": "<=2.8.3",
         "wpackagist-plugin/waymark": "<= 1.5.2.0",
         "wpackagist-plugin/wayne-audio-player": "<=1.0",
         "wpackagist-plugin/wb-custom-product-tabs-for-woocommerce": "<=1.2.4",
