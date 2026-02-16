@@ -8140,6 +8140,7 @@
         "wpackagist-plugin/payment-gateway-payfabric": ">=1.0.4,<=1.0.12.2",
         "wpackagist-plugin/payment-gateway-stripe-and-woocommerce-integration": "<=3.7.9",
         "wpackagist-plugin/payment-gateways-caller-for-wp-e-commerce": "<0.1.1",
+        "wpackagist-plugin/payment-page": "<=1.4.6",
         "wpackagist-plugin/payment-qr-woo": "<=1.1.6",
         "wpackagist-plugin/payments-stripe-gateway": "<=1.2.1",
         "wpackagist-plugin/payoneer-checkout": "<=3.4.0",
