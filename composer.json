@@ -10007,6 +10007,7 @@
         "wpackagist-plugin/sideblog": "<=6.0",
         "wpackagist-plugin/sided": "<= 1.4.5.0",
         "wpackagist-plugin/sight": "<=1.1.2",
+        "wpackagist-plugin/sigmize": "<=0.0.9",
         "wpackagist-plugin/sign-in-with-google": "<=1.8.0",
         "wpackagist-plugin/sign-up-sheets": "<= 2.3.3.0",
         "wpackagist-plugin/signup-page": "<=1.0",
