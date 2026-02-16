@@ -9695,7 +9695,7 @@
         "wpackagist-plugin/secupress": "<= 2.3.9.0",
         "wpackagist-plugin/secure-admin-ip": "<=2.0",
         "wpackagist-plugin/secure-captcha": "<=1.2",
-        "wpackagist-plugin/secure-copy-content-protection": "<= 4.9.2.0",
+        "wpackagist-plugin/secure-copy-content-protection": "<= 4.9.8.0",
         "wpackagist-plugin/secure-downloads": "<=1.2.2",
         "wpackagist-plugin/secure-file-manager": "<2.8.2",
         "wpackagist-plugin/secure-files": "<=1.1",
