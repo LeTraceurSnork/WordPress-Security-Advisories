@@ -5264,6 +5264,7 @@
         "wpackagist-plugin/gravity-file-ajax-upload-free": "<=1.1",
         "wpackagist-plugin/gravity-forms-css-themes-with-fontawesome-and-placeholder-support": "<=8.5",
         "wpackagist-plugin/gravity-forms-dps-pxpay": "<=1.4.2",
+        "wpackagist-plugin/gravity-forms-icontact": "<=1.3.2",
         "wpackagist-plugin/gravity-forms-multiple-form-instances": "<=1.1.1",
         "wpackagist-plugin/gravity-forms-pdf-extended": "<=6.3.0",
         "wpackagist-plugin/gravity-forms-sms-notifications": "<=2.2",
