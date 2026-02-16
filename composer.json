@@ -5582,6 +5582,7 @@
         "wpackagist-plugin/htaccess-login-block": "<=0.9a",
         "wpackagist-plugin/htaccess-redirect": "<=0.3.1",
         "wpackagist-plugin/html-forms": "<= 1.6.0.0",
+        "wpackagist-plugin/html-shortcodes": "<=1.1",
         "wpackagist-plugin/html-social-share-buttons": "<=2.1.16",
         "wpackagist-plugin/html2wp": "<=1.0.0",
         "wpackagist-plugin/html5-audio-player": "<= 2.2.28.0 || >=2.4.0,<=2.5.1",
