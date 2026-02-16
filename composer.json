@@ -5052,7 +5052,7 @@
         "wpackagist-plugin/gg-bought-together": "<=1.0.2",
         "wpackagist-plugin/gg-woo-feed": "<=1.2.6",
         "wpackagist-plugin/ghactivity": "<=2.0.0-alpha",
-        "wpackagist-plugin/ghl-wizard": "<=1.4.0",
+        "wpackagist-plugin/ghl-wizard": "<= 2.1.1.0",
         "wpackagist-plugin/ghost": "<=1.4.0",
         "wpackagist-plugin/ghostkit": "<= 3.4.3.0",
         "wpackagist-plugin/gi-media-library": "<3.0",
