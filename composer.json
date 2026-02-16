@@ -10784,6 +10784,7 @@
         "wpackagist-plugin/step-by-step": "<=0.4.5",
         "wpackagist-plugin/stepbyteservice-openstreetmap": "*",
         "wpackagist-plugin/stetic": "<=1.0.6",
+        "wpackagist-plugin/stickeasy-protected-contact-form": "<=1.0.1",
         "wpackagist-plugin/sticky-action-buttons": "<=1.1",
         "wpackagist-plugin/sticky-ad-bar": "<=1.3.1",
         "wpackagist-plugin/sticky-add-to-cart-woo": "<=1.4.6",
