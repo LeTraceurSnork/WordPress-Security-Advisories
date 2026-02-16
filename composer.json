@@ -3812,7 +3812,7 @@
         "wpackagist-plugin/ect-homepage-products": "<=1.9",
         "wpackagist-plugin/ect-product-carousel": "<=1.9",
         "wpackagist-plugin/ect-social-share": "<=1.3",
-        "wpackagist-plugin/ecwid-shopping-cart": "<= 7.0.6.0",
+        "wpackagist-plugin/ecwid-shopping-cart": "<= 7.0.7.0",
         "wpackagist-plugin/edd-amazon-s3": "<=2.1.3",
         "wpackagist-plugin/edd-attach-accounts-to-orders": "<=2.0.1",
         "wpackagist-plugin/edd-commissions": "<=3.1.2",
