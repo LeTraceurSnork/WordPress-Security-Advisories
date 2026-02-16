@@ -13241,7 +13241,7 @@
         "wpackagist-plugin/wp-dashboard-beacon": "<=1.2.0",
         "wpackagist-plugin/wp-dashboard-chat": "<=1.0.3",
         "wpackagist-plugin/wp-dashboard-notes": "<=1.0.11",
-        "wpackagist-plugin/wp-data-access": "<= 5.5.36.0",
+        "wpackagist-plugin/wp-data-access": "<= 5.5.63.0",
         "wpackagist-plugin/wp-data-logger": "<=2.2",
         "wpackagist-plugin/wp-database-admin": "<=1.0.3",
         "wpackagist-plugin/wp-database-backup": "<= 7.3.0.0",
