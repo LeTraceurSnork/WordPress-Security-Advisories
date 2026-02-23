@@ -9070,7 +9070,7 @@
         "wpackagist-plugin/quillforms": "<= 3.10.0.0",
         "wpackagist-plugin/quiz-cat": "<=3.0.8",
         "wpackagist-plugin/quiz-expert": "<=1.5.0",
-        "wpackagist-plugin/quiz-maker": "<= 6.7.0.88 || >= 7.0.0.0-dev <= 8.8.0.0 || >= 20.0.0.0-dev <= 21.8.0.0 || >= 30.0.0.0-dev <= 31.8.0.0",
+        "wpackagist-plugin/quiz-maker": "<= 6.7.1.7 || >= 7.0.0.0-dev <= 8.8.0.0 || >= 20.0.0.0-dev <= 21.8.0.0 || >= 30.0.0.0-dev <= 31.8.0.0",
         "wpackagist-plugin/quiz-master-next": "<= 10.3.3.0",
         "wpackagist-plugin/quiz-organizer": "<=2.9.1",
         "wpackagist-plugin/quiz-tool-lite": "<=2.3.15",
