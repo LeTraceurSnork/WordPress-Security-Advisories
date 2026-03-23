@@ -12091,6 +12091,7 @@
         "wpackagist-plugin/ux-flat": "<= 5.4.0.0",
         "wpackagist-plugin/ux-sniff": "<=1.2.8",
         "wpackagist-plugin/v-form": "<= 3.2.24.0",
+        "wpackagist-plugin/vagaro-booking-widget": "<=0.3",
         "wpackagist-plugin/vagonic-sortable": "<=1.9",
         "wpackagist-plugin/valenti-engine": "<=1.0.3",
         "wpackagist-plugin/validar-certificados-de-cursos": "<= 1.6.2.0",
