@@ -4909,6 +4909,7 @@
         "wpackagist-plugin/fusewp": "<=1.1.23.0",
         "wpackagist-plugin/fusion": "<= 1.6.3.0",
         "wpackagist-plugin/fusion-builder": "<= 3.13.2.0",
+        "wpackagist-plugin/fusion-core": "<5.15.0",
         "wpackagist-plugin/fusion-engage": "<=1.0.5",
         "wpackagist-plugin/fusion-extension-gallery": "<=1.7.6",
         "wpackagist-plugin/fusion-slider": "<=1.6.5",
