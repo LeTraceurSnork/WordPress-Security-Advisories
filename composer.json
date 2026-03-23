@@ -6771,6 +6771,7 @@
         "wpackagist-plugin/login-rebuilder": "<=2.8.0",
         "wpackagist-plugin/login-recaptcha": "<=1.6.11",
         "wpackagist-plugin/login-redirect": "<=1.0.5",
+        "wpackagist-plugin/login-register": "<=1.2.0",
         "wpackagist-plugin/login-register-using-jwt": "<=3.0.0",
         "wpackagist-plugin/login-screen-manager": "<=3.5.2",
         "wpackagist-plugin/login-sidebar-widget": "<=6.1.2",
