@@ -11611,7 +11611,7 @@
         "wpackagist-plugin/total-donations": "<= 3.0.8.0",
         "wpackagist-plugin/total-sales-for-woocommerce": "*",
         "wpackagist-plugin/total-security": "<3.4.1",
-        "wpackagist-plugin/totalcontest-lite": "<=2.8.1",
+        "wpackagist-plugin/totalcontest-lite": "<= 2.9.1.0",
         "wpackagist-plugin/totalpoll-lite": "<=4.9.9",
         "wpackagist-plugin/totalprocessing-card-payments": "<= 7.1.7.0",
         "wpackagist-plugin/totop-link": "<=1.7.1",
