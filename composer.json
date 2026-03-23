@@ -15641,7 +15641,7 @@
         "wpackagist-theme/focusblog": "<2.0.0",
         "wpackagist-theme/folo": "*",
         "wpackagist-theme/foodbakery": "<= 2.1.0.0",
-        "wpackagist-theme/foodbook": "<=4.7.1",
+        "wpackagist-theme/foodbook": "<= 4.7.6.0",
         "wpackagist-theme/fooddy": "<=1.3.10",
         "wpackagist-theme/foodie": "<=1.14",
         "wpackagist-theme/footysquare": "*",
