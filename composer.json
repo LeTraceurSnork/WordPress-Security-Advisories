@@ -15458,6 +15458,7 @@
         "wpackagist-theme/designfolio-plus": "*",
         "wpackagist-theme/designpile": "*",
         "wpackagist-theme/dessau": "<1.9",
+        "wpackagist-theme/deston": "<=1.0",
         "wpackagist-theme/detailx": "<=1.10.0",
         "wpackagist-theme/diamond": "<=2.4.8",
         "wpackagist-theme/diary": "<2.0",
