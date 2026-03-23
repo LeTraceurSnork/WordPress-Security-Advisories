@@ -5179,6 +5179,7 @@
         "wpackagist-plugin/gnucommerce": "<= 1.5.4.0",
         "wpackagist-plugin/gnupress": "<=0.2.9",
         "wpackagist-plugin/go-fetch-jobs-jobengine": "<=1.0",
+        "wpackagist-plugin/go-night-pro": "<=1.1.0",
         "wpackagist-plugin/go-social": "<=1.0",
         "wpackagist-plugin/go-sphinx": "<=0.1",
         "wpackagist-plugin/go-to-top": "<=0.0.8",
