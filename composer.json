@@ -7608,7 +7608,7 @@
         "wpackagist-plugin/mygallery": "<=1.2.1",
         "wpackagist-plugin/myhome-core": "<=4.1.0",
         "wpackagist-plugin/mylco": "<=0.8.1",
-        "wpackagist-plugin/mylinksdump": "<=1.2",
+        "wpackagist-plugin/mylinksdump": "<= 1.6.0.0",
         "wpackagist-plugin/mynx-page-builder": "<=0.27.8",
         "wpackagist-plugin/myorderdesk": "<=3.2.6",
         "wpackagist-plugin/mypixs": "<=0.3",
