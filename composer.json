@@ -14675,6 +14675,7 @@
         "wpackagist-plugin/wrapper-for-workable-api": "<=1.0.4",
         "wpackagist-plugin/wrapper-link-elementor": ">=1.0.2,<=1.0.3",
         "wpackagist-plugin/wrc-pricing-tables": "<=2.3.7",
+        "wpackagist-plugin/writeprint-stylometry": "<=0.1",
         "wpackagist-plugin/writer-helper": "<=3.1.6",
         "wpackagist-plugin/writersblok-ai": "<=1.3.19",
         "wpackagist-plugin/writesonic": "<= 1.0.5.0",
