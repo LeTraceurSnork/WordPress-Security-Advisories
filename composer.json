@@ -5931,7 +5931,7 @@
         "wpackagist-plugin/infusionsoft-official-opt-in-forms": "<= 2.0.3.0",
         "wpackagist-plugin/infusionsoft-web-form-javascript": "<=1.1.1",
         "wpackagist-plugin/infusionsoft-web-tracker": "<=2.0",
-        "wpackagist-plugin/injection-guard": "<= 1.2.7.0",
+        "wpackagist-plugin/injection-guard": "<= 1.2.9.0",
         "wpackagist-plugin/ink-official": "<=4.1.2",
         "wpackagist-plugin/inline-click-to-tweet": "<=1.0.0",
         "wpackagist-plugin/inline-footnotes": "<=2.3.0",
