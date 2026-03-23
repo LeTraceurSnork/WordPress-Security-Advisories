@@ -7386,7 +7386,7 @@
         "wpackagist-plugin/modeltheme-framework": "<=1.9.2",
         "wpackagist-plugin/moderate-selected-posts": "<=1.4",
         "wpackagist-plugin/modern-addons-elementor": ">=1.0.1,<=1.2.0",
-        "wpackagist-plugin/modern-events-calendar": "<=7.12.1",
+        "wpackagist-plugin/modern-events-calendar": "<= 7.29.0.0",
         "wpackagist-plugin/modern-events-calendar-lite": "<= 7.21.9.0",
         "wpackagist-plugin/modern-footnotes": "<= 1.4.19.0",
         "wpackagist-plugin/modern-polls": "<=1.0.10",
