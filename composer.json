@@ -2474,6 +2474,7 @@
         "wpackagist-plugin/comment-extra-field": "<=1.7",
         "wpackagist-plugin/comment-form": "<=1.2.0",
         "wpackagist-plugin/comment-form-wp": "<=2.0.0",
+        "wpackagist-plugin/comment-genius": "<=1.2.5",
         "wpackagist-plugin/comment-guestbook": "<=0.8.0",
         "wpackagist-plugin/comment-highlighter": "<=0.13",
         "wpackagist-plugin/comment-images-reloaded": "<=2.2.1",
