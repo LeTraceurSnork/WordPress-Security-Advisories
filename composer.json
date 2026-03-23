@@ -16051,6 +16051,7 @@
         "wpackagist-theme/modins": "< 1.1.9.0-dev",
         "wpackagist-theme/modular": "<=2.4",
         "wpackagist-theme/molla": "<= 1.5.16.0",
+        "wpackagist-theme/moments": "<=2.2",
         "wpackagist-theme/monalisa": "<=2.1.2",
         "wpackagist-theme/moneyflow": "<=1.0",
         "wpackagist-theme/moneymasters": "*",
