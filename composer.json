@@ -13308,7 +13308,7 @@
         "wpackagist-plugin/wp-change-status-notifier": "<=1.0",
         "wpackagist-plugin/wp-chart-generator": "<=1.0.4",
         "wpackagist-plugin/wp-charts": "<=0.7.0",
-        "wpackagist-plugin/wp-chatbot": "<=4.7",
+        "wpackagist-plugin/wp-chatbot": "<= 4.9.0.0",
         "wpackagist-plugin/wp-chgfontsize": "<=1.8",
         "wpackagist-plugin/wp-child-theme-generator": "<=1.1.2",
         "wpackagist-plugin/wp-chinese-conversion": "<=1.1.16",
