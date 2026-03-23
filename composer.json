@@ -265,6 +265,7 @@
         "wpackagist-plugin/add-custom-codes": "<=4.80",
         "wpackagist-plugin/add-custom-content-after-post": "<=1.0",
         "wpackagist-plugin/add-custom-css-and-js": "<=1.20",
+        "wpackagist-plugin/add-custom-fields-to-media": "<=2.0.3",
         "wpackagist-plugin/add-custom-google-tag-manager": "<=1.0.3",
         "wpackagist-plugin/add-custom-page-template": "<=2.0.1",
         "wpackagist-plugin/add-customer-for-woocommerce": "<=1.7",
