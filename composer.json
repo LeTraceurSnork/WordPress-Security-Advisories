@@ -8320,7 +8320,7 @@
         "wpackagist-plugin/peer-publish": "<=1.0",
         "wpackagist-plugin/pegapoll": "<=1.0.2",
         "wpackagist-plugin/penci-bookmark-follow": "<2.4",
-        "wpackagist-plugin/penci-data-migrator": "<=1.3.0",
+        "wpackagist-plugin/penci-data-migrator": "<= 1.3.1.0",
         "wpackagist-plugin/penci-filter-everything": "<= 1.7.0.0",
         "wpackagist-plugin/penci-pay-writer": "<=1.5",
         "wpackagist-plugin/penci-podcast": "<= 1.7.0.0",
