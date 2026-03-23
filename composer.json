@@ -2512,6 +2512,7 @@
         "wpackagist-plugin/companion-auto-update": "<= 3.9.2.0",
         "wpackagist-plugin/companion-portfolio": "<=2.4.0.1",
         "wpackagist-plugin/companion-sitemap-generator": "<= 4.5.1.1",
+        "wpackagist-plugin/company-posts-for-linkedin": "<=1.0.0",
         "wpackagist-plugin/company-updates-for-linkedin": "<=1.5.3",
         "wpackagist-plugin/compare-affiliated-products": ">=2.0.1,<=2.2.0",
         "wpackagist-plugin/compare-ninja-comparison-tables": "<=2.1.0",
