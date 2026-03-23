@@ -11035,6 +11035,7 @@
         "wpackagist-plugin/subscribers-text-counter": "<=1.7",
         "wpackagist-plugin/subscription": "<=1.8.10",
         "wpackagist-plugin/subscriptiondna": "<=2.1",
+        "wpackagist-plugin/subscriptions-for-woocommerce": "<=1.8.10",
         "wpackagist-plugin/subscriptions-memberships-for-paypal": "<= 1.1.7.0",
         "wpackagist-plugin/subscriptions-renewal-reminders": "<= 1.4.1.0",
         "wpackagist-plugin/subway": "<=2.1.4",
