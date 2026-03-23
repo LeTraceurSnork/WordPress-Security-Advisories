@@ -11617,6 +11617,7 @@
         "wpackagist-plugin/totop-link": "<=1.7.1",
         "wpackagist-plugin/tour-booking-manager": "<= 1.8.7.0",
         "wpackagist-plugin/tour-operator": "<=1.4.9",
+        "wpackagist-plugin/tour-operator-plugin": "<=1.7.0",
         "wpackagist-plugin/tourfic": "<= 2.15.3.0",
         "wpackagist-plugin/tourmaster": "< 5.4.1.0-dev",
         "wpackagist-plugin/tournamatch": "<= 4.6.2.0",
