@@ -8642,6 +8642,7 @@
         "wpackagist-plugin/post-duplicator": "<= 3.0.8.0",
         "wpackagist-plugin/post-expirator": "<= 4.9.3.0",
         "wpackagist-plugin/post-featured-video": "<=1.7",
+        "wpackagist-plugin/post-flagger": "<=1.1",
         "wpackagist-plugin/post-from-frontend": "<=1.0.0",
         "wpackagist-plugin/post-gallery": "<=1.0.6",
         "wpackagist-plugin/post-grid": "<= 2.3.21.0",
