@@ -274,6 +274,7 @@
         "wpackagist-plugin/add-fields-to-checkout-page-woocommerce": "<= 1.3.4.0",
         "wpackagist-plugin/add-from-server": "<3.3.2",
         "wpackagist-plugin/add-google-plus-one-social-share-button": "<=1.0.0",
+        "wpackagist-plugin/add-google-social-profiles-to-knowledge-graph-box": "<=1.0",
         "wpackagist-plugin/add-hierarchy-parent-to-post": "<=3.12",
         "wpackagist-plugin/add-image-to-post": "<=0.6",
         "wpackagist-plugin/add-infos-to-the-events-calendar": "<=1.4.1",
