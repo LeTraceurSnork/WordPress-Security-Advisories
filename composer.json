@@ -10604,6 +10604,7 @@
         "wpackagist-plugin/smartcat-wpml": "<= 3.1.72.0",
         "wpackagist-plugin/smartcrawl-seo": "<= 3.14.3.0",
         "wpackagist-plugin/smartemailing": "<=2.2.0",
+        "wpackagist-plugin/smarter-analytics": "<=2.0",
         "wpackagist-plugin/smartideo": "<=2.7.0",
         "wpackagist-plugin/smartifw": "<=1.0.4",
         "wpackagist-plugin/smartkit": "<=1.0",
