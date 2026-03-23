@@ -9446,7 +9446,7 @@
         "wpackagist-plugin/responsivevoice-text-to-speech": "<=1.7.6",
         "wpackagist-plugin/responsivity": "<=0.0.6",
         "wpackagist-plugin/rest-api-fns": "<=1.0.0",
-        "wpackagist-plugin/rest-api-to-miniprogram": "<=4.7.7",
+        "wpackagist-plugin/rest-api-to-miniprogram": "<= 5.1.2.0",
         "wpackagist-plugin/rest-routes": ">=2.0.2,<=5.5.2",
         "wpackagist-plugin/restaurant-cafe-addon-for-elementor": "<= 1.5.9.0",
         "wpackagist-plugin/restaurant-pickup-delivery-dine-in": "<=1.0.9",
