@@ -1162,7 +1162,7 @@
         "wpackagist-plugin/automizy-gravity-forms": ">=1.0.1,<=1.3.0",
         "wpackagist-plugin/automotive": "<=18.6",
         "wpackagist-plugin/autopilot": "<=1.0.19",
-        "wpackagist-plugin/autoptimize": "<= 3.1.13.0",
+        "wpackagist-plugin/autoptimize": "<= 3.1.14.0",
         "wpackagist-plugin/autoresponder-gwa": "<=2.7.4",
         "wpackagist-plugin/autosave-net": ">=1.3.0,<=1.3.4",
         "wpackagist-plugin/autoshare-for-twitter": "<=1.2.1",
