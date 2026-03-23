@@ -8456,6 +8456,7 @@
         "wpackagist-plugin/pipdisqus": "<=1.6",
         "wpackagist-plugin/pirate-forms": "<= 2.6.0.0",
         "wpackagist-plugin/pit-login-welcome": "<=1.1.5",
+        "wpackagist-plugin/pitchprint": "<=11.1.2",
         "wpackagist-plugin/piwigopress": "<=2.33",
         "wpackagist-plugin/piwik-pro": ">=0.2.35,<=0.4.3",
         "wpackagist-plugin/pixabay-images": "<= 3.4.0.0",
