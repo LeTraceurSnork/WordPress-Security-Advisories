@@ -12987,7 +12987,7 @@
         "wpackagist-plugin/woocommerce-products-designer": "<=4.3.3",
         "wpackagist-plugin/woocommerce-products-filter": "<= 1.3.7.3",
         "wpackagist-plugin/woocommerce-products-quick-view": "< 2.3.0.0-dev",
-        "wpackagist-plugin/woocommerce-products-slider": "<= 1.13.50.0",
+        "wpackagist-plugin/woocommerce-products-slider": "<= 1.13.60.0",
         "wpackagist-plugin/woocommerce-products-without-featured-images": "<=0.1",
         "wpackagist-plugin/woocommerce-putler-connector": "<=2.12.0",
         "wpackagist-plugin/woocommerce-quick-product-editor": "<=3.0",
