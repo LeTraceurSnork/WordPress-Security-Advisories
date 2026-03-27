@@ -9534,6 +9534,7 @@
         "wpackagist-plugin/rewardsystem": "<=30.7.0",
         "wpackagist-plugin/rewp": "<=1.0.1",
         "wpackagist-plugin/rewrite": "<=0.2.1",
+        "wpackagist-plugin/rexcrawler": "<=1.0.15",
         "wpackagist-plugin/rey-core": "<=3.1.8",
         "wpackagist-plugin/rezgo": "<= 4.17.0.0",
         "wpackagist-plugin/rh-frontend": "<=4.3.2",
