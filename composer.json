@@ -9350,6 +9350,7 @@
         "wpackagist-plugin/relocate-upload": "<= 0.24.1.0",
         "wpackagist-plugin/relogo": "<=0.4.2",
         "wpackagist-plugin/remember-me-controls": "<=2.0.1",
+        "wpackagist-plugin/remoji": "<=2.2",
         "wpackagist-plugin/remote-content-shortcode": "<=1.5",
         "wpackagist-plugin/remote-images-grabber": "<=0.6",
         "wpackagist-plugin/remote-upload": "<=1.2.1",
