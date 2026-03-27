@@ -372,7 +372,7 @@
         "wpackagist-plugin/admin-login-url-change": "<=1.1.5",
         "wpackagist-plugin/admin-management-xtended": "<= 2.5.1.0",
         "wpackagist-plugin/admin-menu": "<=1.1",
-        "wpackagist-plugin/admin-menu-editor": "<= 1.14.0.0",
+        "wpackagist-plugin/admin-menu-editor": "<= 1.14.1.0",
         "wpackagist-plugin/admin-menu-groups": "<=0.1.2",
         "wpackagist-plugin/admin-menu-manager": "<=1.0.3",
         "wpackagist-plugin/admin-menu-organizer": "<=1.0.1",
