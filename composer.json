@@ -9750,6 +9750,7 @@
         "wpackagist-plugin/schema-and-structured-data-for-wp": "<= 1.54.0.0",
         "wpackagist-plugin/schema-app-structured-data-for-schemaorg": "<= 2.2.4.0",
         "wpackagist-plugin/schema-scalpel": "<=1.6.1",
+        "wpackagist-plugin/schema-shortcode": "<=1.0",
         "wpackagist-plugin/school-management": "*",
         "wpackagist-plugin/school-management-pro": "<=10.3.4",
         "wpackagist-plugin/school-management-system": "<=4.1",
