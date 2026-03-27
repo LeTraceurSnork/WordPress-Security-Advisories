@@ -6011,6 +6011,7 @@
         "wpackagist-plugin/integration-for-szamlazzhu-woocommerce": "<=5.6.3.2",
         "wpackagist-plugin/integration-of-capsule-crm-for-contact-form-7": "<=1.0.4",
         "wpackagist-plugin/integration-of-zoho-crm-and-contact-form-7": "<=1.0.6",
+        "wpackagist-plugin/integration-with-hubspot-forms": "<=1.2.2",
         "wpackagist-plugin/integrations-of-zoho-crm-with-elementor-form": "<=1.0.7",
         "wpackagist-plugin/integromat-connector": "<= 1.5.10.0",
         "wpackagist-plugin/intelligence": "<=1.4.0",
