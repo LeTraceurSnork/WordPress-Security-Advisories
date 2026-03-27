@@ -5418,7 +5418,7 @@
         "wpackagist-plugin/guruwalk-affiliates": "<=1.0.0",
         "wpackagist-plugin/guten-free-options": "<=0.9.5",
         "wpackagist-plugin/guten-post-layout": "<=1.2.4",
-        "wpackagist-plugin/gutena-forms": "<=1.6.0",
+        "wpackagist-plugin/gutena-forms": "< 1.6.1.0-dev",
         "wpackagist-plugin/gutena-kit": "<=2.0.7",
         "wpackagist-plugin/gutenbee": "<=2.18.0",
         "wpackagist-plugin/gutenberg": "<= 21.8.2.0",
