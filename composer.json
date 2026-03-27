@@ -9333,7 +9333,7 @@
         "wpackagist-plugin/related-posts-line-up-exactry-by-milliard": "<=0.0.22",
         "wpackagist-plugin/related-posts-list-grid-and-slider-all-in-one": "<=3.0.0.1",
         "wpackagist-plugin/related-posts-lite": "<=1.12",
-        "wpackagist-plugin/related-posts-thumbnails": "<=4.3.1",
+        "wpackagist-plugin/related-posts-thumbnails": "<= 4.3.2.0",
         "wpackagist-plugin/related-posts-via-categories": "<=2.1.2",
         "wpackagist-plugin/related-posts-via-taxonomies": "<=1.0.1",
         "wpackagist-plugin/related-products-manager-woocommerce": "<=1.6.2",
