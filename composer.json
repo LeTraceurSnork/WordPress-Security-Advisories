@@ -14015,6 +14015,7 @@
         "wpackagist-plugin/wp-postratings": "<=1.91.1",
         "wpackagist-plugin/wp-postratings-cheater": "<=1.5",
         "wpackagist-plugin/wp-posts-carousel": "<= 1.3.12.0",
+        "wpackagist-plugin/wp-posts-re-order": "<=1.0",
         "wpackagist-plugin/wp-posturl": "<=2.1.0",
         "wpackagist-plugin/wp-postviews": "<1.63",
         "wpackagist-plugin/wp-power-stats": "<=2.2.3",
