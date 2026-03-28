@@ -247,6 +247,7 @@
         "wpackagist-plugin/ad-inserter-pro": "<= 2.7.39.0",
         "wpackagist-plugin/ad-invalid-click-protector": "< 1.2.6.0-dev || == 1.2.9.0",
         "wpackagist-plugin/ad-minister": "<=0.6",
+        "wpackagist-plugin/ad-short": "<=2.0.1",
         "wpackagist-plugin/ad-sliding-faq": "<=2.4",
         "wpackagist-plugin/ad-swapper": "<=1.0.3",
         "wpackagist-plugin/ad-widget": "<=2.20.0",
