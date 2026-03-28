@@ -15297,7 +15297,7 @@
         "wpackagist-theme/capie": "<=1.0.40",
         "wpackagist-theme/car-repair-service": "<4.0",
         "wpackagist-theme/car-repair-services": "<=5.0",
-        "wpackagist-theme/cardealer": "<= 1.6.6.0",
+        "wpackagist-theme/cardealer": "< 1.6.7.0-dev",
         "wpackagist-theme/careerfy": "<= 7.0.0.0",
         "wpackagist-theme/careerup": "<2.3.1",
         "wpackagist-theme/careplus": "<=1.2",
