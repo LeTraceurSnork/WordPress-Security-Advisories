@@ -5988,6 +5988,7 @@
         "wpackagist-plugin/instant-css": "<=1.2.1",
         "wpackagist-plugin/instant-images": "<=6.1.0",
         "wpackagist-plugin/instant-locations": "<=1.0",
+        "wpackagist-plugin/instant-popup-builder": "<=1.1.7",
         "wpackagist-plugin/instantio": "<= 3.3.16.0",
         "wpackagist-plugin/instantsearch-for-woocommerce": "<= 3.0.67.0",
         "wpackagist-plugin/instapage": "<= 3.7.0.0",
