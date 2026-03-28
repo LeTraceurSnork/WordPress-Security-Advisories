@@ -13107,6 +13107,7 @@
         "wpackagist-plugin/wordpress-multisite-user-sync": "<=2.1.1",
         "wpackagist-plugin/wordpress-nextgen-galleryview": "<=0.5.5",
         "wpackagist-plugin/wordpress-notification-bar": "<=1.3.10",
+        "wpackagist-plugin/wordpress-paypal-donation": "<=1.01",
         "wpackagist-plugin/wordpress-plugin-for-simple-google-adsense-insertion": "<=2.0",
         "wpackagist-plugin/wordpress-popular-posts": "<= 7.1.0.0",
         "wpackagist-plugin/wordpress-popup": "<= 7.8.9.2",
