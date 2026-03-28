@@ -9071,7 +9071,7 @@
         "wpackagist-plugin/quasar-form": "<=6.1",
         "wpackagist-plugin/qubely": "<= 1.8.14.0",
         "wpackagist-plugin/qubotchat": "<=1.1.5",
-        "wpackagist-plugin/quentn-wp": "<=1.2.8",
+        "wpackagist-plugin/quentn-wp": "<= 1.2.12.0",
         "wpackagist-plugin/query-posts": "<=0.3.2",
         "wpackagist-plugin/query-wrangler": "<= 1.5.54.0",
         "wpackagist-plugin/querywall": "<=1.1.1",
