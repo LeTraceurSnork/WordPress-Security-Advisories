@@ -499,7 +499,7 @@
         "wpackagist-plugin/advanced-post-manager": "<=4.5.1",
         "wpackagist-plugin/advanced-post-search": "<=1.1.0",
         "wpackagist-plugin/advanced-post-slider": "<=3.0.0",
-        "wpackagist-plugin/advanced-product-fields-for-woocommerce": "<=1.6.17",
+        "wpackagist-plugin/advanced-product-fields-for-woocommerce": "<= 1.6.18.0",
         "wpackagist-plugin/advanced-product-labels-for-woocommerce": "<= 1.2.4.0",
         "wpackagist-plugin/advanced-quiz": "<=1.0.3",
         "wpackagist-plugin/advanced-recent-posts": "<=0.6.14",
