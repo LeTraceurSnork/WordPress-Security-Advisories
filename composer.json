@@ -12349,6 +12349,7 @@
         "wpackagist-plugin/wc-builder": "<= 1.2.0.0",
         "wpackagist-plugin/wc-bulk-assign-linked-products": "<=2.1",
         "wpackagist-plugin/wc-captcha": "<=1.5",
+        "wpackagist-plugin/wc-carta-docente": "<=1.5.0",
         "wpackagist-plugin/wc-cashapp": "<= 6.0.2.0",
         "wpackagist-plugin/wc-category-showcase": "<=1.1.9",
         "wpackagist-plugin/wc-checkout-getnet": "<= 1.8.0.0",
