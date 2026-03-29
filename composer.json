@@ -5623,6 +5623,7 @@
         "wpackagist-plugin/hqtheme-extra": ">=1.0.6,<=1.0.19",
         "wpackagist-plugin/hr-management": "<=1.1.1",
         "wpackagist-plugin/hr-management-lite": "<= 3.5.0.0",
+        "wpackagist-plugin/hr-press-lite": "<=1.0.2",
         "wpackagist-plugin/hreflang-manager-lite": "<=1.06",
         "wpackagist-plugin/hreflang-tags-by-dcgws": "<=2.0.0",
         "wpackagist-plugin/hrm": "<= 2.2.17.0",
