@@ -16496,7 +16496,7 @@
         "wpackagist-theme/smart-casa": "<=1.0.11",
         "wpackagist-theme/smart-mag": "<= 10.3.1.0",
         "wpackagist-theme/smartit": "*",
-        "wpackagist-theme/smartmag-responsive-retina-wordpress-magazine": "<=9.3.0",
+        "wpackagist-theme/smartmag-responsive-retina-wordpress-magazine": "< 10.1.0.0-dev",
         "wpackagist-theme/smartseo": "<=2.12",
         "wpackagist-theme/smartstart": "<=1.0.8",
         "wpackagist-theme/smash": "<=1.7",
