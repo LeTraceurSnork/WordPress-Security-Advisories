@@ -3186,6 +3186,7 @@
         "wpackagist-plugin/database-sync": "<= 0.5.1.0",
         "wpackagist-plugin/database-to-excel": "<=1.0",
         "wpackagist-plugin/database-toolset": "<=1.8.4",
+        "wpackagist-plugin/datalogics": "<2.6.60",
         "wpackagist-plugin/datamentor": "<=1.7",
         "wpackagist-plugin/datasets-manager-by-arttia-creative": "<=1.5",
         "wpackagist-plugin/date-counter": "<=2.0.3",
