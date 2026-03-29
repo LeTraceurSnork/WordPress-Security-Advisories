@@ -1814,6 +1814,7 @@
         "wpackagist-plugin/builder-shortcode-extras": "<=1.0.0",
         "wpackagist-plugin/builder-style-manager": "<0.7.7",
         "wpackagist-plugin/builderall-cheetah-for-wp": "<= 3.0.1.0",
+        "wpackagist-plugin/builderpress": "<=2.0.1",
         "wpackagist-plugin/buk-appointments": "<=1.0.7",
         "wpackagist-plugin/bukazu-search-widget": "<=3.3.2",
         "wpackagist-plugin/bukza": "<=2.0.0",
