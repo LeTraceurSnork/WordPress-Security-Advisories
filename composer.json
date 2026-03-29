@@ -13643,6 +13643,7 @@
         "wpackagist-plugin/wp-galleria": "<=1.4",
         "wpackagist-plugin/wp-gallery-exporter": "<=1.3",
         "wpackagist-plugin/wp-gallery-metabox": "<=1.0.0",
+        "wpackagist-plugin/wp-games-embed": "<=0.1beta",
         "wpackagist-plugin/wp-gcalendar": "<=2.1",
         "wpackagist-plugin/wp-gdpr-compliance": "<= 2.0.23.0",
         "wpackagist-plugin/wp-gdpr-cookie-consen": "<=1.0.0",
