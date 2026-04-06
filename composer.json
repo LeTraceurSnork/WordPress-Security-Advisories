@@ -16156,7 +16156,7 @@
         "wpackagist-theme/nokke": "<=1.2.3",
         "wpackagist-theme/nokri": "<= 1.6.4.0",
         "wpackagist-theme/noo-citilights": "<3.7.2",
-        "wpackagist-theme/noo-jobmonster": "<= 4.8.2.0",
+        "wpackagist-theme/noo-jobmonster": "< 4.8.4.0-dev",
         "wpackagist-theme/noo-wemusic": "<=1.9.1",
         "wpackagist-theme/noo-yogi": "<=2.9.2",
         "wpackagist-theme/north-wp": "<=5.7.5",
