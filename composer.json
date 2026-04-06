@@ -13115,7 +13115,7 @@
         "wpackagist-plugin/wordpress-seo": "<= 27.1.1.0",
         "wpackagist-plugin/wordpress-seo-premium": "<=20.4 || >=25.7,<=25.9",
         "wpackagist-plugin/wordpress-signature": "<=0.1",
-        "wpackagist-plugin/wordpress-simple-paypal-shopping-cart": "<= 5.1.3.0",
+        "wpackagist-plugin/wordpress-simple-paypal-shopping-cart": "<= 5.2.4.0",
         "wpackagist-plugin/wordpress-simple-shout-box": "<=2.0.2",
         "wpackagist-plugin/wordpress-social-login": "<= 3.0.4.0",
         "wpackagist-plugin/wordpress-social-ring": "<1.2.0",
