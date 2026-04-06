@@ -7110,7 +7110,7 @@
         "wpackagist-plugin/media-file-renamer": "<= 5.7.7.0",
         "wpackagist-plugin/media-folder": "<=1.0.0",
         "wpackagist-plugin/media-from-ftp": "<= 11.16.0.0",
-        "wpackagist-plugin/media-hygiene": "<= 4.0.1.0",
+        "wpackagist-plugin/media-hygiene": "<= 4.0.2.0",
         "wpackagist-plugin/media-library-alt-text-editor": "<=1.0.0",
         "wpackagist-plugin/media-library-assistant": "<= 3.33.0.0",
         "wpackagist-plugin/media-library-categories": "<=1.1.1",
