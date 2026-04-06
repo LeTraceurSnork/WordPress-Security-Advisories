@@ -13788,7 +13788,7 @@
         "wpackagist-plugin/wp-less-to-css": "<=1.0",
         "wpackagist-plugin/wp-letsencrypt-ssl": "<=7.0",
         "wpackagist-plugin/wp-levoslideshow": "<=2.3",
-        "wpackagist-plugin/wp-lightbox-2": "<= 3.0.6.7",
+        "wpackagist-plugin/wp-lightbox-2": "< 3.0.7.0-dev",
         "wpackagist-plugin/wp-lightpop": "<=0.8.5.6",
         "wpackagist-plugin/wp-lijit-wijit": "<=1.1",
         "wpackagist-plugin/wp-like-button": "<= 1.7.0.0",
