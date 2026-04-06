@@ -4235,7 +4235,7 @@
         "wpackagist-plugin/everest-backup": "<= 2.3.9.0",
         "wpackagist-plugin/everest-forms": "<= 3.2.2.0",
         "wpackagist-plugin/everest-forms-frontend-listing": "<=1.0.5",
-        "wpackagist-plugin/everest-forms-pro": "<= 1.9.7.0",
+        "wpackagist-plugin/everest-forms-pro": "<= 1.9.12.0",
         "wpackagist-plugin/evergreen-content-poster": "<= 1.4.5.0",
         "wpackagist-plugin/evergreen-post-tweeter": "<=1.8.9",
         "wpackagist-plugin/evernote-sync": "<=3.0.0",
