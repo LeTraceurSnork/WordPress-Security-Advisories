@@ -7291,7 +7291,7 @@
         "wpackagist-plugin/mini-mail-dashboard-widget": "<1.43",
         "wpackagist-plugin/mini-twitter-feed": "<=3.0",
         "wpackagist-plugin/minical": "<=1.0.2",
-        "wpackagist-plugin/minify-html-markup": "<=2.1.10",
+        "wpackagist-plugin/minify-html-markup": "<= 2.1.12.0",
         "wpackagist-plugin/minimal-coming-soon-maintenance-mode": "<= 2.38.0.0",
         "wpackagist-plugin/minimal-share-buttons": "<=1.7.3",
         "wpackagist-plugin/minimalistic-event-manager": "<=1.1.1",
