@@ -12965,7 +12965,7 @@
         "wpackagist-plugin/woocommerce-parcelas": "<=1.3.5",
         "wpackagist-plugin/woocommerce-paymaster-gateway-019": "<=0.4.31",
         "wpackagist-plugin/woocommerce-payment-gateway-for-saferpay": "<=0.4.9",
-        "wpackagist-plugin/woocommerce-payments": "<= 6.6.2.0",
+        "wpackagist-plugin/woocommerce-payments": "<= 10.5.1.0",
         "wpackagist-plugin/woocommerce-paypal-payments": "<2.0.5",
         "wpackagist-plugin/woocommerce-payu-paisa": "<=2.1.1",
         "wpackagist-plugin/woocommerce-pdf-invoices-packing-slips": "<= 5.6.0.0",
