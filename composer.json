@@ -15756,6 +15756,7 @@
         "wpackagist-theme/gym-express": "<=1.0.2",
         "wpackagist-theme/gymbase_classes": "<=1.4",
         "wpackagist-theme/halpes": "< 1.2.5.0-dev",
+        "wpackagist-theme/halstein": "<1.8",
         "wpackagist-theme/hampton": "<=1.3.3",
         "wpackagist-theme/hanani": "<=1.2.11",
         "wpackagist-theme/handyman-services": "<=1.4",
