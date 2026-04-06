@@ -1116,6 +1116,7 @@
         "wpackagist-plugin/auto-login-when-resister": "<=1.1.0",
         "wpackagist-plugin/auto-more-tag": "<=4.0.0",
         "wpackagist-plugin/auto-post-after-image-upload": "<=1.6",
+        "wpackagist-plugin/auto-post-scheduler": "<=1.84",
         "wpackagist-plugin/auto-post-thumbnail": "<= 4.2.1.0",
         "wpackagist-plugin/auto-post-to-social-media-wp-to-social-champ": "<= 1.3.5.0",
         "wpackagist-plugin/auto-poster": "<=1.2",
