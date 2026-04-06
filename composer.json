@@ -5903,7 +5903,7 @@
         "wpackagist-plugin/indeed-api": "<=0.5",
         "wpackagist-plugin/indeed-job-importer": "<=1.0.5",
         "wpackagist-plugin/indeed-learning-pro": "<= 3.9.3.0",
-        "wpackagist-plugin/indeed-membership-pro": "<= 12.7.0.0",
+        "wpackagist-plugin/indeed-membership-pro": "<= 13.7.0.0",
         "wpackagist-plugin/indeed-wp-superbackup": "<=2.3.3",
         "wpackagist-plugin/independent-analytics": "<=1.25.0",
         "wpackagist-plugin/index-wp-mysql-for-speed": "<=1.4.17",
