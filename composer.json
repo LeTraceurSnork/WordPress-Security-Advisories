@@ -6227,7 +6227,7 @@
         "wpackagist-plugin/js-jobs": "<= 2.0.2.0",
         "wpackagist-plugin/js-multihotel": "<=2.2.1",
         "wpackagist-plugin/js-restaurant": "*",
-        "wpackagist-plugin/js-support-ticket": "<= 3.0.1.0",
+        "wpackagist-plugin/js-support-ticket": "<= 3.0.3.0",
         "wpackagist-plugin/js-twentytwenty": "<=1.0",
         "wpackagist-plugin/js-vehicle-manager": "<=3.1",
         "wpackagist-plugin/js_composer": "<= 8.6.1.0",
