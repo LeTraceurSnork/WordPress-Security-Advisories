@@ -12245,7 +12245,7 @@
         "wpackagist-plugin/visitors-app": "<=0.3",
         "wpackagist-plugin/visitors-details": "<=1.0.1",
         "wpackagist-plugin/visitors-online": "< 1.0.0.0-dev",
-        "wpackagist-plugin/visitors-traffic-real-time-statistics": "<= 7.2.0.0",
+        "wpackagist-plugin/visitors-traffic-real-time-statistics": "<= 8.4.0.0",
         "wpackagist-plugin/visual-builder": "<=1.2.2",
         "wpackagist-plugin/visual-footer-credit-remover": "<=1.2",
         "wpackagist-plugin/visual-form-builder": "< 3.0.8.0-dev",
