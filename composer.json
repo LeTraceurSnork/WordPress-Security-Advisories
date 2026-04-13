@@ -4318,7 +4318,7 @@
         "wpackagist-plugin/extendons-registration-fields": "<=3.2.3",
         "wpackagist-plugin/extensions-for-cf7": "<= 3.4.0.0",
         "wpackagist-plugin/extensions-for-elementor": "<= 2.0.40.0",
-        "wpackagist-plugin/extensions-leaflet-map": "<= 4.8.0.0",
+        "wpackagist-plugin/extensions-leaflet-map": "<= 4.14.0.0",
         "wpackagist-plugin/extensive-vc-addon": "<= 1.9.1.0",
         "wpackagist-plugin/external-database-based-actions": "<=0.1",
         "wpackagist-plugin/external-featured-image-from-bing": "<=1.0.2",
