@@ -4278,6 +4278,7 @@
         "wpackagist-plugin/expandable-paywall": ">=1.1.1,<=2.0.16",
         "wpackagist-plugin/expert-invoice": "<=1.0.2",
         "wpackagist-plugin/experto-cta-widget": "<=1.1.1",
+        "wpackagist-plugin/experto-custom-dashboard": "<=1.0.4",
         "wpackagist-plugin/expire-tags": "<=1.1",
         "wpackagist-plugin/expivi": "<=1.0.5",
         "wpackagist-plugin/explara-events": "<=0.1.3",
