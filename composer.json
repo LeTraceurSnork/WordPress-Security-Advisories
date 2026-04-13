@@ -12658,7 +12658,7 @@
         "wpackagist-plugin/wmf-mobile-redirector": "<=1.2",
         "wpackagist-plugin/wn-flipbox-pro": "<=2.1",
         "wpackagist-plugin/woc-open-close": "<= 4.9.8.0",
-        "wpackagist-plugin/woc-order-alert": "<= 3.6.1.0",
+        "wpackagist-plugin/woc-order-alert": "< 3.6.3.0-dev",
         "wpackagist-plugin/woffice-core": "<= 5.4.30.0",
         "wpackagist-plugin/wolfnet-idx-for-wordpress": "<=1.19.1",
         "wpackagist-plugin/wolmart-core": "<=1.9.6",
