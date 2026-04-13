@@ -7809,7 +7809,7 @@
         "wpackagist-plugin/ninja-charts": "<= 3.3.5.0",
         "wpackagist-plugin/ninja-countdown": "<=1.5.0",
         "wpackagist-plugin/ninja-forms": "<= 3.14.0.0",
-        "wpackagist-plugin/ninja-forms-uploads": "<= 3.3.16.0",
+        "wpackagist-plugin/ninja-forms-uploads": "<= 3.3.26.0",
         "wpackagist-plugin/ninja-forms-webhooks": "<=3.0.7",
         "wpackagist-plugin/ninja-gdpr-compliance": "<= 2.7.4.0",
         "wpackagist-plugin/ninja-job-board": "<=1.3.2",
