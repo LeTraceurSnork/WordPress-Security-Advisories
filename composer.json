@@ -8868,6 +8868,7 @@
         "wpackagist-plugin/private-google-calendars": "<= 20250811",
         "wpackagist-plugin/private-messages-for-wordpress": "<=2.1.10",
         "wpackagist-plugin/private-only": "<=3.5.1",
+        "wpackagist-plugin/privatecontent-free": "<=1.2.0",
         "wpackagist-plugin/privy-crm-integration": "<=1.0.2",
         "wpackagist-plugin/pro-addons-for-elementor": "<=1.5.0",
         "wpackagist-plugin/pro-mime-types": "< 2.0.0.0-dev",
