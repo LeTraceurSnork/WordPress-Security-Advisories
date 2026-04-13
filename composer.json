@@ -1580,7 +1580,7 @@
         "wpackagist-plugin/bne-testimonials": "<2.0.8",
         "wpackagist-plugin/bnfw": "<= 1.9.2.0",
         "wpackagist-plugin/bng-gateway-for-woocommerce": "<=1.6.10",
-        "wpackagist-plugin/bnm-blocks": "<=1.2.3",
+        "wpackagist-plugin/bnm-blocks": "<= 1.3.0.0",
         "wpackagist-plugin/bns-featured-category": "<=2.8.2",
         "wpackagist-plugin/bns-twitter-follow-button": "<=0.3.8",
         "wpackagist-plugin/board-document-manager-from-chuhpl": "<=1.9.1",
