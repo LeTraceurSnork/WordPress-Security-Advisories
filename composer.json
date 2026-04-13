@@ -763,7 +763,7 @@
         "wpackagist-plugin/am-events": "<=1.13.1",
         "wpackagist-plugin/am-hili-affiliate-manager-for-publishers": "<=1.0",
         "wpackagist-plugin/am-login-logo": "<=1.2",
-        "wpackagist-plugin/am-lottieplayer": "<=3.5.3",
+        "wpackagist-plugin/am-lottieplayer": "<= 3.6.0.0",
         "wpackagist-plugin/amadiscount": "<=1.0",
         "wpackagist-plugin/amazing-hover-effects": "<=2.4.9",
         "wpackagist-plugin/amazing-neo-icon-font-for-elementor": "<=2.0.1",
