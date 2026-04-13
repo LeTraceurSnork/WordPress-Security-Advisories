@@ -6568,7 +6568,7 @@
         "wpackagist-plugin/license-manager-for-woocommerce": "<= 3.0.12.0",
         "wpackagist-plugin/lifeline-donation": "<=1.2.6",
         "wpackagist-plugin/lifepress": "<= 2.2.1.0",
-        "wpackagist-plugin/lifterlms": "<= 8.0.7.0 || >=9.0.0,<=9.0.7 || 9.1.0",
+        "wpackagist-plugin/lifterlms": "<= 9.2.1.0",
         "wpackagist-plugin/lifterlms-gateway-paypal": "<1.4.0",
         "wpackagist-plugin/light-messages": "<=1.0",
         "wpackagist-plugin/light-poll": "<=1.0.0",
