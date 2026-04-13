@@ -6824,7 +6824,7 @@
         "wpackagist-plugin/ltl-freight-quotes-globaltranz-edition": "<=2.3.12",
         "wpackagist-plugin/ltl-freight-quotes-odfl-edition": "<=4.2.10",
         "wpackagist-plugin/ltl-freight-quotes-purolator-freight-edition": "<=2.2.3",
-        "wpackagist-plugin/ltl-freight-quotes-rl-edition": "<=3.3.4",
+        "wpackagist-plugin/ltl-freight-quotes-rl-edition": "<= 3.3.13.0",
         "wpackagist-plugin/ltl-freight-quotes-saia-edition": "<=2.2.10",
         "wpackagist-plugin/ltl-freight-quotes-sefl-edition": "<=3.2.4",
         "wpackagist-plugin/ltl-freight-quotes-tql-edition": "<=1.2.6",
