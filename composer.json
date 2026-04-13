@@ -1273,7 +1273,7 @@
         "wpackagist-plugin/backup": "<= 2.0.9.7",
         "wpackagist-plugin/backup-and-move": "<=0.1",
         "wpackagist-plugin/backup-and-restore-for-wp": "<=1.0.3",
-        "wpackagist-plugin/backup-backup": "<= 1.4.9.0",
+        "wpackagist-plugin/backup-backup": "<= 2.0.0.0",
         "wpackagist-plugin/backup-bolt": "<= 1.4.1.0",
         "wpackagist-plugin/backup-by-supsystic": "<=2.3.11",
         "wpackagist-plugin/backup-database": "<=4.9",
