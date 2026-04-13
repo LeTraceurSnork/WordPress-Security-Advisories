@@ -12345,6 +12345,7 @@
         "wpackagist-plugin/wbcom-designs-buddypress-search": "*",
         "wpackagist-plugin/wbounce": "<=1.8.1",
         "wpackagist-plugin/wc-affiliate": "<= 2.16.0.0",
+        "wpackagist-plugin/wc-ajax-product-filter": "<=4.2.3",
         "wpackagist-plugin/wc-basic-slider": "<=2.0.0",
         "wpackagist-plugin/wc-builder": "<= 1.2.0.0",
         "wpackagist-plugin/wc-bulk-assign-linked-products": "<=2.1",
