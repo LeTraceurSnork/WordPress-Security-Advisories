@@ -312,6 +312,7 @@
         "wpackagist-plugin/addblockblocker": "0.0.1",
         "wpackagist-plugin/addendio": "<=1.2.2",
         "wpackagist-plugin/addfreestats": "<= 4.21.0.0",
+        "wpackagist-plugin/addfunc-head-footer-code": "<=2.3",
         "wpackagist-plugin/addfunc-mobile-detect": "<=3.1",
         "wpackagist-plugin/addi-simple-slider": "<=2.0",
         "wpackagist-plugin/addify-abandoned-cart-recovery": "<1.2.5",
