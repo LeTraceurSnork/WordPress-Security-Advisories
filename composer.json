@@ -13763,7 +13763,7 @@
         "wpackagist-plugin/wp-jobsearch": "< 3.0.8.0-dev",
         "wpackagist-plugin/wp-joomag": "<=2.5.2",
         "wpackagist-plugin/wp-jquery-datatable": "<= 4.1.0.0",
-        "wpackagist-plugin/wp-jquery-lightbox": "<= 2.3.3.0",
+        "wpackagist-plugin/wp-jquery-lightbox": "<= 2.3.4.0",
         "wpackagist-plugin/wp-jquery-pdf-paged": "<=1.4.0",
         "wpackagist-plugin/wp-js": "<=2.0.6",
         "wpackagist-plugin/wp-js-external-link-info": "<=1.21",
