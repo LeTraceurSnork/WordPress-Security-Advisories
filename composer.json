@@ -8090,7 +8090,7 @@
         "wpackagist-plugin/osd-subscribe": "<=1.2.3",
         "wpackagist-plugin/oshine-core": "<=1.5.5",
         "wpackagist-plugin/oshine-modules": "<3.3.8",
-        "wpackagist-plugin/osm": "<= 6.1.13.0",
+        "wpackagist-plugin/osm": "<= 6.1.15.0",
         "wpackagist-plugin/osm-map-elementor": "<= 1.3.0.0",
         "wpackagist-plugin/osmapper": "<=2.1.5",
         "wpackagist-plugin/osomblocks": "<=1.2.1",
