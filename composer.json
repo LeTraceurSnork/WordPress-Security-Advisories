@@ -13267,6 +13267,7 @@
         "wpackagist-plugin/wp-blipbot": "<=3.0.9",
         "wpackagist-plugin/wp-bliss-gallery": "<2.3",
         "wpackagist-plugin/wp-block-pack": "<=1.1.6",
+        "wpackagist-plugin/wp-blockade": "<=0.9.14",
         "wpackagist-plugin/wp-blocks-hub": "<=1.0.2",
         "wpackagist-plugin/wp-blog-and-widgets": "<=2.5",
         "wpackagist-plugin/wp-blog-post-layouts": "<=1.1.3",
