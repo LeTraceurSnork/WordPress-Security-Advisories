@@ -1680,6 +1680,7 @@
         "wpackagist-plugin/bp-gallery": "<=1.2.5",
         "wpackagist-plugin/bp-greeting-message": "<=1.0.3",
         "wpackagist-plugin/bp-group-documents": "<=1.2.1",
+        "wpackagist-plugin/bp-groupblog": "<=1.9.3",
         "wpackagist-plugin/bp-job-manager-integration": "<2.6.1",
         "wpackagist-plugin/bp-member-type-manager": "<=1.01",
         "wpackagist-plugin/bp-messages-tool": "<=2.2",
