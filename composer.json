@@ -11900,7 +11900,7 @@
         "wpackagist-plugin/ultimate-wp-query-search-filter": "<=1.0.10",
         "wpackagist-plugin/ultimate-youtube-video-player": "<=3.3",
         "wpackagist-plugin/ultimate_ai": "<=2.8.3",
-        "wpackagist-plugin/ultimate_vc_addons": "<= 3.21.1.0",
+        "wpackagist-plugin/ultimate_vc_addons": "< 3.21.4.0-dev",
         "wpackagist-plugin/ultimatewoo": "<=0.1.10",
         "wpackagist-plugin/ultimeter": "<= 2.8.2.0",
         "wpackagist-plugin/ultra-companion": "<=1.1.9",
