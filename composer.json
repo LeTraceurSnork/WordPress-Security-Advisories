@@ -14963,7 +14963,7 @@
         "wpackagist-plugin/zielke-design-project-gallery": "<=2.5.0",
         "wpackagist-plugin/zigaform-calculator-cost-estimation-form-builder-lite": "<= 7.6.5.0",
         "wpackagist-plugin/zigaform-form-builder-lite": "<=7.4.7",
-        "wpackagist-plugin/ziggeo": "<=3.1",
+        "wpackagist-plugin/ziggeo": "<= 3.1.1.0",
         "wpackagist-plugin/zij-kart": "<=1.1",
         "wpackagist-plugin/zikzag-core": "<=1.4.5",
         "wpackagist-plugin/zingiri-forum": "<1.4.4",
