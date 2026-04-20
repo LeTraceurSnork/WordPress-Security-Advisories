@@ -2890,7 +2890,7 @@
         "wpackagist-plugin/crypto-payment-gateway-with-payeer-for-woocommerce": "<=1.0.3",
         "wpackagist-plugin/cryptocloud-crypto-payment-gateway": "<=2.1.2",
         "wpackagist-plugin/cryptocurrency": "<=0.0.17",
-        "wpackagist-plugin/cryptocurrency-donation-box": "<=2.2.7",
+        "wpackagist-plugin/cryptocurrency-donation-box": "<= 2.2.13.0",
         "wpackagist-plugin/cryptocurrency-price-ticker-widget": "<= 2.8.0.0",
         "wpackagist-plugin/cryptocurrency-price-widget": "<=1.2.3",
         "wpackagist-plugin/cryptocurrency-prices": "<=3.0.19",
