@@ -7962,6 +7962,7 @@
         "wpackagist-plugin/one-backend-language": "<=1.0",
         "wpackagist-plugin/one-click-close-comments": "<=2.7.1",
         "wpackagist-plugin/one-click-demo-import": "<=3.2.0",
+        "wpackagist-plugin/one-click-login-as-user": "<=1.0.1",
         "wpackagist-plugin/one-click-order-reorder": "<=1.1.9",
         "wpackagist-plugin/one-click-plugin-updater": "<=2.4.14",
         "wpackagist-plugin/one-click-ssl": "<1.4.7",
