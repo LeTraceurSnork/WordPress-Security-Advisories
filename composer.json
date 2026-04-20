@@ -8691,7 +8691,7 @@
         "wpackagist-plugin/post-teaser": "<=4.1.5",
         "wpackagist-plugin/post-thumbnail-editor": "<=2.4.8",
         "wpackagist-plugin/post-thumbs": "<=1.5",
-        "wpackagist-plugin/post-timeline": "<= 2.3.9.0",
+        "wpackagist-plugin/post-timeline": "<= 2.4.1.0",
         "wpackagist-plugin/post-title-counter": "<=1.1",
         "wpackagist-plugin/post-to-csv": "<= 1.4.0.0",
         "wpackagist-plugin/post-to-google-my-business": "<3.1.15",
