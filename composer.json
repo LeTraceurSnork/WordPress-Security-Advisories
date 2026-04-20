@@ -6259,7 +6259,7 @@
         "wpackagist-plugin/justrows-free": "<=0.2",
         "wpackagist-plugin/jvm-rich-text-icons": "<=1.2.6",
         "wpackagist-plugin/jvm-woocommerce-wishlist": "<=1.2.6",
-        "wpackagist-plugin/jw-player-7-for-wp": "<=2.3.3",
+        "wpackagist-plugin/jw-player-7-for-wp": "<= 2.3.7.0",
         "wpackagist-plugin/jw-player-plugin-for-wordpress": "<= 2.1.14.0",
         "wpackagist-plugin/jwp-a11y": "<=4.1.7",
         "wpackagist-plugin/jwt-auth": "<=2.1.0",
