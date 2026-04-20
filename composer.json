@@ -1969,7 +1969,7 @@
         "wpackagist-plugin/canvasio3d-light": "<=2.5.0",
         "wpackagist-plugin/capa": "<=0.5.8.2",
         "wpackagist-plugin/capabilities-pro": "<=2.5.1",
-        "wpackagist-plugin/capability-manager-enhanced": "<=2.5.1",
+        "wpackagist-plugin/capability-manager-enhanced": "<= 2.31.0.0",
         "wpackagist-plugin/capitalize-my-title": "<=0.5.3",
         "wpackagist-plugin/captain-slider": "<=1.0.6",
         "wpackagist-plugin/captainform": "<=2.5.3",
