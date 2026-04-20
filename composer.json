@@ -8860,7 +8860,7 @@
         "wpackagist-plugin/printful-shipping-for-woocommerce": "<= 2.2.11.0",
         "wpackagist-plugin/printus-cloud-printing-for-woocommerce": "<= 1.2.6.0",
         "wpackagist-plugin/pripre": "<=0.4.11",
-        "wpackagist-plugin/prismatic": "<=2.7",
+        "wpackagist-plugin/prismatic": "<= 3.7.3.0",
         "wpackagist-plugin/private-comment": "<=0.0.4",
         "wpackagist-plugin/private-content": "<= 8.11.5.0",
         "wpackagist-plugin/private-content-mail-actions": "<=2.3.2",
