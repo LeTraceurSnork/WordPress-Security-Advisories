@@ -3034,6 +3034,7 @@
         "wpackagist-plugin/custom-metas": "<=1.5.1",
         "wpackagist-plugin/custom-more-link-complete": "<=1.4.1",
         "wpackagist-plugin/custom-my-account-for-woocommerce": "<=2.1",
+        "wpackagist-plugin/custom-new-user-notification": "<=1.2.0",
         "wpackagist-plugin/custom-option-tree": "<=2.8",
         "wpackagist-plugin/custom-options-plus": "<=1.8.1",
         "wpackagist-plugin/custom-order-numbers-for-woocommerce": "<= 1.11.0.0",
