@@ -15880,7 +15880,7 @@
         "wpackagist-theme/jobeleon-wpjobboard": "<=1.9.1",
         "wpackagist-theme/jobify": "<= 4.3.0.0",
         "wpackagist-theme/jobroller": "<=1.7.4",
-        "wpackagist-theme/jobscout": "<=1.1.4",
+        "wpackagist-theme/jobscout": "<= 1.1.7.0",
         "wpackagist-theme/jobzilla": "<=2.0",
         "wpackagist-theme/joly": "<=1.22.0",
         "wpackagist-theme/journalcrunch": "<2.0",
