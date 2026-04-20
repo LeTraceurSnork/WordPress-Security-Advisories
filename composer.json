@@ -15263,7 +15263,7 @@
         "wpackagist-theme/bulteno-theme": "*",
         "wpackagist-theme/bunnypresslite": "<2.1",
         "wpackagist-theme/busicare": "<1.1.9",
-        "wpackagist-theme/business-one-page": "<=1.2.9",
+        "wpackagist-theme/business-one-page": "<= 1.3.2.0",
         "wpackagist-theme/business-pro": "<=1.10.4",
         "wpackagist-theme/business-roy": "<=1.1.4",
         "wpackagist-theme/businessexpo": "<0.1.4",
