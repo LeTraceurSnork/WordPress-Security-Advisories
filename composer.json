@@ -8189,7 +8189,7 @@
         "wpackagist-plugin/pakke": "<=1.0.2",
         "wpackagist-plugin/pakkelabels-for-woocommerce": "<=5.0.3",
         "wpackagist-plugin/pallet-packaging-for-woocommerce": "<=1.1.15",
-        "wpackagist-plugin/panda-pods-repeater-field": "<=1.5.3",
+        "wpackagist-plugin/panda-pods-repeater-field": "<= 1.5.12.0",
         "wpackagist-plugin/pandavideo": "<=1.4.0",
         "wpackagist-plugin/panorama": "<=1.0.8",
         "wpackagist-plugin/papercite": "<=0.5.18",
