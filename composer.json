@@ -12578,6 +12578,7 @@
         "wpackagist-plugin/wholesale-market": "<= 2.2.1.0",
         "wpackagist-plugin/wholesale-market-for-woocommerce": "<= 2.0.0.0",
         "wpackagist-plugin/wholesale-pricing-woocommerce": "<= 4.0.2.0",
+        "wpackagist-plugin/wholesale-products-dynamic-pricing-management-woocommerce": "<=1.2",
         "wpackagist-plugin/wholesalex": "<=1.3.2",
         "wpackagist-plugin/whydowork-adsense": "<=1.2",
         "wpackagist-plugin/wibiya": "<=2.0",
