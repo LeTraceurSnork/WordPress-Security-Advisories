@@ -11596,7 +11596,7 @@
         "wpackagist-plugin/token-login": "<=1.0.3",
         "wpackagist-plugin/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop": "<= 2.4.7.0",
         "wpackagist-plugin/tom-m8te": "*",
-        "wpackagist-plugin/toocheke-companion": "<=1.166",
+        "wpackagist-plugin/toocheke-companion": "<= 1.194.0.0",
         "wpackagist-plugin/toolbar-extras": "<=1.4.9",
         "wpackagist-plugin/toolbar-to-share": "<=2.0",
         "wpackagist-plugin/toolpage": "<=1.6.1",
