@@ -15695,6 +15695,7 @@
         "wpackagist-theme/geomagazine": "<=2.0",
         "wpackagist-theme/geoplaces4": "<=4",
         "wpackagist-theme/geoplaces4beta": "<=4beta",
+        "wpackagist-theme/getaway": "<1.8",
         "wpackagist-theme/ghost": "*",
         "wpackagist-theme/ghostwriter": "<=1.4",
         "wpackagist-theme/giardino": "<=1.1.10",
