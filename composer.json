@@ -15407,7 +15407,7 @@
         "wpackagist-theme/corporate-event": "<=1.0.0",
         "wpackagist-theme/corredo": "<=1.1.14",
         "wpackagist-theme/corsa": "<=1.5",
-        "wpackagist-theme/cortex": "<=1.5",
+        "wpackagist-theme/cortex": "<= 1.9.0.0",
         "wpackagist-theme/cosmetsy": "<=1.7.7",
         "wpackagist-theme/counterpoint": "<=1.8.1",
         "wpackagist-theme/couponis-demo": "<2.2",
