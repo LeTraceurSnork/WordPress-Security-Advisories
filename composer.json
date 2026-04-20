@@ -12293,7 +12293,7 @@
         "wpackagist-plugin/voucherpress": "<=1.5.7",
         "wpackagist-plugin/vp-sitemap": "<=1.0",
         "wpackagist-plugin/vr-calendar-sync": "<= 2.4.7.0",
-        "wpackagist-plugin/vr-frases": "<=3.0.1",
+        "wpackagist-plugin/vr-frases": "<= 4.0.1.0",
         "wpackagist-plugin/vr-views": "<=1.5.1",
         "wpackagist-plugin/vrm360": "<=1.2.1",
         "wpackagist-plugin/vrpconnector": "<=2.0.1",
