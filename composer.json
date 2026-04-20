@@ -10917,7 +10917,7 @@
         "wpackagist-plugin/statpresscn": "<= 1.9.1.0",
         "wpackagist-plugin/stats": "<= 1.1.0.0",
         "wpackagist-plugin/stats-counter": "<=1.2.2.5",
-        "wpackagist-plugin/stax-addons-for-elementor": "<=1.4.4.1",
+        "wpackagist-plugin/stax-addons-for-elementor": "<= 1.5.0.0",
         "wpackagist-plugin/stax-buddy-builder": "<=1.7.4",
         "wpackagist-plugin/steam-group-viewer": "<=2.1",
         "wpackagist-plugin/stedb-forms": "<=1.0.4",
