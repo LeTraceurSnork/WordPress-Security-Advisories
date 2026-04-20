@@ -1606,6 +1606,7 @@
         "wpackagist-plugin/book-appointment-online": "<=1.38",
         "wpackagist-plugin/book-buyback-prices": ">=1.0.2,<=1.0.9",
         "wpackagist-plugin/book-press": "<= 1.2.7.0",
+        "wpackagist-plugin/book-previewer-for-woocommerce": "<=1.0.6",
         "wpackagist-plugin/bookalet": "<=1.0.3",
         "wpackagist-plugin/booked": "<= 3.0.0.0",
         "wpackagist-plugin/bookify": "<=1.0.9",
