@@ -12755,6 +12755,7 @@
         "wpackagist-plugin/woo-gift-product": "<=1.0.0",
         "wpackagist-plugin/woo-giftcards": "<=1.5.8",
         "wpackagist-plugin/woo-gutenberg-products-block": "<= 11.1.1.0",
+        "wpackagist-plugin/woo-idpay-gateway": "<=2.2.5",
         "wpackagist-plugin/woo-inpost": "<=1.4.0",
         "wpackagist-plugin/woo-inquiry": "<=0.1",
         "wpackagist-plugin/woo-line-notify": "<=1.1.7",
