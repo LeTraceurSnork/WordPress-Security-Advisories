@@ -12587,7 +12587,7 @@
         "wpackagist-plugin/widget-control-powered-by-everyblock": "<=1.0.1",
         "wpackagist-plugin/widget-countdown": "<= 2.7.7.0",
         "wpackagist-plugin/widget-extend-builtin-query": "<=1.05",
-        "wpackagist-plugin/widget-for-eventbrite-api": "<=6.2.6",
+        "wpackagist-plugin/widget-for-eventbrite-api": "<= 6.5.6.0",
         "wpackagist-plugin/widget-google-reviews": "<= 6.8.0.0",
         "wpackagist-plugin/widget-logic": "<= 6.0.5.0",
         "wpackagist-plugin/widget-logic-visual": "<=1.52",
