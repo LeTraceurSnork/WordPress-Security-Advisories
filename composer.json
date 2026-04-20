@@ -10145,7 +10145,7 @@
         "wpackagist-plugin/sign-up-sheets": "<= 2.3.3.0",
         "wpackagist-plugin/signup-page": "<=1.0",
         "wpackagist-plugin/sikshya": "<=0.0.21",
-        "wpackagist-plugin/silvasoft-boekhouden": "<=3.0.5",
+        "wpackagist-plugin/silvasoft-boekhouden": "<= 3.0.6.0",
         "wpackagist-plugin/simasicher-dsgvo-cookie": "<=1.3.2",
         "wpackagist-plugin/simcast": "<=1.0.0",
         "wpackagist-plugin/similar-posts": "<= 3.1.6.0",
