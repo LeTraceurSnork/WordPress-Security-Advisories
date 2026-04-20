@@ -2574,6 +2574,7 @@
         "wpackagist-plugin/contact-form-7-multi-step-module": "<3.0.9",
         "wpackagist-plugin/contact-form-7-newsletter": "<=2.2",
         "wpackagist-plugin/contact-form-7-paypal-add-on": "<= 2.3.4.0",
+        "wpackagist-plugin/contact-form-7-paypal-extension": "<=4.0.5",
         "wpackagist-plugin/contact-form-7-recaptcha": "<=1.2.0",
         "wpackagist-plugin/contact-form-7-round-robin-lead-distribution": "<=1.2.1",
         "wpackagist-plugin/contact-form-7-select-box-editor-button": "<=0.6",
