@@ -8005,6 +8005,7 @@
         "wpackagist-plugin/opal-woo-custom-product-variation": "<= 1.2.0.0",
         "wpackagist-plugin/opcache": "<=0.3.1",
         "wpackagist-plugin/open-ai-search-bar": "<=2.1",
+        "wpackagist-plugin/open-brain": "<=0.5.0",
         "wpackagist-plugin/open-external-links-in-a-new-window": "<=1.42",
         "wpackagist-plugin/open-graph-metabox": "<=1.4.4",
         "wpackagist-plugin/open-graphite": "<=1.6.0",
