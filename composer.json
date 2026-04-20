@@ -15103,7 +15103,7 @@
         "wpackagist-theme/aquarella-lite": "<=1.0.4.2",
         "wpackagist-theme/arcadian": "<=2.0.5",
         "wpackagist-theme/arcane": "<=3.6.6",
-        "wpackagist-theme/architecturer": "<=3.8.8",
+        "wpackagist-theme/architecturer": "< 3.9.5.0-dev",
         "wpackagist-theme/archub": "*",
         "wpackagist-theme/area53": "<=1.0.5",
         "wpackagist-theme/arendelle": "<=1.1.12",
