@@ -15225,7 +15225,7 @@
         "wpackagist-theme/bonbon": "<=1.6",
         "wpackagist-theme/bonkers": "<=1.0.4",
         "wpackagist-theme/bonko": "<=1.0.14",
-        "wpackagist-theme/book-landing-page": "<=1.2.3",
+        "wpackagist-theme/book-landing-page": "<= 1.2.7.0",
         "wpackagist-theme/booklovers": "<=2.13",
         "wpackagist-theme/bookory": "<=2.2.7",
         "wpackagist-theme/bookyourtravel": "<=8.18.17",
