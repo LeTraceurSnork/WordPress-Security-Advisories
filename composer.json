@@ -6282,6 +6282,7 @@
         "wpackagist-plugin/kargo-entegrator": "<=1.1.14",
         "wpackagist-plugin/kaswara": "<=3.0.1",
         "wpackagist-plugin/kata-plus": "<= 1.5.3.0",
+        "wpackagist-plugin/katalogportal-pdf-sync": "<=1.0.0",
         "wpackagist-plugin/kattene": "<=1.7",
         "wpackagist-plugin/kau-boys-backend-localization": "<= 2.1.10.0",
         "wpackagist-plugin/kaya-qr-code-generator": "<=1.5.2",
