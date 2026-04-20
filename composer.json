@@ -9964,7 +9964,7 @@
         "wpackagist-plugin/serverbuddy-by-pluginbuddy": "<=1.0.5",
         "wpackagist-plugin/service": "<=1.0.4",
         "wpackagist-plugin/service-area-postcode-checker": "<=2.0.8",
-        "wpackagist-plugin/service-booking-manager": "<=1.2.1",
+        "wpackagist-plugin/service-booking-manager": "<= 1.2.9.0",
         "wpackagist-plugin/service-boxs": "<=1.9",
         "wpackagist-plugin/service-provider-profile-cpt": "<=1.1",
         "wpackagist-plugin/service-updates-for-customers": "<=1.0",
