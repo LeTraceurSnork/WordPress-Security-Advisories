@@ -5051,6 +5051,7 @@
         "wpackagist-plugin/geo-redirector": "<=1.0.1",
         "wpackagist-plugin/geo-request": "<=0.1.9",
         "wpackagist-plugin/geo-targetly-geo-content": "<=6.0",
+        "wpackagist-plugin/geo-to-lat": "<=1.0.19",
         "wpackagist-plugin/geocache-stat-bar-widget": "<=0.911",
         "wpackagist-plugin/geodatasource-country-region-dropdown": "<=1.0.1",
         "wpackagist-plugin/geodigs": "<=3.4.1",
