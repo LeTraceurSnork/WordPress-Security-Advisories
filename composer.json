@@ -3062,7 +3062,7 @@
         "wpackagist-plugin/custom-post-types": "<=5.0.4",
         "wpackagist-plugin/custom-post-types-image": "<=0.5",
         "wpackagist-plugin/custom-post-view-generator": "<=0.4.6",
-        "wpackagist-plugin/custom-post-widget": "<= 3.3.5.0",
+        "wpackagist-plugin/custom-post-widget": "<= 3.3.9.0",
         "wpackagist-plugin/custom-posts-order": "<=4.4",
         "wpackagist-plugin/custom-product-builder-for-woocommerce": ">=1.0.1,<=1.0.4",
         "wpackagist-plugin/custom-product-list-table": "<=3.0.0",
