@@ -6503,7 +6503,7 @@
         "wpackagist-plugin/leadsnap": "<=1.23",
         "wpackagist-plugin/leadsquared-suite": "<=0.7.4",
         "wpackagist-plugin/leadster-marketing-conversacional": "<=1.1.2",
-        "wpackagist-plugin/leaflet-map": "<=3.3.0",
+        "wpackagist-plugin/leaflet-map": "<= 3.4.4.0",
         "wpackagist-plugin/leaflet-maps-marker": "<= 3.12.9.0",
         "wpackagist-plugin/leaflet-maps-marker-pro": "<1.5.8",
         "wpackagist-plugin/league-of-legends-rotation": "<=1.0",
