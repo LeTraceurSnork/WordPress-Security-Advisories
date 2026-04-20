@@ -10039,6 +10039,7 @@
         "wpackagist-plugin/shipping-manager-for-woocommerce": ">=1.0.0,<=1.3.0",
         "wpackagist-plugin/shipping-rate-by-cities": "<=2.0.0",
         "wpackagist-plugin/shiprocket": "<=2.0.8",
+        "wpackagist-plugin/shiptime-discount-shipping": "<=1.1.1",
         "wpackagist-plugin/shiptimize-for-woocommerce": "<=3.1.86",
         "wpackagist-plugin/shipworks-e-commerce-bridge": "<=5.2.5",
         "wpackagist-plugin/shipyaari-shipping-managment": "<=1.2",
