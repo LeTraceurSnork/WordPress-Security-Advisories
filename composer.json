@@ -621,6 +621,7 @@
         "wpackagist-plugin/ai-site-builder": "<=1.0.2",
         "wpackagist-plugin/ai-text-to-speech": "<=3.0.3",
         "wpackagist-plugin/ai-twitter-feeds": "<=2.4",
+        "wpackagist-plugin/ai-workflow-automation-lite": "<=1.4.2",
         "wpackagist-plugin/ai-wp-writer": "<= 3.8.4.4",
         "wpackagist-plugin/aibuddy-openai-chatgpt": "<=1.8.5",
         "wpackagist-plugin/aicomments": "<=1.4.1",
