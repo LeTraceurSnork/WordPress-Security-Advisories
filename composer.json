@@ -12805,6 +12805,7 @@
         "wpackagist-plugin/woo-product-finder": ">=1.4.0,<=1.4.1",
         "wpackagist-plugin/woo-product-gallery-slider": "< 2.2.9.0-dev",
         "wpackagist-plugin/woo-product-multiaction": "<=1.3",
+        "wpackagist-plugin/woo-product-pricing-tables": "<=1.1.0",
         "wpackagist-plugin/woo-product-reviews-shortcode": "<= 1.01.5.0",
         "wpackagist-plugin/woo-product-slider": "<=2.6.3",
         "wpackagist-plugin/woo-product-slider-and-carousel-with-category": "<=2.7.1",
