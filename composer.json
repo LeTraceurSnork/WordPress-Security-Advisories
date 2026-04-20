@@ -4145,6 +4145,7 @@
         "wpackagist-plugin/error-log-viewer-wp": "<= 1.0.5.0",
         "wpackagist-plugin/error-notification": "<=0.2.7",
         "wpackagist-plugin/esb-testimonials": "<=1.0.0",
+        "wpackagist-plugin/eshipper-commerce": "<=2.16.12",
         "wpackagist-plugin/eshop": "<= 6.3.14.0",
         "wpackagist-plugin/eshop-magic": "<0.2",
         "wpackagist-plugin/esign-genie-for-wp": "<=2.0.3",
