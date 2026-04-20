@@ -13629,7 +13629,7 @@
         "wpackagist-plugin/wp-freemind": "<=1.0",
         "wpackagist-plugin/wp-from-email": "<=1.2.1",
         "wpackagist-plugin/wp-front-end-login-and-register": "<=2.1.0",
-        "wpackagist-plugin/wp-front-end-profile": "<= 1.3.8.0",
+        "wpackagist-plugin/wp-front-end-profile": "<= 1.3.9.0",
         "wpackagist-plugin/wp-front-end-repository": "<=1.1",
         "wpackagist-plugin/wp-frontend-submit": "<=1.1.0",
         "wpackagist-plugin/wp-fsqm-pro": "< 4.19.1.0-dev",
