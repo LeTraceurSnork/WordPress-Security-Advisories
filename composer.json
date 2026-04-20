@@ -503,6 +503,7 @@
         "wpackagist-plugin/advanced-product-labels-for-woocommerce": "<= 1.2.4.0",
         "wpackagist-plugin/advanced-quiz": "<=1.0.3",
         "wpackagist-plugin/advanced-recent-posts": "<=0.6.14",
+        "wpackagist-plugin/advanced-related-posts": "<=1.9.1",
         "wpackagist-plugin/advanced-reorder-image-text-slider": "<=1.0",
         "wpackagist-plugin/advanced-schedule-posts": "<=2.1.8",
         "wpackagist-plugin/advanced-scrollbar": "<=1.1.8",
