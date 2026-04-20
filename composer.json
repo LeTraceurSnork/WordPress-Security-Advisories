@@ -5227,7 +5227,7 @@
         "wpackagist-plugin/google-calendar-events": "<= 3.5.9.0",
         "wpackagist-plugin/google-captcha": "<= 1.78.0.0",
         "wpackagist-plugin/google-cse": "<=1.0.7",
-        "wpackagist-plugin/google-distance-calculator": "<=3.1",
+        "wpackagist-plugin/google-distance-calculator": "<= 3.1.1.0",
         "wpackagist-plugin/google-docs-rsvp-guestlist": "<=2.0.1",
         "wpackagist-plugin/google-document-embedder": "<= 2.6.4.0",
         "wpackagist-plugin/google-drive-upload-and-download-link": "<=1.0",
