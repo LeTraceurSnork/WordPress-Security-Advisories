@@ -16646,7 +16646,7 @@
         "wpackagist-theme/tint": "<=1.7",
         "wpackagist-theme/tinysalt": "< 3.10.0.0",
         "wpackagist-theme/tm-moody": "<=2.7.3",
-        "wpackagist-theme/tobel": "<=1.6",
+        "wpackagist-theme/tobel": "<= 1.8.1.0",
         "wpackagist-theme/togo": "<1.0.4",
         "wpackagist-theme/toolbox": "<=1.4",
         "wpackagist-theme/tooth-fairy": "<=1.16",
