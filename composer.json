@@ -878,7 +878,7 @@
         "wpackagist-plugin/anymind-widget": "<=1.1",
         "wpackagist-plugin/anything-order-by-terms": "<=1.4.0",
         "wpackagist-plugin/anything-popup": "<=7.3",
-        "wpackagist-plugin/anytrack-affiliate-link-manager": "<=1.0.4",
+        "wpackagist-plugin/anytrack-affiliate-link-manager": "<= 1.5.5.0",
         "wpackagist-plugin/anyvar": "<=0.1.1",
         "wpackagist-plugin/anywhere-elementor": "<= 1.2.11.0",
         "wpackagist-plugin/anywhere-flash-embed": "<=1.0.5",
