@@ -7270,7 +7270,7 @@
         "wpackagist-plugin/mihdan-no-external-links": "<= 5.1.6.2",
         "wpackagist-plugin/mihdan-public-post-preview": "<=1.9.9",
         "wpackagist-plugin/mihdan-yandex-turbo-feed": "<=1.6.5.1",
-        "wpackagist-plugin/mikado-core": "<=1.5.2",
+        "wpackagist-plugin/mikado-core": "<= 1.6.0.0",
         "wpackagist-plugin/mikiurl-wordpress-eklentisi": "<=2.0",
         "wpackagist-plugin/milat-jquery-automatic-popup": "<=1.3.1",
         "wpackagist-plugin/mime-types-extended": "0.11",
