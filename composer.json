@@ -8541,7 +8541,7 @@
         "wpackagist-plugin/pmpro-payfast": "<=1.4.1",
         "wpackagist-plugin/pmpro-register-helper": "<=1.8",
         "wpackagist-plugin/png-to-jpg": "<=4.0",
-        "wpackagist-plugin/pochipp": "<=1.18.0",
+        "wpackagist-plugin/pochipp": "< 1.18.9.0-dev",
         "wpackagist-plugin/pocket-news-generator": "<=0.2.0",
         "wpackagist-plugin/pocket-widget": "<=0.1.3",
         "wpackagist-plugin/podamibe-twilio-private-call": "<=1.0.1",
