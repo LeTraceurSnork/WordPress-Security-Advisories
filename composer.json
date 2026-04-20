@@ -8697,7 +8697,7 @@
         "wpackagist-plugin/post-to-google-my-business": "<3.1.15",
         "wpackagist-plugin/post-to-pdf": "<=1.0",
         "wpackagist-plugin/post-to-twitter": "<=0.7",
-        "wpackagist-plugin/post-type-archive-mapping": "<= 5.3.1.0",
+        "wpackagist-plugin/post-type-archive-mapping": "<= 5.5.0.0",
         "wpackagist-plugin/post-type-converter": "<=0.6",
         "wpackagist-plugin/post-type-modifier-simple": "<=1.03",
         "wpackagist-plugin/post-type-switcher": "<=4.0.0",
