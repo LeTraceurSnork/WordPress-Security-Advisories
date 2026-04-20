@@ -2442,7 +2442,7 @@
         "wpackagist-plugin/coins-marketcap": "<=5.5.8",
         "wpackagist-plugin/colibri-page-builder": "<= 1.0.345.0",
         "wpackagist-plugin/collage-for-divi": "1.0.1",
-        "wpackagist-plugin/collapsing-archives": "<=3.0.5",
+        "wpackagist-plugin/collapsing-archives": "<= 3.0.7.0",
         "wpackagist-plugin/collapsing-categories": "<=3.0.8",
         "wpackagist-plugin/collect-and-deliver-interface-for-woocommerce": "<=5.5.3",
         "wpackagist-plugin/collectchat": "<= 2.4.8.0",
