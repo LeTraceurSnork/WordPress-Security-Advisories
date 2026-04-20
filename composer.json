@@ -16557,7 +16557,7 @@
         "wpackagist-theme/stargaze": "<=1.5",
         "wpackagist-theme/start": "<=1.0.14",
         "wpackagist-theme/startkit": "*",
-        "wpackagist-theme/starto": "<=2.1.9",
+        "wpackagist-theme/starto": "< 2.2.5.0-dev",
         "wpackagist-theme/startup-blog": "<=1.13",
         "wpackagist-theme/startupzy": "<=1.1.1",
         "wpackagist-theme/statfort": "*",
