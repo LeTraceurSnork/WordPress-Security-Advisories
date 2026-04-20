@@ -14473,7 +14473,7 @@
         "wpackagist-plugin/wpb-show-core": "*",
         "wpackagist-plugin/wpb-woocommerce-category-slider": "<=1.71",
         "wpackagist-plugin/wpbenchmark": "<=1.3.6",
-        "wpackagist-plugin/wpbits-addons-for-elementor": "<= 1.8.0.0",
+        "wpackagist-plugin/wpbits-addons-for-elementor": "<= 1.8.1.0",
         "wpackagist-plugin/wpblast": "<=1.8.6",
         "wpackagist-plugin/wpblogsync": "<=1.0",
         "wpackagist-plugin/wpbook": "<=2.7",
