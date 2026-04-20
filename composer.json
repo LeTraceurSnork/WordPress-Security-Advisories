@@ -7873,7 +7873,7 @@
         "wpackagist-plugin/notification-for-telegram": "<= 3.4.7.0",
         "wpackagist-plugin/notifications-center": "<=1.5.2",
         "wpackagist-plugin/notificationx": "<= 3.2.0.0",
-        "wpackagist-plugin/notifier": "<= 2.7.12.0",
+        "wpackagist-plugin/notifier": "<= 2.7.13.0",
         "wpackagist-plugin/notifikacie-sk": "<=1.0",
         "wpackagist-plugin/notify-odoo": "<=1.0.0",
         "wpackagist-plugin/notifyvisitors-lead-form": "<=1.0",
