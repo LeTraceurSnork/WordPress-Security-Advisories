@@ -4532,7 +4532,7 @@
         "wpackagist-plugin/filr-protection": "<= 1.2.13.0",
         "wpackagist-plugin/filter-custom-fields-taxonomies-light": "<=1.05",
         "wpackagist-plugin/filter-gallery": "<=0.1.5",
-        "wpackagist-plugin/filter-plus": "<=1.1.6",
+        "wpackagist-plugin/filter-plus": "<= 1.1.17.0",
         "wpackagist-plugin/filter-portfolio-gallery": "<=1.5",
         "wpackagist-plugin/filtr8-magazine": "<=2.1.13",
         "wpackagist-plugin/filtre-de-surveillance-gouvernemental": "<=1.1",
