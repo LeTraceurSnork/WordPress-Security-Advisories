@@ -12929,7 +12929,7 @@
         "wpackagist-plugin/woocommerce-gateway-gocardless": "<=2.5.6",
         "wpackagist-plugin/woocommerce-gateway-nab-dp": "<2.1.2",
         "wpackagist-plugin/woocommerce-gateway-stripe": "<= 7.6.1.0",
-        "wpackagist-plugin/woocommerce-germanized": "<=3.9.4",
+        "wpackagist-plugin/woocommerce-germanized": "<= 3.20.5.0",
         "wpackagist-plugin/woocommerce-google-adwords-conversion-tracking-tag": "<= 1.51.1.0",
         "wpackagist-plugin/woocommerce-help-scout": "<=2.9.1",
         "wpackagist-plugin/woocommerce-hss-extension-for-streaming-video": "<=3.31",
