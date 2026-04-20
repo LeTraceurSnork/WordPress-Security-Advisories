@@ -12334,6 +12334,7 @@
         "wpackagist-plugin/wats": "<1.0.64",
         "wpackagist-plugin/watu": "<= 3.4.5.0",
         "wpackagist-plugin/watupro": "< 5.5.3.7-dev",
+        "wpackagist-plugin/wava-payment": "<=0.3.7",
         "wpackagist-plugin/waveplayer": "<=3.7.0",
         "wpackagist-plugin/wavesurfer-wp": "<=2.8.3",
         "wpackagist-plugin/waymark": "<= 1.5.2.0",
