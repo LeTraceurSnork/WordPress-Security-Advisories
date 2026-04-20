@@ -8295,7 +8295,7 @@
         "wpackagist-plugin/pdf-invoices-and-packing-slips-for-woocommerce": "<=1.3.7",
         "wpackagist-plugin/pdf-invoicing-for-woocommerce": "<=2.2.1",
         "wpackagist-plugin/pdf-light-viewer": "<=1.4.11",
-        "wpackagist-plugin/pdf-poster": "<=2.1.17",
+        "wpackagist-plugin/pdf-poster": "<= 2.4.0.0",
         "wpackagist-plugin/pdf-print": "< 2.0.3.0-dev",
         "wpackagist-plugin/pdf-rechnungsverwaltung": "<=0.0.1",
         "wpackagist-plugin/pdf-resume-parser": "<=1.0",
