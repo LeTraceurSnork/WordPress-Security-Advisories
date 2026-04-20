@@ -1724,7 +1724,7 @@
         "wpackagist-plugin/bricksable": "<=1.6.59",
         "wpackagist-plugin/bricksbuilder": "<=1.9.8",
         "wpackagist-plugin/brickscore": "<=1.4.2.5",
-        "wpackagist-plugin/bricksforge": "<=2.0.17",
+        "wpackagist-plugin/bricksforge": "<= 3.1.8.4",
         "wpackagist-plugin/brid-video-easy-publish": "<= 3.8.8.0",
         "wpackagist-plugin/bridge-core": "< 3.3.1.0-dev",
         "wpackagist-plugin/brighttalk-wp-shortcode": "<=2.4.0",
