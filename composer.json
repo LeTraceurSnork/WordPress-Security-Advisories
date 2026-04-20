@@ -3702,7 +3702,7 @@
         "wpackagist-plugin/easy-filtering": "<=2.5.0",
         "wpackagist-plugin/easy-flash-embed": "<=1.0",
         "wpackagist-plugin/easy-flashcards": "<=0.1",
-        "wpackagist-plugin/easy-form": "<= 2.7.8.0",
+        "wpackagist-plugin/easy-form": "<= 2.7.9.0",
         "wpackagist-plugin/easy-form-builder": "<= 3.9.6.0",
         "wpackagist-plugin/easy-form-builder-by-bitware": "<=1.0",
         "wpackagist-plugin/easy-gallery-slideshow": "*",
