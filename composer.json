@@ -14634,7 +14634,7 @@
         "wpackagist-plugin/wpshop": "<= 2.6.1.0",
         "wpackagist-plugin/wpshopgermany-it-recht-kanzlei": "<= 2.0.0.0",
         "wpackagist-plugin/wpshopgermany-protectedshops": "<2.1",
-        "wpackagist-plugin/wpshopify": "<=2.0.4",
+        "wpackagist-plugin/wpshopify": "<= 5.2.4.0",
         "wpackagist-plugin/wpsid-shortcode": "<=1.0.9.2",
         "wpackagist-plugin/wpsimpletools-log-viewer": "<=1.0.4",
         "wpackagist-plugin/wpsimpletools-upload-limit": "<=1.0.4",
