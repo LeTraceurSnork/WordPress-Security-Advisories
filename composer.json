@@ -16677,7 +16677,7 @@
         "wpackagist-theme/trendy-news": "<=1.0.14",
         "wpackagist-theme/tribe": "<=1.7.3",
         "wpackagist-theme/triompher": "<=1.1.0",
-        "wpackagist-theme/tripgo": "<=1.5.3",
+        "wpackagist-theme/tripgo": "< 1.5.6.0-dev",
         "wpackagist-theme/triple-seven": "<=1.3",
         "wpackagist-theme/triply": "<=2.4.7",
         "wpackagist-theme/tripster": "<=1.0.10",
