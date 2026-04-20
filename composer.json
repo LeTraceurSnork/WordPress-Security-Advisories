@@ -16113,7 +16113,7 @@
         "wpackagist-theme/nazareth": "<=1.0.16",
         "wpackagist-theme/neighborly": "<=1.4",
         "wpackagist-theme/nelson": "<=1.2.0",
-        "wpackagist-theme/neobeat": "<=1.2",
+        "wpackagist-theme/neobeat": "<= 1.7.0.0",
         "wpackagist-theme/neom-blog": "<=0.0.9",
         "wpackagist-theme/neon": "<=2.0",
         "wpackagist-theme/neoocular": "<1.2",
