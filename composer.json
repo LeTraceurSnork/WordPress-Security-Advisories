@@ -6496,6 +6496,7 @@
         "wpackagist-plugin/leadinfo": "<= 1.1.0.0",
         "wpackagist-plugin/leadpages": "<=1.1.3",
         "wpackagist-plugin/leadquizzes": "<=1.1.0",
+        "wpackagist-plugin/leadrebel": "<=1.0.2",
         "wpackagist-plugin/leads": "<1.6.3",
         "wpackagist-plugin/leads-5050-visitor-insights": "<=1.0.5",
         "wpackagist-plugin/leads-crm": "<=2.0.13",
