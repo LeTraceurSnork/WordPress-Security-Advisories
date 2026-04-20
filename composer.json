@@ -3495,7 +3495,7 @@
         "wpackagist-plugin/download-manager": "<= 3.3.46.0 || >= 4.0.0.0-dev < 6.3.0.0-dev",
         "wpackagist-plugin/download-media": "<=1.4.2",
         "wpackagist-plugin/download-media-library": "<=0.2.1",
-        "wpackagist-plugin/download-monitor": "<= 5.0.22.0",
+        "wpackagist-plugin/download-monitor": "<= 5.1.8.0",
         "wpackagist-plugin/download-now-for-woocommerce": "<=3.5.8.2",
         "wpackagist-plugin/download-panel": "<=1.3.3",
         "wpackagist-plugin/download-plugin": "<= 2.2.8.0",
