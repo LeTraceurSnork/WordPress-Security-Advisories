@@ -14868,7 +14868,7 @@
         "wpackagist-plugin/yith-woocommerce-zoom-magnifier": "<= 2.14.0.0",
         "wpackagist-plugin/ymc-smart-filter": "<= 3.2.0.0",
         "wpackagist-plugin/ymc-states-map": "<=2.4.2",
-        "wpackagist-plugin/yml-for-yandex-market": "<=4.7.2",
+        "wpackagist-plugin/yml-for-yandex-market": "< 5.0.26.0-dev",
         "wpackagist-plugin/ymm-search": "<=1.0.11",
         "wpackagist-plugin/yoco-payment-gateway": "<= 3.9.0.0",
         "wpackagist-plugin/yogo-booking": "<=1.6.2",
