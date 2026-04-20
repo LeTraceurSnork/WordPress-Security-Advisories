@@ -15097,7 +15097,7 @@
         "wpackagist-theme/apollo": "<=1.3.1",
         "wpackagist-theme/aports": "< 1.1.3.0-dev",
         "wpackagist-theme/appius": "<1.1",
-        "wpackagist-theme/appointment": "<3.2.6",
+        "wpackagist-theme/appointment": "<= 3.5.5.0",
         "wpackagist-theme/appzend": "<= 1.2.6.0",
         "wpackagist-theme/aqualots": "<=1.1.6",
         "wpackagist-theme/aquarella-lite": "<=1.0.4.2",
