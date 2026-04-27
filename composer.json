@@ -6607,7 +6607,7 @@
         "wpackagist-plugin/link-checker": "<1.17.0",
         "wpackagist-plugin/link-hopper": "<=2.5",
         "wpackagist-plugin/link-juice-keeper": "<=2.0.2",
-        "wpackagist-plugin/link-library": "<= 7.8.5.0",
+        "wpackagist-plugin/link-library": "<= 7.8.7.0",
         "wpackagist-plugin/link-list-manager": "<=1.0",
         "wpackagist-plugin/link-log": "<= 5.0.2.0",
         "wpackagist-plugin/link-optimizer-lite": "<=1.4.5",
