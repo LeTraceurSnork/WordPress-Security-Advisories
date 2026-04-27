@@ -12588,7 +12588,7 @@
         "wpackagist-plugin/widget-countdown": "<= 2.7.7.0",
         "wpackagist-plugin/widget-extend-builtin-query": "<=1.05",
         "wpackagist-plugin/widget-for-eventbrite-api": "<=6.2.6",
-        "wpackagist-plugin/widget-google-reviews": "<= 6.8.0.0",
+        "wpackagist-plugin/widget-google-reviews": "<= 6.9.4.3",
         "wpackagist-plugin/widget-logic": "<= 6.0.5.0",
         "wpackagist-plugin/widget-logic-visual": "<=1.52",
         "wpackagist-plugin/widget-manager-light": "<=1.18",
