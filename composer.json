@@ -8099,6 +8099,7 @@
         "wpackagist-plugin/osticket-wp-bridge": "<=1.9.2",
         "wpackagist-plugin/ot-twitter-feed": "<=1.3.1",
         "wpackagist-plugin/ota-sync-booking-engine-widget": "<=1.2.7",
+        "wpackagist-plugin/otm-accessibly": "<=3.0.3",
         "wpackagist-plugin/otp-easy-login-with-mocean": ">=1.1.0,<=1.1.1",
         "wpackagist-plugin/otp-login": "<=1.4.2",
         "wpackagist-plugin/otpless": "<= 2.0.59.0",
