@@ -11635,6 +11635,7 @@
         "wpackagist-plugin/tours": "<=1.0.0",
         "wpackagist-plugin/tp-education": "<=4.4",
         "wpackagist-plugin/tp-gallery-slider": "<=1.2",
+        "wpackagist-plugin/tp-restore-categories-and-taxonomies": "<=1.0.1",
         "wpackagist-plugin/tp-woocommerce-product-gallery": "<=1.1.9",
         "wpackagist-plugin/tp2wp-importer": "<=1.1",
         "wpackagist-plugin/tpg-get-posts": "<=3.6.5",
