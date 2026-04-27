@@ -5055,7 +5055,7 @@
         "wpackagist-plugin/geodatasource-country-region-dropdown": "<=1.0.1",
         "wpackagist-plugin/geodigs": "<=3.4.1",
         "wpackagist-plugin/geodir_location_manager": "<2.1.0.10",
-        "wpackagist-plugin/geodirectory": "<= 2.8.150.0",
+        "wpackagist-plugin/geodirectory": "<= 2.8.152.0",
         "wpackagist-plugin/geoflickr": "<=1.3",
         "wpackagist-plugin/geoip-detect": "<=5.5.0",
         "wpackagist-plugin/geolocator": "<=1.1",
