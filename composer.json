@@ -14175,7 +14175,7 @@
         "wpackagist-plugin/wp-simple-events": "<=1.0",
         "wpackagist-plugin/wp-simple-firewall": "<= 21.0.9.0",
         "wpackagist-plugin/wp-simple-galleries": "<=1.34",
-        "wpackagist-plugin/wp-simple-html-sitemap": "<= 3.5.0.0",
+        "wpackagist-plugin/wp-simple-html-sitemap": "<= 3.8.0.0",
         "wpackagist-plugin/wp-simple-login-registration-plugin": "<=1.0.2",
         "wpackagist-plugin/wp-simple-post-view": "<=2.0",
         "wpackagist-plugin/wp-simple-redirect": "<=1.1",
