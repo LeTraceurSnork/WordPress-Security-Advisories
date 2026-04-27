@@ -15141,7 +15141,7 @@
         "wpackagist-theme/authentic": "<=2.0.4",
         "wpackagist-theme/auto-car": "*",
         "wpackagist-theme/auto-repair": "<=22.6",
-        "wpackagist-theme/automotive": "<=13.4",
+        "wpackagist-theme/automotive": "<= 18.6.0.0",
         "wpackagist-theme/autoparts": "<=1.5.8",
         "wpackagist-theme/avada": "<= 7.13.2.0",
         "wpackagist-theme/avanix": "<=1.2",
