@@ -9878,6 +9878,7 @@
         "wpackagist-plugin/sender-net-automated-emails": "<=2.6.18",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "<=1.11.8",
         "wpackagist-plugin/sendit": "<=2.5.1",
+        "wpackagist-plugin/sendmachine": "<=1.0.20",
         "wpackagist-plugin/sendpress": "<=1.23.11.6",
         "wpackagist-plugin/sendpulse-email-marketing-newsletter": "<= 2.2.1.0",
         "wpackagist-plugin/sendpulse-web-push": "<= 1.3.6.0",
