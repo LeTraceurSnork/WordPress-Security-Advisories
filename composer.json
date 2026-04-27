@@ -6288,6 +6288,7 @@
         "wpackagist-plugin/kb-support": "<= 1.7.4.0",
         "wpackagist-plugin/kbslider": "*",
         "wpackagist-plugin/kbucket": "<= 4.2.2.0",
+        "wpackagist-plugin/kcaptcha": "<=1.0.1",
         "wpackagist-plugin/kd-coming-soon": "<=1.7",
         "wpackagist-plugin/kebo-twitter-feed": "<=1.5.12",
         "wpackagist-plugin/keep-backup-daily": "<= 2.1.0.0",
