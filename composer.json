@@ -7089,6 +7089,7 @@
         "wpackagist-plugin/mayosis-core": "<=5.4.1",
         "wpackagist-plugin/maz-loader": "<= 1.4.0.0",
         "wpackagist-plugin/mb-custom-post-type": "<=2.7.6",
+        "wpackagist-plugin/mcatfilter": "<=0.5.2",
         "wpackagist-plugin/mcjh-button-shortcode": "<=1.6.4",
         "wpackagist-plugin/md-custom-content": "<=1.0",
         "wpackagist-plugin/mdc-comment-toolbar": "<=1.1",
