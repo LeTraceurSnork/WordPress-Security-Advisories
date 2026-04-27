@@ -9888,6 +9888,7 @@
         "wpackagist-plugin/sensitive-tag-cloud": "<=1.4.1",
         "wpackagist-plugin/sensly-online-presence": "<=0.6",
         "wpackagist-plugin/sensorpress-uptime-monitoring": "<=1.0",
+        "wpackagist-plugin/sentence-to-seo": "<=1.0",
         "wpackagist-plugin/seo-301-meta": "<=1.9.1",
         "wpackagist-plugin/seo-alert": "<=1.5.9",
         "wpackagist-plugin/seo-automated-link-building": "<= 3.0.1.0",
