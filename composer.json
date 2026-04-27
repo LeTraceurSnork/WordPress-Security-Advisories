@@ -15366,7 +15366,7 @@
         "wpackagist-theme/coachify": "<=1.0.7",
         "wpackagist-theme/coalition": "*",
         "wpackagist-theme/cobble": "<=1.7",
-        "wpackagist-theme/cocco": "<=1.5.1",
+        "wpackagist-theme/cocco": "<= 2.0.0.0",
         "wpackagist-theme/codiqa": "<1.2.8",
         "wpackagist-theme/coinpress": "<=1.0.14",
         "wpackagist-theme/coldfusion": "<1.2",
