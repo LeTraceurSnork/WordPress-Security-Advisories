@@ -15844,7 +15844,7 @@
         "wpackagist-theme/infocus": "<=3.3",
         "wpackagist-theme/inhype": "<=1.5.2",
         "wpackagist-theme/injob": "<=3.4.0",
-        "wpackagist-theme/innovio": "<=1.7",
+        "wpackagist-theme/innovio": "<= 1.9.0.0",
         "wpackagist-theme/inset": "<=1.18.0",
         "wpackagist-theme/inspiro": "<=2.1.2",
         "wpackagist-theme/insurance": "<=3.5",
