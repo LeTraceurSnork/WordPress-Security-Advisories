@@ -9136,6 +9136,7 @@
         "wpackagist-plugin/quotes-for-woocommerce": "<=2.0.1",
         "wpackagist-plugin/quotes-llama": "<= 3.1.0.0",
         "wpackagist-plugin/quran-gateway": "<=1.5",
+        "wpackagist-plugin/quran-live": "<=1.0.3",
         "wpackagist-plugin/quran-phrases-about-most-people-shortcodes": "<=1.4",
         "wpackagist-plugin/quran-shortcode": "<=1.5",
         "wpackagist-plugin/quran-text-multilanguage": "<= 2.3.23.0",
