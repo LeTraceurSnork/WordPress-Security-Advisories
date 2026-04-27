@@ -10515,6 +10515,7 @@
         "wpackagist-plugin/slideonline": "<=1.2.1",
         "wpackagist-plugin/slideoptinprox": "*",
         "wpackagist-plugin/slider-blocks": "<=2.7.2",
+        "wpackagist-plugin/slider-bootstrap-carousel": "<=1.0.7",
         "wpackagist-plugin/slider-bws": "<=1.1.0",
         "wpackagist-plugin/slider-by-supsystic": "<=1.8.10",
         "wpackagist-plugin/slider-comparison-image-before-and-after": "<=0.8.3",
