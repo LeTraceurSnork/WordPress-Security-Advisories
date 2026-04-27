@@ -3989,7 +3989,7 @@
         "wpackagist-plugin/email-customizer-for-woocommerce-with-drag-drop-builder": "<=3.0.34",
         "wpackagist-plugin/email-customizer-woocommerce": "<=1.7.1",
         "wpackagist-plugin/email-download-link": "<=3.7",
-        "wpackagist-plugin/email-encoder-bundle": "<= 2.2.1.0",
+        "wpackagist-plugin/email-encoder-bundle": "< 2.3.4.0-dev",
         "wpackagist-plugin/email-form-under-post": "<=1.0.5",
         "wpackagist-plugin/email-header-footer": ">=1.1,<=1.2.1",
         "wpackagist-plugin/email-keep": "<=1.1",
