@@ -16365,6 +16365,7 @@
         "wpackagist-theme/reganto-theme": "*",
         "wpackagist-theme/regina-lite": "<= 2.0.7.0",
         "wpackagist-theme/rehub-theme": "<= 19.9.9.1",
+        "wpackagist-theme/reina": "<=2.1",
         "wpackagist-theme/remons": "<=1.3.4",
         "wpackagist-theme/renden": "<=1.8.1",
         "wpackagist-theme/renewal": "<=1.2.2",
