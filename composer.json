@@ -7317,7 +7317,7 @@
         "wpackagist-plugin/minmax-quantity-for-woocommerce": "<=1.3.2.6",
         "wpackagist-plugin/mins-to-read": "<=1.2.2",
         "wpackagist-plugin/minterpress": "<=1.0.5",
-        "wpackagist-plugin/mipl-wc-multisite-sync": "<=1.1.5",
+        "wpackagist-plugin/mipl-wc-multisite-sync": "<= 1.4.4.0",
         "wpackagist-plugin/miraculous-el": "<=2.0.7",
         "wpackagist-plugin/miraculouscore": "< 2.0.9.0-dev",
         "wpackagist-plugin/misiek-paypal": "<=1.1.20090324",
