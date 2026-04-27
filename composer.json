@@ -148,7 +148,7 @@
         "wpackagist-plugin/abwp-simple-counter": "<=1.0.3",
         "wpackagist-plugin/academist-membership": "<=1.1.6",
         "wpackagist-plugin/academy": "<= 3.5.3.0",
-        "wpackagist-plugin/academy-pro": "<= 3.3.8.0",
+        "wpackagist-plugin/academy-pro": "< 3.5.2.0-dev",
         "wpackagist-plugin/accelerated-mobile-pages": "<= 1.1.10.0",
         "wpackagist-plugin/accept-authorize-net-payments-using-contact-form-7": "<= 2.5.0.0",
         "wpackagist-plugin/accept-sagepay-payments-using-contact-form-7": "<=2.0",
