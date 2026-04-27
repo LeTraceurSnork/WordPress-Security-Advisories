@@ -1938,6 +1938,7 @@
         "wpackagist-plugin/calendarista": "<=15.5.7",
         "wpackagist-plugin/calendarista-basic-edition": "<= 3.0.5.0",
         "wpackagist-plugin/calendi": "<=1.1.1",
+        "wpackagist-plugin/calj": "<=1.5",
         "wpackagist-plugin/call-me-now": "<=1.0.5",
         "wpackagist-plugin/call-now-button": "<= 1.5.4.0",
         "wpackagist-plugin/call-now-coccoc-pht-blog": "<=2.4.1",
