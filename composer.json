@@ -12794,7 +12794,7 @@
         "wpackagist-plugin/woo-preview-emails": "<=2.2.1",
         "wpackagist-plugin/woo-pricing-table": "<=1.0.9",
         "wpackagist-plugin/woo-product-attachment": "<=2.1.8",
-        "wpackagist-plugin/woo-product-bundle": "<=7.3.1",
+        "wpackagist-plugin/woo-product-bundle": "<= 8.4.5.0",
         "wpackagist-plugin/woo-product-carousel-slider-and-grid-ultimate": "<= 1.10.0.0",
         "wpackagist-plugin/woo-product-category-discount": "<=4.12",
         "wpackagist-plugin/woo-product-design": "<=1.0.0",
