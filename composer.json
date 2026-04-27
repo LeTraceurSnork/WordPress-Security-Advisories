@@ -2254,6 +2254,7 @@
         "wpackagist-plugin/church-admin": "<= 5.0.28.0",
         "wpackagist-plugin/church-management": "<=2.7.0",
         "wpackagist-plugin/church-theme-content": "<=2.6",
+        "wpackagist-plugin/ci-hub-connector": "<=1.2.106",
         "wpackagist-plugin/cibeles-ai": "<=1.10.8",
         "wpackagist-plugin/cimy-header-image-rotator": "<=6.1.1",
         "wpackagist-plugin/cimy-user-manager": "<1.4.4",
