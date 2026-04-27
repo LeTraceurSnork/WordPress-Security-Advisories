@@ -9207,6 +9207,7 @@
         "wpackagist-plugin/rdp-wiki-embed": "<=1.2.20",
         "wpackagist-plugin/rduplicator": "<=2.0",
         "wpackagist-plugin/re-attacher": "<1.0.9",
+        "wpackagist-plugin/re-pro": "<=1.0.9",
         "wpackagist-plugin/reach-us-contact-form": "<=5.0",
         "wpackagist-plugin/react-webcam": "<=1.2.0",
         "wpackagist-plugin/reactflow-session-replay-heatmap": "<=1.0.10",
