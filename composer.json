@@ -1609,7 +1609,7 @@
         "wpackagist-plugin/bookalet": "<=1.0.3",
         "wpackagist-plugin/booked": "<= 3.0.0.0",
         "wpackagist-plugin/bookify": "<=1.0.9",
-        "wpackagist-plugin/booking": "<= 10.14.14.0",
+        "wpackagist-plugin/booking": "<= 10.14.15.0",
         "wpackagist-plugin/booking-activities": "<= 1.16.44.0",
         "wpackagist-plugin/booking-and-rental-manager-for-woocommerce": "<= 2.5.9.0",
         "wpackagist-plugin/booking-calendar": "<= 3.2.30.0",
