@@ -4026,7 +4026,7 @@
         "wpackagist-plugin/embed-any-document": "<= 2.7.10.0",
         "wpackagist-plugin/embed-articles": "<=7.0.3",
         "wpackagist-plugin/embed-bokun": "<=0.23",
-        "wpackagist-plugin/embed-calendly-scheduling": "<=3.6",
+        "wpackagist-plugin/embed-calendly-scheduling": "<= 4.4.0.0",
         "wpackagist-plugin/embed-chessboard": "<=3.07.00",
         "wpackagist-plugin/embed-comment-images": "<0.6",
         "wpackagist-plugin/embed-docs": ">=2.0.1,<=3.0.0",
