@@ -8511,6 +8511,7 @@
         "wpackagist-plugin/plezi": "<=1.0.6",
         "wpackagist-plugin/plg_novana": "*",
         "wpackagist-plugin/plinks": "<=1.0.2",
+        "wpackagist-plugin/plisio-payment-gateway-for-woocommerce": "<=2.0.6",
         "wpackagist-plugin/plms": "<=1.0",
         "wpackagist-plugin/ploxel": "<=2.3.6",
         "wpackagist-plugin/plugin": "<=1.0.2",
