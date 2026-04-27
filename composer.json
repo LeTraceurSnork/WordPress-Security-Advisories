@@ -5811,7 +5811,7 @@
         "wpackagist-plugin/image-slider-slideshow": "<=1.8",
         "wpackagist-plugin/image-slider-widget": "<= 1.1.125.0",
         "wpackagist-plugin/image-slider-with-description": "<=9.2",
-        "wpackagist-plugin/image-source-control-isc": "<= 2.29.0.0",
+        "wpackagist-plugin/image-source-control-isc": "<= 3.9.1.0",
         "wpackagist-plugin/image-switcher": "<= 1.1.0.0",
         "wpackagist-plugin/image-tag-manager": "<=1.5",
         "wpackagist-plugin/image-upload-for-bbpress": "<= 1.1.19.0",
