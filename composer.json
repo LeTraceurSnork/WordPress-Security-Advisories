@@ -14653,7 +14653,7 @@
         "wpackagist-plugin/wpsso": "<=18.18.1",
         "wpackagist-plugin/wpstickybar-sticky-bar-sticky-header": "<=2.1.0",
         "wpackagist-plugin/wpstorecart": "<=2.5.29",
-        "wpackagist-plugin/wpstream": "<= 4.9.5.0",
+        "wpackagist-plugin/wpstream": "< 4.11.2.0-dev",
         "wpackagist-plugin/wpsynchro": "<= 1.11.2.0",
         "wpackagist-plugin/wpsyncsheets-elementor": "<=1.4",
         "wpackagist-plugin/wpsyncsheets-woocommerce": "<=1.8.2",
