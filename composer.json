@@ -15029,7 +15029,7 @@
         "wpackagist-theme/addison": "<1.4.8",
         "wpackagist-theme/adforest": "<= 6.0.12.0",
         "wpackagist-theme/adifier": "<3.1.4",
-        "wpackagist-theme/adifier-system": "<3.1.4",
+        "wpackagist-theme/adifier-system": "<= 3.1.7.0",
         "wpackagist-theme/adrena": "<=1.2.13",
         "wpackagist-theme/adventure-journal": "<=1.7.2",
         "wpackagist-theme/advice": "<=1.13.0",
