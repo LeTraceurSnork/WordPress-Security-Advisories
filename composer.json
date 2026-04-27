@@ -15543,7 +15543,7 @@
         "wpackagist-theme/ekommart": "<4.3.1",
         "wpackagist-theme/ekoterra": "<=1.0.0",
         "wpackagist-theme/elasta": ">=1.0.4,<=1.0.8",
-        "wpackagist-theme/eldon": "<=1.0",
+        "wpackagist-theme/eldon": "<= 1.4.1.0",
         "wpackagist-theme/electrician": "<=1.0",
         "wpackagist-theme/electron": "<=1.8.2",
         "wpackagist-theme/electroserv": "<=1.3.2",
