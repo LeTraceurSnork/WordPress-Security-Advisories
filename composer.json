@@ -15981,7 +15981,7 @@
         "wpackagist-theme/luique": "<=1.3.0",
         "wpackagist-theme/lunna": "<=1.15",
         "wpackagist-theme/luxe": "<2.0.0",
-        "wpackagist-theme/luxedrive": "<=1.0",
+        "wpackagist-theme/luxedrive": "<= 1.4.0.0",
         "wpackagist-theme/luxury-wine": "<=1.1.14",
         "wpackagist-theme/lymcoin": "<=1.3.12",
         "wpackagist-theme/m2-ce": "<=1.1.2",
