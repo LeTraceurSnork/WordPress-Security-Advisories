@@ -9536,7 +9536,7 @@
         "wpackagist-plugin/rewrite": "<=0.2.1",
         "wpackagist-plugin/rey-core": "<=3.1.8",
         "wpackagist-plugin/rezgo": "<= 4.17.0.0",
-        "wpackagist-plugin/rh-frontend": "<=4.3.2",
+        "wpackagist-plugin/rh-frontend": "< 4.3.4.0-dev",
         "wpackagist-plugin/ricerca-smart-search": "<= 1.1.12.0",
         "wpackagist-plugin/rich-counter": "<1.2.0",
         "wpackagist-plugin/rich-event-timeline": "<=1.1.6",
