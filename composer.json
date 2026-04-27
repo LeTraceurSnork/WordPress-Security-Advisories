@@ -15384,7 +15384,7 @@
         "wpackagist-theme/conquerors": "<=1.2.13",
         "wpackagist-theme/constix": "< 1.0.8.0-dev",
         "wpackagist-theme/construct": "<=1.4",
-        "wpackagist-theme/construction-landing-page": "<=1.3.5",
+        "wpackagist-theme/construction-landing-page": "<= 1.4.1.0",
         "wpackagist-theme/construction-light": "<=1.6.7",
         "wpackagist-theme/construction-lite": "<=1.2.5",
         "wpackagist-theme/constructo": "<=4.3.9",
