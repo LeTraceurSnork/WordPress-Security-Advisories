@@ -12716,7 +12716,7 @@
         "wpackagist-plugin/woo-combo-offers": "<=4.2",
         "wpackagist-plugin/woo-coming-soon-product": "<=5.0",
         "wpackagist-plugin/woo-conditional-discount-rules-for-checkout": "<= 2.4.0.0",
-        "wpackagist-plugin/woo-conditional-product-fees-for-checkout": ">=3.1,<=3.9.3.1",
+        "wpackagist-plugin/woo-conditional-product-fees-for-checkout": "<= 4.3.3.0",
         "wpackagist-plugin/woo-confirmation-email": "<=3.5.0",
         "wpackagist-plugin/woo-country-restrictions-advanced": ">=1.0.0,<=1.14.0",
         "wpackagist-plugin/woo-coupon-usage": "<= 7.2.0.0",
