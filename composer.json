@@ -3601,6 +3601,7 @@
         "wpackagist-plugin/dx-delete-attached-media": "<= 2.0.5.1",
         "wpackagist-plugin/dx-sales-crm": "<=1.1",
         "wpackagist-plugin/dx-share-selection": "<=1.4",
+        "wpackagist-plugin/dx-unanswered-comments": "<=1.7",
         "wpackagist-plugin/dx-watermark": "<=1.0.4",
         "wpackagist-plugin/dyapress": "<=18.0.2.0",
         "wpackagist-plugin/dyn-business-panel": "<=1.0.0",
