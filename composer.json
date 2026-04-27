@@ -13275,7 +13275,7 @@
         "wpackagist-plugin/wp-booking-system-premium": "<3.7",
         "wpackagist-plugin/wp-booklet": "<=2.1.8",
         "wpackagist-plugin/wp-bookmarks": "<=1.1",
-        "wpackagist-plugin/wp-books-gallery": "<=4.5.3",
+        "wpackagist-plugin/wp-books-gallery": "<= 4.8.0.0",
         "wpackagist-plugin/wp-bookwidgets": "<=0.9",
         "wpackagist-plugin/wp-bootscraper": "<=3.0.0",
         "wpackagist-plugin/wp-bootstrap-gallery": "<=1.1",
