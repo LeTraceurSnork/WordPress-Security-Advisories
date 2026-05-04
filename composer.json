@@ -8102,7 +8102,7 @@
         "wpackagist-plugin/otp-easy-login-with-mocean": ">=1.1.0,<=1.1.1",
         "wpackagist-plugin/otp-login": "<=1.4.2",
         "wpackagist-plugin/otpless": "<= 2.0.59.0",
-        "wpackagist-plugin/otter-blocks": "<= 3.1.0.0",
+        "wpackagist-plugin/otter-blocks": "<= 3.1.4.0",
         "wpackagist-plugin/otter-pro": "<=2.6.11",
         "wpackagist-plugin/otw-portfolio-manager": "3.8",
         "wpackagist-plugin/our-services-showcase": "<=2.0",
