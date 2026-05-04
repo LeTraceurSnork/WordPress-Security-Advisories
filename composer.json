@@ -11526,6 +11526,7 @@
         "wpackagist-plugin/timeline-and-history-slider": "<= 2.3.0.0",
         "wpackagist-plugin/timeline-awesome": "<= 1.0.6.0",
         "wpackagist-plugin/timeline-block-block": "<= 1.3.3.0",
+        "wpackagist-plugin/timeline-blocks": "<=1.1.10",
         "wpackagist-plugin/timeline-calendar": "<=1.2",
         "wpackagist-plugin/timeline-designer": "<=1.4",
         "wpackagist-plugin/timeline-event-history": "<= 3.2.0.0",
