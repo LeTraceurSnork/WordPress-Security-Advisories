@@ -13880,7 +13880,7 @@
         "wpackagist-plugin/wp-meta-data-filter-and-taxonomy-filter": "< 2.2.8.0-dev",
         "wpackagist-plugin/wp-meta-keywords-meta-description": "<=0.8",
         "wpackagist-plugin/wp-meta-seo": "<= 4.5.13.0",
-        "wpackagist-plugin/wp-meteor": "<= 3.4.3.0",
+        "wpackagist-plugin/wp-meteor": "<= 3.4.16.0",
         "wpackagist-plugin/wp-microblogs": "<=0.4.0",
         "wpackagist-plugin/wp-microdata": "<=1.0",
         "wpackagist-plugin/wp-migrate-2-aws": "<=5.2.1",
