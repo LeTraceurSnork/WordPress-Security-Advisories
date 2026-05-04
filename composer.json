@@ -16047,7 +16047,7 @@
         "wpackagist-theme/meta-news": "<=1.1.7",
         "wpackagist-theme/method": "<=2.1",
         "wpackagist-theme/metro": "<=2.13",
-        "wpackagist-theme/metro-magazine": "<=1.3.7",
+        "wpackagist-theme/metro-magazine": "<= 1.4.1.0",
         "wpackagist-theme/metrostore": "<=1.5.1",
         "wpackagist-theme/midi": "<=1.14",
         "wpackagist-theme/miion": "<=1.2.7",
