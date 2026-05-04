@@ -15042,6 +15042,7 @@
         "wpackagist-theme/agrofood": "< 1.4.0.0-dev",
         "wpackagist-theme/aidreform": "*",
         "wpackagist-theme/aihub": "*",
+        "wpackagist-theme/ailab": "<5.4.2",
         "wpackagist-theme/airin-blog": "<=1.6.2",
         "wpackagist-theme/akal": "*",
         "wpackagist-theme/akita": "<=2.1.4",
