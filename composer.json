@@ -10707,7 +10707,7 @@
         "wpackagist-plugin/social-metrics": "<=2.2",
         "wpackagist-plugin/social-network-tabs": "<=1.7.1",
         "wpackagist-plugin/social-networks-auto-poster-facebook-twitter-g": "<= 4.4.7.0",
-        "wpackagist-plugin/social-photo-feed-widget": "<=1.7.7",
+        "wpackagist-plugin/social-photo-feed-widget": "<= 1.8.0.0",
         "wpackagist-plugin/social-photo-gallery": "<=1.0",
         "wpackagist-plugin/social-pixel": "<=2.1",
         "wpackagist-plugin/social-polls-by-opinionstage": "<= 19.12.2.0",
