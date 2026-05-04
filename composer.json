@@ -14792,7 +14792,7 @@
         "wpackagist-plugin/yaycurrency": "<= 3.3.0.0",
         "wpackagist-plugin/yayextra": "<= 1.5.5.0",
         "wpackagist-plugin/yayforms": "<=1.2.1",
-        "wpackagist-plugin/yaymail": "<=4.3.2",
+        "wpackagist-plugin/yaymail": "<= 4.3.3.0",
         "wpackagist-plugin/yaypricing": "<=3.5.3",
         "wpackagist-plugin/yaysmtp": "<= 2.6.7.0",
         "wpackagist-plugin/ycontributors": "<=0.5",
