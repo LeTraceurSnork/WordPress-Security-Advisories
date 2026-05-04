@@ -16655,7 +16655,7 @@
         "wpackagist-theme/topfit": "<=1.9",
         "wpackagist-theme/topscorer": "<=1.2",
         "wpackagist-theme/tornados": "<=2.1",
-        "wpackagist-theme/total": "<=2.1.59",
+        "wpackagist-theme/total": "<= 2.2.1.0",
         "wpackagist-theme/totalpress": "<=6.5.3",
         "wpackagist-theme/tourimo": "<=1.2.3",
         "wpackagist-theme/townhub": "<= 1.2.9.0",
