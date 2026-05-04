@@ -16180,7 +16180,7 @@
         "wpackagist-theme/ogami": "<=1.53",
         "wpackagist-theme/oldstory-whisky-bar": "<=2.15.0",
         "wpackagist-theme/olivia": "<=0.9.5",
-        "wpackagist-theme/ona": ">=1.1,<=1.18.1",
+        "wpackagist-theme/ona": "<= 1.26.0.0",
         "wpackagist-theme/onair2": "<3.9.9.2",
         "wpackagist-theme/one-page-conference": "<=1.0.9",
         "wpackagist-theme/onelife": "<=3.9",
