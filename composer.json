@@ -2215,7 +2215,7 @@
         "wpackagist-plugin/chaty": "<= 3.5.1.0",
         "wpackagist-plugin/chaty-pro": "<=3.3.3",
         "wpackagist-plugin/chauffeur-booking-system": "<=6.9",
-        "wpackagist-plugin/check-email": "<= 1.0.9.0",
+        "wpackagist-plugin/check-email": "< 2.0.13.0-dev",
         "wpackagist-plugin/check-pincode-for-woocommerce": "<=1.1",
         "wpackagist-plugin/check-plagiarism": "<=2.0",
         "wpackagist-plugin/check-zipcode": ">=1.0.0,<=1.0.1",
