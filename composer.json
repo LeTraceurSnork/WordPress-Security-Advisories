@@ -2593,6 +2593,7 @@
         "wpackagist-plugin/contact-form-check-tester": "<=1.0.2",
         "wpackagist-plugin/contact-form-db-divi": ">=1.0,<=1.0.1",
         "wpackagist-plugin/contact-form-entries": "<= 1.4.7.0",
+        "wpackagist-plugin/contact-form-extender-for-divi-builder": "<=1.0.6",
         "wpackagist-plugin/contact-form-generator": "<= 2.7.1.0",
         "wpackagist-plugin/contact-form-integrated-with-google-maps": ">=1.0,<=2.4",
         "wpackagist-plugin/contact-form-lite": "<=4.0.1",
