@@ -14104,7 +14104,7 @@
         "wpackagist-plugin/wp-revive-adserver": "<=2.2.1",
         "wpackagist-plugin/wp-ride-booking": "<=2.4",
         "wpackagist-plugin/wp-roadmap": "<= 2.1.3.0",
-        "wpackagist-plugin/wp-rocket": "<2.10.4",
+        "wpackagist-plugin/wp-rocket": "<= 3.19.4.0",
         "wpackagist-plugin/wp-roles-at-registration": "<=0.23",
         "wpackagist-plugin/wp-rollback": "<1.2.3",
         "wpackagist-plugin/wp-royal-gallery": "<=2.0",
