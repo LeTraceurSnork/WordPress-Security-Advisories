@@ -6784,6 +6784,7 @@
         "wpackagist-plugin/login-with-azure": "<= 2.2.5.0",
         "wpackagist-plugin/login-with-cognito": "<= 1.4.8.0",
         "wpackagist-plugin/login-with-phone-number": "<= 1.8.47.0",
+        "wpackagist-plugin/login-with-salesforce": "<=1.0.2",
         "wpackagist-plugin/login-with-vipps": "<=1.3.3",
         "wpackagist-plugin/login-with-yourmembership": "<= 1.1.7.0",
         "wpackagist-plugin/loginizer": "<= 1.9.2.0",
