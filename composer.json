@@ -2285,7 +2285,7 @@
         "wpackagist-plugin/classic-editor-and-classic-widgets": "<=1.4.1",
         "wpackagist-plugin/classic-widgets-with-block-based-widgets": "<=1.0.1",
         "wpackagist-plugin/classified-core": "<1.10",
-        "wpackagist-plugin/classified-listing": "<= 5.3.4.0",
+        "wpackagist-plugin/classified-listing": "<= 5.3.8.0",
         "wpackagist-plugin/classified-listing-pro": "<2.0.20",
         "wpackagist-plugin/classified-listing-store": "<1.4.20",
         "wpackagist-plugin/classy-addons-for-elementor": "<=1.2.7",
