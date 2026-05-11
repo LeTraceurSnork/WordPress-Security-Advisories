@@ -8647,7 +8647,7 @@
         "wpackagist-plugin/post-content-xmlrpc": "<=1.0",
         "wpackagist-plugin/post-custom-templates-lite": "<=1.14",
         "wpackagist-plugin/post-duplicator": "<= 3.0.8.0",
-        "wpackagist-plugin/post-expirator": "<= 4.9.3.0",
+        "wpackagist-plugin/post-expirator": "<= 4.10.0.0",
         "wpackagist-plugin/post-featured-video": "<=1.7",
         "wpackagist-plugin/post-from-frontend": "<=1.0.0",
         "wpackagist-plugin/post-gallery": "<=1.0.6",
