@@ -3471,7 +3471,7 @@
         "wpackagist-plugin/donorbox-donation-form": "<= 7.1.6.0",
         "wpackagist-plugin/dont-muck-my-markup": "<=1.8",
         "wpackagist-plugin/doofinder": "<=0.5.4",
-        "wpackagist-plugin/doofinder-for-woocommerce": "<=2.1.8",
+        "wpackagist-plugin/doofinder-for-woocommerce": "<= 2.10.13.0",
         "wpackagist-plugin/dooodl": "<=2.3.0",
         "wpackagist-plugin/dop-shortcodes": "<=1.2",
         "wpackagist-plugin/doppler-form": "<= 2.5.1.0",
