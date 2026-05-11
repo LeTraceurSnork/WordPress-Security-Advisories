@@ -1536,6 +1536,7 @@
         "wpackagist-plugin/blog-manager-light": "<=1.20",
         "wpackagist-plugin/blog-manager-wp": "<=1.0.5",
         "wpackagist-plugin/blog-posts-and-category-for-elementor": "<= 2.0.1.0",
+        "wpackagist-plugin/blog-settings": "<=1.0",
         "wpackagist-plugin/blog-sidebar-widget": "<=1.0.5",
         "wpackagist-plugin/blog-stats-by-w3counter": "<=4.1",
         "wpackagist-plugin/blog2social": "<= 8.7.4.0",
