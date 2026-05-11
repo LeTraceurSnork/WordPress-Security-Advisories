@@ -6103,7 +6103,7 @@
         "wpackagist-plugin/ithemelandco-woo-report": "<= 1.5.1.0",
         "wpackagist-plugin/ithemes-exchange": "<1.12.0",
         "wpackagist-plugin/ithemes-security-pro": "<6.8.4",
-        "wpackagist-plugin/ithemes-sync": "< 3.0.1.0-dev",
+        "wpackagist-plugin/ithemes-sync": "<= 3.2.8.0",
         "wpackagist-plugin/ithoughts-advanced-code-editor": "<=1.2.10",
         "wpackagist-plugin/itwitter": "<=0.04",
         "wpackagist-plugin/iubenda-cookie-law-solution": "<= 3.3.2.0",
