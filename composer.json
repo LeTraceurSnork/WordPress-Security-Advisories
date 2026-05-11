@@ -10284,6 +10284,7 @@
         "wpackagist-plugin/simple-optimizer": "<=1.2.7",
         "wpackagist-plugin/simple-org-chart": "<=2.3.4",
         "wpackagist-plugin/simple-owl-carousel": "<=1.1.1",
+        "wpackagist-plugin/simple-owl-shortcodes": "<=2.1.1",
         "wpackagist-plugin/simple-page-access-restriction": "<= 1.0.32.0",
         "wpackagist-plugin/simple-page-ordering": "< 2.5.1.0-dev",
         "wpackagist-plugin/simple-page-transition": "<=1.4.1",
