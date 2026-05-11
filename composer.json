@@ -5531,7 +5531,7 @@
         "wpackagist-plugin/hide-login": "<=3.5.1",
         "wpackagist-plugin/hide-login-page": "<=1.1.7",
         "wpackagist-plugin/hide-my-site": "<=2.2",
-        "wpackagist-plugin/hide-my-wp": "<= 5.4.01.0",
+        "wpackagist-plugin/hide-my-wp": "< 7.0.00.0-dev",
         "wpackagist-plugin/hide-plugins": "<=1.0.4",
         "wpackagist-plugin/hide-real-download-path": "<=1.6",
         "wpackagist-plugin/hide-shipping-method-for-woocommerce": "<= 1.5.1.0",
