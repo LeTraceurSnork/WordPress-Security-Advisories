@@ -739,7 +739,7 @@
         "wpackagist-plugin/allow-svg": "<=1.1",
         "wpackagist-plugin/allpost-contactform": "<= 1.8.0.0",
         "wpackagist-plugin/allwebmenus-wordpress-menu-plugin": "< 1.1.9.0-dev",
-        "wpackagist-plugin/alma-gateway-for-woocommerce": "<=5.2.0",
+        "wpackagist-plugin/alma-gateway-for-woocommerce": "<= 5.16.1.0",
         "wpackagist-plugin/alo-easymail": "<2.9.3",
         "wpackagist-plugin/alobaidi-captcha": "<=1.0.3",
         "wpackagist-plugin/alojapro-widget": "<=1.1.15",
