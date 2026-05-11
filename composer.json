@@ -5819,7 +5819,7 @@
         "wpackagist-plugin/image-viewer": "<=1.0.2",
         "wpackagist-plugin/image-wall": "<= 3.1.0.0",
         "wpackagist-plugin/image-watermark": "<=1.7.3",
-        "wpackagist-plugin/image-widget": "<=4.4.10",
+        "wpackagist-plugin/image-widget": "<= 4.4.11.0",
         "wpackagist-plugin/image-zoom": "<=1.8.8",
         "wpackagist-plugin/imageboss": "<3.0.6",
         "wpackagist-plugin/imagelinks-interactive-image-builder-lite": "<= 1.5.4.0",
