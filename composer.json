@@ -3955,7 +3955,7 @@
         "wpackagist-plugin/elementor_widget_universal_video_player": "<=1.4.0",
         "wpackagist-plugin/elements-plus": "<= 2.16.4.0",
         "wpackagist-plugin/elementskit": "<= 3.7.8.0",
-        "wpackagist-plugin/elementskit-lite": "< 3.7.9.0-dev",
+        "wpackagist-plugin/elementskit-lite": "<= 3.8.2.0",
         "wpackagist-plugin/elespare": "<= 3.1.2.0",
         "wpackagist-plugin/elevio": "<=4.4.1",
         "wpackagist-plugin/elex-bulk-edit-products-prices-attributes-for-woocommerce-basic": "<=1.4.9",
