@@ -3484,7 +3484,7 @@
         "wpackagist-plugin/dovetail": "<=1.2.13",
         "wpackagist-plugin/down-as-pdf": "<=2.3.6",
         "wpackagist-plugin/download-after-email": "<= 2.1.9.0",
-        "wpackagist-plugin/download-attachments": "<= 1.3.1.0",
+        "wpackagist-plugin/download-attachments": "<= 1.4.0.0",
         "wpackagist-plugin/download-button-for-elementor": "<=1.2.1",
         "wpackagist-plugin/download-counter": "<= 1.4.0.0",
         "wpackagist-plugin/download-counter-button": "<=1.8.6.7",
