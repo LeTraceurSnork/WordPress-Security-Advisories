@@ -9605,7 +9605,7 @@
         "wpackagist-plugin/royal-core": "<=2.9.2",
         "wpackagist-plugin/royal-elementor-addons": "<= 1.7.1049.0",
         "wpackagist-plugin/royal-slider": "<3.2.7",
-        "wpackagist-plugin/rps-include-content": "<=1.2.1",
+        "wpackagist-plugin/rps-include-content": "<= 1.2.2.0",
         "wpackagist-plugin/rrdevs-for-elementor": "<=1.1.0",
         "wpackagist-plugin/rrssb": "<=1.0.1",
         "wpackagist-plugin/rs-members": "<=1.0.3",
