@@ -13380,6 +13380,7 @@
         "wpackagist-plugin/wp-content-security-policy": "<=2.3",
         "wpackagist-plugin/wp-contest": "<=1.0.0",
         "wpackagist-plugin/wp-cookie": "<=1.0.0",
+        "wpackagist-plugin/wp-cookie-allow": "<=3.4.11",
         "wpackagist-plugin/wp-cookie-consent": "<=1.0",
         "wpackagist-plugin/wp-cookie-law-info": "<=1.1",
         "wpackagist-plugin/wp-cookie-user-info": "<1.0.9",
