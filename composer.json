@@ -3849,7 +3849,7 @@
         "wpackagist-plugin/ecab-taxi-booking-manager": "<= 1.3.0.0",
         "wpackagist-plugin/ecava-diot-scada": "<=1.0.5.1",
         "wpackagist-plugin/echbay-admin-security": "<=1.3.0",
-        "wpackagist-plugin/echo-knowledge-base": "<=11.30.2",
+        "wpackagist-plugin/echo-knowledge-base": "<= 16.011.0.0",
         "wpackagist-plugin/echosign": "<1.2",
         "wpackagist-plugin/echoza": "<=0.1.1",
         "wpackagist-plugin/ecommerce-addon": ">=1.0,<=1.3",
