@@ -14537,7 +14537,7 @@
         "wpackagist-plugin/wpfavicon": "<=2.1.1",
         "wpackagist-plugin/wpfilesearch": "<=1.2",
         "wpackagist-plugin/wpforms": "<= 1.8.1.2 || >= 1.8.4.0-dev <= 1.8.5.3",
-        "wpackagist-plugin/wpforms-lite": "<= 1.9.5.0",
+        "wpackagist-plugin/wpforms-lite": "<= 1.10.0.2",
         "wpackagist-plugin/wpforms-user-registration": "<=2.1.0",
         "wpackagist-plugin/wpforo": "<= 2.4.14.0",
         "wpackagist-plugin/wpforo-advanced-attachments": "<=3.1.3",
