@@ -14478,6 +14478,7 @@
         "wpackagist-plugin/wpblogsync": "<=1.0",
         "wpackagist-plugin/wpbook": "<=2.7",
         "wpackagist-plugin/wpbookit": "<= 1.6.9.0",
+        "wpackagist-plugin/wpbookit-pro": "<=1.6.18",
         "wpackagist-plugin/wpbot-pro": "<= 13.6.2.0",
         "wpackagist-plugin/wpbrutalai": "<2.06",
         "wpackagist-plugin/wpbulky-wp-bulk-edit-post-types": "<= 1.1.13.0",
