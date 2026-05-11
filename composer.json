@@ -14448,7 +14448,7 @@
         "wpackagist-plugin/wp2wb": "<=1.1.0",
         "wpackagist-plugin/wp3d-model-import-block": "<=1.0.7",
         "wpackagist-plugin/wp_attractivedonationssystem": "<=1.25",
-        "wpackagist-plugin/wp_estimation_form": "<9.660",
+        "wpackagist-plugin/wp_estimation_form": "< 10.3.0.0-dev",
         "wpackagist-plugin/wp_rokbox": "<=2.13",
         "wpackagist-plugin/wp_rokintroscroller": "<=1.8",
         "wpackagist-plugin/wp_rokmicronews": "<=1.5",
