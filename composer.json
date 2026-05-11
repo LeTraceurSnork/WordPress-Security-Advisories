@@ -16544,6 +16544,7 @@
         "wpackagist-theme/specialist": "*",
         "wpackagist-theme/speculor": "<=1.2.0",
         "wpackagist-theme/spice-software": "<1.1.5",
+        "wpackagist-theme/spicepress": "<=2.3.2.5",
         "wpackagist-theme/spidermag": "<=1.1.7",
         "wpackagist-theme/spikes": "*",
         "wpackagist-theme/spikes-black": "*",
