@@ -11434,7 +11434,7 @@
         "wpackagist-plugin/themedy-toolbox": "<= 1.0.16.0",
         "wpackagist-plugin/themeegg-toolkit": "<=1.2.9",
         "wpackagist-plugin/themefuse-maintenance-mode": "<=1.1.3",
-        "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
+        "wpackagist-plugin/themegrill-demo-importer": "<= 2.0.0.6",
         "wpackagist-plugin/themehunk-megamenu-plus": "<= 1.1.1.0",
         "wpackagist-plugin/themeisle-companion": "<= 3.0.2.0",
         "wpackagist-plugin/themeloom-widgets": "<=1.8.5",
