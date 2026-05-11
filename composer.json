@@ -10865,7 +10865,7 @@
         "wpackagist-plugin/sql-reporting-services": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/sql-shortcode": "<=1.1",
         "wpackagist-plugin/square-thumbnails": "<=1.1.0",
-        "wpackagist-plugin/squeeze": "<= 1.6.0.0",
+        "wpackagist-plugin/squeeze": "<= 1.7.7.0",
         "wpackagist-plugin/squelch-tabs-and-accordions-shortcodes": "<=0.4.8",
         "wpackagist-plugin/squirrels-auto-inventory": "<=1.0.3",
         "wpackagist-plugin/squirrly-seo": "<= 12.4.14.0",
