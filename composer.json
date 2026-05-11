@@ -2391,7 +2391,7 @@
         "wpackagist-plugin/cms-commander-client": "<= 2.287.0.0",
         "wpackagist-plugin/cms-press": "<=0.2.3",
         "wpackagist-plugin/cms-tree-page-view": "< 1.6.8.0-dev",
-        "wpackagist-plugin/cmsmasters-content-composer": "< 2.5.7.0-dev",
+        "wpackagist-plugin/cmsmasters-content-composer": "<= 2.5.8.0",
         "wpackagist-plugin/cmsmasters-elementor-addon": "<=1.14.7",
         "wpackagist-plugin/cmyee-momentopress": "<1.0.2",
         "wpackagist-plugin/cnvrse": "<=026.02.10.20",
