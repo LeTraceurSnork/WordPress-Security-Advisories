@@ -13338,6 +13338,7 @@
         "wpackagist-plugin/wp-client-logo-carousel": "<=3.0.0",
         "wpackagist-plugin/wp-client-reports": "<= 1.0.22.0",
         "wpackagist-plugin/wp-client-testimonial": "<=2.0",
+        "wpackagist-plugin/wp-clippy": "<=1.0.0",
         "wpackagist-plugin/wp-clone-any-post-type": "<= 3.6.0.0",
         "wpackagist-plugin/wp-clone-by-wp-academy": "<=2.4.6",
         "wpackagist-plugin/wp-cloud-server": "1.3.0",
