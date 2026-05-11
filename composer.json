@@ -14617,6 +14617,7 @@
         "wpackagist-plugin/wprecovery": "<=2.0",
         "wpackagist-plugin/wpremote": "<=4.64",
         "wpackagist-plugin/wprequal": "<=8.2.11",
+        "wpackagist-plugin/wpresidence-core": "<=5.4.0",
         "wpackagist-plugin/wps-bidouille": "<= 1.33.1.0",
         "wpackagist-plugin/wps-child-theme-generator": "<=1.1",
         "wpackagist-plugin/wps-cleaner": "<=1.4.4",
