@@ -9902,7 +9902,7 @@
         "wpackagist-plugin/seo-bulk-editor": "<=1.1.0",
         "wpackagist-plugin/seo-by-10web": "<= 1.2.9.0",
         "wpackagist-plugin/seo-by-rank-math": "<= 1.0.252.1",
-        "wpackagist-plugin/seo-by-rank-math-pro": "<=3.0.35",
+        "wpackagist-plugin/seo-by-rank-math-pro": "<= 3.0.96.0",
         "wpackagist-plugin/seo-change-monitor": "<=1.2",
         "wpackagist-plugin/seo-checklist": ">=1.0.1,<=1.0.2",
         "wpackagist-plugin/seo-dashboard-by-gutewebsites-de": "*",
