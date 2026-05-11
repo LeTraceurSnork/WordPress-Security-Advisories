@@ -4091,7 +4091,7 @@
         "wpackagist-plugin/encrypted-blog": "<=0.0.6.2",
         "wpackagist-plugin/encrypted-contact-form": "<1.1",
         "wpackagist-plugin/encyclopedia-lexicon-glossary-wiki-dictionary": "<=1.7.60",
-        "wpackagist-plugin/endless-posts-navigation": "<=2.2.7",
+        "wpackagist-plugin/endless-posts-navigation": "<= 2.2.9.0",
         "wpackagist-plugin/endomondowp": "<=0.1.1",
         "wpackagist-plugin/english-wp-admin": "<=1.5.1.1",
         "wpackagist-plugin/enhanced-bibliplug": "<=1.3.8",
