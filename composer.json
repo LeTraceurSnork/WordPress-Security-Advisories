@@ -11609,7 +11609,7 @@
         "wpackagist-plugin/top-flash-embed": "<=0.3.4",
         "wpackagist-plugin/top-friends": "<=0.3",
         "wpackagist-plugin/top-position-google-finance": "<=0.1.0",
-        "wpackagist-plugin/top-table-of-contents": "<=1.3.15",
+        "wpackagist-plugin/top-table-of-contents": "<= 1.3.31.0",
         "wpackagist-plugin/top_bar_promoter": "<=1.3.4",
         "wpackagist-plugin/topbar": "<=1.0.0",
         "wpackagist-plugin/topbar-id-for-elementor": "<=1.0.1",
