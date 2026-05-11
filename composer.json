@@ -16835,7 +16835,7 @@
         "wpackagist-theme/xinterio": "<=4.2",
         "wpackagist-theme/xmas": "*",
         "wpackagist-theme/xsmart": "<=1.2.9.4",
-        "wpackagist-theme/xstore": "< 9.6.1.0-dev",
+        "wpackagist-theme/xstore": "<= 9.6.4.0",
         "wpackagist-theme/yaaburnee-themes": "<=1.0.7",
         "wpackagist-theme/yacht-rental": "<=2.6",
         "wpackagist-theme/yogi": "< 2.9.3.0-dev",
