@@ -12861,7 +12861,7 @@
         "wpackagist-plugin/woo-viet": "<=1.5.2",
         "wpackagist-plugin/woo-vietnam-checkout": "<=2.0.7",
         "wpackagist-plugin/woo-vipps": "<=1.14.13",
-        "wpackagist-plugin/woo-wallet": "<= 1.5.6.0",
+        "wpackagist-plugin/woo-wallet": "<= 1.5.15.0",
         "wpackagist-plugin/woo-whatsapp-request-quote": "*",
         "wpackagist-plugin/woo-widget-product-slideshow": "<=1.9.1",
         "wpackagist-plugin/woo-xendit-virtual-accounts": "<=6.0.2",
