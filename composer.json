@@ -7921,7 +7921,7 @@
         "wpackagist-plugin/off-page-seo": "<=3.0.3",
         "wpackagist-plugin/office-locator": "<=1.3.0",
         "wpackagist-plugin/official-facebook-pixel": "<=2.2.2 || >=3.0.0,<3.0.4",
-        "wpackagist-plugin/official-mailerlite-sign-up-forms": "<= 1.7.16.0",
+        "wpackagist-plugin/official-mailerlite-sign-up-forms": "<= 1.7.18.0",
         "wpackagist-plugin/official-saleswizard-crm": "<=1.0.3",
         "wpackagist-plugin/official-sendle-shipping-method": "<= 6.02.0.0",
         "wpackagist-plugin/official-skrill-woocommerce": "<=1.0.66",
