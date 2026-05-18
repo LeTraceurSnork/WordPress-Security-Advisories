@@ -3093,7 +3093,7 @@
         "wpackagist-plugin/custom-text-selection-colors": "*",
         "wpackagist-plugin/custom-tinymce-shortcode-button": "<=1.1",
         "wpackagist-plugin/custom-top-bar": "<=2.0.2",
-        "wpackagist-plugin/custom-twitter-feeds": "<= 2.2.5.0",
+        "wpackagist-plugin/custom-twitter-feeds": "<= 2.5.4.0",
         "wpackagist-plugin/custom-url-shorter": "<=0.3.6",
         "wpackagist-plugin/custom-url-to-featured-image": "<=2.0.0",
         "wpackagist-plugin/custom-user-css": "<=0.2",
