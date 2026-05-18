@@ -7870,7 +7870,7 @@
         "wpackagist-plugin/notices": "<=6.1",
         "wpackagist-plugin/notif-bell": "<=0.9.8",
         "wpackagist-plugin/notification": "<= 7.2.4.0",
-        "wpackagist-plugin/notification-for-telegram": "<= 3.4.7.0",
+        "wpackagist-plugin/notification-for-telegram": "<= 3.5.1.0",
         "wpackagist-plugin/notifications-center": "<=1.5.2",
         "wpackagist-plugin/notificationx": "<= 3.2.0.0",
         "wpackagist-plugin/notifier": "<= 2.7.12.0",
