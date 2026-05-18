@@ -11059,7 +11059,7 @@
         "wpackagist-plugin/sumome": "<=1.34",
         "wpackagist-plugin/sumomemberships": "<= 7.8.0.0",
         "wpackagist-plugin/sumup-payment-gateway-for-woocommerce": "<=2.7.9",
-        "wpackagist-plugin/sunshine-photo-cart": "<= 3.5.7.2",
+        "wpackagist-plugin/sunshine-photo-cart": "< 3.6.2.0-dev",
         "wpackagist-plugin/super-addons-for-elementor": "<=1.0",
         "wpackagist-plugin/super-blank": "<=1.2.0",
         "wpackagist-plugin/super-block-slider": "<=2.7.9",
