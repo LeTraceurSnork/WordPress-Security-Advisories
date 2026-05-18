@@ -10662,6 +10662,7 @@
         "wpackagist-plugin/snipe-nginx-cache": "<=1.0.4.2",
         "wpackagist-plugin/sniplets": "<1.2.3",
         "wpackagist-plugin/snippy": "<=1.4.1",
+        "wpackagist-plugin/snow-monkey-blocks": "<=24.1.11",
         "wpackagist-plugin/snow-monkey-forms": "<= 12.0.3.0",
         "wpackagist-plugin/snow-storm": "<=1.4.6",
         "wpackagist-plugin/so-audible": "<=0.9",
