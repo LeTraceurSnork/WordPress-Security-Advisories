@@ -5597,6 +5597,7 @@
         "wpackagist-plugin/hostel": "<= 1.1.5.9",
         "wpackagist-plugin/hostfact-bestelformulier-integratie": "<=1.1",
         "wpackagist-plugin/hostinger": "<=1.9.7",
+        "wpackagist-plugin/hostinger-reach": "<=1.3.8",
         "wpackagist-plugin/hot-linked-image-cacher": "<=1.16",
         "wpackagist-plugin/hot-random-image": "<= 1.9.2.0",
         "wpackagist-plugin/hotel-listing": "<= 1.4.2.0",
