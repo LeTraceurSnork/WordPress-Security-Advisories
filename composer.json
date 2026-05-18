@@ -10186,7 +10186,7 @@
         "wpackagist-plugin/simple-catalogue": "<=1.0.2",
         "wpackagist-plugin/simple-certain-time-to-show-content": "<=1.2.2",
         "wpackagist-plugin/simple-charts": "<=1.0",
-        "wpackagist-plugin/simple-cloudflare-turnstile": "<=1.23.1",
+        "wpackagist-plugin/simple-cloudflare-turnstile": "<= 1.38.0.0",
         "wpackagist-plugin/simple-cod-fee-for-woocommerce": "<=2.0.2",
         "wpackagist-plugin/simple-code-insert-shortcode": "<=1.0",
         "wpackagist-plugin/simple-colorbox": "<=1.6.1",
