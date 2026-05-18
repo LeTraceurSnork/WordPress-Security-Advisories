@@ -4686,7 +4686,7 @@
         "wpackagist-plugin/fluent-security": "<= 2.0.3.0",
         "wpackagist-plugin/fluent-smtp": "<= 2.2.82.0",
         "wpackagist-plugin/fluent-support": "<= 1.10.4.0",
-        "wpackagist-plugin/fluentform": "<= 6.1.14.0",
+        "wpackagist-plugin/fluentform": "<= 6.1.21.0",
         "wpackagist-plugin/fluentformpro": "<= 6.1.17.0",
         "wpackagist-plugin/fluentforms-pdf": "<=1.1.7",
         "wpackagist-plugin/fluid-accessible-pager": "*",
