@@ -5217,7 +5217,7 @@
         "wpackagist-plugin/google-analyticator": "<= 6.5.5.0",
         "wpackagist-plugin/google-analytics-dashboard": "<=2.1.1",
         "wpackagist-plugin/google-analytics-dashboard-for-wp": "<= 9.0.2.0",
-        "wpackagist-plugin/google-analytics-for-wordpress": "<= 8.21.0.0",
+        "wpackagist-plugin/google-analytics-for-wordpress": "<= 10.1.2.0",
         "wpackagist-plugin/google-analytics-mu": "<=2.3.1",
         "wpackagist-plugin/google-analytics-opt-out": "<=2.3.4",
         "wpackagist-plugin/google-analytics-premium": "<=8.14.1",
