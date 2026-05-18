@@ -14482,7 +14482,7 @@
         "wpackagist-plugin/wpbrutalai": "<2.06",
         "wpackagist-plugin/wpbulky-wp-bulk-edit-post-types": "<= 1.1.13.0",
         "wpackagist-plugin/wpc-admin-columns": ">=2.0.6,<=2.1.0",
-        "wpackagist-plugin/wpc-badge-management": "<=2.4.0",
+        "wpackagist-plugin/wpc-badge-management": "<= 3.1.6.0",
         "wpackagist-plugin/wpc-composite-products": "<=7.2.7",
         "wpackagist-plugin/wpc-countdown-timer": "<=3.1.4",
         "wpackagist-plugin/wpc-grouped-product": "<=4.4.2",
