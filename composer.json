@@ -4156,6 +4156,7 @@
         "wpackagist-plugin/essential-blocks": "<= 5.7.2.0",
         "wpackagist-plugin/essential-blocks-pro": "<=1.1.0",
         "wpackagist-plugin/essential-breadcrumbs": "<=1.1.1",
+        "wpackagist-plugin/essential-chat-support": "<=1.0.1",
         "wpackagist-plugin/essential-content-types": "<1.9",
         "wpackagist-plugin/essential-grid": "<= 3.1.1.0",
         "wpackagist-plugin/essential-real-estate": "<= 5.2.2.0",
