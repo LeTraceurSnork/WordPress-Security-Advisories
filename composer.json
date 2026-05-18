@@ -602,6 +602,7 @@
         "wpackagist-plugin/ai-content-pipelines": "<=1.6",
         "wpackagist-plugin/ai-content-writing-assistant": "<= 1.1.7.0",
         "wpackagist-plugin/ai-copilot": "<=1.4.7",
+        "wpackagist-plugin/ai-copilot-content-generator": "<=1.4.17",
         "wpackagist-plugin/ai-engine": "<= 3.3.2.0",
         "wpackagist-plugin/ai-feeds": "<= 1.0.22.0",
         "wpackagist-plugin/ai-for-seo": "<=1.2.9",
