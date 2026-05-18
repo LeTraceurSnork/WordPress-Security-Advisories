@@ -11711,7 +11711,7 @@
         "wpackagist-plugin/trustmate-io-integration-for-woocommerce": "<= 1.14.0.0",
         "wpackagist-plugin/trustpilot-reviews": "<=2.5.925",
         "wpackagist-plugin/trustprofile": "<3.25",
-        "wpackagist-plugin/trusty-whistleblowing-solution": "<=1.5.2",
+        "wpackagist-plugin/trusty-whistleblowing-solution": "<= 2.0.1.0",
         "wpackagist-plugin/trusty-woo-products-filter": "<=1.2",
         "wpackagist-plugin/trx_addons": "<= 2.35.1.1",
         "wpackagist-plugin/try-on-for-woocommerce": "<=7.0.5",
