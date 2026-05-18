@@ -12405,7 +12405,7 @@
         "wpackagist-plugin/wc-spod": "<=2.1.5",
         "wpackagist-plugin/wc-style": "<=1.0",
         "wpackagist-plugin/wc-sudan-payment-gateway": "<=1.2.2",
-        "wpackagist-plugin/wc-support-system": "<= 1.2.6.0",
+        "wpackagist-plugin/wc-support-system": "<= 1.3.0.0",
         "wpackagist-plugin/wc-tabs": "<=1.0.0",
         "wpackagist-plugin/wc-thanks-redirect": "<=3.1",
         "wpackagist-plugin/wc-vendors": "<= 2.6.4.0",
