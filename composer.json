@@ -3371,7 +3371,7 @@
         "wpackagist-plugin/disabler": "<=3.0.3",
         "wpackagist-plugin/disc-golf-manager": "<=1.0.0",
         "wpackagist-plugin/discount-and-dynamic-pricing": "<=2.2.9",
-        "wpackagist-plugin/display-a-meta-field-as-block": "<=1.2.13",
+        "wpackagist-plugin/display-a-meta-field-as-block": "<= 1.5.2.0",
         "wpackagist-plugin/display-admin-page-on-frontend": "<= 1.22.7.0",
         "wpackagist-plugin/display-custom-post": "<=2.2.1",
         "wpackagist-plugin/display-during-conditional-shortcode": "<=1.2",
