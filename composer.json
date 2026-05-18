@@ -11576,6 +11576,7 @@
         "wpackagist-plugin/tm-islamic-helper": "<=1.0.1",
         "wpackagist-plugin/tm-replace-howdy": "<=1.4.2",
         "wpackagist-plugin/tm-woocommerce-compare-wishlist": "<=1.1.7",
+        "wpackagist-plugin/tm-wordpress-redirection": "<=1.2",
         "wpackagist-plugin/tml-2fa": "<1.2",
         "wpackagist-plugin/tmm_content_composer": "<=1.5.8",
         "wpackagist-plugin/tmm_paypal_checkout": "<=1.1.9",
