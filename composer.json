@@ -2437,7 +2437,7 @@
         "wpackagist-plugin/codup-wp-freshsales": "<=1.3.2.2",
         "wpackagist-plugin/cognito-forms": "<= 2.0.7.0",
         "wpackagist-plugin/coil-web-monetization": "<=2.0.2",
-        "wpackagist-plugin/coinbase-commerce-for-contact-form-7": "1.1.1",
+        "wpackagist-plugin/coinbase-commerce-for-contact-form-7": "<= 1.1.2.0",
         "wpackagist-plugin/coinpayments-payment-gateway-for-woocommerce": "<=1.0.17",
         "wpackagist-plugin/coins-marketcap": "<=5.5.8",
         "wpackagist-plugin/colibri-page-builder": "<= 1.0.345.0",
