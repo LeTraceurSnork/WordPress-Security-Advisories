@@ -3931,7 +3931,7 @@
         "wpackagist-plugin/elasticpress": "<= 5.1.0.0",
         "wpackagist-plugin/elastik-page-builder": "<=0.27.4",
         "wpackagist-plugin/ele-blog": "<= 2.0.3.0",
-        "wpackagist-plugin/ele-conditions": "<=1.0.5",
+        "wpackagist-plugin/ele-conditions": "<= 1.0.6.0",
         "wpackagist-plugin/electio-core": "<=1.4",
         "wpackagist-plugin/electric-enquiries": "<=1.1",
         "wpackagist-plugin/electric-studio-client-login": "<=0.8.1",
