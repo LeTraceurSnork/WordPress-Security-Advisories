@@ -10088,6 +10088,7 @@
         "wpackagist-plugin/shortcode-to-display-post-and-user-data": "<=1.2.1",
         "wpackagist-plugin/shortcode-variables": "<= 4.1.6.0",
         "wpackagist-plugin/shortcodehub": "<= 1.7.1.0",
+        "wpackagist-plugin/shortcodely": "<=1.0.1",
         "wpackagist-plugin/shortcoder": "<= 6.5.1.0",
         "wpackagist-plugin/shortcodes-anywhere": "<=1.0.1",
         "wpackagist-plugin/shortcodes-bootstrap": "<=1.1",
