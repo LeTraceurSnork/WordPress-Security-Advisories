@@ -11018,7 +11018,7 @@
         "wpackagist-plugin/style-tweaker": "<=0.11",
         "wpackagist-plugin/stylebidet": "<=1.0.0",
         "wpackagist-plugin/styler-for-ninja-forms-lite": "<=3.3.4",
-        "wpackagist-plugin/stylish-cost-calculator": "<= 8.1.9.0",
+        "wpackagist-plugin/stylish-cost-calculator": "< 8.3.1.0-dev",
         "wpackagist-plugin/stylish-cost-calculator-premium": "<7.9.0",
         "wpackagist-plugin/stylish-google-sheet-reader": "<=4.0",
         "wpackagist-plugin/stylish-internal-links": "<=1.9",
