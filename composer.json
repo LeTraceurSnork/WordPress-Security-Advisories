@@ -2488,6 +2488,7 @@
         "wpackagist-plugin/comment-validation-reloaded": "<=0.5",
         "wpackagist-plugin/commentator": "<2.5.3",
         "wpackagist-plugin/commenter-emails": "<=2.6.1",
+        "wpackagist-plugin/commenting-feature": "<=5.2",
         "wpackagist-plugin/commentluv": "<= 3.0.4.0",
         "wpackagist-plugin/comments-capcha-box": "<=1.1",
         "wpackagist-plugin/comments-from-facebook": "<=2.4.9",
