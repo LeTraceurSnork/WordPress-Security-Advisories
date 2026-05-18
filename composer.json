@@ -4797,6 +4797,7 @@
         "wpackagist-plugin/forms-for-campaign-monitor": "<= 2.9.0.0",
         "wpackagist-plugin/forms-for-divi": "8.1.2",
         "wpackagist-plugin/forms-gutenberg": "<= 2.2.9.0",
+        "wpackagist-plugin/forms-rb": "<=1.1.9",
         "wpackagist-plugin/forms-to-zapier": "<= 1.1.12.0",
         "wpackagist-plugin/formsite": "<=1.6",
         "wpackagist-plugin/formstack": "<=2.0.2",
