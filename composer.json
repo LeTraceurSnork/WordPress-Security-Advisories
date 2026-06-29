@@ -26,7 +26,7 @@
     ],
     "conflict": {
         "johnpbloch/wordpress": "<=6.8.2",
-        "roots/wordpress": "<= 6.8.3.0 || >=6.9,<=6.9.1",
+        "roots/wordpress": "*",
         "wpackagist-plugin/0-day-analytics": "<=4.0.0",
         "wpackagist-plugin/001-prime-strategy-translate-accelerator": "<=1.1.1",
         "wpackagist-plugin/012-ps-multi-languages": "<=1.6",
