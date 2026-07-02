@@ -11529,6 +11529,7 @@
         "wpackagist-plugin/surbma-bookingcom-shortcode": "<=2.1",
         "wpackagist-plugin/surbma-font-awesome": "<=3.0",
         "wpackagist-plugin/surbma-gdpr-proof-google-analytics": "<= 17.7.0.0",
+        "wpackagist-plugin/surbma-infusionsoft-shortcode": "<=2.0.1",
         "wpackagist-plugin/surbma-magyar-woocommerce": "<=30.3.0",
         "wpackagist-plugin/surbma-minicrm-shortcode": "<=2.0",
         "wpackagist-plugin/surbma-premium-wp": "<=9.0",
