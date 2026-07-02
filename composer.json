@@ -14151,7 +14151,7 @@
         "wpackagist-plugin/wp-frontend-submit": "<=1.1.0",
         "wpackagist-plugin/wp-fsqm-pro": "< 4.19.1.0-dev",
         "wpackagist-plugin/wp-full-auto-tags-manager": "<=2.2",
-        "wpackagist-plugin/wp-full-stripe-free": "<= 8.4.1.0",
+        "wpackagist-plugin/wp-full-stripe-free": "<= 8.4.3.0",
         "wpackagist-plugin/wp-fullcalendar": "<= 1.6.0.0",
         "wpackagist-plugin/wp-fundraising-donation": "<= 1.7.4.0",
         "wpackagist-plugin/wp-funeral-press": "<=1.1.6",
