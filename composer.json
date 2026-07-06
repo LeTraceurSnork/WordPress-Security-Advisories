@@ -5984,6 +5984,7 @@
         "wpackagist-plugin/image-banner-widget": "<=1.4.5",
         "wpackagist-plugin/image-captcha": "<=1.2",
         "wpackagist-plugin/image-caption-hover-pro": "<20.0",
+        "wpackagist-plugin/image-carousel": "<=1.0.0.41",
         "wpackagist-plugin/image-carousel-for-divi": ">=1.0.0,<=1.6.0",
         "wpackagist-plugin/image-carousel-shortcode": "<=1.2",
         "wpackagist-plugin/image-classify": "<=1.0.0",
