@@ -1722,6 +1722,7 @@
         "wpackagist-plugin/bootstrap-multi-language-responsive-portfolio": "<=1.0",
         "wpackagist-plugin/bootstrap-shortcode": "<=1.0",
         "wpackagist-plugin/bootstrap-shortcodes": "<=3.4.0",
+        "wpackagist-plugin/bopo-woo-product-bundle-builder": "<=1.1.6",
         "wpackagist-plugin/border-loading-bar": "*",
         "wpackagist-plugin/borderless": "<= 1.7.1.0",
         "wpackagist-plugin/bosa-elementor-for-woocommerce": "<=1.0.12",
