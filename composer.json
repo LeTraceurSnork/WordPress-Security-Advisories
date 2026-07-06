@@ -4033,6 +4033,7 @@
         "wpackagist-plugin/editor-custom-color-palette": "<= 3.4.8.0",
         "wpackagist-plugin/editor-wysiwyg-background-color": "<=1.0",
         "wpackagist-plugin/editorial-calendar": "<= 3.9.0.0",
+        "wpackagist-plugin/editorial-rating": "<=4.0.5",
         "wpackagist-plugin/edoc-easy-tables": "<=1.29",
         "wpackagist-plugin/edoc-employee-application": "<=1.13",
         "wpackagist-plugin/eds-font-awesome": "<=2.0",
