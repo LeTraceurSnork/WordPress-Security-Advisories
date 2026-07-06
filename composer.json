@@ -9747,7 +9747,7 @@
         "wpackagist-plugin/report-comments": "<=2.0.4",
         "wpackagist-plugin/reportattacks": "<=2.32",
         "wpackagist-plugin/republish-old-posts": "<=1.21",
-        "wpackagist-plugin/request-a-quote": "<= 2.5.3.0",
+        "wpackagist-plugin/request-a-quote": "<= 2.5.5.0",
         "wpackagist-plugin/request-call-back": "<=1.4.1",
         "wpackagist-plugin/require-taxonomy-image-category-tag": "<=1.26",
         "wpackagist-plugin/required-taxonomies": "<=1.1.7",
