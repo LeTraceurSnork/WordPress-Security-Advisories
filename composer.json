@@ -4449,6 +4449,7 @@
         "wpackagist-plugin/export-media-urls": "<= 2.2.0.0",
         "wpackagist-plugin/export-post-info": "<= 1.2.0.0",
         "wpackagist-plugin/export-to-text": "<=2.4",
+        "wpackagist-plugin/export-user-data": "<=2.2.6",
         "wpackagist-plugin/export-users": "<=1.4.2",
         "wpackagist-plugin/export-users-data-csv": "<=2.1",
         "wpackagist-plugin/export-users-data-distinct": "<=1.3",
