@@ -10846,7 +10846,7 @@
         "wpackagist-plugin/site-notify": "<=1.0",
         "wpackagist-plugin/site-offline": "<= 1.5.7.0",
         "wpackagist-plugin/site-pin": "<=1.3",
-        "wpackagist-plugin/site-reviews": "<= 7.2.4.0",
+        "wpackagist-plugin/site-reviews": "<= 8.0.11.0",
         "wpackagist-plugin/site-search-360": "<=2.1.7",
         "wpackagist-plugin/site-suggest": "<=1.3.9",
         "wpackagist-plugin/site-table-of-contents": "<=0.3",
