@@ -5200,7 +5200,7 @@
         "wpackagist-plugin/gdpr-compliant-recaptcha-for-all-forms": "<=4.1.1",
         "wpackagist-plugin/gdpr-consent-manager": "<=1.0.0",
         "wpackagist-plugin/gdpr-cookie-compliance": "<= 4.15.8.0",
-        "wpackagist-plugin/gdpr-cookie-consent": "<= 4.1.2.0",
+        "wpackagist-plugin/gdpr-cookie-consent": "<= 4.3.5.0",
         "wpackagist-plugin/gdpr-cookie-notice": "<=1.2.0",
         "wpackagist-plugin/gdpr-data-request-form": "<=1.6",
         "wpackagist-plugin/gdpr-framework": "<=2.1.0",
