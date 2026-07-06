@@ -675,6 +675,7 @@
         "wpackagist-plugin/ajax-hits-counter": "<=0.10.210305",
         "wpackagist-plugin/ajax-load-more": "< 7.8.4.0-dev",
         "wpackagist-plugin/ajax-load-more-anything": "<=3.3.5",
+        "wpackagist-plugin/ajax-load-more-filters": "<=3.4.1",
         "wpackagist-plugin/ajax-login-and-registration-modal-popup": "<= 2.24.0.0",
         "wpackagist-plugin/ajax-pagination": "<=1.1",
         "wpackagist-plugin/ajax-random-post": "<=2.00",
