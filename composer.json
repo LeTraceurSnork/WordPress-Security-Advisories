@@ -1560,7 +1560,7 @@
         "wpackagist-plugin/block-editor-bootstrap-blocks": "<=6.6.1",
         "wpackagist-plugin/block-editor-gallery-slider": "<=1.1.1",
         "wpackagist-plugin/block-for-font-awesome": "<= 1.4.4.0",
-        "wpackagist-plugin/block-for-mailchimp": "<=1.1.12",
+        "wpackagist-plugin/block-for-mailchimp": "<= 1.1.15.0",
         "wpackagist-plugin/block-logic": "<=1.0.8",
         "wpackagist-plugin/block-options": "<= 1.40.4.0",
         "wpackagist-plugin/block-referer-spam": "<=1.1.9.4",
