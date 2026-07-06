@@ -13702,7 +13702,7 @@
         "wpackagist-plugin/wp-all-backup": "<=2.4.3",
         "wpackagist-plugin/wp-all-export": "<= 1.4.14.0",
         "wpackagist-plugin/wp-all-export-pro": "<= 1.9.1.0",
-        "wpackagist-plugin/wp-all-import": "<= 4.0.0.0",
+        "wpackagist-plugin/wp-all-import": "<= 4.0.1.0",
         "wpackagist-plugin/wp-all-import-pro": "<= 4.9.7.0",
         "wpackagist-plugin/wp-allow-hosts": "<=1.0.8",
         "wpackagist-plugin/wp-amaps": "<=1.7",
