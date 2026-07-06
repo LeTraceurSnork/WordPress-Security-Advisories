@@ -6289,6 +6289,7 @@
         "wpackagist-plugin/invoice-creator": "<=1.0.0",
         "wpackagist-plugin/invoice-payment-for-woocommerce": "<= 2.8.0.0",
         "wpackagist-plugin/invoicing": "<= 2.8.49.0",
+        "wpackagist-plugin/io-engagement-analytics": "<=1.1",
         "wpackagist-plugin/ioncube-tester-plus": "<=1.3",
         "wpackagist-plugin/ione360-configurator": "<=2.0.57",
         "wpackagist-plugin/ip-address-blocker": "<=11.1.1",
