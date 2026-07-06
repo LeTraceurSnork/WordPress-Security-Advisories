@@ -990,7 +990,7 @@
         "wpackagist-plugin/apus-framework": "<= 2.4.0.0",
         "wpackagist-plugin/aqua-svg-sprite": "<=3.0.14",
         "wpackagist-plugin/ar-contactus": "< 1.8.8.0-dev",
-        "wpackagist-plugin/ar-for-woocommerce": "<=6.2",
+        "wpackagist-plugin/ar-for-woocommerce": "<= 8.40.0.0",
         "wpackagist-plugin/ar-for-wordpress": "<= 8.31.0.0",
         "wpackagist-plugin/ar-vr-3d-model-try-on": "<=2.0.1",
         "wpackagist-plugin/arabic-font": "<=1.2",
