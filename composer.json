@@ -12964,7 +12964,7 @@
         "wpackagist-plugin/webman-amplifier": "<=1.5.12",
         "wpackagist-plugin/webmaster-tools": "<=2.0",
         "wpackagist-plugin/webmaster-tools-verification": "<=1.2",
-        "wpackagist-plugin/webmention": "<= 5.6.2.0",
+        "wpackagist-plugin/webmention": "<= 5.8.0.0",
         "wpackagist-plugin/webo-facto-connector": "<=1.40",
         "wpackagist-plugin/webp-conversion": "<=2.1",
         "wpackagist-plugin/webp-converter-for-media": "<= 6.5.1.0",
