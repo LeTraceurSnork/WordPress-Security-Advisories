@@ -3156,6 +3156,7 @@
         "wpackagist-plugin/custom-order-statuses-woocommerce": "<=2.3.0",
         "wpackagist-plugin/custom-page-extensions": "<=0.6",
         "wpackagist-plugin/custom-page-templates-by-vegacorp": ">=1.0.0,<=1.1.13",
+        "wpackagist-plugin/custom-payment-gateways-woocommerce": "<=2.1.0",
         "wpackagist-plugin/custom-pc-builder-lite-for-woocommerce": "<=1.0.1",
         "wpackagist-plugin/custom-permalinks": "<= 2.6.0.0",
         "wpackagist-plugin/custom-post-limits": "<=4.4.1",
