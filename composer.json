@@ -12892,6 +12892,7 @@
         "wpackagist-plugin/wc-zelle": "<=3.1",
         "wpackagist-plugin/wc1c-main": "<=0.23.0",
         "wpackagist-plugin/wc4bp": "<= 3.4.25.0",
+        "wpackagist-plugin/wcboost-products-compare": "<=1.1.0",
         "wpackagist-plugin/wccp-pro": "<=15.0",
         "wpackagist-plugin/wcfm-marketplace-rest-api": "<= 1.6.2.0",
         "wpackagist-plugin/wck-custom-fields-and-custom-post-types-creator": "<=2.3.2",
