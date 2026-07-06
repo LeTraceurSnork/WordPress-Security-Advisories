@@ -5321,7 +5321,7 @@
         "wpackagist-plugin/git-sync": "<=1.1.0",
         "wpackagist-plugin/github-gist-shortcode": "<=0.2",
         "wpackagist-plugin/github-shortcode": "<=0.1",
-        "wpackagist-plugin/give": "<= 4.14.5.0",
+        "wpackagist-plugin/give": "<= 4.16.0.0",
         "wpackagist-plugin/give-donation-modules-for-divi": "<=2.0.0",
         "wpackagist-plugin/giveasap": "<= 2.48.2.0",
         "wpackagist-plugin/giveaway": "<=1.2.2",
