@@ -5535,6 +5535,7 @@
         "wpackagist-plugin/gravityforms": "<= 2.10.0.1",
         "wpackagist-plugin/gravityformswebhooks": "<=1.6.0",
         "wpackagist-plugin/gravitysmtp": "<=2.1.4",
+        "wpackagist-plugin/gravityview": "<=3.0.0",
         "wpackagist-plugin/gravitywp-merge-tags": "<=1.4.4",
         "wpackagist-plugin/great-quotes": "<=1.0.0",
         "wpackagist-plugin/greek-multi-tool": "<=2.3.1",
