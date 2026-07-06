@@ -6572,7 +6572,7 @@
         "wpackagist-plugin/kiotvietsync": "<= 1.8.5.0",
         "wpackagist-plugin/kirilkirkov-pdf-invoice-manager": "<=1.6",
         "wpackagist-plugin/kirimemail-woocommerce-integration": "<=1.2.9",
-        "wpackagist-plugin/kirki": "<=6.0.6",
+        "wpackagist-plugin/kirki": "<= 6.0.11.0",
         "wpackagist-plugin/kish-guest-posting": "<= 1.2.0.0",
         "wpackagist-plugin/kitestudio-core": "<2.3.1",
         "wpackagist-plugin/kivicare-clinic-management-system": "<= 4.3.0.0",
