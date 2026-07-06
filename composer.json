@@ -12731,7 +12731,7 @@
         "wpackagist-plugin/visual-sound-widget-for-soundcloud-and-artistplugme-visualdreams": "<=1.06",
         "wpackagist-plugin/visual-text-editor": "<=1.2.1",
         "wpackagist-plugin/visualcomposer": "<= 45.13.0.0",
-        "wpackagist-plugin/visualizer": "< 4.0.0.0-dev",
+        "wpackagist-plugin/visualizer": "<= 4.0.3.0",
         "wpackagist-plugin/visualmodo-elements": "<=1.0.2",
         "wpackagist-plugin/visucom-smart-sections": "<=1.7.8",
         "wpackagist-plugin/vitamin": "<1.1.0",
