@@ -13736,7 +13736,7 @@
         "wpackagist-plugin/wp-auto-top": "<=2.9.3",
         "wpackagist-plugin/wp-autobuzz": "<=1.1.1",
         "wpackagist-plugin/wp-autokeyword": "<=1.0",
-        "wpackagist-plugin/wp-automatic": "<= 3.118.0.0",
+        "wpackagist-plugin/wp-automatic": "< 3.135.1.0-dev",
         "wpackagist-plugin/wp-automatic-widget": "<=1.0.1",
         "wpackagist-plugin/wp-automedic": ">=1.4.0,<=1.5.6",
         "wpackagist-plugin/wp-autosearch": "<=1.0.4",
