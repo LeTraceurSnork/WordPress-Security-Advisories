@@ -11804,7 +11804,7 @@
         "wpackagist-plugin/tf-woo-product-grid": "<=1.0.1",
         "wpackagist-plugin/tfo-graphviz": "<=1.9",
         "wpackagist-plugin/tgg-wp-optimizer": "<=1.22",
-        "wpackagist-plugin/th-advance-product-search": "<=1.1.4",
+        "wpackagist-plugin/th-advance-product-search": "<= 1.4.4.0",
         "wpackagist-plugin/th-all-in-one-woo-cart": "<=1.1.1",
         "wpackagist-plugin/th-product-compare": "<=1.2.5",
         "wpackagist-plugin/th-variation-swatches": "<= 1.3.2.0",
