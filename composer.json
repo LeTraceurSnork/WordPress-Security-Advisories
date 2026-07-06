@@ -3590,7 +3590,7 @@
         "wpackagist-plugin/donation": "<=1.0",
         "wpackagist-plugin/donation-button": "<=4.0.0",
         "wpackagist-plugin/donation-forms-by-givecloud": "<=1.0.9",
-        "wpackagist-plugin/donation-thermometer": "<= 2.2.6.0",
+        "wpackagist-plugin/donation-thermometer": "<= 2.2.7.0",
         "wpackagist-plugin/donations-block": "<= 2.2.0.0",
         "wpackagist-plugin/donations-for-woocommerce": "<=1.1.9",
         "wpackagist-plugin/doneren-met-mollie": "<= 2.10.7.0",
