@@ -13475,7 +13475,7 @@
         "wpackagist-plugin/woocommerce-multiple-addresses": "<=1.0.7.1",
         "wpackagist-plugin/woocommerce-multiple-customer-addresses": "<21.7",
         "wpackagist-plugin/woocommerce-multiple-free-gift": "<=1.2.3",
-        "wpackagist-plugin/woocommerce-myparcel": "<=4.24.1",
+        "wpackagist-plugin/woocommerce-myparcel": "<= 4.25.1.0",
         "wpackagist-plugin/woocommerce-ninjaforms-product-addons": "<=1.7.0",
         "wpackagist-plugin/woocommerce-notify-updated-product": "<=1.6",
         "wpackagist-plugin/woocommerce-one-page-checkout": "<=2.3.0",
