@@ -1529,7 +1529,7 @@
         "wpackagist-plugin/birth-chart-compatibility": "<=2.0",
         "wpackagist-plugin/birthdays-widget": "<=1.7.18",
         "wpackagist-plugin/bit-assist": "<= 1.5.11.0",
-        "wpackagist-plugin/bit-form": "<= 2.21.10.0",
+        "wpackagist-plugin/bit-form": "<= 3.1.1.0",
         "wpackagist-plugin/bit-integrations": "<= 2.8.7.0",
         "wpackagist-plugin/bit-smtp": "<=1.2.2",
         "wpackagist-plugin/bitcoin-donate-button": "<=1.0",
