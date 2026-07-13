@@ -13478,6 +13478,7 @@
         "wpackagist-plugin/woocommerce-myparcel": "<=4.24.1",
         "wpackagist-plugin/woocommerce-ninjaforms-product-addons": "<=1.7.0",
         "wpackagist-plugin/woocommerce-notify-updated-product": "<=1.6",
+        "wpackagist-plugin/woocommerce-novalnet-gateway": "<=12.10.3",
         "wpackagist-plugin/woocommerce-one-page-checkout": "<=2.3.0",
         "wpackagist-plugin/woocommerce-openpos": "<= 7.0.1.0",
         "wpackagist-plugin/woocommerce-order-address-print": "<=3.2",
