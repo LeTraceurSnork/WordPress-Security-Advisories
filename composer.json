@@ -9920,7 +9920,7 @@
         "wpackagist-plugin/revolut-gateway-for-woocommerce": "<= 4.17.3.0",
         "wpackagist-plugin/revolution-for-elementor": "<=0.0.19",
         "wpackagist-plugin/revolution_video_player": "<=2.9.2",
-        "wpackagist-plugin/revslider": "<= 6.7.55.0 || >=7.0.0,<=7.0.14",
+        "wpackagist-plugin/revslider": "<= 6.7.55.0 || >= 7.0.0.0-dev <= 7.0.16.0",
         "wpackagist-plugin/revy": "<= 2.1.0.0",
         "wpackagist-plugin/rewardswp": "<=1.0.4",
         "wpackagist-plugin/rewardsystem": "<=30.7.0",
