@@ -3239,7 +3239,7 @@
         "wpackagist-plugin/customize-login": "<=1.1",
         "wpackagist-plugin/customize-login-image": "<=3.4",
         "wpackagist-plugin/customize-login-page": "<=1.1",
-        "wpackagist-plugin/customize-my-account-for-woocommerce": "<= 4.3.6.0",
+        "wpackagist-plugin/customize-my-account-for-woocommerce": "<= 4.3.9.0",
         "wpackagist-plugin/customize-wpadmin": "<=3.3",
         "wpackagist-plugin/customized-login": "<=2.0.5",
         "wpackagist-plugin/customizely": ">=1.0.1,<=1.1.1",
