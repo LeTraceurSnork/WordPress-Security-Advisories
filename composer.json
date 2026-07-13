@@ -13200,7 +13200,7 @@
         "wpackagist-plugin/woo-advanced-product-size-chart": "<= 2.4.5.0",
         "wpackagist-plugin/woo-advanced-sales-report-email": "<=2.8.0",
         "wpackagist-plugin/woo-advanced-shipment-tracking": "<= 3.5.2.0",
-        "wpackagist-plugin/woo-alidropship": "<=1.0.21",
+        "wpackagist-plugin/woo-alidropship": "<= 2.2.0.0",
         "wpackagist-plugin/woo-aliexpress-dropshipping": "<=2.1.1",
         "wpackagist-plugin/woo-altcoin-payment-gateway": "<= 1.7.6.0",
         "wpackagist-plugin/woo-audio-preview": "<1.4.0",
