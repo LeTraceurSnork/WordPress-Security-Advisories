@@ -7480,7 +7480,7 @@
         "wpackagist-plugin/membermouse": "<=2.2.8",
         "wpackagist-plugin/memberpress": "< 1.12.0.0-dev",
         "wpackagist-plugin/memberpress-downloads": "<=1.2.5",
-        "wpackagist-plugin/members": "<=3.2.10",
+        "wpackagist-plugin/members": "<= 3.2.22.0",
         "wpackagist-plugin/members-import": "<=1.4.2",
         "wpackagist-plugin/members-list": "<=4.3.6",
         "wpackagist-plugin/members-page-only-for-logged-in-users": "<=1.4.2",
