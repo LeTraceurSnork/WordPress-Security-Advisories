@@ -11035,7 +11035,7 @@
         "wpackagist-plugin/smart-tools-for-woocommerce": ">=1.0.8,<=1.1.0",
         "wpackagist-plugin/smart-variations-images": ">=4.0.1,<=5.2.7",
         "wpackagist-plugin/smart-wetransfer": "<=1.3",
-        "wpackagist-plugin/smart-wishlist-for-more-convert": "<= 1.9.1.0",
+        "wpackagist-plugin/smart-wishlist-for-more-convert": "<= 1.9.19.0",
         "wpackagist-plugin/smart-wishlist-for-more-convert-premium": "<=1.9.14",
         "wpackagist-plugin/smart-woocommerce-search": "<=2.5.0",
         "wpackagist-plugin/smart-youtube": "<=4.3",
