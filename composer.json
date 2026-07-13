@@ -8067,6 +8067,7 @@
         "wpackagist-plugin/newspack-plugin": "<=3.8.6",
         "wpackagist-plugin/newspack-popups": "<=2.31.1",
         "wpackagist-plugin/newsplugin": "<=1.0.18",
+        "wpackagist-plugin/newsplus-shortcodes": "<=4.2.0",
         "wpackagist-plugin/newstatpress": "<= 1.4.3.0",
         "wpackagist-plugin/newsticker": "<=1.0",
         "wpackagist-plugin/nex-forms": "<=7.8.7",
