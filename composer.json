@@ -9405,7 +9405,7 @@
         "wpackagist-plugin/q2w3-post-order": "<=1.2.8",
         "wpackagist-plugin/qa-heatmap-analytics": "<=4.1.1.1",
         "wpackagist-plugin/qards": "*",
-        "wpackagist-plugin/qc-simple-link-directory": "< 14.8.1.0-dev",
+        "wpackagist-plugin/qc-simple-link-directory": "<= 15.0.5.0",
         "wpackagist-plugin/qe-seo-handyman": "<=1.0",
         "wpackagist-plugin/qi-addons-for-elementor": "<= 1.9.2.0",
         "wpackagist-plugin/qi-blocks": "<= 1.4.9.0",
