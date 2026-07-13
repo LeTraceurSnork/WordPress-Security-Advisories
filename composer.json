@@ -5026,6 +5026,7 @@
         "wpackagist-plugin/freetobook-responsive-widget": "<=1.1",
         "wpackagist-plugin/fresh-framework": "<=1.70.0",
         "wpackagist-plugin/fresh-page": "*",
+        "wpackagist-plugin/fresh-podcaster": "<=1.0.7",
         "wpackagist-plugin/freshchat": "<=2.3.4",
         "wpackagist-plugin/freshdesk-support": "<=2.3.6",
         "wpackagist-plugin/freshing": ">=1.1.1,<=1.1.3",
