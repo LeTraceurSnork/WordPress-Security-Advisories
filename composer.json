@@ -3692,7 +3692,7 @@
         "wpackagist-plugin/dsdownloadlist": "<=1.3",
         "wpackagist-plugin/dsgnwrks-twitter-importer": "<=1.1.4",
         "wpackagist-plugin/dsgvo": "<=1.0.6.1",
-        "wpackagist-plugin/dsgvo-all-in-one-for-wp": "<= 4.6.0.0",
+        "wpackagist-plugin/dsgvo-all-in-one-for-wp": "<= 4.9.0.0",
         "wpackagist-plugin/dsgvo-google-web-fonts-gdpr": "<=1.1",
         "wpackagist-plugin/dsgvo-leaflet-map": "<=3.1",
         "wpackagist-plugin/dsgvo-youtube": "<= 1.5.1.0",
