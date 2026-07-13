@@ -5769,6 +5769,7 @@
         "wpackagist-plugin/highlight-and-share": "<= 5.2.0.0",
         "wpackagist-plugin/highlight-focus": "<=1.1",
         "wpackagist-plugin/highlight-search-terms-results": "<=1.03",
+        "wpackagist-plugin/highlighting-code-block": "<=2.2.0",
         "wpackagist-plugin/hipaatizer": "<=1.3.4",
         "wpackagist-plugin/hippoo": "<= 1.9.5.0",
         "wpackagist-plugin/hire-me-widget": "<=1.0.4",
