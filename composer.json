@@ -3580,7 +3580,7 @@
         "wpackagist-plugin/doko-box-builder": "<=1.0",
         "wpackagist-plugin/doliconnect": "<=9.5.7",
         "wpackagist-plugin/dollie": "<=6.2.0",
-        "wpackagist-plugin/dologin": "<= 3.7.1.0",
+        "wpackagist-plugin/dologin": "<= 4.3.0.0",
         "wpackagist-plugin/domain-check": "<=1.0.16",
         "wpackagist-plugin/domain-for-sale": "<=3.0.10",
         "wpackagist-plugin/domain-mapping-system": "<=1.9.2",
