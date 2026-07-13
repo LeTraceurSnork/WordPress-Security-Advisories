@@ -5240,6 +5240,7 @@
         "wpackagist-plugin/genie-wp-favicon": "<=0.5.2",
         "wpackagist-plugin/genki-announcement": "<=1.4.1",
         "wpackagist-plugin/genki-pre-publish-reminder": "<=1.4.1",
+        "wpackagist-plugin/genolve-toolkit": "<=5.0.5",
         "wpackagist-plugin/genoo": "<=6.0.10",
         "wpackagist-plugin/genzel-breadcrumbs": "<=1.2",
         "wpackagist-plugin/geo-mashup": "<= 1.13.19.0",
