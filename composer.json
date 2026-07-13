@@ -8612,6 +8612,7 @@
         "wpackagist-plugin/pb-oembed-html5-audio-with-cache-support": "<=2.6",
         "wpackagist-plugin/pb-seo-friendly-images": "<=4.0.5",
         "wpackagist-plugin/pcloud-backup": "<=1.0.1",
+        "wpackagist-plugin/pcloud-wp-backup": "<=2.0.4",
         "wpackagist-plugin/pcrecruiter-extensions": "<=1.4.22",
         "wpackagist-plugin/pdf-block": "<=1.1.0",
         "wpackagist-plugin/pdf-builder-for-wpforms": "<=1.2.116",
