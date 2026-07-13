@@ -5650,6 +5650,7 @@
         "wpackagist-plugin/gutenverse-companion": "<=2.5.0",
         "wpackagist-plugin/gutenverse-form": "<= 2.4.7.0",
         "wpackagist-plugin/gutenverse-news": "<= 3.0.2.0",
+        "wpackagist-plugin/gw-ai-website-builder": "<=1.0.1",
         "wpackagist-plugin/gwebpro-store-locator": "<= 2.1.0.0",
         "wpackagist-plugin/gwolle-gb": "<= 4.9.2.0",
         "wpackagist-plugin/gwp-histats": "<=1.0",
