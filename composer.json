@@ -7221,7 +7221,7 @@
         "wpackagist-plugin/maintenance-notice": "<=1.0.6",
         "wpackagist-plugin/maintenance-page": "<=1.0.8",
         "wpackagist-plugin/maintenance-switch": "<= 1.6.2.0",
-        "wpackagist-plugin/mainwp": "<=4.6.0.1",
+        "wpackagist-plugin/mainwp": "<= 6.1.1.0",
         "wpackagist-plugin/mainwp-article-uploader-extension": "<=4.0.2",
         "wpackagist-plugin/mainwp-blogvault-backup-extension": "<=1.3",
         "wpackagist-plugin/mainwp-branding-extension": "<=4.1.1",
