@@ -2811,6 +2811,7 @@
         "wpackagist-plugin/convertforce-popup-builder": "<=0.0.7",
         "wpackagist-plugin/convertful": "<=2.5",
         "wpackagist-plugin/convertkit": "<= 2.4.9.0",
+        "wpackagist-plugin/convertkit-for-woocommerce": "<=2.1.5",
         "wpackagist-plugin/convertplug": "<= 3.5.30.0",
         "wpackagist-plugin/convertpro": "<=1.7.5",
         "wpackagist-plugin/conveythis-translate": "<= 270.4.0.0",
