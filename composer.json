@@ -8695,6 +8695,7 @@
         "wpackagist-plugin/performance-monitor": "<=1.0.6",
         "wpackagist-plugin/permalink-finder": "<=3.4",
         "wpackagist-plugin/permalink-manager": "<= 2.5.3.3",
+        "wpackagist-plugin/permalink-manager-for-woocommerce": "<=1.0.8.2",
         "wpackagist-plugin/permalink-manager-pro": "<=2.4.3.1",
         "wpackagist-plugin/permalinks-customizer": "<=2.8.2",
         "wpackagist-plugin/permalinks-migration-plugin-for-wordpress": "<=1.0",
