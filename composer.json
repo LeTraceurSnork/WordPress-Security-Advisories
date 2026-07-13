@@ -5892,7 +5892,7 @@
         "wpackagist-plugin/html5-virtual-classroom": "<=2.1",
         "wpackagist-plugin/html5avmanager": "<=0.2.7",
         "wpackagist-plugin/http-auth": "<=0.3.2",
-        "wpackagist-plugin/http-headers": "<= 1.19.2.0",
+        "wpackagist-plugin/http-headers": "<= 1.19.4.0",
         "wpackagist-plugin/https-links-in-content": "<=0.2.4",
         "wpackagist-plugin/hub-core": "<=5.0.8",
         "wpackagist-plugin/hub2word": "<=1.1.0",
