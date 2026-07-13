@@ -13216,7 +13216,7 @@
         "wpackagist-plugin/woo-booking-bundle-hours": "<=0.7.4",
         "wpackagist-plugin/woo-bookings-calendar": "<=1.0.36",
         "wpackagist-plugin/woo-bought-together": "<=7.1.9",
-        "wpackagist-plugin/woo-bulk-editor": "<= 1.1.5.0",
+        "wpackagist-plugin/woo-bulk-editor": "<= 1.1.7.1",
         "wpackagist-plugin/woo-bulk-price-update": "<=2.2.1",
         "wpackagist-plugin/woo-cardcom-payment-gateway": "<=3.5.0.4",
         "wpackagist-plugin/woo-cart-abandonment-recovery": "< 2.1.0.0-dev",
