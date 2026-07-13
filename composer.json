@@ -202,6 +202,7 @@
         "wpackagist-plugin/acf-city-selector": "<= 1.16.0.0",
         "wpackagist-plugin/acf-cpt-options-pages": "<=2.0.9",
         "wpackagist-plugin/acf-extended": "<= 0.9.2.5",
+        "wpackagist-plugin/acf-field-blocks": "<=1.6.2",
         "wpackagist-plugin/acf-flexible-layouts-manager": "<=1.1.6",
         "wpackagist-plugin/acf-for-woocommerce-product": ">=0.1,<=1.8.1",
         "wpackagist-plugin/acf-front-end-editor": "<=2.0.2",
