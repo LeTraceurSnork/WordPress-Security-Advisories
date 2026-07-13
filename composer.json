@@ -5415,6 +5415,7 @@
         "wpackagist-plugin/goodlayers-blocks": "<=1.0.1",
         "wpackagist-plugin/goodlayers-core": "< 2.1.7.0-dev",
         "wpackagist-plugin/goodlms": "<=2.1.4",
+        "wpackagist-plugin/goodmeet": "<=1.1.8",
         "wpackagist-plugin/goodnews5": "<=5.11.1",
         "wpackagist-plugin/goods-catalog": "<=2.4.1",
         "wpackagist-plugin/googl-url-shorter": "<=1.0.1",
