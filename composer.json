@@ -14226,6 +14226,7 @@
         "wpackagist-plugin/wp-graphviz": "<=1.5.1",
         "wpackagist-plugin/wp-gravity-forms-spreadsheets": "<= 1.2.6.0",
         "wpackagist-plugin/wp-greet": "<=6.2",
+        "wpackagist-plugin/wp-grid-builder": "<=2.3.3",
         "wpackagist-plugin/wp-guestmap": "<=1.8",
         "wpackagist-plugin/wp-guppy": "<= 4.3.3.0",
         "wpackagist-plugin/wp-hallo-welt": "<=1.4.",
