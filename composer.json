@@ -403,7 +403,7 @@
         "wpackagist-plugin/admin-safety-guard": "<=1.2.9",
         "wpackagist-plugin/admin-side-data-storage-for-contact-form-7": "<=1.1.2",
         "wpackagist-plugin/admin-site-enhancements": "<= 8.4.0.0",
-        "wpackagist-plugin/admin-site-enhancements-pro": "<=7.6.2.1",
+        "wpackagist-plugin/admin-site-enhancements-pro": "<= 8.8.5.0",
         "wpackagist-plugin/admin-sms-alert": "<=1.1.0",
         "wpackagist-plugin/admin-trim-interface": "<=3.5.1",
         "wpackagist-plugin/admin-word-count-column": "<=2.2",
