@@ -7524,7 +7524,7 @@
         "wpackagist-plugin/metadata-seo": "<=2.3",
         "wpackagist-plugin/metalpriceapi": "<=1.1.4",
         "wpackagist-plugin/metamagic": "<=1.6",
-        "wpackagist-plugin/metasync": "<= 2.5.15.0",
+        "wpackagist-plugin/metasync": "<= 2.6.6.0",
         "wpackagist-plugin/meteor-slides": "<= 1.5.7.0",
         "wpackagist-plugin/metform": "<= 4.1.0.0",
         "wpackagist-plugin/metform-pro": "<= 3.9.7.0",
