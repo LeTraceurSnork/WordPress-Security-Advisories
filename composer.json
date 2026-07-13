@@ -4046,7 +4046,7 @@
         "wpackagist-plugin/edoc-employee-application": "<=1.13",
         "wpackagist-plugin/eds-font-awesome": "<=2.0",
         "wpackagist-plugin/eds-responsive-menu": "<=1.2",
-        "wpackagist-plugin/eds-social-share": "<=2.0",
+        "wpackagist-plugin/eds-social-share": "<= 3.0.0.0",
         "wpackagist-plugin/eduadmin-booking": "<=5.2.0",
         "wpackagist-plugin/edubin": "<=9.2.0",
         "wpackagist-plugin/edublink-core": "<=2.0.7",
