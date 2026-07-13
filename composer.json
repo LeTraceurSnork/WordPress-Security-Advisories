@@ -13494,7 +13494,7 @@
         "wpackagist-plugin/woocommerce-payments": "<= 10.5.1.0",
         "wpackagist-plugin/woocommerce-paypal-payments": "<= 4.0.1.0",
         "wpackagist-plugin/woocommerce-payu-paisa": "<=2.1.1",
-        "wpackagist-plugin/woocommerce-pdf-invoices-packing-slips": "< 5.9.0.0-dev",
+        "wpackagist-plugin/woocommerce-pdf-invoices-packing-slips": "<= 5.14.0.0",
         "wpackagist-plugin/woocommerce-pdf-vouchers": "< 4.9.9.0-dev",
         "wpackagist-plugin/woocommerce-photo-reviews": "<= 1.4.4.0",
         "wpackagist-plugin/woocommerce-pos": "<= 1.8.14.0",
