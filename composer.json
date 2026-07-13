@@ -1705,7 +1705,7 @@
         "wpackagist-plugin/books-papers": "<=0.20210223",
         "wpackagist-plugin/bookshelf": "<=2.0.4",
         "wpackagist-plugin/bookster": "<= 2.1.1.0",
-        "wpackagist-plugin/booktics": "<=1.0.16",
+        "wpackagist-plugin/booktics": "<= 1.0.21.0",
         "wpackagist-plugin/bookx": "<=1.7",
         "wpackagist-plugin/boom-fest": "<=2.2.1",
         "wpackagist-plugin/boombox-shortcode": "<=1.0.0",
