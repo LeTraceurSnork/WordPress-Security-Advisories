@@ -16119,7 +16119,7 @@
         "wpackagist-theme/dom": "<=1.24",
         "wpackagist-theme/domnoo": "<=1.49",
         "wpackagist-theme/donpeppe": "<=1.3",
-        "wpackagist-theme/dor": "<=2.4",
+        "wpackagist-theme/dor": "<= 2.4.1.0",
         "wpackagist-theme/dotlife": "<4.9.5",
         "wpackagist-theme/dr-patterson": "<=1.3.2",
         "wpackagist-theme/dreamer-blog": "<=1.2",
