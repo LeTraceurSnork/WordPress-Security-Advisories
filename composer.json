@@ -2125,7 +2125,7 @@
         "wpackagist-plugin/catablog": "<=1.7.0",
         "wpackagist-plugin/catalog": "<=1.7.3",
         "wpackagist-plugin/catalog-mode-pricing-enquiry-forms-promotions": "<=1.2.2",
-        "wpackagist-plugin/catalyst-connect-client-portal": "<=2.0.0",
+        "wpackagist-plugin/catalyst-connect-client-portal": "<= 2.2.0.0",
         "wpackagist-plugin/catch-breadcrumb": "< 1.7.0.0-dev",
         "wpackagist-plugin/catch-dark-mode": "<= 2.0.1.0",
         "wpackagist-plugin/catch-duplicate-switcher": "<= 2.1.0.0",
