@@ -11039,7 +11039,7 @@
         "wpackagist-plugin/smart-wishlist-for-more-convert-premium": "<=1.9.14",
         "wpackagist-plugin/smart-woocommerce-search": "<=2.5.0",
         "wpackagist-plugin/smart-youtube": "<=4.3",
-        "wpackagist-plugin/smartarget-contact-us": "<=1.4",
+        "wpackagist-plugin/smartarget-contact-us": "<= 1.5.2.0",
         "wpackagist-plugin/smartarget-message-bar": "<=1.4",
         "wpackagist-plugin/smartarget-popup": "<=1.4",
         "wpackagist-plugin/smartcat-wpml": "<= 3.1.77.0",
