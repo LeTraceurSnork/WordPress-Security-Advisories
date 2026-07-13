@@ -5199,7 +5199,7 @@
         "wpackagist-plugin/gd-bbpress-tools": "<=3.5.3",
         "wpackagist-plugin/gd-mail-queue": "<= 4.3.0.0",
         "wpackagist-plugin/gd-mylist": "<=1.1.1",
-        "wpackagist-plugin/gd-rating-system": "<= 3.6.2.0",
+        "wpackagist-plugin/gd-rating-system": "<= 3.7.0.0",
         "wpackagist-plugin/gd-security-headers": "<= 1.7.0.0",
         "wpackagist-plugin/gd-star-rating": "<=1.9.22",
         "wpackagist-plugin/gdeslon-affiliate-shop": "<=1.5.5",
