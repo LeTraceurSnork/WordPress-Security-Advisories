@@ -9219,7 +9219,7 @@
         "wpackagist-plugin/pripre": "<=0.4.11",
         "wpackagist-plugin/prismatic": "<= 3.7.3.0",
         "wpackagist-plugin/private-comment": "<=0.0.4",
-        "wpackagist-plugin/private-content": "<= 8.11.5.0",
+        "wpackagist-plugin/private-content": "<= 9.9.2.0",
         "wpackagist-plugin/private-content-mail-actions": "<=2.3.2",
         "wpackagist-plugin/private-files": "<=0.40",
         "wpackagist-plugin/private-google-calendars": "<= 20250811",
