@@ -1760,7 +1760,7 @@
         "wpackagist-plugin/bp-profile-shortcodes-extra": "<=2.6.0",
         "wpackagist-plugin/bp-restrict": "<=1.5.2",
         "wpackagist-plugin/bp-social-connect": "<= 1.6.2.0",
-        "wpackagist-plugin/bp-toolkit": "<=3.6.0",
+        "wpackagist-plugin/bp-toolkit": "<= 3.6.4.0",
         "wpackagist-plugin/bp-user-profile-reviews": "<2.7.0",
         "wpackagist-plugin/bp-user-to-do-list": "<3.0.0",
         "wpackagist-plugin/bp-xprofile-custom-field-types": "<=1.2.8",
