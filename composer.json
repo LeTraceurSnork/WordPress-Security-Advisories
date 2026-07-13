@@ -11823,7 +11823,7 @@
         "wpackagist-plugin/textbuilder": ">=1.0.0,<=1.1.1",
         "wpackagist-plugin/texteller": "<=1.3.0",
         "wpackagist-plugin/textme-sms-integration": "<= 1.9.1.0",
-        "wpackagist-plugin/textp2p-texting-widget": "<=1.7",
+        "wpackagist-plugin/textp2p-texting-widget": "<= 1.8.0.0",
         "wpackagist-plugin/texty": "<=1.1.1",
         "wpackagist-plugin/tf-numbers-number-counter-animaton": "<=1.8.1",
         "wpackagist-plugin/tf-woo-product-grid": "<=1.0.1",
