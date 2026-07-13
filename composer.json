@@ -1910,7 +1910,7 @@
         "wpackagist-plugin/bulk-featured-image": "<= 1.2.2.0",
         "wpackagist-plugin/bulk-image-alt-text-with-yoast": "<=2.2.1",
         "wpackagist-plugin/bulk-image-resizer": "<=2.0.1",
-        "wpackagist-plugin/bulk-image-title-attribute": "<=2.0.1",
+        "wpackagist-plugin/bulk-image-title-attribute": "<= 2.0.2.0",
         "wpackagist-plugin/bulk-me-now": "<=2.0",
         "wpackagist-plugin/bulk-menu-edit": "<=1.3",
         "wpackagist-plugin/bulk-noindex-nofollow-toolkit-by-mad-fish": "<= 2.16.0.0",
