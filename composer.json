@@ -8999,6 +8999,7 @@
         "wpackagist-plugin/post-custom-templates-lite": "<=1.14",
         "wpackagist-plugin/post-duplicator": "< 3.0.15.0-dev",
         "wpackagist-plugin/post-expirator": "<= 4.10.0.0",
+        "wpackagist-plugin/post-export-import-with-media": "<=1.13.1",
         "wpackagist-plugin/post-featured-video": "<=1.7",
         "wpackagist-plugin/post-flagger": "<=1.1",
         "wpackagist-plugin/post-from-frontend": "<=1.0.0",
