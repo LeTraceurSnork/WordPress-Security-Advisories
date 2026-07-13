@@ -13535,6 +13535,7 @@
         "wpackagist-plugin/woocommerce-subscriptions": "< 5.8.0.0-dev",
         "wpackagist-plugin/woocommerce-superfaktura": "<=1.40.3",
         "wpackagist-plugin/woocommerce-support-ticket-system": "< 18.5.0.0-dev",
+        "wpackagist-plugin/woocommerce-tax-exempt-plugin": "<=1.9.3",
         "wpackagist-plugin/woocommerce-to-google-merchant-center": "<=1.9.0",
         "wpackagist-plugin/woocommerce-ultimate-gift-card": "<= 2.9.6.0",
         "wpackagist-plugin/woocommerce-ultimate-points-and-rewards": "<=2.10.2",
