@@ -1684,7 +1684,7 @@
         "wpackagist-plugin/booking-calendar-pro": "<=11.2.19",
         "wpackagist-plugin/booking-for-woocommerce": ">=1.0.0,<=4.3.1",
         "wpackagist-plugin/booking-manager": "<= 2.1.18.0",
-        "wpackagist-plugin/booking-package": "<= 1.7.16.0",
+        "wpackagist-plugin/booking-package": "<= 1.7.20.0",
         "wpackagist-plugin/booking-sms": "<=1.0.5",
         "wpackagist-plugin/booking-system": "<2.1",
         "wpackagist-plugin/booking-system-trafft": "<= 1.0.14.0",
