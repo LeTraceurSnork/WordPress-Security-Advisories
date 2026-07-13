@@ -5953,7 +5953,7 @@
         "wpackagist-plugin/icons-with-links-widget": "*",
         "wpackagist-plugin/icount": "<=2.0.6",
         "wpackagist-plugin/ics-button": "<=0.6",
-        "wpackagist-plugin/ics-calendar": "<= 10.12.0.2",
+        "wpackagist-plugin/ics-calendar": "<= 12.0.9.0",
         "wpackagist-plugin/icustomizer": "<=1.4.13",
         "wpackagist-plugin/id-arrays": "<=2.1.2",
         "wpackagist-plugin/idbbee": "<=1.0",
