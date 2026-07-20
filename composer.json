@@ -9642,6 +9642,7 @@
         "wpackagist-plugin/rebuild-permalinks": "<=1.6",
         "wpackagist-plugin/recall-products": "<=0.8",
         "wpackagist-plugin/recaptcha-for-all": "<= 2.26.0.0",
+        "wpackagist-plugin/recaptcha-for-asgaros-forum": "<=1.1.0",
         "wpackagist-plugin/recaptcha-jetpack": "<=0.2.2",
         "wpackagist-plugin/recaptcha-wp": "<=0.2.6",
         "wpackagist-plugin/recapture-for-woocommerce": "<=1.0.43",
