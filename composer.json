@@ -12879,7 +12879,7 @@
         "wpackagist-plugin/wc-partial-shipment": "<=3.2",
         "wpackagist-plugin/wc-payment-gateway-per-category": "<=2.0.10",
         "wpackagist-plugin/wc-payphone-gateway": "<=3.2.0",
-        "wpackagist-plugin/wc-peach-payments-gateway": "<= 3.3.6.0",
+        "wpackagist-plugin/wc-peach-payments-gateway": "<= 4.0.2.0",
         "wpackagist-plugin/wc-pickup-store": "<=1.8.9",
         "wpackagist-plugin/wc-pickupp": "<=2.4.0",
         "wpackagist-plugin/wc-place-order-without-payment": "<= 2.6.7.0",
