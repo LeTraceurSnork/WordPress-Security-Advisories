@@ -11726,7 +11726,7 @@
         "wpackagist-plugin/tcs3": "*",
         "wpackagist-plugin/td-cloud-library": "< 3.9.2.0-dev",
         "wpackagist-plugin/td-composer": "<= 5.4.4.0",
-        "wpackagist-plugin/td-subscription": "<= 1.7.3.0",
+        "wpackagist-plugin/td-subscription": "<= 1.7.4.0",
         "wpackagist-plugin/tdo-mini-forms": "<=0.13.9",
         "wpackagist-plugin/teachpress": "<= 9.0.12.0",
         "wpackagist-plugin/tealium": "<= 2.1.20.0",
