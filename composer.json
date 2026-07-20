@@ -7485,7 +7485,7 @@
         "wpackagist-plugin/members-list": "<=4.3.6",
         "wpackagist-plugin/members-page-only-for-logged-in-users": "<=1.4.2",
         "wpackagist-plugin/membership-by-supsystic": "<=1.5.0",
-        "wpackagist-plugin/membership-for-woocommerce": "<= 3.0.3.0",
+        "wpackagist-plugin/membership-for-woocommerce": "<= 3.1.0.0",
         "wpackagist-plugin/membership-simplified-for-oap-members-only": "<= 1.58.0.0",
         "wpackagist-plugin/membership-site": "<=1.2",
         "wpackagist-plugin/memberspace": "<=2.1.13",
