@@ -11688,7 +11688,7 @@
         "wpackagist-plugin/talkjs": "<=0.1.15",
         "wpackagist-plugin/tallykit": "<5.5",
         "wpackagist-plugin/tamara-checkout": "<=1.9.9",
-        "wpackagist-plugin/tangible-loops-and-logic": "<=4.1.4",
+        "wpackagist-plugin/tangible-loops-and-logic": "<= 4.2.3.0",
         "wpackagist-plugin/taobaoke": "<=1.1.2",
         "wpackagist-plugin/tapfiliate": "<= 3.2.2.0",
         "wpackagist-plugin/taqnix": "<=1.0.3",
