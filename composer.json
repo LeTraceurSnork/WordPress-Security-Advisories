@@ -13807,7 +13807,7 @@
         "wpackagist-plugin/wp-blog-post-layouts": "<=1.1.3",
         "wpackagist-plugin/wp-blogs-planetarium": "<=1.0",
         "wpackagist-plugin/wp-booking-system": "<= 2.0.19.12",
-        "wpackagist-plugin/wp-booking-system-premium": "<3.7",
+        "wpackagist-plugin/wp-booking-system-premium": "< 5.12.8.1-dev",
         "wpackagist-plugin/wp-booklet": "<=2.1.8",
         "wpackagist-plugin/wp-bookmarks": "<=1.1",
         "wpackagist-plugin/wp-books-gallery": "<= 4.8.0.0",
