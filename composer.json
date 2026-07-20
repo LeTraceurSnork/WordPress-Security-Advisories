@@ -2229,7 +2229,7 @@
         "wpackagist-plugin/cf7-mailchimp-addon": "< 2.4.0.0-dev",
         "wpackagist-plugin/cf7-manual-spam-blocker": "<=2.0.4",
         "wpackagist-plugin/cf7-material-design": "<=1.0.0",
-        "wpackagist-plugin/cf7-message-filter": "<= 1.6.3.2",
+        "wpackagist-plugin/cf7-message-filter": "<= 1.6.3.8",
         "wpackagist-plugin/cf7-mollie": "<=5.0.0",
         "wpackagist-plugin/cf7-multi-step": "<=2.7.7",
         "wpackagist-plugin/cf7-paystack-add-on": "<=1.2.3",
