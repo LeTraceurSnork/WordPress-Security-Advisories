@@ -5545,7 +5545,7 @@
         "wpackagist-plugin/gravity-forms-sticky-list": "<=1.5.2",
         "wpackagist-plugin/gravity-forms-toolbar": "<=1.7.0",
         "wpackagist-plugin/gravity-signature-forms-add-on": "<=1.8.6",
-        "wpackagist-plugin/gravityforms": "<= 2.10.0.1",
+        "wpackagist-plugin/gravityforms": "<= 2.10.4.0",
         "wpackagist-plugin/gravityformswebhooks": "<=1.6.0",
         "wpackagist-plugin/gravitysmtp": "<=2.1.4",
         "wpackagist-plugin/gravityview": "<=3.0.0",
