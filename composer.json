@@ -4364,7 +4364,7 @@
         "wpackagist-plugin/event-registration": "<=6.02.02",
         "wpackagist-plugin/event-registration-calendar-by-vcita": "<= 1.4.0.0",
         "wpackagist-plugin/event-rocket": "<=3.3",
-        "wpackagist-plugin/event-tickets": "<= 5.27.5.0",
+        "wpackagist-plugin/event-tickets": "<= 5.28.5.0",
         "wpackagist-plugin/event-tickets-manager-for-woocommerce": "<=1.5.3",
         "wpackagist-plugin/event-tickets-plus": "<=5.9.0",
         "wpackagist-plugin/event-tickets-with-ticket-scanner": "<= 2.8.5.0",
