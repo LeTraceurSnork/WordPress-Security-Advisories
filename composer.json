@@ -14071,7 +14071,7 @@
         "wpackagist-plugin/wp-email-debug": ">= 1.0.0.0-dev <= 1.2.0.0",
         "wpackagist-plugin/wp-email-delivery": "<=1.20.11.23",
         "wpackagist-plugin/wp-email-newsletter": "<=1.1",
-        "wpackagist-plugin/wp-email-template": "<= 2.8.3.0",
+        "wpackagist-plugin/wp-email-template": "<= 2.8.6.0",
         "wpackagist-plugin/wp-email-users": "<= 1.7.6.0",
         "wpackagist-plugin/wp-embed-facebook": "<= 3.1.2.0",
         "wpackagist-plugin/wp-emember": "< 10.9.4.0-dev",
