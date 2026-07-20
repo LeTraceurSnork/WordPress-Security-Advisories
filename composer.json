@@ -8700,6 +8700,7 @@
         "wpackagist-plugin/permalinks-migration-plugin-for-wordpress": "<=1.0",
         "wpackagist-plugin/persian-admin-fonts": "<=4.1.03",
         "wpackagist-plugin/persian-fonts": "<=1.6",
+        "wpackagist-plugin/persian-gravity-forms": "<=3.0.2",
         "wpackagist-plugin/persian-nested-showhide-text": "<=1.5",
         "wpackagist-plugin/persian-woocommerce": "<=7.1.6",
         "wpackagist-plugin/persian-woocommerce-shipping": "<=4.2.3",
