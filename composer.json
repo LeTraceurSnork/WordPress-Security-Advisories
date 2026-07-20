@@ -15136,7 +15136,7 @@
         "wpackagist-plugin/wpide": "<= 3.4.9.0",
         "wpackagist-plugin/wpify-woo": "<= 5.4.1.0",
         "wpackagist-plugin/wpik-wordpress-basic-ajax-form": "<=1.0",
-        "wpackagist-plugin/wpjam-basic": "<= 6.9.2.0",
+        "wpackagist-plugin/wpjam-basic": "<= 7.0.0.0",
         "wpackagist-plugin/wpjobboard": "< 5.11.1.0-dev",
         "wpackagist-plugin/wpjournal": "<=1.1",
         "wpackagist-plugin/wpjqp-datepicker": "<=0.1.0",
