@@ -4861,7 +4861,7 @@
         "wpackagist-plugin/fluent-booking": "<= 2.1.0.0",
         "wpackagist-plugin/fluent-cart": "<=1.3.1",
         "wpackagist-plugin/fluent-community": "<= 2.0.0.0",
-        "wpackagist-plugin/fluent-crm": "<= 2.9.87.0",
+        "wpackagist-plugin/fluent-crm": "<= 3.1.7.0",
         "wpackagist-plugin/fluent-security": "<= 2.0.3.0",
         "wpackagist-plugin/fluent-smtp": "<= 2.2.82.0",
         "wpackagist-plugin/fluent-support": "<= 1.10.4.0",
