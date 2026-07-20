@@ -4919,6 +4919,7 @@
         "wpackagist-plugin/food-recipes": ">=2.0.0,<=2.6.0",
         "wpackagist-plugin/food-store": "<= 1.5.2.0",
         "wpackagist-plugin/foodbakery-sticky-cart": "<=3.2",
+        "wpackagist-plugin/foodbook-light-online-food-ordering-system": "<=1.5.6",
         "wpackagist-plugin/fooevents": "<= 1.20.4.0",
         "wpackagist-plugin/foogallery": "<= 3.1.31.0",
         "wpackagist-plugin/foogallery-captions": "<=1.0.2",
