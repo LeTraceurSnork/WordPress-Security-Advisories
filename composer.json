@@ -630,7 +630,7 @@
         "wpackagist-plugin/ai-engine-pro": "<3.4.2",
         "wpackagist-plugin/ai-feeds": "<= 1.0.22.0",
         "wpackagist-plugin/ai-for-seo": "<=1.2.9",
-        "wpackagist-plugin/ai-image": "<=1.5.2",
+        "wpackagist-plugin/ai-image": "<= 2.1.4.0",
         "wpackagist-plugin/ai-image-alt-text-generator-for-wp": "<= 1.1.9.0",
         "wpackagist-plugin/ai-image-generator": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/ai-image-generator-lab": "<=1.0.6",
