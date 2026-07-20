@@ -135,7 +135,7 @@
         "wpackagist-plugin/abg-rich-pins": "<=1.1",
         "wpackagist-plugin/abitgone-commentsafe": "<=1.0.0",
         "wpackagist-plugin/ableplayer": "<=1.2.1",
-        "wpackagist-plugin/ablocks": "<= 2.4.0.0",
+        "wpackagist-plugin/ablocks": "< 2.9.1.0-dev",
         "wpackagist-plugin/about-author": "<= 1.6.2.0",
         "wpackagist-plugin/about-author-box": "<1.0.2",
         "wpackagist-plugin/about-me": "<=1.0.12",
