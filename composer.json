@@ -14907,7 +14907,7 @@
         "wpackagist-plugin/wp-travel-pro": "<=10.6.0",
         "wpackagist-plugin/wp-trending-post-slider-and-widget": "<=1.6 || 1.8.6",
         "wpackagist-plugin/wp-triggers-lite": "<=2.5.3",
-        "wpackagist-plugin/wp-tripadvisor-review-slider": "<= 14.1.0.0",
+        "wpackagist-plugin/wp-tripadvisor-review-slider": "<= 14.6.0.0",
         "wpackagist-plugin/wp-ttisbdir": "<=1.0.2",
         "wpackagist-plugin/wp-tweet-walls": "<=1.0.3",
         "wpackagist-plugin/wp-twilio-core": ">=1.2.1,<=1.5.0",
