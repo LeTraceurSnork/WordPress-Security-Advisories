@@ -3469,7 +3469,7 @@
         "wpackagist-plugin/digital-publications-by-supsystic": "<= 1.7.7.0",
         "wpackagist-plugin/digital-river-global-commerce": "*",
         "wpackagist-plugin/digitimber-cpanel-integration": "<=1.4.6",
-        "wpackagist-plugin/digits": "< 8.4.6.1-dev",
+        "wpackagist-plugin/digits": "<= 9.1.0.5",
         "wpackagist-plugin/digiwidgets-image-editor": "<=1.10",
         "wpackagist-plugin/dima-take-action": "<=1.0.5",
         "wpackagist-plugin/dimage-360": "<=2.0",
