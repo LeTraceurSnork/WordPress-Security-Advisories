@@ -2137,7 +2137,7 @@
         "wpackagist-plugin/catch-popup": "<=1.4.4",
         "wpackagist-plugin/catch-scroll-progress-bar": "<1.6",
         "wpackagist-plugin/catch-sticky-menu": "<1.7",
-        "wpackagist-plugin/catch-themes-demo-import": "< 2.1.1.0-dev",
+        "wpackagist-plugin/catch-themes-demo-import": "<= 3.3.0.0",
         "wpackagist-plugin/catch-under-construction": "<1.4",
         "wpackagist-plugin/catch-web-tools": "<=2.7.0",
         "wpackagist-plugin/catchers-helpdesk": "*",
