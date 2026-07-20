@@ -4677,6 +4677,7 @@
         "wpackagist-plugin/feedzy-rss-feeds": "<= 5.2.1.0",
         "wpackagist-plugin/felan-framework": "<=1.1.4",
         "wpackagist-plugin/fence-url": "<=2.0.0",
+        "wpackagist-plugin/fense-block-vpn-proxy": "<=3.0.1",
         "wpackagist-plugin/ferma-ru-net-checkout": "<=1.3.3",
         "wpackagist-plugin/fetch-jft": "<=1.8.3",
         "wpackagist-plugin/fg-drupal-to-wp": "<= 3.90.0.0",
