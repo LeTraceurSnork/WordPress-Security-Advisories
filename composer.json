@@ -5836,7 +5836,7 @@
         "wpackagist-plugin/hotspots": "<=4.0.12",
         "wpackagist-plugin/house-manager": "<=1.0.8.4",
         "wpackagist-plugin/houzez-crm": "<= 1.4.7.0",
-        "wpackagist-plugin/houzez-login-register": "<= 3.2.5.0",
+        "wpackagist-plugin/houzez-login-register": "<= 3.3.3.0",
         "wpackagist-plugin/houzez-property-feed": "<= 2.5.46.0",
         "wpackagist-plugin/houzez-theme-functionality": "<= 4.2.6.0",
         "wpackagist-plugin/hover-effects": "<= 2.1.2.0",
