@@ -13508,7 +13508,7 @@
         "wpackagist-plugin/woocommerce-product-payments": "<= 3.5.8.0",
         "wpackagist-plugin/woocommerce-product-recommendations": "<2.3.0",
         "wpackagist-plugin/woocommerce-product-sort-and-display": "<= 2.4.1.0",
-        "wpackagist-plugin/woocommerce-product-stock-alert": "<2.0.2",
+        "wpackagist-plugin/woocommerce-product-stock-alert": "<= 3.0.6.0",
         "wpackagist-plugin/woocommerce-product-vendors": "<= 2.2.2.0",
         "wpackagist-plugin/woocommerce-products-by-custom-tax": "<=2.2",
         "wpackagist-plugin/woocommerce-products-designer": "<=4.3.3",
