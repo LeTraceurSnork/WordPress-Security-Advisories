@@ -3538,6 +3538,7 @@
         "wpackagist-plugin/dl-robotstxt": "<=1.2",
         "wpackagist-plugin/dl-verification": "<=1.2",
         "wpackagist-plugin/dl-yandex-metrika": "<=1.2",
+        "wpackagist-plugin/dlm-wpforms-lock": "<=1.0.4",
         "wpackagist-plugin/dm-albums": "*",
         "wpackagist-plugin/dmca-badge": "<=2.2.0",
         "wpackagist-plugin/dmca-watermarker": "<1.1",
