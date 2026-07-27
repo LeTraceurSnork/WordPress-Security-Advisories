@@ -13418,7 +13418,7 @@
         "wpackagist-plugin/woocommerce-check-pincode-zipcode-for-shipping": "<=2.0.4",
         "wpackagist-plugin/woocommerce-checkout-cielo": "<=1.1.0",
         "wpackagist-plugin/woocommerce-checkout-field-editor": "<1.7.5",
-        "wpackagist-plugin/woocommerce-checkout-field-editor-pro": "<=3.6.2",
+        "wpackagist-plugin/woocommerce-checkout-field-editor-pro": "<= 3.7.7.0",
         "wpackagist-plugin/woocommerce-checkout-manager": "<= 7.8.5.0",
         "wpackagist-plugin/woocommerce-cloak-affiliate-links": "<= 1.0.35.0",
         "wpackagist-plugin/woocommerce-collections": "<1.7.0",
