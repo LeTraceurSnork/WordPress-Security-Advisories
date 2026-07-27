@@ -13643,7 +13643,7 @@
         "wpackagist-plugin/wordpress-popup": "<= 7.8.10.2",
         "wpackagist-plugin/wordpress-processing-embed": "<=0.5.1",
         "wpackagist-plugin/wordpress-sentinel": "<=1.0.0",
-        "wpackagist-plugin/wordpress-seo": "<= 27.1.1.0",
+        "wpackagist-plugin/wordpress-seo": "<= 28.0.0.0",
         "wpackagist-plugin/wordpress-seo-premium": "<=20.4 || >=25.7,<=25.9",
         "wpackagist-plugin/wordpress-signature": "<=0.1",
         "wpackagist-plugin/wordpress-simple-paypal-shopping-cart": "<= 5.2.9.0",
