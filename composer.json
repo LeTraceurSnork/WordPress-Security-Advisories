@@ -5709,7 +5709,7 @@
         "wpackagist-plugin/header-footer-code": "<=1.1",
         "wpackagist-plugin/header-footer-code-manager": "< 1.1.35.0-dev",
         "wpackagist-plugin/header-footer-composer": "<=1.0.4",
-        "wpackagist-plugin/header-footer-elementor": "<= 2.4.9.0",
+        "wpackagist-plugin/header-footer-elementor": "<= 2.9.1.0",
         "wpackagist-plugin/header-image-slider": "<=0.3",
         "wpackagist-plugin/header-images-rotator": "<=1.2",
         "wpackagist-plugin/headinger-elementor": "<=1.1.4",
