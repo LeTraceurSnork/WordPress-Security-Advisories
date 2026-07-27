@@ -4956,7 +4956,7 @@
         "wpackagist-plugin/formbuilder": "<=1.08",
         "wpackagist-plugin/formcraft": "<=2.0.5",
         "wpackagist-plugin/formcraft-form-builder": "<= 3.9.5.0",
-        "wpackagist-plugin/formcraft3": "<= 3.9.11.0",
+        "wpackagist-plugin/formcraft3": "<= 3.9.14.0",
         "wpackagist-plugin/formfacade": "<= 1.4.1.0",
         "wpackagist-plugin/formforall": "<=1.2",
         "wpackagist-plugin/formgent": "<= 1.4.2.0",
