@@ -13366,6 +13366,7 @@
         "wpackagist-plugin/woo-smart-wishlist": "<= 5.0.8.0",
         "wpackagist-plugin/woo-social-login": "<= 2.8.2.0",
         "wpackagist-plugin/woo-store-mode": "<=1.0.1",
+        "wpackagist-plugin/woo-stripe-payment": "<=4.0.7",
         "wpackagist-plugin/woo-superb-slideshow-transition-gallery-with-random-effect": "<=9.1",
         "wpackagist-plugin/woo-tbc-payment-gateway": "<=2.0.0",
         "wpackagist-plugin/woo-thank-you-page-customizer": "<= 1.1.8.0",
