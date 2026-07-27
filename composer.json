@@ -5401,7 +5401,7 @@
         "wpackagist-plugin/gocache-cdn": "<=1.3.6",
         "wpackagist-plugin/gocodes": "<=1.3.5",
         "wpackagist-plugin/godaddy-email-marketing-sign-up-forms": "<= 1.4.3.0",
-        "wpackagist-plugin/godam": "<=1.4.6",
+        "wpackagist-plugin/godam": "<= 1.12.2.0",
         "wpackagist-plugin/goftino": "<=1.6",
         "wpackagist-plugin/gold-addons-for-elementor": "<=1.3.2",
         "wpackagist-plugin/gold-price-chart-widget": "<=2.4",
