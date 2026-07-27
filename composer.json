@@ -163,7 +163,7 @@
         "wpackagist-plugin/accessibe": "<= 2.11.0.0",
         "wpackagist-plugin/accessibility": "<= 1.0.6.0",
         "wpackagist-plugin/accessibility-by-audioeye": "<=1.0.49",
-        "wpackagist-plugin/accessibility-checker": "<= 1.42.1.0",
+        "wpackagist-plugin/accessibility-checker": "<= 1.46.0.0",
         "wpackagist-plugin/accessibility-help-button": "<=1.1",
         "wpackagist-plugin/accessibility-plus": "<=2.0.4",
         "wpackagist-plugin/accessibility-task-manager": "<=1.2.1",
