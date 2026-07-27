@@ -7122,7 +7122,7 @@
         "wpackagist-plugin/lucky-draw": "<=4.2",
         "wpackagist-plugin/luckywp-scripts-control": "<=1.2.1",
         "wpackagist-plugin/luckywp-table-of-contents": "<= 2.1.10.0",
-        "wpackagist-plugin/lumise": "<2.0.9",
+        "wpackagist-plugin/lumise": "<= 2.1.1.0",
         "wpackagist-plugin/lunar-sell-photos-online": "<=1.3.0",
         "wpackagist-plugin/lupsonline-link-netwerk": "<= 2.2.1.0",
         "wpackagist-plugin/luzuk-slider": "<=0.1.5",
