@@ -12367,6 +12367,7 @@
         "wpackagist-plugin/uix-page-builder": "<=1.7.4",
         "wpackagist-plugin/uix-shortcodes": "<= 2.0.4.0",
         "wpackagist-plugin/uix-slideshow": "<=1.6.5",
+        "wpackagist-plugin/uix-usercenter": "<=1.0.3",
         "wpackagist-plugin/uji-countdown": "<= 2.3.3.0",
         "wpackagist-plugin/uji-popup": "<=1.4.3",
         "wpackagist-plugin/uk-address-postcode-validation": "<=3.9.2",
