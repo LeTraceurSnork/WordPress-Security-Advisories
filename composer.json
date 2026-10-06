@@ -12414,7 +12414,7 @@
         "wpackagist-plugin/ultimate-landing-page": "<=3.1.9.8",
         "wpackagist-plugin/ultimate-live-cricket-lite": "<=1.4.2",
         "wpackagist-plugin/ultimate-maps-by-supsystic": "<=1.2.16",
-        "wpackagist-plugin/ultimate-member": "<= 2.11.4.0",
+        "wpackagist-plugin/ultimate-member": "< 2.12.1.0-dev",
         "wpackagist-plugin/ultimate-member-widgets-for-elementor": "<=2.3",
         "wpackagist-plugin/ultimate-multi-design-video-carousel": "<=1.4",
         "wpackagist-plugin/ultimate-noindex-nofollow-tool": "<=1.1.2",
