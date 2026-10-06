@@ -1774,6 +1774,7 @@
         "wpackagist-plugin/bp-xprofile-custom-field-types": "<=1.2.8",
         "wpackagist-plugin/bpcustomerio": "<=1.1.6",
         "wpackagist-plugin/bpmnio": "<=1.0",
+        "wpackagist-plugin/bpost-shipping-platform": "<=3.2.2",
         "wpackagist-plugin/bradesco-gateway": "<=2.0",
         "wpackagist-plugin/bradmax-player": "<=1.1.27",
         "wpackagist-plugin/braftonwordpressplugin": "<3.4.8",
