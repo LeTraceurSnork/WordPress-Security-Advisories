@@ -2877,7 +2877,7 @@
         "wpackagist-plugin/copyrightpro": "<=2.1",
         "wpackagist-plugin/copyscape-premium": "<= 1.4.1.0",
         "wpackagist-plugin/core-control": "<=1.2.1",
-        "wpackagist-plugin/core-web-vitals-pagespeed-booster": "<= 1.0.27.0",
+        "wpackagist-plugin/core-web-vitals-pagespeed-booster": "<= 1.0.31.0",
         "wpackagist-plugin/coreactivity": "<= 3.0.0.0",
         "wpackagist-plugin/corner-ad": "<=1.0.56",
         "wpackagist-plugin/cornerstone": "< 7.8.9.0-dev",
