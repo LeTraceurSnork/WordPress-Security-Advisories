@@ -4041,6 +4041,7 @@
         "wpackagist-plugin/edd-pdf-stamper": "<=1.0",
         "wpackagist-plugin/edd-per-product-emails": "<1.0.9",
         "wpackagist-plugin/edd-product-reviews": "<=1.3.8",
+        "wpackagist-plugin/edd-products-feed-pro": "<=1.0.2",
         "wpackagist-plugin/edd-pushover-notifications": "<=1.2.8",
         "wpackagist-plugin/edd-qr-codes": "<=1.1.0",
         "wpackagist-plugin/edd-recent-purchases": "<=1.0.2",
