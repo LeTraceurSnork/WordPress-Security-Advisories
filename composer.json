@@ -403,7 +403,7 @@
         "wpackagist-plugin/admin-page-spider": "<=3.31",
         "wpackagist-plugin/admin-post-navigation": "<=2.1",
         "wpackagist-plugin/admin-renamer-extended": "<=3.2.1",
-        "wpackagist-plugin/admin-safety-guard": "<=1.2.9",
+        "wpackagist-plugin/admin-safety-guard": "<= 1.3.0.0",
         "wpackagist-plugin/admin-side-data-storage-for-contact-form-7": "<=1.1.2",
         "wpackagist-plugin/admin-site-enhancements": "<= 8.4.0.0",
         "wpackagist-plugin/admin-site-enhancements-pro": "<= 8.8.5.0",
