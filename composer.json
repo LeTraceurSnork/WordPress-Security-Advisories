@@ -11744,7 +11744,7 @@
         "wpackagist-plugin/tagregator": "<=0.6",
         "wpackagist-plugin/tags-cloud-manager": "<=1.0.0",
         "wpackagist-plugin/tags-to-meta-keywords": "<=1.0.1",
-        "wpackagist-plugin/tailored-tools": "<=1.8.4",
+        "wpackagist-plugin/tailored-tools": "<= 3.0.2.0",
         "wpackagist-plugin/tailpress": "<=0.4.4",
         "wpackagist-plugin/tainacan": "<= 1.0.3.0",
         "wpackagist-plugin/tajer": "<=1.0.5",
