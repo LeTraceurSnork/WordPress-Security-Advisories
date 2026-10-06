@@ -15678,7 +15678,7 @@
         "wpackagist-theme/aapna": "*",
         "wpackagist-theme/aardvark": "<=4.6.3",
         "wpackagist-theme/abelle": "<=1.22",
-        "wpackagist-theme/abogado": "<=1.14.0",
+        "wpackagist-theme/abogado": "<= 1.18.0.0",
         "wpackagist-theme/abundance": "*",
         "wpackagist-theme/academist": "<1.3",
         "wpackagist-theme/accalia": "<=1.5.3",
