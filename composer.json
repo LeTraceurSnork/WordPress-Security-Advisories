@@ -4205,7 +4205,7 @@
         "wpackagist-plugin/embed-google-data-studio": "<=1.0.0",
         "wpackagist-plugin/embed-google-fonts": "<=3.1.0",
         "wpackagist-plugin/embed-google-map": "<=3.2",
-        "wpackagist-plugin/embed-google-photos-album-easily": "<=2.2.0",
+        "wpackagist-plugin/embed-google-photos-album-easily": "<= 2.2.1.0",
         "wpackagist-plugin/embed-ispring": "<=1.0",
         "wpackagist-plugin/embed-lottie-player": "<=1.1.8",
         "wpackagist-plugin/embed-office-viewer": "<=2.2.6",
