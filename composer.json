@@ -9536,7 +9536,7 @@
         "wpackagist-plugin/quickwebp": "<=3.2.7",
         "wpackagist-plugin/quicq": "<=2.0.0",
         "wpackagist-plugin/quietly-insights": "<=1.2.2",
-        "wpackagist-plugin/quillforms": "<= 3.10.0.0",
+        "wpackagist-plugin/quillforms": "<= 5.7.1.0",
         "wpackagist-plugin/quiz-cat": "<=3.0.8",
         "wpackagist-plugin/quiz-expert": "<=1.5.0",
         "wpackagist-plugin/quiz-maker": "<= 6.7.1.29 || >= 7.0.0.0-dev <= 8.8.0.0 || >= 20.0.0.0-dev <= 21.8.0.0 || >= 30.0.0.0-dev <= 31.8.0.0",
