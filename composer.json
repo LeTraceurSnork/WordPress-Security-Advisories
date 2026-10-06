@@ -9495,7 +9495,7 @@
         "wpackagist-plugin/query-shortcode": "<=0.2.1",
         "wpackagist-plugin/query-wrangler": "<= 1.5.54.0",
         "wpackagist-plugin/querywall": "<=1.1.1",
-        "wpackagist-plugin/question-answer": "<=1.2.70",
+        "wpackagist-plugin/question-answer": "<= 1.2.73.0",
         "wpackagist-plugin/questionar-elementor": "<=1.1.7",
         "wpackagist-plugin/questionpro-surveys": "<=1.0",
         "wpackagist-plugin/quform": "<= 2.23.0.0",
