@@ -8264,7 +8264,7 @@
         "wpackagist-plugin/oauth-client": "<=1.11.3",
         "wpackagist-plugin/oauth-client-for-user-authentication": "<= 3.0.3.0",
         "wpackagist-plugin/oauth-twitter-feed-for-developers": "<=2.3.0",
-        "wpackagist-plugin/oauth2-provider": "<= 4.3.3.0",
+        "wpackagist-plugin/oauth2-provider": "<= 4.5.1.0",
         "wpackagist-plugin/oauth2-server": "<=1.0.1",
         "wpackagist-plugin/obfuscate-email": "<=3.8.1",
         "wpackagist-plugin/object-cache-4-everyone": "<=2.3.2",
