@@ -12875,7 +12875,7 @@
         "wpackagist-plugin/w3s-cf7-zoho": "<= 3.0.0.0",
         "wpackagist-plugin/w3sc-elementor-to-zoho": "<=2.2.0",
         "wpackagist-plugin/w3speedster-wp": "<= 7.33.0.0",
-        "wpackagist-plugin/w4-post-list": "<=2.4.5",
+        "wpackagist-plugin/w4-post-list": "<= 3.0.6.0",
         "wpackagist-plugin/wa-chatbox-manager": "<= 1.2.6.0",
         "wpackagist-plugin/wa-form-builder": "<=1.1",
         "wpackagist-plugin/wa-sticky-button": "<=1.4",
