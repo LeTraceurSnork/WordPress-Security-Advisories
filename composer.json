@@ -4671,6 +4671,7 @@
         "wpackagist-plugin/featured-posts-with-multiple-custom-groups-fpmcg": "<=4.0",
         "wpackagist-plugin/featured-product-by-category-name": "<=1.1",
         "wpackagist-plugin/featured-products-first-for-woocommerce": ">=1.0,<=1.9.5",
+        "wpackagist-plugin/featured-video-plus": "<=2.3.3",
         "wpackagist-plugin/features": "<=0.0.2",
         "wpackagist-plugin/featurific-for-wordpress": "<=1.6.2",
         "wpackagist-plugin/fediverse-embeds": "<= 1.5.7.0",
