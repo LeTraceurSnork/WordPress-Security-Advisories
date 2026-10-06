@@ -5150,7 +5150,7 @@
         "wpackagist-plugin/fyrebox-shortcode": "<=3.0",
         "wpackagist-plugin/fyyd-podcast-shortcodes": "<=0.3.1",
         "wpackagist-plugin/g-auto-hyperlink": "<=1.0.1",
-        "wpackagist-plugin/g-business-reviews-rating": "<= 5.2.0.0",
+        "wpackagist-plugin/g-business-reviews-rating": "<= 5.10.0.0",
         "wpackagist-plugin/g-ffl-checkout": "<=2.1.0",
         "wpackagist-plugin/g-ffl-cockpit": "<=1.7.1",
         "wpackagist-plugin/g-lock-double-opt-in-manager": "<=2.6.5",
