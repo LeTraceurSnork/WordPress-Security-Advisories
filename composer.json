@@ -3654,7 +3654,7 @@
         "wpackagist-plugin/download-theme": "<=1.0.9",
         "wpackagist-plugin/download-zip-attachments": "<=1.0",
         "wpackagist-plugin/downloader-tiktok": "<1.4",
-        "wpackagist-plugin/downloadmanager": "<=3.2.82",
+        "wpackagist-plugin/downloadmanager": "<= 3.3.61.0",
         "wpackagist-plugin/downloads-manager": "<=0.2",
         "wpackagist-plugin/dp-addthis": "<=1.0.2",
         "wpackagist-plugin/dp-alterminator-missing-alt-manager": "<=1.0.2",
