@@ -1599,7 +1599,7 @@
         "wpackagist-plugin/blog-designer-pack": "<= 4.0.0.0",
         "wpackagist-plugin/blog-designer-pro": "<= 3.4.8.0",
         "wpackagist-plugin/blog-filter": "<= 1.7.6.0",
-        "wpackagist-plugin/blog-floating-button": "<=1.4.12",
+        "wpackagist-plugin/blog-floating-button": "<= 1.4.20.0",
         "wpackagist-plugin/blog-in-blog": "<= 2.0.0.0",
         "wpackagist-plugin/blog-manager-light": "<=1.20",
         "wpackagist-plugin/blog-manager-wp": "<=1.0.5",
