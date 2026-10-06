@@ -2405,7 +2405,7 @@
         "wpackagist-plugin/clear-sucuri-cache": "<=1.4",
         "wpackagist-plugin/clearbit": "<=1.0.6",
         "wpackagist-plugin/clearblue-ovulation-calculator": "<=1.2.4",
-        "wpackagist-plugin/clearfy": "<= 2.4.0.0",
+        "wpackagist-plugin/clearfy": "< 2.4.3.0-dev",
         "wpackagist-plugin/clearout-email-validator": "<=3.2.0",
         "wpackagist-plugin/clearpay-gateway-for-woocommerce": "<=3.5.0",
         "wpackagist-plugin/clearsale-total": "<=3.4.2",
