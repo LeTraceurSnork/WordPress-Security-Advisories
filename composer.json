@@ -821,7 +821,7 @@
         "wpackagist-plugin/amberlink": "<=1.4.4",
         "wpackagist-plugin/amcharts-charts-and-maps": "<=1.4.4",
         "wpackagist-plugin/amelia": "<=7.5.1",
-        "wpackagist-plugin/ameliabooking": "<= 7.7.0.0 || >=8.3,<=9.1.2",
+        "wpackagist-plugin/ameliabooking": "<= 7.7.0.0 || >= 8.0.0.0-dev <= 9.6.2.0",
         "wpackagist-plugin/amen": "<=3.3.1",
         "wpackagist-plugin/amerisale-re": "*",
         "wpackagist-plugin/amilia-store": "<=2.9.8",
