@@ -379,7 +379,7 @@
         "wpackagist-plugin/admin-chat-box": "<=3.1.1",
         "wpackagist-plugin/admin-cleanup": "<=1.0.2",
         "wpackagist-plugin/admin-columns-pro": "<= 6.4.9.0",
-        "wpackagist-plugin/admin-custom-login": "<=3.2.7",
+        "wpackagist-plugin/admin-custom-login": "<= 3.6.4.0",
         "wpackagist-plugin/admin-dashboard-rss-feed": "<= 3.4.0.0",
         "wpackagist-plugin/admin-font-editor": "<1.8",
         "wpackagist-plugin/admin-form": "<= 1.9.1.0",
