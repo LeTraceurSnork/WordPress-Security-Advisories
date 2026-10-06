@@ -7484,6 +7484,7 @@
         "wpackagist-plugin/mega-forms": "<= 1.6.1.0",
         "wpackagist-plugin/mega_main_menu": "<=2.2.2",
         "wpackagist-plugin/megamenu": "<=3.3",
+        "wpackagist-plugin/megamo": ">=2.1.5,<=2.1.6",
         "wpackagist-plugin/meintopf": "<=0.2.1",
         "wpackagist-plugin/meinturnierplande-widget-viewer": "<=1.1",
         "wpackagist-plugin/mejorcluster": "<=1.1.15",
