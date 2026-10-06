@@ -11100,7 +11100,7 @@
         "wpackagist-plugin/smartarget-message-bar": "<=1.4",
         "wpackagist-plugin/smartarget-popup": "<= 1.7.0.0",
         "wpackagist-plugin/smartcat-wpml": "<= 3.1.77.0",
-        "wpackagist-plugin/smartcrawl-seo": "<= 3.14.3.0",
+        "wpackagist-plugin/smartcrawl-seo": "< 3.16.3.0-dev",
         "wpackagist-plugin/smartemailing": "<=2.2.0",
         "wpackagist-plugin/smarter-analytics": "<=2.0",
         "wpackagist-plugin/smartideo": "<=2.7.0",
