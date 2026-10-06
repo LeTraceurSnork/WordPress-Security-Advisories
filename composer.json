@@ -1432,7 +1432,7 @@
         "wpackagist-plugin/bears-backup": "<=2.0.0",
         "wpackagist-plugin/beautiful-and-responsive-cookie-consent": "<= 4.6.1.0",
         "wpackagist-plugin/beautiful-link-preview": "<=1.5.0",
-        "wpackagist-plugin/beautiful-taxonomy-filters": "<=2.4.4",
+        "wpackagist-plugin/beautiful-taxonomy-filters": "<= 2.4.6.0",
         "wpackagist-plugin/beauty-contact-popup-form": "<=6.0",
         "wpackagist-plugin/beaver-builder-lite-version": "<= 2.10.1.2",
         "wpackagist-plugin/beaver-themer": "<=1.4.9",
