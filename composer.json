@@ -3318,7 +3318,7 @@
         "wpackagist-plugin/database-browser": "<=1.4.4",
         "wpackagist-plugin/database-cleaner": "<= 1.0.5.0",
         "wpackagist-plugin/database-collation-fix": "<=1.2.7",
-        "wpackagist-plugin/database-for-cf7": "<=1.2.4",
+        "wpackagist-plugin/database-for-cf7": "<= 1.2.6.0",
         "wpackagist-plugin/database-peek": "<=1.2",
         "wpackagist-plugin/database-sync": "<= 0.5.1.0",
         "wpackagist-plugin/database-to-excel": "<=1.0",
