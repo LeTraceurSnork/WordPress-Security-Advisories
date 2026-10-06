@@ -752,7 +752,7 @@
         "wpackagist-plugin/all-in-one-video-gallery": "<= 4.8.5.0",
         "wpackagist-plugin/all-in-one-webmaster": "<8.2.4",
         "wpackagist-plugin/all-in-one-wp-builder": "<=2.0.2",
-        "wpackagist-plugin/all-in-one-wp-migration": "<= 7.97.0.0",
+        "wpackagist-plugin/all-in-one-wp-migration": "< 7.108.0.0-dev",
         "wpackagist-plugin/all-in-one-wp-migration-box-extension": "<=1.53",
         "wpackagist-plugin/all-in-one-wp-migration-dropbox-extension": "<=3.75",
         "wpackagist-plugin/all-in-one-wp-migration-gdrive-extension": "<=2.79",
