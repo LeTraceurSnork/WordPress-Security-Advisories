@@ -8617,7 +8617,7 @@
         "wpackagist-plugin/payhere-payment-gateway": "<= 2.3.9.0",
         "wpackagist-plugin/paymaya-checkout-for-woocommerce": "<=1.2.0",
         "wpackagist-plugin/payment-form-for-paypal-pro": "<= 1.1.72.0",
-        "wpackagist-plugin/payment-forms-for-paystack": "<= 4.0.2.0",
+        "wpackagist-plugin/payment-forms-for-paystack": "<= 4.0.5.0",
         "wpackagist-plugin/payment-gateway-for-telcell": "<=2.0.3",
         "wpackagist-plugin/payment-gateway-groups-for-woocommerce": "<=1.1.3",
         "wpackagist-plugin/payment-gateway-payfabric": ">=1.0.4,<=1.0.12.2",
