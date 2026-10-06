@@ -5251,7 +5251,7 @@
         "wpackagist-plugin/general-options": "<=1.1.0",
         "wpackagist-plugin/generate-child-theme": "<= 2.0.0.0",
         "wpackagist-plugin/generate-dummy-posts": "<=1.0.0",
-        "wpackagist-plugin/generate-pdf-using-contact-form-7": "<= 4.1.2.0",
+        "wpackagist-plugin/generate-pdf-using-contact-form-7": "<= 4.2.1.0",
         "wpackagist-plugin/generate-post-thumbnails": "<=0.8",
         "wpackagist-plugin/generate-security-txt": "<= 1.0.13.0",
         "wpackagist-plugin/generateblocks": "<= 2.2.1.0",
