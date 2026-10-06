@@ -850,7 +850,7 @@
         "wpackagist-plugin/an-gradebook": "<=5.0.1",
         "wpackagist-plugin/anac-xml-render": "<=1.5.7",
         "wpackagist-plugin/anac-xml-viewer": "<= 1.8.2.0",
-        "wpackagist-plugin/analogwp-templates": "<= 2.5.0.0",
+        "wpackagist-plugin/analogwp-templates": "<= 2.6.5.0",
         "wpackagist-plugin/analyse-uploads": "<=0.5",
         "wpackagist-plugin/analytics-cat": "<= 1.1.2.0",
         "wpackagist-plugin/analytics-counter": "<3.5.0",
