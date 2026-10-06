@@ -6986,7 +6986,7 @@
         "wpackagist-plugin/listivo-core": "<=2.3.77",
         "wpackagist-plugin/listly": "<=2.7",
         "wpackagist-plugin/listsearch": "<=1.1",
-        "wpackagist-plugin/litespeed-cache": "<= 7.7.0.0",
+        "wpackagist-plugin/litespeed-cache": "<= 7.9.0.0",
         "wpackagist-plugin/litho-addons": "<=3.4",
         "wpackagist-plugin/littlebot-invoices": "<=2.6.7",
         "wpackagist-plugin/live-2d": "<=1.9.11",
