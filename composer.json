@@ -4886,6 +4886,7 @@
         "wpackagist-plugin/fluent-security": "<= 2.0.3.0",
         "wpackagist-plugin/fluent-smtp": "<= 2.2.82.0",
         "wpackagist-plugin/fluent-support": "<= 2.3.0.0",
+        "wpackagist-plugin/fluentcrm-pro": "<=3.1.12",
         "wpackagist-plugin/fluentform": "<= 6.2.1.0",
         "wpackagist-plugin/fluentformpro": "<= 6.2.6.0",
         "wpackagist-plugin/fluentforms-pdf": "<=1.1.7",
