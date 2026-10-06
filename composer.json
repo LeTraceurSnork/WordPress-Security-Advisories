@@ -8235,6 +8235,7 @@
         "wpackagist-plugin/notification-for-telegram": "<= 3.5.1.0",
         "wpackagist-plugin/notifications-center": "<=1.5.2",
         "wpackagist-plugin/notificationx": "<= 3.2.1.0",
+        "wpackagist-plugin/notificationx-pro": "<=3.1.4",
         "wpackagist-plugin/notifier": "<= 2.7.13.0",
         "wpackagist-plugin/notifikacie-sk": "<=1.0",
         "wpackagist-plugin/notify-odoo": "<= 1.0.1.0",
