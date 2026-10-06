@@ -6974,7 +6974,7 @@
         "wpackagist-plugin/listamester": "<=2.3.6",
         "wpackagist-plugin/listapp-mobile-manager": "<=1.7.7",
         "wpackagist-plugin/listar-directory-listing": "<=3.0.0",
-        "wpackagist-plugin/listdom": "<= 5.5.0.0",
+        "wpackagist-plugin/listdom": "<= 5.8.1.0",
         "wpackagist-plugin/listen-shortcode": "<=1.0",
         "wpackagist-plugin/listeo-core": "<= 2.0.27.0",
         "wpackagist-plugin/listinghub": "<= 1.2.7.0",
