@@ -8399,7 +8399,7 @@
         "wpackagist-plugin/opt-in-hound": "<=1.4.3",
         "wpackagist-plugin/opt-in-panda": "<=2.6.2",
         "wpackagist-plugin/opti-marketing": "<=2.0.9",
-        "wpackagist-plugin/optima-express": "<=7.3.0",
+        "wpackagist-plugin/optima-express": "<=7.3.0 || >=8.6.0,<=8.7.5",
         "wpackagist-plugin/optimate-ads": "<=1.0.3",
         "wpackagist-plugin/optimize-more-css": "<=1.0.3",
         "wpackagist-plugin/optimize-more-images": "<=1.1.3",
