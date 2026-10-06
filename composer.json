@@ -5326,7 +5326,7 @@
         "wpackagist-plugin/gf-hubspot": "<= 1.2.6.0",
         "wpackagist-plugin/gf-infusionsoft": "<= 1.2.6.0",
         "wpackagist-plugin/gf-insightly": "<=1.1.6",
-        "wpackagist-plugin/gf-multi-uploader": "<= 1.1.7.0",
+        "wpackagist-plugin/gf-multi-uploader": "<= 1.1.8.0",
         "wpackagist-plugin/gf-salesforce-crmperks": "<= 1.5.1.0",
         "wpackagist-plugin/gf-salesmate-add-on": "<=2.0.3",
         "wpackagist-plugin/gf-zendesk": "<=1.1.2",
