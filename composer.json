@@ -7552,7 +7552,7 @@
         "wpackagist-plugin/mesmerize-companion": "<= 1.6.158.0",
         "wpackagist-plugin/message-ticker": "<= 9.3.0.0",
         "wpackagist-plugin/meta-accelerator": "<=1.0.4",
-        "wpackagist-plugin/meta-box": "<= 5.11.1.0",
+        "wpackagist-plugin/meta-box": "< 5.13.1.0-dev",
         "wpackagist-plugin/meta-box-gallerymeta": "<=3.0.1",
         "wpackagist-plugin/meta-display-block": "<=1.0.0",
         "wpackagist-plugin/meta-slider-and-carousel-with-lightbox": "<= 2.0.1.0 || 2.0.8",
