@@ -10390,7 +10390,7 @@
         "wpackagist-plugin/seo-optimized-images": "2.0 || 2.1.2",
         "wpackagist-plugin/seo-pyramid": "<=1.9.8",
         "wpackagist-plugin/seo-rank-reporter": "<=2.2.2",
-        "wpackagist-plugin/seo-redirection": "<= 9.17.0.0",
+        "wpackagist-plugin/seo-redirection": "<= 9.18.0.0",
         "wpackagist-plugin/seo-search-permalink": "<=1.0.3",
         "wpackagist-plugin/seo-simple-pack": "<=3.2.1",
         "wpackagist-plugin/seo-site-auditor-agency": ">=1.0.0,<=1.2.8",
