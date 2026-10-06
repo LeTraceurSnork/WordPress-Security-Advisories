@@ -4797,6 +4797,7 @@
         "wpackagist-plugin/flat-preloader": "<1.5.5",
         "wpackagist-plugin/flat-shipping-rate-by-city-for-woocommerce": "<=1.0.3",
         "wpackagist-plugin/flat-ui-button": "1.0",
+        "wpackagist-plugin/flatastic": "<=2.0",
         "wpackagist-plugin/flatpm-wp": "<= 3.2.2.0",
         "wpackagist-plugin/flatsome": "<=3.20.0",
         "wpackagist-plugin/flattr": "<=1.2.2",
