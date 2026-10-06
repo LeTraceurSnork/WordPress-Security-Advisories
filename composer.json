@@ -9322,6 +9322,7 @@
         "wpackagist-plugin/product-quantity-for-woocommerce": "<= 5.2.2.0",
         "wpackagist-plugin/product-recommendation-quiz-for-ecommerce": "<=2.1.0",
         "wpackagist-plugin/product-reviews-import-export-for-woocommerce": "<= 1.4.8.0",
+        "wpackagist-plugin/product-shortlist": "<=1.0.4",
         "wpackagist-plugin/product-size-chart-for-woo": "<=1.1.5",
         "wpackagist-plugin/product-slider-for-woocommerce-lite": "<=1.1.7",
         "wpackagist-plugin/product-specifications": "<= 0.8.9.0",
