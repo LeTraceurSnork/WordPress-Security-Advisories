@@ -253,7 +253,7 @@
         "wpackagist-plugin/ad-injection": "<=1.2.0.19",
         "wpackagist-plugin/ad-inserter": "<= 2.8.16.0",
         "wpackagist-plugin/ad-inserter-pro": "<= 2.7.39.0",
-        "wpackagist-plugin/ad-invalid-click-protector": "< 1.2.6.0-dev || == 1.2.9.0",
+        "wpackagist-plugin/ad-invalid-click-protector": "<= 1.3.0.0",
         "wpackagist-plugin/ad-manager-wd": "<=1.0.11",
         "wpackagist-plugin/ad-minister": "<=0.6",
         "wpackagist-plugin/ad-short": "<=2.0.1",
