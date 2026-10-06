@@ -2446,6 +2446,7 @@
         "wpackagist-plugin/clikstats": "<=0.8",
         "wpackagist-plugin/clinicalwp-core": "*",
         "wpackagist-plugin/clink": "<=1.2.2",
+        "wpackagist-plugin/clink-gateway-for-woocommerce": "<=1.0.7",
         "wpackagist-plugin/clinked-client-portal": "<= 1.10.0.0",
         "wpackagist-plugin/clio-grow-form": "<=1.0.2",
         "wpackagist-plugin/clipart": "<=0.2",
