@@ -13375,7 +13375,7 @@
         "wpackagist-plugin/woo-payment-gateway-paysera": "<= 3.10.0.0",
         "wpackagist-plugin/woo-paypal-gateway": "<= 9.0.53.0",
         "wpackagist-plugin/woo-payrexx-gateway": "<=3.1.5",
-        "wpackagist-plugin/woo-pdf-invoice-builder": "<= 2.0.8.0",
+        "wpackagist-plugin/woo-pdf-invoice-builder": "<= 2.0.11.0",
         "wpackagist-plugin/woo-pdf-invoices-bulk-download": "<=1.0.0",
         "wpackagist-plugin/woo-pensopay": "<=6.3.1",
         "wpackagist-plugin/woo-permalink-manager": "<=2.3.10",
