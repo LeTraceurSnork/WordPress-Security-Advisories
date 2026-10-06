@@ -6906,7 +6906,7 @@
         "wpackagist-plugin/limit-bio": "<=1.0",
         "wpackagist-plugin/limit-login-attempts": "<=1.7.1",
         "wpackagist-plugin/limit-login-attempts-plus": "<= 1.1.0.0",
-        "wpackagist-plugin/limit-login-attempts-reloaded": "<= 2.25.26.0",
+        "wpackagist-plugin/limit-login-attempts-reloaded": "< 3.3.5.0-dev",
         "wpackagist-plugin/limit-max-ips-per-user": "<=1.5",
         "wpackagist-plugin/linear": "<= 2.8.1.0",
         "wpackagist-plugin/linet-erp-woocommerce-integration": "<=3.5.12",
