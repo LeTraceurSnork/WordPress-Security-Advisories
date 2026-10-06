@@ -3421,6 +3421,7 @@
         "wpackagist-plugin/depicter": "<= 4.0.7.0",
         "wpackagist-plugin/design-approval-system": "<=3.6",
         "wpackagist-plugin/design-import-export": "<=2.2",
+        "wpackagist-plugin/design-scuole-wordpress-theme": ">=1.0,<=2.18.2",
         "wpackagist-plugin/designer": "<= 1.6.1.0",
         "wpackagist-plugin/designo": "<=2.2.0",
         "wpackagist-plugin/designthemes-booking-manager": "<=2.0",
