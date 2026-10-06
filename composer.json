@@ -11834,6 +11834,7 @@
         "wpackagist-plugin/templatesnext-onepager": "<=1.3.3",
         "wpackagist-plugin/templatesnext-toolkit": "<= 3.2.9.0",
         "wpackagist-plugin/templatespare": "<= 4.2.0.0",
+        "wpackagist-plugin/templatiq": "<=0.2.5",
         "wpackagist-plugin/templazee": "<=1.0.2",
         "wpackagist-plugin/templines-helper-core": "<=2.7",
         "wpackagist-plugin/temporarily-hidden-content": "<=1.0.6",
