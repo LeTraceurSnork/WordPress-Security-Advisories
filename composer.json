@@ -11242,7 +11242,7 @@
         "wpackagist-plugin/sola-newsletters": "<=4.0.23",
         "wpackagist-plugin/sola-support-tickets": "<= 3.18.0.0",
         "wpackagist-plugin/sola-testimonials": "<=3.0.0",
-        "wpackagist-plugin/solace-extra": "<= 1.5.3.0",
+        "wpackagist-plugin/solace-extra": "< 1.7.0.0-dev",
         "wpackagist-plugin/solar-wizard-lite": "<=1.2.4",
         "wpackagist-plugin/solene-core": "<=2.3.2",
         "wpackagist-plugin/solid-affiliate": "<=1.9.1",
