@@ -1702,7 +1702,7 @@
         "wpackagist-plugin/bookingcom-banner-creator": "<=1.4.6",
         "wpackagist-plugin/bookingcom-product-helper": "<1.0.2",
         "wpackagist-plugin/bookingor": "<= 2.0.1.0",
-        "wpackagist-plugin/bookingpress-appointment-booking": "<= 1.1.28.0",
+        "wpackagist-plugin/bookingpress-appointment-booking": "<= 1.5.5.0",
         "wpackagist-plugin/bookingpress-appointment-booking-pro": "<= 5.7.1.0",
         "wpackagist-plugin/bookit": "<= 2.5.1.0",
         "wpackagist-plugin/bookly-responsive-appointment-booking-tool": "<= 27.7.0.0",
