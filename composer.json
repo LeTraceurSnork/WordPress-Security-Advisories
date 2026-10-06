@@ -587,7 +587,7 @@
         "wpackagist-plugin/affiliates-manager-google-recaptcha-integration": "<=1.0.6",
         "wpackagist-plugin/affiliatewp": "<2.0.9.1 || 2.14.0",
         "wpackagist-plugin/affiliatewp-external-referral-links": "<=1.2.0",
-        "wpackagist-plugin/affiliatex": "<= 1.3.9.3",
+        "wpackagist-plugin/affiliatex": "<= 2.3.5.0",
         "wpackagist-plugin/affiliator-lite": "<=2.1.3",
         "wpackagist-plugin/affs": "< 11.4.0.0-dev",
         "wpackagist-plugin/afiliados-de-amazon-lite": "<=1.0.0",
