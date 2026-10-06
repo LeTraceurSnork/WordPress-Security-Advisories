@@ -15935,7 +15935,7 @@
         "wpackagist-theme/brasserie": "<=2.0",
         "wpackagist-theme/bravada": "<=1.1.2",
         "wpackagist-theme/bricks": "<= 1.12.4.0",
-        "wpackagist-theme/bridge": "< 18.2.1.0-dev",
+        "wpackagist-theme/bridge": "<= 30.8.9.1",
         "wpackagist-theme/brightbox": "*",
         "wpackagist-theme/brikk": "<=3.0.0",
         "wpackagist-theme/brilliance": "<= 1.3.1.0",
