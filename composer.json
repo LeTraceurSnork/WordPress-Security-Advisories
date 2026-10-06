@@ -7642,7 +7642,7 @@
         "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<= 6.26.14.0",
         "wpackagist-plugin/miniorange-login-with-whmcs": "<=1.11.3",
         "wpackagist-plugin/miniorange-malware-protection": "<=4.7.2",
-        "wpackagist-plugin/miniorange-oauth-20-server": "<=3.0.4",
+        "wpackagist-plugin/miniorange-oauth-20-server": "<= 6.3.0.0",
         "wpackagist-plugin/miniorange-oauth-oidc-single-sign-on": "<= 50.5.3.0",
         "wpackagist-plugin/miniorange-openid-connect-client": "<= 2.1.7.0",
         "wpackagist-plugin/miniorange-otp-verification": "<= 5.5.1.0",
