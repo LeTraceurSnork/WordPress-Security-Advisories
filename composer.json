@@ -10091,6 +10091,7 @@
         "wpackagist-plugin/rt-easy-builder-advanced-addons-for-elementor": "<= 2.3.0.0",
         "wpackagist-plugin/rt-prettyphoto": "<=1.2",
         "wpackagist-plugin/rt18-extensions": "<= 2.5.0.0",
+        "wpackagist-plugin/rtcl-verification": "<=1.6.0",
         "wpackagist-plugin/rtl-tester": "<=1.2",
         "wpackagist-plugin/rtwwcfp-wordpress-contact-form-7-pdf": "<=3.0.0",
         "wpackagist-plugin/ruby-help-desk": "<=1.3.3",
