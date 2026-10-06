@@ -10476,6 +10476,7 @@
         "wpackagist-plugin/sharebar": "<= 1.4.2.0",
         "wpackagist-plugin/shared-counts": "<=1.4.1",
         "wpackagist-plugin/shared-files": "<= 1.7.64.0",
+        "wpackagist-plugin/shared-files-pro": "<1.7.70",
         "wpackagist-plugin/sharespine-woocommerce-connector": "<=4.7.55",
         "wpackagist-plugin/sharethis-share-buttons": "<=2.3.0",
         "wpackagist-plugin/shareyourcart": "<1.7.1",
