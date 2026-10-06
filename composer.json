@@ -7096,6 +7096,7 @@
         "wpackagist-plugin/login-register-using-jwt": "<=3.0.0",
         "wpackagist-plugin/login-screen-manager": "<=3.5.2",
         "wpackagist-plugin/login-sidebar-widget": "<=6.1.2",
+        "wpackagist-plugin/login-social": "<=1.0.4",
         "wpackagist-plugin/login-watchdog": "<=1.0.4",
         "wpackagist-plugin/login-widget-for-ultimate-member": "<=1.1.2",
         "wpackagist-plugin/login-with-ajax": "<= 4.1.0.0",
