@@ -489,6 +489,7 @@
         "wpackagist-plugin/advanced-dewplayer": "<= 1.6.0.0",
         "wpackagist-plugin/advanced-dynamic-pricing-for-woocommerce": "<= 4.9.3.0",
         "wpackagist-plugin/advanced-event-manager": "<=1.1.6",
+        "wpackagist-plugin/advanced-excerpt": "<=4.4",
         "wpackagist-plugin/advanced-facebook-twitter-widget": "<=1.7",
         "wpackagist-plugin/advanced-fancybox": "<=1.1.1",
         "wpackagist-plugin/advanced-faq-manager": "<=1.5.2",
