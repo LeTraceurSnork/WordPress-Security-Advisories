@@ -2110,7 +2110,7 @@
         "wpackagist-plugin/cart-link-for-woocommerce": "<=1.0.2",
         "wpackagist-plugin/cart-notices-for-woocommerce": "<=3.5.7.6",
         "wpackagist-plugin/cart-products-suggestions-for-woocommerce": "<=3.5.7.6",
-        "wpackagist-plugin/cart-rest-api-for-woocommerce": "<=3.11.2",
+        "wpackagist-plugin/cart-rest-api-for-woocommerce": "<= 4.8.0.0",
         "wpackagist-plugin/cart-tracking-for-woocommerce": "<=1.0.17",
         "wpackagist-plugin/cart-weight-for-woocommerce": ">=1.0.0,<=1.0.7",
         "wpackagist-plugin/cart2cart-magento-to-woocommerce-migration": "<=2.0.0",
