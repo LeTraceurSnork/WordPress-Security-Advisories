@@ -10440,7 +10440,7 @@
         "wpackagist-plugin/royal-backup-reset": "<=1.0.16",
         "wpackagist-plugin/royal-core": "<=2.9.2",
         "wpackagist-plugin/royal-elementor-addons": "<= 1.7.1066.0",
-        "wpackagist-plugin/royal-mcp": "<= 1.4.25.0",
+        "wpackagist-plugin/royal-mcp": "<= 1.4.25.0 || >=1.4.38,<=1.5.9",
         "wpackagist-plugin/royal-slider": "<3.2.7",
         "wpackagist-plugin/rpb-chessboard": "<=8.1.2",
         "wpackagist-plugin/rps-include-content": "<= 1.2.2.0",
