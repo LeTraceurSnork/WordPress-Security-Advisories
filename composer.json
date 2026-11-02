@@ -3464,7 +3464,7 @@
         "wpackagist-plugin/debug-functions-time": "<=1.40",
         "wpackagist-plugin/debug-info": "<=1.3.10",
         "wpackagist-plugin/debug-log-config-tool": "<=1.4.5",
-        "wpackagist-plugin/debug-log-manager": "<= 2.5.0.0",
+        "wpackagist-plugin/debug-log-manager": "<= 2.5.2.0",
         "wpackagist-plugin/debug-log-viewer": "<=2.0.3",
         "wpackagist-plugin/debug-meta-data": "<=1.1.2",
         "wpackagist-plugin/debug-tool": "<=2.2",
