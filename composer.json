@@ -12690,7 +12690,7 @@
         "wpackagist-plugin/translation-exchange": "<=1.0.14",
         "wpackagist-plugin/translation-pro": "<=1.0.0",
         "wpackagist-plugin/translator": "<=0.3",
-        "wpackagist-plugin/translit-it": "<=1.6",
+        "wpackagist-plugin/translit-it": "<= 1.8.3.0",
         "wpackagist-plugin/transmail": "<=3.3.1",
         "wpackagist-plugin/transportersio": "<= 2.1.1.0",
         "wpackagist-plugin/transposh-translation-filter-for-wordpress": "<= 1.0.9.6",
