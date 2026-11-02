@@ -11910,7 +11910,7 @@
         "wpackagist-plugin/stock-quotes-list": "<=2.9.11",
         "wpackagist-plugin/stock-snapshot-for-woocommerce": "<=2.2.2",
         "wpackagist-plugin/stock-sync-for-woocommerce": "<=2.4.0",
-        "wpackagist-plugin/stock-sync-with-google-sheet-for-woocommerce": "<=3.13.1",
+        "wpackagist-plugin/stock-sync-with-google-sheet-for-woocommerce": "<= 3.17.2.0",
         "wpackagist-plugin/stock-ticker": "<= 3.26.1.0",
         "wpackagist-plugin/stock-tools": "<=1.1",
         "wpackagist-plugin/stockdio-historical-chart": "<= 2.8.18.0",
