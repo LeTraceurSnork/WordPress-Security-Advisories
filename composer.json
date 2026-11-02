@@ -10770,6 +10770,7 @@
         "wpackagist-plugin/seo-change-monitor": "<=1.2",
         "wpackagist-plugin/seo-checklist": ">=1.0.1,<=1.0.2",
         "wpackagist-plugin/seo-dashboard-by-gutewebsites-de": "*",
+        "wpackagist-plugin/seo-engine": "<=0.9.9",
         "wpackagist-plugin/seo-for-images": "<=1.0.0",
         "wpackagist-plugin/seo-for-local": ">=9.0.0,<=9.2.0",
         "wpackagist-plugin/seo-for-woocommerce": "<1.6.0",
