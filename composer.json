@@ -2407,7 +2407,7 @@
         "wpackagist-plugin/checkout-fees-for-woocommerce": "<= 3.0.0.0",
         "wpackagist-plugin/checkout-field-editor-and-manager-for-woocommerce": "<=3.0.5",
         "wpackagist-plugin/checkout-field-visibility-for-woocommerce": "<= 1.3.0.0",
-        "wpackagist-plugin/checkout-files-upload-woocommerce": "<= 2.2.5.0",
+        "wpackagist-plugin/checkout-files-upload-woocommerce": "< 2.4.0.0-dev",
         "wpackagist-plugin/checkout-for-paypal": "<= 1.0.46.0",
         "wpackagist-plugin/checkout-gateway-iris": "<=1.3",
         "wpackagist-plugin/checkout-mestres-wp": "<=8.6 || >=8.6.5,<=8.7.5",
