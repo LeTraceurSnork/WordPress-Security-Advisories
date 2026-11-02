@@ -11664,6 +11664,7 @@
         "wpackagist-plugin/social2blog": "<=0.2.990",
         "wpackagist-plugin/socialdriver": "<2024",
         "wpackagist-plugin/socialdriver-framework": "<2024.04.30",
+        "wpackagist-plugin/socialfit": "<=1.2.2",
         "wpackagist-plugin/socialgrid": "<=2.4",
         "wpackagist-plugin/socialmark": "<= 2.0.7.0",
         "wpackagist-plugin/socialsnap": "<= 1.3.6.0",
