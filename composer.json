@@ -7129,7 +7129,7 @@
         "wpackagist-plugin/light-messages": "<=1.0",
         "wpackagist-plugin/light-poll": "<=1.0.0",
         "wpackagist-plugin/lightbox": "<1.6.8",
-        "wpackagist-plugin/lightbox-block": "<=1.1.30",
+        "wpackagist-plugin/lightbox-block": "<= 1.2.0.0",
         "wpackagist-plugin/lightbox-gallery": "<=0.9.4",
         "wpackagist-plugin/lightbox-photo-gallery": "<=1.0",
         "wpackagist-plugin/lightbox-photoswipe": "<=5.8.0",
