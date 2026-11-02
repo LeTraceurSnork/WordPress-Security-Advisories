@@ -2842,7 +2842,7 @@
         "wpackagist-plugin/content-cards": "<= 0.9.7.0",
         "wpackagist-plugin/content-collector": "<=1.1.1",
         "wpackagist-plugin/content-control": "<= 2.6.5.0",
-        "wpackagist-plugin/content-egg": "<= 11.8.0.0",
+        "wpackagist-plugin/content-egg": "<= 12.0.0.0",
         "wpackagist-plugin/content-excel-importer": "<=4.3",
         "wpackagist-plugin/content-fetcher": "<=1.1",
         "wpackagist-plugin/content-glass-button": "<=1.0.5.6",
