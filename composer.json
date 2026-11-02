@@ -6790,7 +6790,7 @@
         "wpackagist-plugin/jwp-a11y": "<=4.1.7",
         "wpackagist-plugin/jwt-auth": "<=2.1.0",
         "wpackagist-plugin/k-elements": "< 5.5.0.0-dev",
-        "wpackagist-plugin/kadence-blocks": "<= 3.7.12.0",
+        "wpackagist-plugin/kadence-blocks": "<= 3.8.0.1",
         "wpackagist-plugin/kadence-blocks-pro": "<=2.3.7",
         "wpackagist-plugin/kadence-shop-kit": "<=3.0.6",
         "wpackagist-plugin/kadence-starter-templates": "<= 2.3.3.0",
