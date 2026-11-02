@@ -3534,7 +3534,7 @@
         "wpackagist-plugin/designbro-business-name-generator": "<=1.3",
         "wpackagist-plugin/designer": "<= 1.6.1.0",
         "wpackagist-plugin/designo": "<=2.2.0",
-        "wpackagist-plugin/designsetgo": "<=2.8.0",
+        "wpackagist-plugin/designsetgo": "<= 2.11.0.0",
         "wpackagist-plugin/designthemes-booking-manager": "<=2.0",
         "wpackagist-plugin/designthemes-core": "<=1.6",
         "wpackagist-plugin/designthemes-core-features": "<= 4.8.0.0",
