@@ -13391,7 +13391,7 @@
         "wpackagist-plugin/wadi-addons-for-elementor": ">=1.0.0,<=1.0.10",
         "wpackagist-plugin/wah-forms": "<=1.0",
         "wpackagist-plugin/waiting": "<=0.6.2",
-        "wpackagist-plugin/waitlist-woocommerce": "<= 2.7.5.0",
+        "wpackagist-plugin/waitlist-woocommerce": "<= 2.9.1.0",
         "wpackagist-plugin/walk-score": "<=0.5.5",
         "wpackagist-plugin/walker-core": "<=1.3.17",
         "wpackagist-plugin/walker-elementor": "<=1.1.6",
