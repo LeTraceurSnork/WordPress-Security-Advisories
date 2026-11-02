@@ -15034,7 +15034,7 @@
         "wpackagist-plugin/wp-magnific-popup": "<=1.0",
         "wpackagist-plugin/wp-mail": "<= 1.3.0.0",
         "wpackagist-plugin/wp-mail-bank": "<=4.0.14",
-        "wpackagist-plugin/wp-mail-catcher": "<= 2.1.12.0",
+        "wpackagist-plugin/wp-mail-catcher": "<= 2.2.0.0",
         "wpackagist-plugin/wp-mail-gateway": "<=1.8",
         "wpackagist-plugin/wp-mail-log": "<1.1.3",
         "wpackagist-plugin/wp-mail-logging": "<= 1.17.0.0",
