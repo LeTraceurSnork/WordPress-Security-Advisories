@@ -10597,7 +10597,7 @@
         "wpackagist-plugin/scheduler-widget": "<=0.1.6",
         "wpackagist-plugin/schedulicity-online-appointment-booking": "<=2.21",
         "wpackagist-plugin/schema-and-structured-data-for-wp": "<= 1.67.0.0",
-        "wpackagist-plugin/schema-app-structured-data-for-schemaorg": "<= 2.2.4.0",
+        "wpackagist-plugin/schema-app-structured-data-for-schemaorg": "<= 2.3.2.0",
         "wpackagist-plugin/schema-scalpel": "<=1.6.1",
         "wpackagist-plugin/schema-shortcode": "<=1.0",
         "wpackagist-plugin/school-management": "*",
