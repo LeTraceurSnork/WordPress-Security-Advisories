@@ -8683,6 +8683,7 @@
         "wpackagist-plugin/opal-service": "<=1.9.1",
         "wpackagist-plugin/opal-widgets-for-elementor": "<=1.6.9",
         "wpackagist-plugin/opal-woo-custom-product-variation": "<= 1.2.0.0",
+        "wpackagist-plugin/opay-payment-gateway-for-woocommerce": "<=2.5.5",
         "wpackagist-plugin/opcache": "<=0.3.1",
         "wpackagist-plugin/open-ai-search-bar": "<=2.1",
         "wpackagist-plugin/open-brain": "<=0.5.0",
