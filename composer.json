@@ -8411,7 +8411,7 @@
         "wpackagist-plugin/newstatpress": "<= 1.4.5.0",
         "wpackagist-plugin/newsticker": "<=1.0",
         "wpackagist-plugin/nex-forms": "<=7.8.7",
-        "wpackagist-plugin/nex-forms-express-wp-form-builder": "<= 9.3.1.0",
+        "wpackagist-plugin/nex-forms-express-wp-form-builder": "<= 9.3.2.0",
         "wpackagist-plugin/nex-forms-lite": "<8.2",
         "wpackagist-plugin/nexa-blocks": "<= 1.1.1.0",
         "wpackagist-plugin/nexi-xpay-build": ">= 7.0.0.0-dev <= 7.6.2.0",
