@@ -2780,7 +2780,7 @@
         "wpackagist-plugin/contact-form-7-integrations": ">=1.0,<=1.3.10",
         "wpackagist-plugin/contact-form-7-mailchimp-extension": "<= 0.9.78.06",
         "wpackagist-plugin/contact-form-7-multi-step-addon": ">=1.0.4,<=1.0.5",
-        "wpackagist-plugin/contact-form-7-multi-step-module": "<3.0.9",
+        "wpackagist-plugin/contact-form-7-multi-step-module": "<= 4.7.0.0",
         "wpackagist-plugin/contact-form-7-newsletter": "<=2.2",
         "wpackagist-plugin/contact-form-7-paypal-add-on": "<= 2.5.1.0",
         "wpackagist-plugin/contact-form-7-paypal-extension": "<= 4.0.6.0",
