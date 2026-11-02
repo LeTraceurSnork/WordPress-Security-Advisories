@@ -13822,7 +13822,7 @@
         "wpackagist-plugin/woo-bulk-edit-products": "<=1.8.21",
         "wpackagist-plugin/woo-bulk-editor": "<= 1.2.2.0",
         "wpackagist-plugin/woo-bulk-price-update": "<=2.2.1",
-        "wpackagist-plugin/woo-cardcom-payment-gateway": "<=3.5.0.4",
+        "wpackagist-plugin/woo-cardcom-payment-gateway": "<= 3.5.1.0",
         "wpackagist-plugin/woo-cart-abandonment-recovery": "< 2.1.4.0-dev",
         "wpackagist-plugin/woo-cart-all-in-one": "<= 1.1.21.0",
         "wpackagist-plugin/woo-cart-count-shortcode": "<=1.0.4",
