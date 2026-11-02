@@ -13130,7 +13130,7 @@
         "wpackagist-plugin/userpro-mediamanager": "<=3.12.0",
         "wpackagist-plugin/userpro-messaging": "<=4.10.0",
         "wpackagist-plugin/users-control": "<=1.0.16",
-        "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<= 2.6.2.0",
+        "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<= 2.7.5.0",
         "wpackagist-plugin/users-import-export-with-excel-for-wp": "<=1.5",
         "wpackagist-plugin/users-profile-picture": "<2.6.0",
         "wpackagist-plugin/users-to-csv": "<=1.4.5",
