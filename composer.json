@@ -2860,7 +2860,7 @@
         "wpackagist-plugin/content-restrictor-for-divi": ">=1.0.1,<=1.4.2",
         "wpackagist-plugin/content-security-policy-pro": "<=1.3.5",
         "wpackagist-plugin/content-slide": "<=1.4.2",
-        "wpackagist-plugin/content-slider-block": "<=3.1.5",
+        "wpackagist-plugin/content-slider-block": "<= 3.2.1.0",
         "wpackagist-plugin/content-slideshow": "<=2.4.1",
         "wpackagist-plugin/content-snippet-manager": "<=1.1.5",
         "wpackagist-plugin/content-staging": "<=2.0.1",
