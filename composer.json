@@ -384,7 +384,7 @@
         "wpackagist-plugin/admin-bookmarks": "<=0.1",
         "wpackagist-plugin/admin-chat-box": "<=3.1.1",
         "wpackagist-plugin/admin-cleanup": "<=1.0.2",
-        "wpackagist-plugin/admin-columns-for-acf-fields": "<=0.3.2",
+        "wpackagist-plugin/admin-columns-for-acf-fields": "< 0.3.3.1-dev",
         "wpackagist-plugin/admin-columns-pro": "<= 6.4.9.0",
         "wpackagist-plugin/admin-custom-login": "<= 3.6.4.0",
         "wpackagist-plugin/admin-dashboard-rss-feed": "<= 3.4.0.0",
