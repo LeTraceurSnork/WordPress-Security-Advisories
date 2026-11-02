@@ -2704,7 +2704,7 @@
         "wpackagist-plugin/comments-secretary": "<=1.3.2",
         "wpackagist-plugin/comments-with-hypercommentscom": "<=0.9.6",
         "wpackagist-plugin/commenttweets": "<=0.6",
-        "wpackagist-plugin/commerce-coinbase-for-woocommerce": "<= 1.6.6.0",
+        "wpackagist-plugin/commerce-coinbase-for-woocommerce": "< 2.0.0.0-dev",
         "wpackagist-plugin/commercial-real-estate-valuation-calculator": "<=1.3.2",
         "wpackagist-plugin/common-ninja": "<=1.1.0",
         "wpackagist-plugin/common-tools-for-site": "<=1.0.2",
