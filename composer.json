@@ -8910,7 +8910,7 @@
         "wpackagist-plugin/password-policy-manager": "<= 2.0.5.0",
         "wpackagist-plugin/password-protect-page": "<= 1.9.21.0",
         "wpackagist-plugin/password-protect-plugin-for-wordpress": "<=0.8.1.0",
-        "wpackagist-plugin/password-protected": "<= 2.8.3.0",
+        "wpackagist-plugin/password-protected": "<= 2.8.4.0",
         "wpackagist-plugin/password-protected-woo-store": "<=2.2",
         "wpackagist-plugin/password-requirements": "<=3.7.1",
         "wpackagist-plugin/passwordless-login": "<=1.1.2",
