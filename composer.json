@@ -9813,7 +9813,7 @@
         "wpackagist-plugin/q-and-a": "<=1.0.6.2",
         "wpackagist-plugin/q2w3-inc-manager": "<=2.5.3",
         "wpackagist-plugin/q2w3-post-order": "<=1.2.8",
-        "wpackagist-plugin/qa-heatmap-analytics": "<= 5.3.0.0",
+        "wpackagist-plugin/qa-heatmap-analytics": "<= 5.3.0.1",
         "wpackagist-plugin/qards": "*",
         "wpackagist-plugin/qc-simple-link-directory": "<= 15.0.5.0",
         "wpackagist-plugin/qe-seo-handyman": "<=1.0",
