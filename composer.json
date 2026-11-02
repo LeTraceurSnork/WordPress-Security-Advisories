@@ -1743,7 +1743,7 @@
         "wpackagist-plugin/bookify": "<= 1.1.1.0",
         "wpackagist-plugin/booking": "<= 11.8.4.0",
         "wpackagist-plugin/booking-activities": "<= 1.18.7.1",
-        "wpackagist-plugin/booking-and-rental-manager-for-woocommerce": "<= 2.7.7.0",
+        "wpackagist-plugin/booking-and-rental-manager-for-woocommerce": "<= 2.8.0.0",
         "wpackagist-plugin/booking-calendar": "<= 3.2.36.0",
         "wpackagist-plugin/booking-calendar-and-notification": "<=4.0.3",
         "wpackagist-plugin/booking-calendar-contact-form": "<= 1.2.63.0",
