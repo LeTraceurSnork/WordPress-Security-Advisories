@@ -9197,7 +9197,7 @@
         "wpackagist-plugin/pixel-cost-of-goods": "<=1.2.12",
         "wpackagist-plugin/pixel-formbuilder": "<= 1.0.3.0",
         "wpackagist-plugin/pixel-gallery": "<= 2.1.14.0",
-        "wpackagist-plugin/pixel-manager-for-woocommerce": "<2.2.1",
+        "wpackagist-plugin/pixel-manager-for-woocommerce": "<= 2.2.2.0",
         "wpackagist-plugin/pixelating-image-slideshow-gallery": "<=8.0",
         "wpackagist-plugin/pixelavo": "<1.5.4",
         "wpackagist-plugin/pixelbeds-channel-manager-booking-engine": "<=1.0",
