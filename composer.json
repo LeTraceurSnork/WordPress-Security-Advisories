@@ -3543,7 +3543,7 @@
         "wpackagist-plugin/designthemes-lms-addon": "<=2.6",
         "wpackagist-plugin/designthemes-portfolio": "<=1.3",
         "wpackagist-plugin/designthemes-portfolio-addon": "<=1.5",
-        "wpackagist-plugin/desktop-mode": "<=1.1.7",
+        "wpackagist-plugin/desktop-mode": "<= 1.1.16.0",
         "wpackagist-plugin/dethemekit-for-elementor": "<= 2.1.10.0",
         "wpackagist-plugin/devbuddy-twitter-feed": "<=4.0.0",
         "wpackagist-plugin/developer": "<=1.2.6",
