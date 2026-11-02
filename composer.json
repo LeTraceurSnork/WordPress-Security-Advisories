@@ -2200,7 +2200,7 @@
         "wpackagist-plugin/case-theme-user": "<1.0.4",
         "wpackagist-plugin/cashbill-payment-method": "<=3.2.1",
         "wpackagist-plugin/cashtomer": "<=1.0.0",
-        "wpackagist-plugin/casso-tu-dong-xac-nhan-thanh-toan-chuyen-khoan-ngan-hang": "<=2.8.6",
+        "wpackagist-plugin/casso-tu-dong-xac-nhan-thanh-toan-chuyen-khoan-ngan-hang": "< 4.2.0.0-dev",
         "wpackagist-plugin/catablog": "<=1.7.0",
         "wpackagist-plugin/catalog": "<=1.7.3",
         "wpackagist-plugin/catalog-mode-pricing-enquiry-forms-promotions": "<=1.2.2",
