@@ -11949,7 +11949,7 @@
         "wpackagist-plugin/stream": "<= 4.2.0.0",
         "wpackagist-plugin/stream-status-for-twitch": "<=2.1.9",
         "wpackagist-plugin/stream-video-player": "<=1.4.1",
-        "wpackagist-plugin/streamcast": "<= 2.4.5.0",
+        "wpackagist-plugin/streamcast": "<= 2.4.6.0",
         "wpackagist-plugin/streamtube-core": "<=4.78",
         "wpackagist-plugin/streamweasels-kick-integration": "<= 1.1.5.0",
         "wpackagist-plugin/streamweasels-twitch-integration": "<= 1.9.3.0",
