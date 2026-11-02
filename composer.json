@@ -13918,7 +13918,7 @@
         "wpackagist-plugin/woo-pdf-invoices-bulk-download": "<=1.0.0",
         "wpackagist-plugin/woo-pensopay": "<=6.3.1",
         "wpackagist-plugin/woo-permalink-manager": "<= 2.3.13.0",
-        "wpackagist-plugin/woo-photo-reviews": "<=1.2.30",
+        "wpackagist-plugin/woo-photo-reviews": "<= 1.2.31.0",
         "wpackagist-plugin/woo-point-of-sale": "<=6.1.0",
         "wpackagist-plugin/woo-point-of-salepos": "<=1.4",
         "wpackagist-plugin/woo-poly-integration": "<=1.5.0",
