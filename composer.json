@@ -6241,6 +6241,7 @@
         "wpackagist-plugin/igniteup": "<= 3.4.1.0",
         "wpackagist-plugin/ignitiondeck": "<= 2.0.10.0",
         "wpackagist-plugin/igumbi-online-booking": "<=1.40",
+        "wpackagist-plugin/ikhokha-payment-gateway": "<=3.0.3",
         "wpackagist-plugin/iksweb": "<=3.7",
         "wpackagist-plugin/ilab-media-tools": "<=4.5.24",
         "wpackagist-plugin/ilc-thickbox": "<=1.0",
