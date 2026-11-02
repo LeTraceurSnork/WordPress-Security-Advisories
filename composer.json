@@ -12370,7 +12370,7 @@
         "wpackagist-plugin/the-events-calendar": "<= 6.17.5.0",
         "wpackagist-plugin/the-events-calendar-eventbrite-tickets": "<3.10.2",
         "wpackagist-plugin/the-events-calendar-shortcode": "<= 3.1.2.0",
-        "wpackagist-plugin/the-grid": "<2.8.0",
+        "wpackagist-plugin/the-grid": "<= 2.8.0.0",
         "wpackagist-plugin/the-guardian-news-feed": "<=1.2",
         "wpackagist-plugin/the-hackers-diet": "<=0.9.6b",
         "wpackagist-plugin/the-holiday-calendar": "<= 1.18.2.1",
