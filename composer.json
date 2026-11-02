@@ -65,7 +65,7 @@
         "wpackagist-plugin/3d-avatar-user-profile": "<=1.0.0",
         "wpackagist-plugin/3d-cover-carousel": "<=1.0",
         "wpackagist-plugin/3d-flipbook-dflip-lite": "<= 2.4.30.0",
-        "wpackagist-plugin/3d-image-gallery": "<=1.0.7",
+        "wpackagist-plugin/3d-image-gallery": "<= 2.4.1.0",
         "wpackagist-plugin/3d-photo-gallery": "<=1.3",
         "wpackagist-plugin/3d-presentation": "<=1.0",
         "wpackagist-plugin/3d-viewer": "<= 1.8.5.0",
