@@ -15346,7 +15346,7 @@
         "wpackagist-plugin/wp-s3": "<=1.5",
         "wpackagist-plugin/wp-s3-smart-upload": "<=1.5.0",
         "wpackagist-plugin/wp-safe-search": "<=0.7",
-        "wpackagist-plugin/wp-scheduled-posts": "<= 5.1.3.0",
+        "wpackagist-plugin/wp-scheduled-posts": "< 5.3.5.0-dev",
         "wpackagist-plugin/wp-schema-pro": "<= 2.7.15.0",
         "wpackagist-plugin/wp-scraper": "<= 5.8.1.0",
         "wpackagist-plugin/wp-scribd-list": "<=1.2",
