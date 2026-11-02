@@ -2021,7 +2021,7 @@
         "wpackagist-plugin/business-profile-reviews": ">=1.0,<=1.0.2",
         "wpackagist-plugin/business-reviews-wp": "<=1.0.15",
         "wpackagist-plugin/button": "<= 1.1.27.0",
-        "wpackagist-plugin/button-block": "<= 1.2.0.0",
+        "wpackagist-plugin/button-block": "<= 1.2.7.0",
         "wpackagist-plugin/button-contact-vr": "<= 4.7.9.1",
         "wpackagist-plugin/button-generation": "<= 3.1.1.0",
         "wpackagist-plugin/buttoner-elementor": "<=1.0.6",
