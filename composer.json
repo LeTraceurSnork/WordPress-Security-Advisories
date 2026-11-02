@@ -15611,7 +15611,7 @@
         "wpackagist-plugin/wp-user-avatar": "<= 4.17.5.0",
         "wpackagist-plugin/wp-user-control": "<=1.5.3",
         "wpackagist-plugin/wp-user-extra-fields": "<= 17.0.0.0",
-        "wpackagist-plugin/wp-user-frontend": "<= 4.3.12.0",
+        "wpackagist-plugin/wp-user-frontend": "<= 4.3.13.0",
         "wpackagist-plugin/wp-user-frontend-pro": "<= 4.2.13.0",
         "wpackagist-plugin/wp-user-groups": "<=2.1.0",
         "wpackagist-plugin/wp-user-manager": "<= 2.9.23.0",
