@@ -2962,7 +2962,7 @@
         "wpackagist-plugin/copy-menu": "<=1.0",
         "wpackagist-plugin/copy-move-posts": "<=1.6",
         "wpackagist-plugin/copy-or-move-comments": "<=5.0.4",
-        "wpackagist-plugin/copy-the-code": "<= 4.0.3.0",
+        "wpackagist-plugin/copy-the-code": "< 5.5.5.0-dev",
         "wpackagist-plugin/copymatic": "<= 2.1.0.0",
         "wpackagist-plugin/copypress-rest-api": ">=1.1,<=1.2",
         "wpackagist-plugin/copyright-safeguard-footer-notice": "<=3.0",
