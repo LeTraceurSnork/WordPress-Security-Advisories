@@ -13804,6 +13804,7 @@
         "wpackagist-plugin/woo-advanced-shipment-tracking": "<= 4.0.0.0",
         "wpackagist-plugin/woo-alidropship": "<= 2.2.4.0",
         "wpackagist-plugin/woo-aliexpress-dropshipping": "<=2.1.1",
+        "wpackagist-plugin/woo-alpha-bank-payment-gateway": "<=2.2.0",
         "wpackagist-plugin/woo-altcoin-payment-gateway": "<= 1.7.6.0",
         "wpackagist-plugin/woo-audio-preview": "<1.4.0",
         "wpackagist-plugin/woo-authorize-net-gateway-aim": ">=5.0.0,<=6.0.3",
