@@ -13909,6 +13909,7 @@
         "wpackagist-plugin/woo-parcel-pro": "<=1.8.4",
         "wpackagist-plugin/woo-payment-bkash": "<=3.1.0",
         "wpackagist-plugin/woo-payment-gateway": "<=3.2.78",
+        "wpackagist-plugin/woo-payment-gateway-for-eurobank": "<=2.1.1",
         "wpackagist-plugin/woo-payment-gateway-for-piraeus-bank": "<= 3.1.4.0 || 3.2.0",
         "wpackagist-plugin/woo-payment-gateway-officeguy": "<=3.0.0",
         "wpackagist-plugin/woo-payment-gateway-paysera": "<= 3.10.0.0",
