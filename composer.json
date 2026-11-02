@@ -5162,7 +5162,7 @@
         "wpackagist-plugin/formforall": "<=1.2",
         "wpackagist-plugin/formgent": "<= 1.12.2.0",
         "wpackagist-plugin/formget-contact-form": "<= 5.5.5.0",
-        "wpackagist-plugin/formidable": "<= 6.34.0.0",
+        "wpackagist-plugin/formidable": "<= 6.35.0.0",
         "wpackagist-plugin/formidable-charts": "<=2.0.1",
         "wpackagist-plugin/formidable-kinetic": "<=1.1.01",
         "wpackagist-plugin/formidable-registration": "<=2.11",
