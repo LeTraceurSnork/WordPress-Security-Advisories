@@ -13461,6 +13461,7 @@
         "wpackagist-plugin/wc-order-limit-lite": "<= 3.0.2.0",
         "wpackagist-plugin/wc-pagaleve": "<=1.6.9",
         "wpackagist-plugin/wc-partial-shipment": "<= 3.4.0.0",
+        "wpackagist-plugin/wc-payconiq": "<=1.0.4",
         "wpackagist-plugin/wc-payment-gateway-per-category": "<=2.0.10",
         "wpackagist-plugin/wc-paypay-gateway": ">=0.5,<=0.9.3",
         "wpackagist-plugin/wc-payphone-gateway": "<=3.2.0",
