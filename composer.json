@@ -8095,7 +8095,7 @@
         "wpackagist-plugin/mp-timetable": "<= 2.4.16.0",
         "wpackagist-plugin/mp-ukagaka": "<=1.5.2",
         "wpackagist-plugin/mp3-jplayer": "<=2.7.3",
-        "wpackagist-plugin/mp3-music-player-by-sonaar": "<= 5.14.2.0",
+        "wpackagist-plugin/mp3-music-player-by-sonaar": "<= 5.15.0.0",
         "wpackagist-plugin/mpcx-lightbox": ">=1.2.2,<=1.2.5",
         "wpackagist-plugin/mpl-publisher": "<= 2.18.0.0",
         "wpackagist-plugin/mpoperationlogs": "<=1.0.1",
