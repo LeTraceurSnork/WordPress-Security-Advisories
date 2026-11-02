@@ -7118,7 +7118,7 @@
         "wpackagist-plugin/library-viewer": "< 3.2.0.0-dev",
         "wpackagist-plugin/libreform": "<=2.0.8",
         "wpackagist-plugin/libro-de-reclamaciones": "<=1.0.1",
-        "wpackagist-plugin/libro-de-reclamaciones-y-quejas": "<=0.9",
+        "wpackagist-plugin/libro-de-reclamaciones-y-quejas": "<= 1.2.0.0",
         "wpackagist-plugin/libsyn-podcasting": "<=1.4.4",
         "wpackagist-plugin/license-envato": "<=1.0.0",
         "wpackagist-plugin/license-manager-for-woocommerce": "<= 3.0.18.0",
