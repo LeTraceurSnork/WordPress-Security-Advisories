@@ -15373,7 +15373,7 @@
         "wpackagist-plugin/wp-seo-structured-data-schema": "<= 2.8.1.0",
         "wpackagist-plugin/wp-seo-tags": "<=2.2.7",
         "wpackagist-plugin/wp-seo-tdk": "<=2.1.2",
-        "wpackagist-plugin/wp-seopress": "<= 10.2.0.0",
+        "wpackagist-plugin/wp-seopress": "<= 10.3.0.0",
         "wpackagist-plugin/wp-seopress-pro": "<=9.1.1",
         "wpackagist-plugin/wp-server-log-viewer": "<=1.0",
         "wpackagist-plugin/wp-server-stats": "1.7.6 || <=1.7.3",
