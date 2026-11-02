@@ -14096,7 +14096,7 @@
         "wpackagist-plugin/woocommerce-lottery": "<=2.2.9",
         "wpackagist-plugin/woocommerce-loyal-customer": "<=2.6",
         "wpackagist-plugin/woocommerce-maintenance-mode": "<=2.0.1",
-        "wpackagist-plugin/woocommerce-menu-bar-cart": "<=2.11.0",
+        "wpackagist-plugin/woocommerce-menu-bar-cart": "< 3.2.1.0-dev",
         "wpackagist-plugin/woocommerce-menu-extension": "<=1.6.2",
         "wpackagist-plugin/woocommerce-mercadopago": "<= 8.9.0.0",
         "wpackagist-plugin/woocommerce-mis-report": "<=4.0.3",
