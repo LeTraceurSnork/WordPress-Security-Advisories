@@ -885,7 +885,7 @@
         "wpackagist-plugin/analytics-cat": "<= 1.1.2.0",
         "wpackagist-plugin/analytics-counter": "<3.5.0",
         "wpackagist-plugin/analytics-for-wp": "<=1.5.1",
-        "wpackagist-plugin/analytics-insights": "<=6.2",
+        "wpackagist-plugin/analytics-insights": "<= 6.3.12.0",
         "wpackagist-plugin/analytics-tracker": "<=1.1.0",
         "wpackagist-plugin/analytics-unbounce": "<=2.3",
         "wpackagist-plugin/analyticswp": "<= 2.1.2.0",
