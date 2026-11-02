@@ -12478,7 +12478,7 @@
         "wpackagist-plugin/threewp-email-reflector": "<1.16",
         "wpackagist-plugin/thrive-ab-page-testing": "<1.4.13.3",
         "wpackagist-plugin/thrive-apprentice": "< 10.8.10.2-dev",
-        "wpackagist-plugin/thrive-automator": "<=1.17",
+        "wpackagist-plugin/thrive-automator": "< 11.2.0.0-dev",
         "wpackagist-plugin/thrive-clever-widgets": "<1.57.1",
         "wpackagist-plugin/thrive-comments": "<1.4.15.3",
         "wpackagist-plugin/thrive-dashboard": "<2.3.9.3",
