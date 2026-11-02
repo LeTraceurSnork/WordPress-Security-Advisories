@@ -10808,7 +10808,7 @@
         "wpackagist-plugin/sepa-girocode": "<=0.5.1",
         "wpackagist-plugin/sepay-gateway": "<=1.1.20",
         "wpackagist-plugin/sequel": "<=1.0.11",
-        "wpackagist-plugin/sequential-order-numbers-for-woocommerce": "<= 3.6.2.0",
+        "wpackagist-plugin/sequential-order-numbers-for-woocommerce": "<= 3.6.5.0",
         "wpackagist-plugin/seraphinite-accelerator": "<= 2.29.23.0",
         "wpackagist-plugin/seraphinite-accelerator-ext": "<=2.21.13",
         "wpackagist-plugin/seraphinite-discount-for-woocommerce": "<=2.4.6",
