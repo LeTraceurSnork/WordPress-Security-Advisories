@@ -3419,7 +3419,7 @@
         "wpackagist-plugin/database-backup": "<= 2.36.0.0",
         "wpackagist-plugin/database-backups": "<=1.2.2.6",
         "wpackagist-plugin/database-browser": "<=1.4.4",
-        "wpackagist-plugin/database-cleaner": "<= 1.0.5.0",
+        "wpackagist-plugin/database-cleaner": "<= 1.4.7.0",
         "wpackagist-plugin/database-collation-fix": "<= 1.2.10.0",
         "wpackagist-plugin/database-for-cf7": "<= 1.2.6.0",
         "wpackagist-plugin/database-for-wpforms": "<1.1.1",
