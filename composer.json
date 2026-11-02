@@ -10852,7 +10852,7 @@
         "wpackagist-plugin/sf-booking": "<= 6.2.0.0",
         "wpackagist-plugin/sfwd-lms": "<= 5.1.6.0",
         "wpackagist-plugin/sg-ai-studio": "<=1.2.7",
-        "wpackagist-plugin/sg-cachepress": "<= 7.8.0.0",
+        "wpackagist-plugin/sg-cachepress": "< 7.8.5.0-dev",
         "wpackagist-plugin/sg-helper": "1.0",
         "wpackagist-plugin/sg-security": "<= 1.6.6.0",
         "wpackagist-plugin/sh-contextual-help": "<=3.2.1",
