@@ -7512,7 +7512,7 @@
         "wpackagist-plugin/mailjet-for-wordpress": "<= 6.2.3.0",
         "wpackagist-plugin/mailmunch": "<= 3.3.0.0",
         "wpackagist-plugin/mailoptin": "<= 1.2.78.6",
-        "wpackagist-plugin/mailpoet": "<= 5.5.1.0 || >=5.30.0,<=5.33.0",
+        "wpackagist-plugin/mailpoet": "< 5.14.2.0-dev || >= 5.30.0.0-dev <= 5.33.0.0",
         "wpackagist-plugin/mailpress": "<=7.2.1",
         "wpackagist-plugin/mailrelay": "<=2.1.1",
         "wpackagist-plugin/mailster": "<= 4.1.17.0",
