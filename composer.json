@@ -1672,7 +1672,7 @@
         "wpackagist-plugin/blogintroduction-wordpress-plugin": "<=0.3.0",
         "wpackagist-plugin/bloglentor-for-elementor": "<=1.0.9",
         "wpackagist-plugin/blogmentor": "<=1.5",
-        "wpackagist-plugin/blogroll-fun": "<=0.8.4",
+        "wpackagist-plugin/blogroll-fun": "< 0.8.5.0-dev",
         "wpackagist-plugin/blogstand-smart-banner": "<=1.0",
         "wpackagist-plugin/blogtopdf": "<=1.0.2",
         "wpackagist-plugin/blogvault-real-time-backup": "< 6.65.0.0-dev",
