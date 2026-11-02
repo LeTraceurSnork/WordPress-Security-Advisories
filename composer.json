@@ -5726,6 +5726,7 @@
         "wpackagist-plugin/goqsmile": "<=1.0.1",
         "wpackagist-plugin/goracash": "<=1.1",
         "wpackagist-plugin/gosign-posts-slider-block": "<=1.1.0",
+        "wpackagist-plugin/gosmtp": "<1.2.5",
         "wpackagist-plugin/gosmtp-pro": "<=1.2.3",
         "wpackagist-plugin/gostats-for-wordpress": "<=1.4",
         "wpackagist-plugin/gotcha-gesture-based-captcha": "<=1.0.0",
