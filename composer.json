@@ -9341,7 +9341,7 @@
         "wpackagist-plugin/popup-image": "<=1.0.1",
         "wpackagist-plugin/popup-images": "*",
         "wpackagist-plugin/popup-maker": "<= 1.24.0.0",
-        "wpackagist-plugin/popup-maker-wp": "<= 1.4.5.0",
+        "wpackagist-plugin/popup-maker-wp": "< 1.4.6.0-dev",
         "wpackagist-plugin/popup-manager": "<=1.6.6",
         "wpackagist-plugin/popup-modal-for-youtube": "*",
         "wpackagist-plugin/popup-more": "<= 2.3.2.0",
