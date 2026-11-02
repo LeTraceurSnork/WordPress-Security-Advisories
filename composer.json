@@ -660,6 +660,7 @@
         "wpackagist-plugin/ai-image-alt-text-generator-for-wp": "<= 1.1.9.0",
         "wpackagist-plugin/ai-image-generator": ">=1.0.0,<=1.0.3",
         "wpackagist-plugin/ai-image-generator-lab": "<=1.0.6",
+        "wpackagist-plugin/ai-marketing-expert": "<=1.2.8",
         "wpackagist-plugin/ai-mortgage-calculator": "<=1.0.1",
         "wpackagist-plugin/ai-post-generator": "<= 3.5.0.0",
         "wpackagist-plugin/ai-postpix": "<=1.1.8",
