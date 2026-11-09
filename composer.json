@@ -16138,7 +16138,7 @@
         "wpackagist-plugin/yaycurrency": "< 3.3.5.0-dev",
         "wpackagist-plugin/yayextra": "<= 1.5.5.0",
         "wpackagist-plugin/yayforms": "<=1.2.1",
-        "wpackagist-plugin/yaymail": "<= 4.3.3.0",
+        "wpackagist-plugin/yaymail": "<= 4.4.6.0",
         "wpackagist-plugin/yaypricing": "< 3.5.7.0-dev",
         "wpackagist-plugin/yaysmtp": "<= 2.7.7.0",
         "wpackagist-plugin/ycontributors": "<=0.5",
