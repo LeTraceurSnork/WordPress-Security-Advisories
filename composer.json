@@ -8069,7 +8069,7 @@
         "wpackagist-plugin/moka-get-posts": "<=1.0",
         "wpackagist-plugin/molie-instructure-canvas-linking-tool": "<=0.5",
         "wpackagist-plugin/mollie-forms": "<= 2.11.0.0",
-        "wpackagist-plugin/mollie-payments-for-woocommerce": "<= 8.1.1.0",
+        "wpackagist-plugin/mollie-payments-for-woocommerce": "< 8.2.0.0-dev",
         "wpackagist-plugin/molongui-authorship": "<= 5.2.12.0",
         "wpackagist-plugin/moloni": "<= 5.0.13.0",
         "wpackagist-plugin/momo-venmo": "<=4.1",
