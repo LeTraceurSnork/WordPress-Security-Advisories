@@ -6025,6 +6025,7 @@
         "wpackagist-plugin/hide-my-site": "<=2.2",
         "wpackagist-plugin/hide-my-wp": "<= 7.0.12.0",
         "wpackagist-plugin/hide-plugins": "<=1.0.4",
+        "wpackagist-plugin/hide-price-until-login": "<=1.1.1",
         "wpackagist-plugin/hide-real-download-path": "<=1.6",
         "wpackagist-plugin/hide-shipping-method-for-woocommerce": "<= 1.5.4.0",
         "wpackagist-plugin/hide-text-shortcode": "<=1.1",
