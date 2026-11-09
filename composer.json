@@ -1845,7 +1845,7 @@
         "wpackagist-plugin/bp-toolkit": "<= 3.6.4.0",
         "wpackagist-plugin/bp-user-profile-reviews": "<2.7.0",
         "wpackagist-plugin/bp-user-to-do-list": "<3.0.0",
-        "wpackagist-plugin/bp-xprofile-custom-field-types": "<=1.2.8",
+        "wpackagist-plugin/bp-xprofile-custom-field-types": "<= 1.3.1.0",
         "wpackagist-plugin/bpcustomerio": "<=1.1.6",
         "wpackagist-plugin/bpmnio": "<=1.0",
         "wpackagist-plugin/bpost-shipping-platform": "<=3.2.2",
