@@ -8375,7 +8375,7 @@
         "wpackagist-plugin/neon-text": "<=1.1",
         "wpackagist-plugin/neos-connector-for-fakturama": "<=0.0.14",
         "wpackagist-plugin/nepali-date-converter": "<=2.0.8",
-        "wpackagist-plugin/nepali-date-utilities": "<=1.0.13",
+        "wpackagist-plugin/nepali-date-utilities": "<= 1.0.16.0",
         "wpackagist-plugin/nepali-post-date": "<=5.1.1",
         "wpackagist-plugin/nertworks-all-in-one-social-share-tools": "<=1.26",
         "wpackagist-plugin/neshan-maps": "<=1.1.4",
