@@ -13116,6 +13116,7 @@
         "wpackagist-plugin/usb-qr-code-scanner-for-woocommerce": "<=1.0.0",
         "wpackagist-plugin/usc-e-shop": "< 2.12.6.0-dev",
         "wpackagist-plugin/use-any-font": "<= 6.3.08.0",
+        "wpackagist-plugin/use-bunnyfont-host-google-fonts": "<=1.7",
         "wpackagist-plugin/use-memcached": "<=1.0.5",
         "wpackagist-plugin/use-your-drive": "<= 3.8.3.0",
         "wpackagist-plugin/useful-banner-manager": "<=1.6.1",
