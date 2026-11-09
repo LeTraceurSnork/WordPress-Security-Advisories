@@ -11396,7 +11396,7 @@
         "wpackagist-plugin/site-notify": "<=1.0",
         "wpackagist-plugin/site-offline": "<= 1.5.7.0",
         "wpackagist-plugin/site-pin": "<=1.3",
-        "wpackagist-plugin/site-reviews": "<= 8.3.4.0",
+        "wpackagist-plugin/site-reviews": "<= 8.3.5.0",
         "wpackagist-plugin/site-search-360": "<=2.1.7",
         "wpackagist-plugin/site-setup-wizard": "<=1.5.8",
         "wpackagist-plugin/site-suggest": "<=1.3.9",
