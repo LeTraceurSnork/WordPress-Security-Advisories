@@ -13983,6 +13983,7 @@
         "wpackagist-plugin/woo-payment-gateway-paysera": "<= 3.10.0.0",
         "wpackagist-plugin/woo-paypal-gateway": "< 9.2.1.0-dev",
         "wpackagist-plugin/woo-payrexx-gateway": "<=3.1.5",
+        "wpackagist-plugin/woo-paystack": "<=5.8.5",
         "wpackagist-plugin/woo-pdf-invoice-builder": "<= 2.0.11.0",
         "wpackagist-plugin/woo-pdf-invoices-bulk-download": "<=1.0.0",
         "wpackagist-plugin/woo-pensopay": "<=6.3.1",
