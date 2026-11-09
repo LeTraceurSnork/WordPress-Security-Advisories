@@ -8994,6 +8994,7 @@
         "wpackagist-plugin/payment-integration-wompi": "<=4.0.1",
         "wpackagist-plugin/payment-page": "<=1.4.6",
         "wpackagist-plugin/payment-qr-woo": "<=1.1.6",
+        "wpackagist-plugin/paymentfor-gateway-for-woocommerce": "<1.0.6",
         "wpackagist-plugin/payments-hubtel": "<=1.0.1",
         "wpackagist-plugin/payments-stripe-gateway": "<=1.2.1",
         "wpackagist-plugin/paymob-for-woocommerce": "<= 4.1.13.0",
