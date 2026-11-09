@@ -7826,7 +7826,7 @@
         "wpackagist-plugin/member-database": "<=1.0",
         "wpackagist-plugin/member-hero": "<=1.0.9",
         "wpackagist-plugin/memberdash": "<=1.8.5",
-        "wpackagist-plugin/memberfindme": "<=6.14",
+        "wpackagist-plugin/memberfindme": "<= 6.16.0.0",
         "wpackagist-plugin/memberful-wp": "<= 1.81.2.0",
         "wpackagist-plugin/memberglut": "<=1.1.4",
         "wpackagist-plugin/memberlite-shortcodes": "<= 1.4.1.0",
