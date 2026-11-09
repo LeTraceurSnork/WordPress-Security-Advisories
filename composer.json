@@ -12015,7 +12015,7 @@
         "wpackagist-plugin/stripe-manager": "<=1.4",
         "wpackagist-plugin/stripe-payments": "< 2.1.4.0-dev",
         "wpackagist-plugin/stripshow": "<=2.5.2",
-        "wpackagist-plugin/strong-testimonials": "<= 3.3.14.0",
+        "wpackagist-plugin/strong-testimonials": "<= 3.3.16.0",
         "wpackagist-plugin/structured-content": "<= 1.7.0.0",
         "wpackagist-plugin/struktur-core": "<=2.5.1",
         "wpackagist-plugin/strx-magic-floating-sidebar-maker": "<=1.4.1",
