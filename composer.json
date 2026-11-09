@@ -2454,7 +2454,7 @@
         "wpackagist-plugin/christmasify": "<=1.5.5",
         "wpackagist-plugin/chronoforms": "<=7.0.9",
         "wpackagist-plugin/chronosly-events-calendar": "<=2.6.2",
-        "wpackagist-plugin/church-admin": "<= 5.1.2.0",
+        "wpackagist-plugin/church-admin": "<= 5.1.7.0",
         "wpackagist-plugin/church-management": "<=2.7.0",
         "wpackagist-plugin/church-theme-content": "<=2.6",
         "wpackagist-plugin/ci-hub-connector": "<=1.2.106",
