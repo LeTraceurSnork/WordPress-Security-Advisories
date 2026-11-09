@@ -9433,7 +9433,7 @@
         "wpackagist-plugin/post-connector": "<= 1.0.11.0",
         "wpackagist-plugin/post-content-xmlrpc": "<=1.0",
         "wpackagist-plugin/post-custom-templates-lite": "<=1.14",
-        "wpackagist-plugin/post-duplicator": "< 3.0.15.0-dev",
+        "wpackagist-plugin/post-duplicator": "< 3.0.17.0-dev",
         "wpackagist-plugin/post-expirator": "<= 4.10.0.0 || >=4.10.1,<=4.10.5",
         "wpackagist-plugin/post-export-import-with-media": "<= 1.17.2.0",
         "wpackagist-plugin/post-featured-video": "<=1.7",
