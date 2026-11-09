@@ -2945,7 +2945,7 @@
         "wpackagist-plugin/cookie-consent-box": "<=1.1.6",
         "wpackagist-plugin/cookie-consent-for-developers": "<=1.7.1",
         "wpackagist-plugin/cookie-law-bar": "<=1.2.1",
-        "wpackagist-plugin/cookie-law-info": "<1.8.3",
+        "wpackagist-plugin/cookie-law-info": "< 3.5.8.0-dev",
         "wpackagist-plugin/cookie-monster": "<=1.2.2",
         "wpackagist-plugin/cookie-notice": "<= 2.5.8.0",
         "wpackagist-plugin/cookie-notice-and-consent-banner": "<= 1.7.11.0",
