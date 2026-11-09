@@ -15686,7 +15686,7 @@
         "wpackagist-plugin/wp-user-frontend": "<= 4.3.13.0",
         "wpackagist-plugin/wp-user-frontend-pro": "<= 4.2.13.0",
         "wpackagist-plugin/wp-user-groups": "<=2.1.0",
-        "wpackagist-plugin/wp-user-manager": "<= 2.9.25.0",
+        "wpackagist-plugin/wp-user-manager": "<= 2.10.2.0",
         "wpackagist-plugin/wp-user-merger": "<=1.5.2",
         "wpackagist-plugin/wp-user-profile-avatar": "<= 1.0.6.0",
         "wpackagist-plugin/wp-user-profiles": "<= 2.7.3.0",
