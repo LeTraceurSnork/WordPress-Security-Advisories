@@ -3872,7 +3872,7 @@
         "wpackagist-plugin/dsp_dating": "<= 7.4.1.0",
         "wpackagist-plugin/dssearchagent-wordpress-edition": "<1.0-beta10",
         "wpackagist-plugin/dsubscribers": "<1.2.1",
-        "wpackagist-plugin/dt-lms-lite": "<=1.1",
+        "wpackagist-plugin/dt-lms-lite": "<= 1.2.0.0",
         "wpackagist-plugin/dt-reservation-plugin": "<= 1.7.0.0",
         "wpackagist-plugin/dt-the7-core": "<2.7.12",
         "wpackagist-plugin/dtabs": "<=1.4",
