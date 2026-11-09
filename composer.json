@@ -14036,6 +14036,7 @@
         "wpackagist-plugin/woo-reviews-by-wiremo": "<= 1.4.99.0",
         "wpackagist-plugin/woo-reviews-manager": "<=1.5.6",
         "wpackagist-plugin/woo-rfq-for-woocommerce": "<= 2.4.15.0",
+        "wpackagist-plugin/woo-sadad-payment-gateway": "<=1.28",
         "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "<=1.7.5",
         "wpackagist-plugin/woo-save-abandoned-carts": "<=8.2",
         "wpackagist-plugin/woo-shipping-display-mode": ">=3.4,<=3.7.6",
