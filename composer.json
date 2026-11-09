@@ -3925,6 +3925,7 @@
         "wpackagist-plugin/dynamic-post": "<= 5.03.0.0",
         "wpackagist-plugin/dynamic-post-grid-elementor-addon": "<=1.0.6",
         "wpackagist-plugin/dynamic-product-categories-design": "<=1.1.3",
+        "wpackagist-plugin/dynamic-qr-code": "<=1.0.1",
         "wpackagist-plugin/dynamic-qr-code-generator": "<=0.0.5",
         "wpackagist-plugin/dynamic-text-field-for-contact-form-7": "<=1.0",
         "wpackagist-plugin/dynamic-to-top": "3.5.2",
