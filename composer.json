@@ -1878,7 +1878,7 @@
         "wpackagist-plugin/breeze-checkout": "<=1.4.0",
         "wpackagist-plugin/breezing-forms": "<= 1.2.8.11",
         "wpackagist-plugin/bricksable": "<= 1.6.83.0",
-        "wpackagist-plugin/bricksbuilder": "<=1.9.8",
+        "wpackagist-plugin/bricksbuilder": "<= 2.4.3.0",
         "wpackagist-plugin/brickscore": "<=1.4.2.5",
         "wpackagist-plugin/bricksforge": "<= 3.1.8.9",
         "wpackagist-plugin/brid-video-easy-publish": "<= 3.8.8.0",
