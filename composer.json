@@ -10746,7 +10746,7 @@
         "wpackagist-plugin/security-antivirus-firewall": "<=2.3.5",
         "wpackagist-plugin/security-force": "<=1.1.6",
         "wpackagist-plugin/security-hardener": "<=2.4.4",
-        "wpackagist-plugin/security-malware-firewall": "<= 2.184.0.0",
+        "wpackagist-plugin/security-malware-firewall": "<= 2.190.0.0",
         "wpackagist-plugin/security-ninja": ">=5.50,<=5.158 || >=5.201,<=5.242",
         "wpackagist-plugin/security-ninja-premium": "<=5.289",
         "wpackagist-plugin/seed-fonts": "2.3.1",
