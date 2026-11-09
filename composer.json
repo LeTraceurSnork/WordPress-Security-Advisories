@@ -3654,6 +3654,7 @@
         "wpackagist-plugin/disable-dashboard-for-woocommerce": ">=3.0.0,<=3.2.8",
         "wpackagist-plugin/disable-elementor-editor-translation": "<=1.0.2",
         "wpackagist-plugin/disable-image-right-click": "*",
+        "wpackagist-plugin/disable-payment-method-for-woocommerce": "<1.1.10.9",
         "wpackagist-plugin/disable-remove-google-fonts": "<=2.0.2",
         "wpackagist-plugin/disable-right-click-for-wp": "<=1.1.6",
         "wpackagist-plugin/disable-right-click-powered-by-pixterme": "<=1.2",
