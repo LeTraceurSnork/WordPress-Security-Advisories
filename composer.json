@@ -13905,7 +13905,7 @@
         "wpackagist-plugin/woo-coming-soon-product": "<=5.0",
         "wpackagist-plugin/woo-commerce-min-weight": "<=3.0.1",
         "wpackagist-plugin/woo-conditional-discount-rules-for-checkout": "<= 2.4.0.0",
-        "wpackagist-plugin/woo-conditional-product-fees-for-checkout": "<= 4.3.3.0",
+        "wpackagist-plugin/woo-conditional-product-fees-for-checkout": "<= 4.4.0.0",
         "wpackagist-plugin/woo-confirmation-email": "<=3.5.0",
         "wpackagist-plugin/woo-country-restrictions-advanced": ">=1.0.0,<=1.14.0",
         "wpackagist-plugin/woo-coupon-usage": "<= 7.8.1.0",
