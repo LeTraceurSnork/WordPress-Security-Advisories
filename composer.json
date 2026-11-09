@@ -6696,6 +6696,7 @@
         "wpackagist-plugin/jet-form-builder-stripe-gateway": "<=1.0.0",
         "wpackagist-plugin/jet-menu": "<= 3.0.5.0",
         "wpackagist-plugin/jet-popup": "<= 2.0.20.2",
+        "wpackagist-plugin/jet-product-tables": "<=1.2.4",
         "wpackagist-plugin/jet-reviews": "<= 3.1.2.0",
         "wpackagist-plugin/jet-search": "<= 3.6.3.0",
         "wpackagist-plugin/jet-skinner-for-buddypress": "<=1.2.5",
