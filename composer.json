@@ -15005,6 +15005,7 @@
         "wpackagist-plugin/wp-image-zoooom": "<= 1.46.0.0",
         "wpackagist-plugin/wp-imageflow2": "<= 5.2.5.0",
         "wpackagist-plugin/wp-images-upload-on-piclect": "<=1.0",
+        "wpackagist-plugin/wp-imageviewer": "<=3.0.2",
         "wpackagist-plugin/wp-imagezoom": "<=1.1.0",
         "wpackagist-plugin/wp-imap-authentication": "<=4.0.1",
         "wpackagist-plugin/wp-import-export-lite": "<= 3.9.34.0",
