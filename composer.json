@@ -15143,6 +15143,7 @@
         "wpackagist-plugin/wp-media-file-type-manager": "<=2.3.0",
         "wpackagist-plugin/wp-media-folder": "<= 6.2.2.0",
         "wpackagist-plugin/wp-media-folder-addon": "<= 4.1.6.0",
+        "wpackagist-plugin/wp-media-folders": "<=1.1.10",
         "wpackagist-plugin/wp-media-library-categories": "<=2.0.0",
         "wpackagist-plugin/wp-media-optimizer-webp": "<=1.4.0",
         "wpackagist-plugin/wp-media-player": "<=0.8",
