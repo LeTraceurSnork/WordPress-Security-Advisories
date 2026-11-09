@@ -9152,7 +9152,7 @@
         "wpackagist-plugin/pgs-core": "<= 5.9.0.0",
         "wpackagist-plugin/phastpress": "<= 3.10.0.0",
         "wpackagist-plugin/philantro": "<= 5.3.0.0",
-        "wpackagist-plugin/phoenix-media-rename": "<=3.4.2",
+        "wpackagist-plugin/phoenix-media-rename": "<= 3.13.5.0",
         "wpackagist-plugin/phone-orders-for-woocommerce": "<=3.7.1",
         "wpackagist-plugin/phonepe-payment-solutions": "<= 3.0.0.0",
         "wpackagist-plugin/phonetrack-meu-site-manager": "<=0.1",
