@@ -13323,7 +13323,7 @@
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
         "wpackagist-plugin/videospirecore": "<=1.0.6",
         "wpackagist-plugin/videowall": "*",
-        "wpackagist-plugin/videowhisper-live-streaming-integration": "<= 7.3.7.0",
+        "wpackagist-plugin/videowhisper-live-streaming-integration": "<= 7.3.9.0",
         "wpackagist-plugin/videowhisper-site-manager": "<=1.2.10",
         "wpackagist-plugin/videowhisper-video-conference-integration": "<=4.91.8",
         "wpackagist-plugin/videowhisper-video-presentation": "<= 4.1.4.0",
