@@ -3080,6 +3080,7 @@
         "wpackagist-plugin/crayon-syntax-highlighter": "<=2.8.4",
         "wpackagist-plugin/crazy-bone": "<=0.6.0",
         "wpackagist-plugin/crazy-call-to-action-box": "<=1.05",
+        "wpackagist-plugin/creame-whatsapp-me": ">=6.3.2,<=6.4.1",
         "wpackagist-plugin/create-block-theme": "<= 2.9.0.0",
         "wpackagist-plugin/create-custom-dashboard-widget": "<=1.0.0",
         "wpackagist-plugin/create-db-tables": "<=1.2.1",
