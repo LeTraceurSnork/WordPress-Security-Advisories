@@ -4795,7 +4795,7 @@
         "wpackagist-plugin/fast-search-powered-by-solr": "<=1.0.2",
         "wpackagist-plugin/fast-tube": "<=2.3.1",
         "wpackagist-plugin/fast-user-switching": "<=1.4.10",
-        "wpackagist-plugin/fast-velocity-minify": "<= 3.5.1.0",
+        "wpackagist-plugin/fast-velocity-minify": "<= 3.5.7.0",
         "wpackagist-plugin/fast-video-and-image-display": "<=2.5.2",
         "wpackagist-plugin/fast-wp": "<=1.0.3",
         "wpackagist-plugin/fast-wp-speed": "<=1.0.0",
