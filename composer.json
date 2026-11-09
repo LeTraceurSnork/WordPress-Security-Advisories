@@ -523,7 +523,7 @@
         "wpackagist-plugin/advanced-ip-blocker": "<= 8.13.13.0",
         "wpackagist-plugin/advanced-lazy-load": "<=1.6.0",
         "wpackagist-plugin/advanced-local-pickup-for-woocommerce": "<= 1.6.2.0",
-        "wpackagist-plugin/advanced-members": "<=1.2.5",
+        "wpackagist-plugin/advanced-members": "<= 1.3.0.0",
         "wpackagist-plugin/advanced-menu-widget": "<=0.4.1",
         "wpackagist-plugin/advanced-most-recent-posts-mod": "<=1.6.5.2",
         "wpackagist-plugin/advanced-nocaptcha-recaptcha": "<= 7.6.0.0",
