@@ -15370,7 +15370,7 @@
         "wpackagist-plugin/wp-relevant-ads": "<=1.0.0",
         "wpackagist-plugin/wp-remote-site-search": "<=1.0.4",
         "wpackagist-plugin/wp-remote-thumbnail": "<=1.3.2",
-        "wpackagist-plugin/wp-remote-users-sync": "<=1.2.12",
+        "wpackagist-plugin/wp-remote-users-sync": "< 2.2.0.0-dev",
         "wpackagist-plugin/wp-replicate-post": "<=4.0.2",
         "wpackagist-plugin/wp-reply-notify": "<=1.1",
         "wpackagist-plugin/wp-report-post": "<=2.1.2",
