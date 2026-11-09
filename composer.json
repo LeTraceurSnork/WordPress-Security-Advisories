@@ -8002,6 +8002,7 @@
         "wpackagist-plugin/ml-slider": "<= 3.111.0.0",
         "wpackagist-plugin/mlanguage": "<=1.6.1",
         "wpackagist-plugin/mlr-audio": "<=0.2",
+        "wpackagist-plugin/mls-on-the-fly": "<=1.8.1.5",
         "wpackagist-plugin/mlsimport": "<=7.0.3",
         "wpackagist-plugin/mm-breaking-news": "<=0.7.9",
         "wpackagist-plugin/mm-email2image": "<=0.2.5",
