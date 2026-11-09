@@ -13292,7 +13292,7 @@
         "wpackagist-plugin/video-embedder": "<=1.7.1",
         "wpackagist-plugin/video-embeds": "<=0.1.1",
         "wpackagist-plugin/video-expander": "<=1.0",
-        "wpackagist-plugin/video-gallery-block": "<=1.1.0",
+        "wpackagist-plugin/video-gallery-block": "<= 1.6.0.0",
         "wpackagist-plugin/video-grid": "<=1.21",
         "wpackagist-plugin/video-lead-form": "<0.6",
         "wpackagist-plugin/video-list-manager": "<=1.7",
