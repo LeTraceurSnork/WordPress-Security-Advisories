@@ -11977,7 +11977,7 @@
         "wpackagist-plugin/stop-referrer-spam": "<=1.3.0",
         "wpackagist-plugin/stop-registration-spam": "<= 1.24.0.0",
         "wpackagist-plugin/stop-spam-comments": "<=0.2.1.2",
-        "wpackagist-plugin/stop-spammer-registrations-plugin": "<= 2026.3.0.0",
+        "wpackagist-plugin/stop-spammer-registrations-plugin": "<= 2026.6.0.0",
         "wpackagist-plugin/stop-user-enumeration": "<= 1.7.2.0",
         "wpackagist-plugin/stop-wp-emails-going-to-spam": "<=2.0.2",
         "wpackagist-plugin/stopbadbots": "<= 11.58.0.0",
