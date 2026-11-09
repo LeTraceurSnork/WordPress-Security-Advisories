@@ -1351,6 +1351,7 @@
         "wpackagist-plugin/ayyash-studio": "<=1.0.3",
         "wpackagist-plugin/az-content-finder": "<=0.1",
         "wpackagist-plugin/azan": "<=0.6",
+        "wpackagist-plugin/azexo-store-locator": "<=1.4",
         "wpackagist-plugin/azindex": "<=0.8.1",
         "wpackagist-plugin/azon-addon-js-composer": "<=1.2",
         "wpackagist-plugin/azonbox": "<=1.1.2",
