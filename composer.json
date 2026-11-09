@@ -16140,7 +16140,7 @@
         "wpackagist-plugin/yayforms": "<=1.2.1",
         "wpackagist-plugin/yaymail": "<= 4.3.3.0",
         "wpackagist-plugin/yaypricing": "< 3.5.7.0-dev",
-        "wpackagist-plugin/yaysmtp": "<= 2.7.7.0",
+        "wpackagist-plugin/yaysmtp": "<= 2.7.8.0",
         "wpackagist-plugin/ycontributors": "<=0.5",
         "wpackagist-plugin/ycyclista": "<=1.2.3",
         "wpackagist-plugin/ydn-download": "<=1.4.2",
