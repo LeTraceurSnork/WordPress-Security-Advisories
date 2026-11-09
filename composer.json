@@ -15286,7 +15286,7 @@
         "wpackagist-plugin/wp-popup-optin": "<=1.4",
         "wpackagist-plugin/wp-popups-lite": "<= 2.2.0.5",
         "wpackagist-plugin/wp-portfolio-gallery": "<1.2.0",
-        "wpackagist-plugin/wp-post-author": "< 4.1.0.0-dev",
+        "wpackagist-plugin/wp-post-author": "<= 4.1.0.0",
         "wpackagist-plugin/wp-post-category-notifications": "<=1.0",
         "wpackagist-plugin/wp-post-columns": "<=2.2",
         "wpackagist-plugin/wp-post-comment-rating": "*",
