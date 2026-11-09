@@ -9687,7 +9687,7 @@
         "wpackagist-plugin/product-blocks-for-woocommerce": "<=1.9.1",
         "wpackagist-plugin/product-carousel-slider-for-woocommerce": "<=3.3.5",
         "wpackagist-plugin/product-catalog-8": "<=1.2.0",
-        "wpackagist-plugin/product-catalog-feed": "<=2.1.1",
+        "wpackagist-plugin/product-catalog-feed": "<= 3.1.4.0",
         "wpackagist-plugin/product-category-tree": "<=2.5",
         "wpackagist-plugin/product-code-for-woocommerce": "<= 1.5.0.0",
         "wpackagist-plugin/product-configurator-for-woocommerce": "<= 1.7.5.0",
