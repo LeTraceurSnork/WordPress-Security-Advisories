@@ -8209,7 +8209,7 @@
         "wpackagist-plugin/multisite-robotstxt-manager": "<=3.0.0",
         "wpackagist-plugin/munk-sites": "<=1.0.7",
         "wpackagist-plugin/muse-ai": "<=0.4",
-        "wpackagist-plugin/museder-restoreone": "<=2.7.276",
+        "wpackagist-plugin/museder-restoreone": "<= 2.7.277.0",
         "wpackagist-plugin/music-let-loose-mp3-audio-player": "<=0.7",
         "wpackagist-plugin/music-pack-for-elementor": "<=1.8.4.1",
         "wpackagist-plugin/music-player-for-elementor": "<= 2.4.6.0",
