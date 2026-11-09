@@ -6162,7 +6162,7 @@
         "wpackagist-plugin/html5-mp3-player-with-playlist": "<=3.0.0",
         "wpackagist-plugin/html5-responsive-faq": "<=2.8.5",
         "wpackagist-plugin/html5-soundcloud-player-with-playlist": "<=2.8.0",
-        "wpackagist-plugin/html5-video-player": "<= 2.11.0.0",
+        "wpackagist-plugin/html5-video-player": "<= 2.14.0.0",
         "wpackagist-plugin/html5-video-player-with-playlist": "<= 2.50.0.0",
         "wpackagist-plugin/html5-videogallery-plus-player": "<=2.6.5 || 2.8.7",
         "wpackagist-plugin/html5-virtual-classroom": "<=2.1",
