@@ -15980,7 +15980,7 @@
         "wpackagist-plugin/wpsol": "<=1.2.0",
         "wpackagist-plugin/wpsolr-free": "<=24.0",
         "wpackagist-plugin/wpsolr-search-engine": "<=8.6",
-        "wpackagist-plugin/wpspeed": "<=2.6.5",
+        "wpackagist-plugin/wpspeed": "<= 2.6.10.0",
         "wpackagist-plugin/wpspx": "<=1.0.2",
         "wpackagist-plugin/wpss": "<= 0.62.0.0",
         "wpackagist-plugin/wpsso": "<=18.18.1",
