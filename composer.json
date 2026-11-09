@@ -5851,7 +5851,7 @@
         "wpackagist-plugin/gs-portfolio": "<=1.6.3",
         "wpackagist-plugin/gs-projects": "<=1.1.1",
         "wpackagist-plugin/gs-team-members": "<= 2.8.2.0",
-        "wpackagist-plugin/gs-testimonial": "<= 3.3.0.0",
+        "wpackagist-plugin/gs-testimonial": "<= 3.3.10.0",
         "wpackagist-plugin/gs-woo-brands": "<=1.3.2",
         "wpackagist-plugin/gs-woo-variation-swatches": "<=3.0.4",
         "wpackagist-plugin/gs-woocommerce-products-slider": "<=1.5.8",
