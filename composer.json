@@ -1932,7 +1932,7 @@
         "wpackagist-plugin/buddyboss-platform": "<= 3.6.0.0",
         "wpackagist-plugin/buddyboss-platform-pro": "<=2.7.01",
         "wpackagist-plugin/buddydrive": "<=2.1.1",
-        "wpackagist-plugin/buddyforms": "<= 2.9.0.0",
+        "wpackagist-plugin/buddyforms": "<= 2.10.0.0",
         "wpackagist-plugin/buddyforms-acf": "<= 1.3.8.0",
         "wpackagist-plugin/buddyforms-anonymous-author": "<=1.0",
         "wpackagist-plugin/buddyforms-attach-posts-to-groups-extension": "<=1.2.2",
