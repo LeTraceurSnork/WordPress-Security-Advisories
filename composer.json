@@ -14216,7 +14216,7 @@
         "wpackagist-plugin/woocommerce-product-vendors": "<= 2.2.2.0",
         "wpackagist-plugin/woocommerce-products-by-custom-tax": "<=2.2",
         "wpackagist-plugin/woocommerce-products-designer": "<=4.3.3",
-        "wpackagist-plugin/woocommerce-products-filter": "<= 1.4.5.0",
+        "wpackagist-plugin/woocommerce-products-filter": "<= 1.4.6.0",
         "wpackagist-plugin/woocommerce-products-quick-view": "< 2.3.0.0-dev",
         "wpackagist-plugin/woocommerce-products-slider": "<= 1.13.62.0",
         "wpackagist-plugin/woocommerce-products-without-featured-images": "<=0.1",
