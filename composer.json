@@ -3735,7 +3735,7 @@
         "wpackagist-plugin/document-emberdder": "<= 2.4.0.0",
         "wpackagist-plugin/document-engine": "<=1.2",
         "wpackagist-plugin/document-gallery": "<= 5.1.1.0",
-        "wpackagist-plugin/document-library-lite": "<= 1.1.7.0",
+        "wpackagist-plugin/document-library-lite": "<= 1.3.0.0",
         "wpackagist-plugin/document-pro-elementor": "<=1.0.9",
         "wpackagist-plugin/documentor-lite": "<=1.5.3",
         "wpackagist-plugin/documentpress-display-any-document-on-your-site": "<=2.1",
