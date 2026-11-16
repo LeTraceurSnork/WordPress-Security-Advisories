@@ -15612,7 +15612,7 @@
         "wpackagist-plugin/wp-spreadplugin": "<=4.8.9",
         "wpackagist-plugin/wp-sri": "<=0.4.0",
         "wpackagist-plugin/wp-stacker": "<=1.8.5",
-        "wpackagist-plugin/wp-staging": "<3.5.0",
+        "wpackagist-plugin/wp-staging": "<= 4.19.0.0",
         "wpackagist-plugin/wp-staging-pro": "<= 6.1.2.0",
         "wpackagist-plugin/wp-stateless": "<= 4.4.1.0",
         "wpackagist-plugin/wp-statistics": "<= 14.16.14.0",
