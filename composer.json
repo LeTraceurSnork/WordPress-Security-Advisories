@@ -3450,7 +3450,7 @@
         "wpackagist-plugin/dashing-memberships": "<=1.1",
         "wpackagist-plugin/dashylite": ">=2.0.1,<=2.1.8",
         "wpackagist-plugin/data-dash": "<=1.2.3",
-        "wpackagist-plugin/data-tables-generator-by-supsystic": "<= 1.15.1.0",
+        "wpackagist-plugin/data-tables-generator-by-supsystic": "< 1.15.8.0-dev",
         "wpackagist-plugin/data-visualizer": "<=1.1",
         "wpackagist-plugin/database-audit": "<=1.0",
         "wpackagist-plugin/database-backup": "<= 2.36.0.0",
