@@ -15297,6 +15297,7 @@
         "wpackagist-plugin/wp-page-post-widget-clone": "<=1.0.1",
         "wpackagist-plugin/wp-page-widget": "<= 3.9.0.0",
         "wpackagist-plugin/wp-pagebuilder": "<= 1.2.8.0",
+        "wpackagist-plugin/wp-pagenavi-style": "<=1.4",
         "wpackagist-plugin/wp-paginate": "< 2.1.9.0-dev",
         "wpackagist-plugin/wp-pagseguro-payments": "<=1.0",
         "wpackagist-plugin/wp-pano": "<=1.17",
