@@ -6723,6 +6723,7 @@
         "wpackagist-plugin/jet-elements": "<= 2.9.2.6",
         "wpackagist-plugin/jet-engine": "<= 3.9.0.2",
         "wpackagist-plugin/jet-footer-code": "<=1.4",
+        "wpackagist-plugin/jet-form-builder-hierarchical-select": "<=1.0.10",
         "wpackagist-plugin/jet-form-builder-stripe-gateway": "<=1.0.0",
         "wpackagist-plugin/jet-menu": "<= 3.0.5.0",
         "wpackagist-plugin/jet-popup": "<= 2.0.20.2",
