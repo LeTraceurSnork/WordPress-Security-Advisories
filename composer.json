@@ -10832,7 +10832,7 @@
         "wpackagist-plugin/send-users-email": "<=1.5.1",
         "wpackagist-plugin/sendcloud-connected-shipping": "<=1.0.31",
         "wpackagist-plugin/sender": "<=1.2.0",
-        "wpackagist-plugin/sender-net-automated-emails": "<= 2.10.22.0",
+        "wpackagist-plugin/sender-net-automated-emails": "<= 2.11.2.0",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "<=1.11.8",
         "wpackagist-plugin/sendit": "<=2.5.1",
         "wpackagist-plugin/sendmachine": "<=1.0.20",
