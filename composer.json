@@ -6203,7 +6203,7 @@
         "wpackagist-plugin/hub2word": "<=1.1.0",
         "wpackagist-plugin/hueman-addons": "<=2.3.3",
         "wpackagist-plugin/huger-elementor": "<=1.1.5",
-        "wpackagist-plugin/hummingbird-performance": "< 3.21.2.0-dev",
+        "wpackagist-plugin/hummingbird-performance": "<= 3.21.2.0",
         "wpackagist-plugin/hungarian-pickup-points-for-woocommerce": "< 4.2.8.0-dev",
         "wpackagist-plugin/hungred-post-thumbnail": "<=2.1.9",
         "wpackagist-plugin/hunk-companion": "<= 1.8.5.0",
