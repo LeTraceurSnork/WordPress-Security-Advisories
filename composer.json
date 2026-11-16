@@ -2187,7 +2187,7 @@
         "wpackagist-plugin/career-section": "<=1.7",
         "wpackagist-plugin/careerfy": "< 1.7.4.0-dev",
         "wpackagist-plugin/caret-country-access-limit": "<=1.0.2",
-        "wpackagist-plugin/cargo-shipping-location-for-woocommerce": "<=5.6",
+        "wpackagist-plugin/cargo-shipping-location-for-woocommerce": "< 6.0.0.0-dev",
         "wpackagist-plugin/cargus": "<=1.5.8",
         "wpackagist-plugin/carousel": "<=1.8",
         "wpackagist-plugin/carousel-anything": "<=2.1",
