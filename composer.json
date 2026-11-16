@@ -13026,7 +13026,7 @@
         "wpackagist-plugin/ultimate-responsive-image-slider": "<=3.5.11",
         "wpackagist-plugin/ultimate-reviews": "<= 3.2.16.0",
         "wpackagist-plugin/ultimate-security-checker": "<=4.2",
-        "wpackagist-plugin/ultimate-security-for-woocommerce": ">=1.0.10,<=1.0.16",
+        "wpackagist-plugin/ultimate-security-for-woocommerce": "<= 1.0.16.0",
         "wpackagist-plugin/ultimate-shortcodes-creator": "<=2.2.0",
         "wpackagist-plugin/ultimate-sms-notifications": "<= 1.9.9.5",
         "wpackagist-plugin/ultimate-social-media-icons": "<= 3.0.1.0",
