@@ -2575,6 +2575,7 @@
         "wpackagist-plugin/cloud-manager": "<=1.0",
         "wpackagist-plugin/cloud-search": "<=3.0.0",
         "wpackagist-plugin/cloud-sso-single-sign-on": "<= 1.0.19.0",
+        "wpackagist-plugin/cloud-storage-manager": "<=1.2.0",
         "wpackagist-plugin/cloudflare": "<=4.12.2",
         "wpackagist-plugin/cloudflare-cache-purge": "<=1.2",
         "wpackagist-plugin/cloudinary-image-management-and-manipulation-in-the-cloud-cdn": "<=3.3.0",
