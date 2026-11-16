@@ -18139,7 +18139,7 @@
         "wpackagist-theme/shieldgroup": "<=2.13",
         "wpackagist-theme/shift-cv": "<=3.0.14",
         "wpackagist-theme/shiftup": "<=1.3",
-        "wpackagist-theme/shk-corporate": "<=2.4.1.1",
+        "wpackagist-theme/shk-corporate": "<= 2.4.3.0",
         "wpackagist-theme/shopbiz-lite": "<1.7.7",
         "wpackagist-theme/shopire": "<=1.0.57",
         "wpackagist-theme/shopo": "<=1.1.4",
