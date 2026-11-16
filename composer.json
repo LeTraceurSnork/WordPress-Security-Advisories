@@ -15743,7 +15743,7 @@
         "wpackagist-plugin/wp-upload-restriction": "<=2.2.4",
         "wpackagist-plugin/wp-url-shortener": "<=1.2",
         "wpackagist-plugin/wp-user": "<=7.0",
-        "wpackagist-plugin/wp-user-avatar": "<= 4.17.5.0",
+        "wpackagist-plugin/wp-user-avatar": "<= 4.17.7.0",
         "wpackagist-plugin/wp-user-control": "<=1.5.3",
         "wpackagist-plugin/wp-user-extra-fields": "<= 17.0.0.0",
         "wpackagist-plugin/wp-user-frontend": "<= 4.3.13.0",
