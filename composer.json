@@ -14998,7 +14998,7 @@
         "wpackagist-plugin/wp-google-maps-integration": "<=1.2",
         "wpackagist-plugin/wp-google-maps-pro": "<= 10.1.02.0",
         "wpackagist-plugin/wp-google-my-business-auto-publish": "<3.8",
-        "wpackagist-plugin/wp-google-places-review-slider": "<= 18.4.0.0",
+        "wpackagist-plugin/wp-google-places-review-slider": "<= 18.10.0.0",
         "wpackagist-plugin/wp-google-street-view": "<= 1.1.8.0",
         "wpackagist-plugin/wp-google-street-view-shortcode": "<=0.5.7",
         "wpackagist-plugin/wp-google-tag-manager": "<=1.1",
