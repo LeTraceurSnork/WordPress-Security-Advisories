@@ -18225,7 +18225,7 @@
         "wpackagist-theme/sparklestore": "<=1.6.5",
         "wpackagist-theme/sparkling": "<= 2.4.9.0",
         "wpackagist-theme/sparky": "<=1.0",
-        "wpackagist-theme/spasalon": "<2.2.1",
+        "wpackagist-theme/spasalon": "<= 3.0.0.0",
         "wpackagist-theme/spawp": "<1.4.1",
         "wpackagist-theme/specialist": "*",
         "wpackagist-theme/speculor": "<=1.2.0",
