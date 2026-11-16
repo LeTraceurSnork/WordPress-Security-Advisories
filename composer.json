@@ -2340,6 +2340,7 @@
         "wpackagist-plugin/cf7-mollie": "<=5.0.0",
         "wpackagist-plugin/cf7-multi-step": "<=2.7.7",
         "wpackagist-plugin/cf7-paystack-add-on": "<=1.2.3",
+        "wpackagist-plugin/cf7-post-fields": "<=2.6.0",
         "wpackagist-plugin/cf7-redirect-thank-you-page": "<= 1.2.1.0",
         "wpackagist-plugin/cf7-repeatable-fields": "<=2.0.1",
         "wpackagist-plugin/cf7-reply-manager": "<=1.2.3",
