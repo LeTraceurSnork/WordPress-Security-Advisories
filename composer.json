@@ -5256,7 +5256,7 @@
         "wpackagist-plugin/fp-rss-category-excluder": "<=1.0.0",
         "wpackagist-plugin/fpw-category-thumbnails": "<=1.9.5",
         "wpackagist-plugin/fraudlabs-pro-for-woocommerce": "<= 2.22.11.0",
-        "wpackagist-plugin/fraudlabs-pro-sms-verification": "<=1.10.1",
+        "wpackagist-plugin/fraudlabs-pro-sms-verification": "<=1.10.1 || >=1.11.2,<=1.12.1",
         "wpackagist-plugin/free-comments-for-wordpress-vuukle": "<=3.4.31",
         "wpackagist-plugin/free-counter": "<=1.1",
         "wpackagist-plugin/free-download-manager": "<=1.0.0",
