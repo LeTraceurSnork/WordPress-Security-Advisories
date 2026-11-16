@@ -6626,6 +6626,7 @@
         "wpackagist-plugin/invite-anyone": "<= 1.4.7.0",
         "wpackagist-plugin/invition-print-ship": "<=1.17.0",
         "wpackagist-plugin/invoice-creator": "<=1.0.0",
+        "wpackagist-plugin/invoice-gateway-for-woocommerce": "<=1.1.6",
         "wpackagist-plugin/invoice-payment-for-woocommerce": "<= 2.8.0.0",
         "wpackagist-plugin/invoicing": "<= 2.8.62.0",
         "wpackagist-plugin/io-engagement-analytics": "<=1.1",
