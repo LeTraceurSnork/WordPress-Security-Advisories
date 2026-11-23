@@ -491,7 +491,7 @@
         "wpackagist-plugin/advanced-currency-switcher": "<=1.0.3",
         "wpackagist-plugin/advanced-custom-css": "<=1.1.0",
         "wpackagist-plugin/advanced-custom-fields": "<= 6.8.10.0",
-        "wpackagist-plugin/advanced-custom-fields-font-awesome": "<= 6.1.2.0",
+        "wpackagist-plugin/advanced-custom-fields-font-awesome": "<= 6.1.4.0",
         "wpackagist-plugin/advanced-custom-fields-pro": "<= 6.3.8.0",
         "wpackagist-plugin/advanced-custom-fields-table-field": "<= 1.4.1.0-RC2",
         "wpackagist-plugin/advanced-custom-post-type": "<= 2.0.66.0",
