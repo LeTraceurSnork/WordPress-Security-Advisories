@@ -5638,7 +5638,7 @@
         "wpackagist-plugin/glossary-by-codeat": "<= 2.2.26.0",
         "wpackagist-plugin/glossy": "<=2.3.5",
         "wpackagist-plugin/gls-shipping-for-woocommerce": "<= 1.4.0.0",
-        "wpackagist-plugin/gm-woo-product-list-widget": "<=1.0",
+        "wpackagist-plugin/gm-woo-product-list-widget": "< 3.4.0.0-dev",
         "wpackagist-plugin/gm-woocommerce-quote-popup": "<=3.1",
         "wpackagist-plugin/gmace": "<=1.5.2",
         "wpackagist-plugin/gmail-smtp": "<=1.2.3.19",
