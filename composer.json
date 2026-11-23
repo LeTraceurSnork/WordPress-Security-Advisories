@@ -10379,7 +10379,7 @@
         "wpackagist-plugin/restore-permanently-delete-post-or-page-data": "<=1.0",
         "wpackagist-plugin/restrict-anonymous-access": "<=1.2",
         "wpackagist-plugin/restrict-categories": "<=2.6.4",
-        "wpackagist-plugin/restrict-content": "<= 4.0.0.0",
+        "wpackagist-plugin/restrict-content": "< 4.0.6.0-dev",
         "wpackagist-plugin/restrict-elementor-widgets": "<=1.12",
         "wpackagist-plugin/restrict-file-access": "<=1.1.2",
         "wpackagist-plugin/restrict-for-elementor": "<=1.0.7",
