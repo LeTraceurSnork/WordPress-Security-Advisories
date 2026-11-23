@@ -15560,6 +15560,7 @@
         "wpackagist-plugin/wp-slick-slider-and-image-carousel": "<=3.5 || 3.7.8.1",
         "wpackagist-plugin/wp-slide-categorywise": "<=1.1",
         "wpackagist-plugin/wp-sliding-logindashboard-panel": "<=2.1.1",
+        "wpackagist-plugin/wp-slimbox2": "<=1.1.3.1",
         "wpackagist-plugin/wp-slimstat": "<= 5.4.11.0",
         "wpackagist-plugin/wp-slimstat-ex": "<=2.1.2",
         "wpackagist-plugin/wp-smart-contracts": "<= 2.0.10.0",
