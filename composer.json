@@ -13129,7 +13129,7 @@
         "wpackagist-plugin/updraftplus": "<= 1.26.7.0 || >= 2.0.0.0-dev < 2.26.8.26-dev",
         "wpackagist-plugin/updraftplus-pro": "<2.22.3",
         "wpackagist-plugin/uper-elementor": "<=1.0.5",
-        "wpackagist-plugin/upi-qr-code-payment-for-woocommerce": "<= 1.6.3.0",
+        "wpackagist-plugin/upi-qr-code-payment-for-woocommerce": "<= 1.7.0.0",
         "wpackagist-plugin/upi-qr-code-payment-gateway": "< 1.4.4.0-dev",
         "wpackagist-plugin/upload-am-file-hosting-vpn": "<=1.0.0",
         "wpackagist-plugin/upload-fields-for-wpforms": "<=1.0.2",
