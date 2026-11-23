@@ -9004,6 +9004,7 @@
         "wpackagist-plugin/patterns-kit": "<=1.0.3",
         "wpackagist-plugin/pay-addons-for-elementor": ">=1.0.0,<=1.2.0",
         "wpackagist-plugin/pay-per-media-player": "<=1.24",
+        "wpackagist-plugin/pay-with-a-tweet": "<=1.0.5",
         "wpackagist-plugin/pay-with-contact-form-7": "<=1.0.4",
         "wpackagist-plugin/pay-with-tweet": "<=1.1",
         "wpackagist-plugin/pay-wp": "<= 2.3.0.0",
