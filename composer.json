@@ -14256,6 +14256,7 @@
         "wpackagist-plugin/woocommerce-payment-gateway-for-saferpay": "<=0.4.9",
         "wpackagist-plugin/woocommerce-payments": "<= 10.5.1.0",
         "wpackagist-plugin/woocommerce-paypal-payments": "<= 4.0.1.0",
+        "wpackagist-plugin/woocommerce-paypal-pro-payment-gateway": "<=4.1.0",
         "wpackagist-plugin/woocommerce-payu-paisa": "<=2.1.1",
         "wpackagist-plugin/woocommerce-pdf-invoices-packing-slips": "<= 5.16.5.0",
         "wpackagist-plugin/woocommerce-pdf-vouchers": "< 4.9.9.0-dev",
