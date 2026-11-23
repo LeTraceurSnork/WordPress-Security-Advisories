@@ -10072,6 +10072,7 @@
         "wpackagist-plugin/rating-bws": "<= 1.7.0.0",
         "wpackagist-plugin/rating-widget": "<= 3.2.0.0",
         "wpackagist-plugin/ratings-shorttags": "<=1.6",
+        "wpackagist-plugin/rave-payment-forms": "<=1.0.7",
         "wpackagist-plugin/rave-woocommerce-payment-gateway": "<=3.3.1",
         "wpackagist-plugin/ravelry-designs-widget": "<=1.0.0",
         "wpackagist-plugin/ravpage": "<= 2.40.0.0",
