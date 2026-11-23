@@ -686,7 +686,7 @@
         "wpackagist-plugin/aibuddy-openai-chatgpt": "<=1.8.5",
         "wpackagist-plugin/aicomments": "<=1.4.1",
         "wpackagist-plugin/aikit-wordpress-ai-writing-assistant-using-gpt3": "<=4.14.1",
-        "wpackagist-plugin/aiktp": "<=5.0.04",
+        "wpackagist-plugin/aiktp": "<= 5.0.7.0",
         "wpackagist-plugin/aimogen-pro": "<= 2.8.4.0",
         "wpackagist-plugin/aio-contact": "<=2.8.1",
         "wpackagist-plugin/aio-shortcodes": "<=1.3.0",
