@@ -2404,7 +2404,7 @@
         "wpackagist-plugin/chat2": "<=4.0",
         "wpackagist-plugin/chatbot": "<= 8.7.5.0",
         "wpackagist-plugin/chatbot-ai-free-models": "<=1.6.5",
-        "wpackagist-plugin/chatbot-chatgpt": "<= 2.4.9.0",
+        "wpackagist-plugin/chatbot-chatgpt": "<= 2.5.9.0",
         "wpackagist-plugin/chatbot-support-ai": "<=1.0.2",
         "wpackagist-plugin/chative-live-chat-and-chatbot": "<=1.1",
         "wpackagist-plugin/chatlive": "<=2.0.1",
