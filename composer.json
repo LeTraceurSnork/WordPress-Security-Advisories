@@ -9030,6 +9030,7 @@
         "wpackagist-plugin/payment-gateway-pix-for-givewp": "<=2.2.3",
         "wpackagist-plugin/payment-gateway-pix-for-woocommerce": "<=1.5.0",
         "wpackagist-plugin/payment-gateway-stripe-and-woocommerce-integration": "<= 5.0.8.0",
+        "wpackagist-plugin/payment-gateway-via-valitor-for-woocommerce": "<=1.9.40",
         "wpackagist-plugin/payment-gateways-caller-for-wp-e-commerce": "<0.1.1",
         "wpackagist-plugin/payment-integration-wompi": "<=4.0.1",
         "wpackagist-plugin/payment-page": "<=1.4.6",
