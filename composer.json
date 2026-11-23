@@ -11693,7 +11693,7 @@
         "wpackagist-plugin/snow-storm": "<=1.4.6",
         "wpackagist-plugin/so-audible": "<=0.9",
         "wpackagist-plugin/so-called-air-quotes": "<=0.1",
-        "wpackagist-plugin/so-css": "<=1.6.7",
+        "wpackagist-plugin/so-css": "<= 1.6.9.0",
         "wpackagist-plugin/so-pinyin-slugs": "<=2.3.0",
         "wpackagist-plugin/so-widgets-bundle": "<= 1.74.3.0",
         "wpackagist-plugin/soccer-engine-lite": "<=1.12",
