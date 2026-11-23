@@ -9089,7 +9089,7 @@
         "wpackagist-plugin/pdf-invoices-for-woocommerce": ">=5.16.2,<=5.16.4",
         "wpackagist-plugin/pdf-invoicing-for-woocommerce": "<=2.2.1",
         "wpackagist-plugin/pdf-light-viewer": "<=1.4.11",
-        "wpackagist-plugin/pdf-poster": "<= 2.6.1.0",
+        "wpackagist-plugin/pdf-poster": "<= 2.6.5.0",
         "wpackagist-plugin/pdf-print": "< 2.0.3.0-dev",
         "wpackagist-plugin/pdf-rechnungsverwaltung": "<=0.0.1",
         "wpackagist-plugin/pdf-resume-parser": "<=1.0",
