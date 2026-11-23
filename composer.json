@@ -1170,6 +1170,7 @@
         "wpackagist-plugin/auphonic-importer": "<=1.5.1",
         "wpackagist-plugin/aurora-heatmap": "<=1.7.2",
         "wpackagist-plugin/auros-core": "<=5.3.1",
+        "wpackagist-plugin/auth-armor-passwordless-login": "<=1.0.3",
         "wpackagist-plugin/auth0": "<= 4.6.0.0",
         "wpackagist-plugin/authentication-and-xmlrpc-log-writer": "<=1.2.2",
         "wpackagist-plugin/authentication-via-otp-using-firebase": "<=1.0.1",
