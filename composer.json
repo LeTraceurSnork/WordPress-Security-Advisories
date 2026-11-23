@@ -13629,7 +13629,7 @@
         "wpackagist-plugin/wcboost-products-compare": "<=1.1.0",
         "wpackagist-plugin/wccp-pro": "<=15.0",
         "wpackagist-plugin/wcfm-marketplace-rest-api": "<= 1.6.3.0",
-        "wpackagist-plugin/wck-custom-fields-and-custom-post-types-creator": "<=2.3.2",
+        "wpackagist-plugin/wck-custom-fields-and-custom-post-types-creator": "<= 2.4.0.0",
         "wpackagist-plugin/wcp-contact-form": "<=3.1.0",
         "wpackagist-plugin/wcp-openweather": "<=2.5.0",
         "wpackagist-plugin/wcs-qr-code-generator": "<=1.0",
