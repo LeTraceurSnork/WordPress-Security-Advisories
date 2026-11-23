@@ -1934,6 +1934,7 @@
         "wpackagist-plugin/buckets": "<=0.3.9",
         "wpackagist-plugin/buddy-press-force-password-change": "<=0.1",
         "wpackagist-plugin/buddybadges": "<=1.0.0",
+        "wpackagist-plugin/buddyboss-addons": "<=1.2.1",
         "wpackagist-plugin/buddyboss-app": "<=3.2.1",
         "wpackagist-plugin/buddyboss-media": "<=3.2.3",
         "wpackagist-plugin/buddyboss-platform": "<= 3.6.0.0",
