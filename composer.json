@@ -14672,7 +14672,7 @@
         "wpackagist-plugin/wp-company-info": "<=1.9.0",
         "wpackagist-plugin/wp-compare-tables": "<=1.0.5",
         "wpackagist-plugin/wp-compiler": "<=1.0.0",
-        "wpackagist-plugin/wp-compress-image-optimizer": "<= 7.25.00.0",
+        "wpackagist-plugin/wp-compress-image-optimizer": "<= 7.26.00.0",
         "wpackagist-plugin/wp-compress-mainwp": "<= 6.50.07.0",
         "wpackagist-plugin/wp-concours": "<=1.1",
         "wpackagist-plugin/wp-condition": "<=4.1.1",
