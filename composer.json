@@ -15887,7 +15887,7 @@
         "wpackagist-plugin/wpcleaner": "<=1.1.5",
         "wpackagist-plugin/wpcode-content-ratio": "<=2.0",
         "wpackagist-plugin/wpcodefactory-helper": "<= 1.7.0.0",
-        "wpackagist-plugin/wpcom-member": "<= 1.7.27.0",
+        "wpackagist-plugin/wpcom-member": "< 1.8.3.0-dev",
         "wpackagist-plugin/wpcommenttwit": "<=0.5",
         "wpackagist-plugin/wpcomplete": "<= 2.9.9.0",
         "wpackagist-plugin/wpcomponent": "<=2.2.4",
