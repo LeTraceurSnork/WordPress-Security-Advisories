@@ -12179,7 +12179,7 @@
         "wpackagist-plugin/sureforms-pro": "<=2.8.0",
         "wpackagist-plugin/suremails": "<=1.9.0",
         "wpackagist-plugin/suremembers": "<=1.10.6",
-        "wpackagist-plugin/surerank": "<=1.3.2 || >=1.6.2,<=1.10.0",
+        "wpackagist-plugin/surerank": "<= 1.10.3.0",
         "wpackagist-plugin/suretriggers": "<= 1.1.40.0",
         "wpackagist-plugin/surferseo": "<= 1.8.1.758",
         "wpackagist-plugin/surflink": "<2.6.0",
