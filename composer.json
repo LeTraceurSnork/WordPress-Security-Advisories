@@ -5931,7 +5931,7 @@
         "wpackagist-plugin/gutentor": "< 4.0.6.0-dev",
         "wpackagist-plugin/gutenverse": "<= 4.0.8.0",
         "wpackagist-plugin/gutenverse-companion": "<= 2.5.1.0",
-        "wpackagist-plugin/gutenverse-form": "< 3.0.11.0-dev",
+        "wpackagist-plugin/gutenverse-form": "<= 3.2.1.0",
         "wpackagist-plugin/gutenverse-news": "< 3.3.3.0-dev",
         "wpackagist-plugin/gw-ai-website-builder": "<=1.0.1",
         "wpackagist-plugin/gwebpro-store-locator": "<= 2.1.0.0",
