@@ -15695,7 +15695,7 @@
         "wpackagist-plugin/wp-timelines": "<=3.6.7",
         "wpackagist-plugin/wp-tithely": "<=1.1",
         "wpackagist-plugin/wp-tmkm-amazon": "<1.5.3",
-        "wpackagist-plugin/wp-to-buffer": "<=3.8.1",
+        "wpackagist-plugin/wp-to-buffer": "<= 6.2.9.0",
         "wpackagist-plugin/wp-to-hootsuite": "<= 1.5.9.0",
         "wpackagist-plugin/wp-to-twitter": "<3.3.0",
         "wpackagist-plugin/wp-todo": "<= 1.3.0.0",
