@@ -17052,7 +17052,7 @@
         "wpackagist-theme/elemin": "<1.4.3",
         "wpackagist-theme/elessi-theme": "< 6.4.1.0-dev",
         "wpackagist-theme/elevate-wp": "<=1.0.15",
-        "wpackagist-theme/elitepress": "<2.0.3",
+        "wpackagist-theme/elitepress": "<= 3.2.1.0",
         "wpackagist-theme/emallshop": "<=2.4.21",
         "wpackagist-theme/emaurri": "<=1.0.1",
         "wpackagist-theme/emberlyn": "<=1.3.1",
