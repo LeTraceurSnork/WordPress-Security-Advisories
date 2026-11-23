@@ -4783,6 +4783,7 @@
         "wpackagist-plugin/fancy-facebook-comments": "<= 1.2.21.0",
         "wpackagist-plugin/fancy-gallery": "<= 1.6.58.0",
         "wpackagist-plugin/fancy-image-show": "<=9.1",
+        "wpackagist-plugin/fancy-lightbox": "<=1.0.0",
         "wpackagist-plugin/fancy-product-designer": "<= 6.5.2.0",
         "wpackagist-plugin/fancy-roller-scroller": "<=1.4.0",
         "wpackagist-plugin/fancy-testimonials": "<=1.0",
