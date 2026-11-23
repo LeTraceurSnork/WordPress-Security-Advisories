@@ -9529,7 +9529,7 @@
         "wpackagist-plugin/post-title-counter": "<=1.1",
         "wpackagist-plugin/post-title-marquee-scroll": "<=9.9",
         "wpackagist-plugin/post-to-csv": "<= 1.4.0.0",
-        "wpackagist-plugin/post-to-google-my-business": "<3.1.15",
+        "wpackagist-plugin/post-to-google-my-business": "<= 3.5.6.0",
         "wpackagist-plugin/post-to-pdf": "<=1.0",
         "wpackagist-plugin/post-to-twitter": "<=0.7",
         "wpackagist-plugin/post-type-archive-mapping": "<= 5.6.0.0",
