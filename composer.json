@@ -14730,7 +14730,7 @@
         "wpackagist-plugin/wp-cumulus": "<= 1.22.0.0",
         "wpackagist-plugin/wp-currency-exchange-rates": "<=1.2.0",
         "wpackagist-plugin/wp-curriculo-vitae": "<=6.3",
-        "wpackagist-plugin/wp-custom-admin-interface": "<= 7.42.0.0",
+        "wpackagist-plugin/wp-custom-admin-interface": "<= 7.43.0.0",
         "wpackagist-plugin/wp-custom-author-url": "<1.0.5",
         "wpackagist-plugin/wp-custom-body-class": "<=0.6.0",
         "wpackagist-plugin/wp-custom-cms-block": "<=2.1",
