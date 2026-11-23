@@ -5031,7 +5031,7 @@
         "wpackagist-plugin/flexible-elementor-panel": "<=2.3.8",
         "wpackagist-plugin/flexible-faq": "<=0.2",
         "wpackagist-plugin/flexible-faqs": ">=0.5.5,<=0.5.11",
-        "wpackagist-plugin/flexible-invoices": "<=6.0.13",
+        "wpackagist-plugin/flexible-invoices": "<= 7.1.2.0",
         "wpackagist-plugin/flexible-quantity-measurement-price-calculator-for-woocommerce": "<= 2.3.24.0",
         "wpackagist-plugin/flexible-refund-and-return-order-for-woocommerce": "<= 1.0.51.0",
         "wpackagist-plugin/flexible-shipping": "<= 4.24.15.0",
