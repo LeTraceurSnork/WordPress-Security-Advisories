@@ -10156,6 +10156,7 @@
         "wpackagist-plugin/recaptcha-for-all": "<= 2.26.0.0",
         "wpackagist-plugin/recaptcha-for-asgaros-forum": "<=1.1.0",
         "wpackagist-plugin/recaptcha-jetpack": "<=0.2.2",
+        "wpackagist-plugin/recaptcha-woo": "<=1.4.7",
         "wpackagist-plugin/recaptcha-wp": "<=0.2.6",
         "wpackagist-plugin/recapture-for-woocommerce": "<=1.0.43",
         "wpackagist-plugin/recencio-book-reviews": "<=1.66.0",
