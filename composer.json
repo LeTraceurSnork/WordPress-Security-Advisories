@@ -9054,7 +9054,7 @@
         "wpackagist-plugin/paypal-responder": "<=1.2",
         "wpackagist-plugin/paypal-shortcodes": "<=0.3",
         "wpackagist-plugin/payplug": "<=3.1.0",
-        "wpackagist-plugin/payplus-payment-gateway": "<= 8.2.5.0",
+        "wpackagist-plugin/payplus-payment-gateway": "<= 8.3.4.0",
         "wpackagist-plugin/paytiko": "<= 1.4.7.0",
         "wpackagist-plugin/paytium": "<= 5.0.5.0",
         "wpackagist-plugin/paytm-donation": "<= 2.3.3.0",
