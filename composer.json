@@ -11658,6 +11658,7 @@
         "wpackagist-plugin/smooth-streaming-player": "<=1.0",
         "wpackagist-plugin/smoothness-slider-shortcode": "<=v1.2.2",
         "wpackagist-plugin/smoothscroller": "<=1.0.0",
+        "wpackagist-plugin/smoove-abandoned-cart-trigger-for-woocommerce": ">=4.0.0,<=4.3.5",
         "wpackagist-plugin/smoove-elementor": "<=4.1.0",
         "wpackagist-plugin/smpl-shortcodes": "<=1.0.20",
         "wpackagist-plugin/sms-alert": "<= 4.0.2.0",
