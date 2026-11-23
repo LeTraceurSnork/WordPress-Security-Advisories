@@ -15477,7 +15477,7 @@
         "wpackagist-plugin/wp-rss-images": "<=1.1",
         "wpackagist-plugin/wp-rss-multi-importer": "<3.14",
         "wpackagist-plugin/wp-rss-poster": "<=1.0.0",
-        "wpackagist-plugin/wp-rss-retriever": "<=1.6.7",
+        "wpackagist-plugin/wp-rss-retriever": "<= 1.6.10.0",
         "wpackagist-plugin/wp-s3": "<=1.5",
         "wpackagist-plugin/wp-s3-smart-upload": "<=1.5.0",
         "wpackagist-plugin/wp-safe-search": "<=0.7",
