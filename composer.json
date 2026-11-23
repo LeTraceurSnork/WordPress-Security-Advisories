@@ -8276,7 +8276,7 @@
         "wpackagist-plugin/my-askai": "<=1.0.0",
         "wpackagist-plugin/my-auctions-allegro-free-edition": "<= 4.0.3.0",
         "wpackagist-plugin/my-bootstrap-menu": "<=1.2.1",
-        "wpackagist-plugin/my-calendar": "<= 3.8.7.0 || >=3.8.8,<3.8.11",
+        "wpackagist-plugin/my-calendar": "<= 3.8.13.0",
         "wpackagist-plugin/my-category-order": "<=4.3",
         "wpackagist-plugin/my-chatbot": "<=1.1",
         "wpackagist-plugin/my-contador-wp": "<=2.0",
