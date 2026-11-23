@@ -7162,7 +7162,7 @@
         "wpackagist-plugin/lessbuttons": "<=1.6.1",
         "wpackagist-plugin/lesson-plan-book": "<=1.3",
         "wpackagist-plugin/lets-box": "<1.15.3 || >=2.0,<=3.8.3",
-        "wpackagist-plugin/letsrecover-woocommerce-abandoned-cart": "<=1.1.0",
+        "wpackagist-plugin/letsrecover-woocommerce-abandoned-cart": "<= 1.2.0.0",
         "wpackagist-plugin/letterpress": "< 2.4.0.0-dev",
         "wpackagist-plugin/levelfourstorefront": "< 8.1.15.0-dev",
         "wpackagist-plugin/lexicata": "<=1.0.16",
