@@ -12715,7 +12715,7 @@
         "wpackagist-plugin/tom-m8te": "*",
         "wpackagist-plugin/tonda-core": "< 2.6.0.0-dev",
         "wpackagist-plugin/tonda-membership": "<=1.0.1",
-        "wpackagist-plugin/toocheke-companion": "<= 2.10.0.0",
+        "wpackagist-plugin/toocheke-companion": "<= 2.38.0.0",
         "wpackagist-plugin/toolbar-extras": "<=1.4.9",
         "wpackagist-plugin/toolbar-to-share": "<=2.0",
         "wpackagist-plugin/toolpage": "<=1.6.1",
