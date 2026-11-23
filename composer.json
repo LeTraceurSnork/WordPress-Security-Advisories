@@ -7200,7 +7200,7 @@
         "wpackagist-plugin/lightbox-block": "<= 1.2.0.0",
         "wpackagist-plugin/lightbox-gallery": "<=0.9.4",
         "wpackagist-plugin/lightbox-photo-gallery": "<=1.0",
-        "wpackagist-plugin/lightbox-photoswipe": "<=5.8.0",
+        "wpackagist-plugin/lightbox-photoswipe": "<= 5.18.0.0",
         "wpackagist-plugin/lightbox-plus": "<=2.7.2",
         "wpackagist-plugin/lightbox-popup": "<=2.1.5",
         "wpackagist-plugin/lightgallerywp": "<=1.0.5",
