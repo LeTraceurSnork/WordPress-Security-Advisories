@@ -454,6 +454,7 @@
         "wpackagist-plugin/adthrive-ads": "<= 3.10.0.0",
         "wpackagist-plugin/advance-block-extend": "<=1.0.4",
         "wpackagist-plugin/advance-food-menu": "<=1.0",
+        "wpackagist-plugin/advance-guest-post": "<=1.9",
         "wpackagist-plugin/advance-menu-manager": "<= 3.1.1.0",
         "wpackagist-plugin/advance-nav-menu-manager": "<=1.3",
         "wpackagist-plugin/advance-portfolio-grid": "<=1.07.6",
