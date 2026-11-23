@@ -11837,7 +11837,7 @@
         "wpackagist-plugin/special-feed-items": "<=1.0.1",
         "wpackagist-plugin/specific-content-for-mobile": "<= 0.5.5.0",
         "wpackagist-plugin/spectra-pro": "<= 1.1.5.0",
-        "wpackagist-plugin/speed-booster-pack": "<=4.3.3",
+        "wpackagist-plugin/speed-booster-pack": "<= 4.5.9.1",
         "wpackagist-plugin/speedsize-ai-image-optimizer": "<=1.5.1",
         "wpackagist-plugin/speedup-optimization": "<=1.5.9",
         "wpackagist-plugin/speedycache": "<= 1.4.2.0",
