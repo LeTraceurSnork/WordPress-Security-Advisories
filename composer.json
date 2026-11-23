@@ -5365,7 +5365,7 @@
         "wpackagist-plugin/fusion-extension-gallery": "<=1.7.6",
         "wpackagist-plugin/fusion-slider": "<=1.6.5",
         "wpackagist-plugin/fusion-white-label-branding": "<=1.2",
-        "wpackagist-plugin/futurio-extra": "<=2.0.14",
+        "wpackagist-plugin/futurio-extra": "<= 2.0.25.0",
         "wpackagist-plugin/fv-all-in-one-seo-pack": "<= 1.9.7.0",
         "wpackagist-plugin/fv-antispam": "<=2.7",
         "wpackagist-plugin/fv-descriptions": "<=1.4",
