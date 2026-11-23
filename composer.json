@@ -1382,7 +1382,7 @@
         "wpackagist-plugin/ba-plus-before-after-image-slider-free": "<=1.0.3",
         "wpackagist-plugin/babelz": "<=1.1.5",
         "wpackagist-plugin/back-button-widget": "<= 1.6.8.0",
-        "wpackagist-plugin/back-in-stock-notifier-for-woocommerce": "<=5.3.1",
+        "wpackagist-plugin/back-in-stock-notifier-for-woocommerce": "<= 7.5.2.0",
         "wpackagist-plugin/back-link-tracker": "<=1.0.0",
         "wpackagist-plugin/back-to-the-top-button": "<=2.1.6",
         "wpackagist-plugin/backend-designer": "<=1.3",
