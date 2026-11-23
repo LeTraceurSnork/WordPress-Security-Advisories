@@ -136,6 +136,7 @@
         "wpackagist-plugin/abcbiz-addons": "<=2.0.2",
         "wpackagist-plugin/abcsubmit": "<=1.2.4",
         "wpackagist-plugin/abg-rich-pins": "<=1.1",
+        "wpackagist-plugin/abilities-bridge": "<1.4.2",
         "wpackagist-plugin/abitgone-commentsafe": "<=1.0.0",
         "wpackagist-plugin/ableplayer": "<=1.2.1",
         "wpackagist-plugin/ablocks": "<= 2.18.0.0",
