@@ -12227,6 +12227,7 @@
         "wpackagist-plugin/swiftxr-3darvr-viewer": "<=1.0.7",
         "wpackagist-plugin/swifty-bar": "<=1.2.10",
         "wpackagist-plugin/swifty-page-manager": "<=3.0.1",
+        "wpackagist-plugin/swipe": "<=1.4",
         "wpackagist-plugin/swipe-hq-checkout-for-eshop": "<=3.7.0",
         "wpackagist-plugin/swipe-hq-checkout-for-jigoshop": "<=3.1.0",
         "wpackagist-plugin/swipehq-payment-gateway-woocommerce": "<=2.7.1",
