@@ -2028,7 +2028,7 @@
         "wpackagist-plugin/bunnys-print-css": "<=0.95",
         "wpackagist-plugin/buooy-sticky-header": "<=0.5.2",
         "wpackagist-plugin/burst-pro": ">=1.4.0,<=1.5.0",
-        "wpackagist-plugin/burst-statistics": "<= 3.7.1.0",
+        "wpackagist-plugin/burst-statistics": "<= 3.7.4.0",
         "wpackagist-plugin/bus-booking-manager": "<=4.2.2",
         "wpackagist-plugin/bus-ticket-booking-with-seat-reservation": "<= 5.9.7.0",
         "wpackagist-plugin/business": "<=1.3",
