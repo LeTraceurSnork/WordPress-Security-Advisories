@@ -7375,7 +7375,7 @@
         "wpackagist-plugin/location-weather": "<= 3.0.6.0",
         "wpackagist-plugin/locations": "<= 4.0.0.0",
         "wpackagist-plugin/locations-and-areas": "<=1.7.1",
-        "wpackagist-plugin/locatoraid": "<= 3.9.72.0",
+        "wpackagist-plugin/locatoraid": "<= 3.9.75.0",
         "wpackagist-plugin/lock-my-bp": "<= 2.1.1.0",
         "wpackagist-plugin/lock-user-account": "<=1.0.5",
         "wpackagist-plugin/lock-your-updates": "<=1.1",
