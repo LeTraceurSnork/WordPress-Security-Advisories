@@ -4349,6 +4349,7 @@
         "wpackagist-plugin/email-javascript-cloaker": "<=1.03",
         "wpackagist-plugin/email-keep": "<=1.1",
         "wpackagist-plugin/email-log": "<= 2.63.0.0",
+        "wpackagist-plugin/email-marketing-4dem": "<=2.0.5",
         "wpackagist-plugin/email-my-posts": "*",
         "wpackagist-plugin/email-newsletter": "<= 20.15.0.0",
         "wpackagist-plugin/email-notification-on-login": "<=1.6.1",
