@@ -157,7 +157,7 @@
         "wpackagist-plugin/academy": "<= 4.0.3.0",
         "wpackagist-plugin/academy-pro": "< 3.5.2.0-dev",
         "wpackagist-plugin/acadlix": "<=1.1.9",
-        "wpackagist-plugin/accelerated-mobile-pages": "<= 1.1.18.0",
+        "wpackagist-plugin/accelerated-mobile-pages": "<= 1.1.19.0",
         "wpackagist-plugin/accept-authorize-net-payments-using-contact-form-7": "<= 2.5.0.0",
         "wpackagist-plugin/accept-sagepay-payments-using-contact-form-7": "<=2.0",
         "wpackagist-plugin/accept-stripe-payments": "<=2.0.39",
